@@ -1,0 +1,1529 @@
+[
+ {
+  "id": "hackernews:49878044",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Don't couple your Go code to GitHub",
+  "body": "The Go tooling won't do that if you configure it properly (e.g. via a 'replace' directive in your go.mod or https://go.dev/ref/mod#goproxy-protocol)\nAny tool that automatically assumes that a URL in a Go module import is 'trusted' is just a broken tool.",
+  "url": "https://news.ycombinator.com/item?id=49878044",
+  "author": "2346563803a5",
+  "createdAt": "2026-09-28T13:57:06.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 35,
+  "matchedPhrases": [
+   "any tool that"
+  ]
+ },
+ {
+  "id": "hackernews:49876469",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Nissan's third generation e-POWER powertrain",
+  "body": "In my mind the alternative to a box car is something like the 8th generation Corolla liftbacks, or station wagons. If they were a little larger, I think they could compete with SUVs with regards to the trade-offs between style and space. I think that station wagons and liftbacks have more room for style than SUVs do.",
+  "url": "https://news.ycombinator.com/item?id=49876469",
+  "author": "80508df2617d",
+  "createdAt": "2026-09-28T11:36:39.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49875308",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Show HN: Free alternative to graphics design giants",
+  "body": "A webassembly web based app that help editing raster and vector on browser without any subscription or signups",
+  "url": "https://news.ycombinator.com/item?id=49875308",
+  "author": "f140f601f520",
+  "createdAt": "2026-09-28T08:55:31.000Z",
+  "engagement": {
+   "score": 8,
+   "comments": 0
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 45,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49870765",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+  "body": "I'm not sure you correctly understood the argument I was trying to make. I was not trying to argue that what OpenAI did was ethical, or that it should be considered legal. I was responding to the part that implied hypocrisy on the part of an individual who \"pirates\" but criticizes OpenAI over something like this:\n> Let he who has not downloaded from Annas Archive cast the first stone\nI fail to be convinced that it's harmful for an individual to download something that is digital (i.e. infinitely copyable) for direct personal use (i.e. not making any money off of it or sharing it further) that they otherwise would just not use at all (i.e. not being obtained this way as an alternative to purchasing). OpenAI's actions violate at least the second part of this (they're 100% using it as a way of making money and potentially sharing it more widely, albeit indirectly), and arguably the third one as well (if AI truly is such a game changer with the type of economic potential that the hype claims, paying to license the data properly would still be worth it in terms of long-term profits). Someone who downloads a few books to read that they would realistically not bother buying otherwise and then deletes their copy afterwards is not doing anything close to what OpenAI did, so I strongly disagree with the implication by the comment I responded to above that it's hypocritical for someone in that position to criticize them.",
+  "url": "https://news.ycombinator.com/item?id=49870765",
+  "author": "87b129b5a57e",
+  "createdAt": "2026-09-27T20:59:01.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 35,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49870517",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Show HN: AstraBox – an open-source alternative to Claude Managed Agents",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=49870517",
+  "author": "014f27cfa337",
+  "createdAt": "2026-09-27T20:31:39.000Z",
+  "engagement": {
+   "score": 3,
+   "comments": 0
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 31,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49869692",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Ember-1",
+  "body": "The difference between contributing to OS and AI, is that the first is a hobby alternative to woodworking or hiking, while the other can easily bootstrap you a company you can get millions in investment, at least for time being.",
+  "url": "https://news.ycombinator.com/item?id=49869692",
+  "author": "7373e1b0c882",
+  "createdAt": "2026-09-27T18:55:57.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49868225",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: On caring for user data: NeoVim caused Vim undo files to be deleted",
+  "body": "This story has no references that support the author's version of events, but it does appear to be substantially true that:\n1. The change would break undo history, for both Neovim and Vim [see edit: this is not the really the case]\n2. This means Neovim would delete data created by a different program, on another user's computer.\n3. This was known before the feature was released.\n4. They did it anyway.\nI don't think there can really be any post-hoc justification of this.\nhttps://github.com/neovim/neovim/pull/13973#issuecomment-789...\nedit: I missed an important detail. The user specified the same path for undodir in both nvim and vim. Vim requires a path to enable the feature - there is no shared default path. The user sharing a path changes the story considerably in my view, because now this is a case of nvim deleting data created by nvim as an alternative to writing a data migration for it.\nI could still disagree with that, but it makes alternatives like \"just use a different path\" more complicated at a minimum and really changes my read of this situation completely. I think Neovim's decisions are justfiable in this context. Maybe they could have saved the contents of the old undo folder somewhere and notified the user - arguably that would be more empathic I don't really agree they had a moral duty to do this.",
+  "url": "https://news.ycombinator.com/item?id=49868225",
+  "author": "392b64e63ef1",
+  "createdAt": "2026-09-27T16:31:53.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49868224",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: 10 Tells of a Slop UI",
+  "body": "Problem: This Cloudflare Quick Tunnel thing appears to be exactly what I need right now, so thanks for letting me know about it. Now, do I care how the website for this very useful product looks like? Not one bit.\nThe problem, really, is assuming that the alternative to a slop website is a non-slop website. But the alternative is often no website at all.\nHaving said that,\n> And my profile has an “active student” badge.\nAhh, and the icon is vertically misaligned with the text... what is it with AI and zero ability to keep things aligned and consistent?",
+  "url": "https://news.ycombinator.com/item?id=49868224",
+  "author": "b0d9a3960d09",
+  "createdAt": "2026-09-27T16:31:49.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49866479",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+  "body": "Didn't Brazil massively adopt Bsky as an alternative to X? And in a very short timespan too? Did they turn around on that?",
+  "url": "https://news.ycombinator.com/item?id=49866479",
+  "author": "bf23d87b7c8a",
+  "createdAt": "2026-09-27T13:25:53.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49874875",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Have an LLC",
+  "body": "i wish there was a 'follow user' option on HN so I could subscribe to certain HNers, each time they wrote a comment.",
+  "url": "https://news.ycombinator.com/item?id=49874875",
+  "author": "9edd85fe24b4",
+  "createdAt": "2026-09-28T07:55:32.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "wish there was"
+  ]
+ },
+ {
+  "id": "hackernews:49868815",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: The Normalization of Inexplicable Failures",
+  "body": "I remember twenty years ago trouble-shooting my father's Internet connections and not being able to discover the misconfiguration. Once I called the technician and they knew nothing but \"wade down to this dialogue and choose 'reset'\". That didn't work either - but it was a distinct moment in me noticing the Internet and software becoming opaque. And it was only gotten - sometimes those moments of opaque failure are transitory but sometimes they stay indefinitely. Currently, my android phone can't see group texts created by iphones. I'm thankfully semi-retired enough for this to be a blessing but it could a crisis for someone else (I know a couple that fixes the problem temporarily but a text isn't something you want to spend hours debugging to get if you need it).\nBut my point - this has been increasing for quite a while and it's something like the evil twin of the \"it just works\" school of design. Because when the default expectation is \"just working\", the failure mode is \"it just doesn't work\". I mean, the default assumption that users are morons has de facto made us all morons since we can only deal with the \"interface made for morons\" and makes failure into opaque failure.\nIt's world the developers know \"all abstractions are leaky abstraction\" but where developers still won't give users (or even downstream developers) tools to deal with the leaks 'cause a simplistic interface matters more.\n\"When there's no emergency exit, there can't be an emergency, can there?\"",
+  "url": "https://news.ycombinator.com/item?id=49868815",
+  "author": "609d92b17af3",
+  "createdAt": "2026-09-27T17:30:50.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "spend hours"
+  ]
+ },
+ {
+  "id": "hackernews:49875097",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Does Georgism work? Five years later",
+  "body": "Responding to LVT in this way would require an unprecedented degree of collusion among landlords. That's unlikely to be sustainable, given that a lot of rental inventory is under smaller-scale landlords who will have a much harder time holding units vacant and therefore will be more eager to cave and drop rents back down to their actual market values.\nEven if such a cartel could be sustainable (say, because the vast majority of rental units are under a couple of massive property management firms instead of thousands of smallhold landlords), it'd only “work” until people get sick of it and move to other cities, thus producing more vacancies, thus (under LVT) causing those landlords to hemorrhage more money.\nPut differently: every landlord already knows every other landlord wants to maximize cash flow, so if landlords were actually capable of coordinating to the degree necessary to raise rents in response to LVT without bankrupting themselves, then why are they not doing that already? Why have they not yet all gotten together and decided “we're all going to charge infinity dollars per month per square foot”?",
+  "url": "https://news.ycombinator.com/item?id=49875097",
+  "author": "96b27a9cab13",
+  "createdAt": "2026-09-28T08:29:04.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 35,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49874470",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: There is more to code review than (automatable) detection",
+  "body": "Man I'm so sick of seeing 50-line PRs with 800 lines of AI slop markdown files included. I also don't read them.",
+  "url": "https://news.ycombinator.com/item?id=49874470",
+  "author": "4616232b5fa9",
+  "createdAt": "2026-09-28T06:53:13.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49871779",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+  "body": "This is a very lazy argument that basically ignores centuries of technological change.\nI’ve gotten really sick of people just ignoring how scale changes things.",
+  "url": "https://news.ycombinator.com/item?id=49871779",
+  "author": "71ccce0e0991",
+  "createdAt": "2026-09-27T23:15:02.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49869256",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Show HN: Building a Markdown editor for Mac, iOS and web",
+  "body": "> I was frustrated with writing apps\nOh my hod… This absolutely AI generated intro.",
+  "url": "https://news.ycombinator.com/item?id=49869256",
+  "author": "98c178878eb6",
+  "createdAt": "2026-09-27T18:13:35.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "frustrated with"
+  ]
+ },
+ {
+  "id": "hackernews:49866597",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Show HN: Building a Markdown editor for Mac, iOS and web",
+  "body": "I've spent the last 10 months building Beauty: a local, powerful greco-roman Markdown editor where the page looks finished while you type. It runs on the Mac, iPhone and in the browser, and the browser version opens without an account: https://app.markdown.beauty\nI was frustrated with writing apps, and like most I used Apple Notes. After 2+ years immersed in Cursor, Codex and CC, I wished some interactions existed in a text editor.\nThe Markdown renders in place as you write it, including tables (which you can drag and resize without lining up pipes), KaTeX math and Mermaid diagrams. A lot of thought went into typography and the writing experience.\nYour notes on the Mac are plain .md files in a folder with images next to them, so they open in anything else too. Each note keeps 200 versions. If you share a note with a link it syncs peer to peer over WebRTC while someone has it open, and the server that connects you only ever sees a random room id.\nMost of the ~1,000 commits went into the editor itself. It's a contenteditable, and I don't let the browser restructure the document at all, which was a lot more work than I expected. Building this to be performant and cross-platform required some novel approaches, which I'll later open source. The editor is free with no account or ads, and there's an optional subscription for sync through your own iCloud.\nhttps://www.markdown.beauty",
+  "url": "https://news.ycombinator.com/item?id=49866597",
+  "author": "bd6b3e0ae500",
+  "createdAt": "2026-09-27T13:44:45.000Z",
+  "engagement": {
+   "score": 68,
+   "comments": 51
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "frustrated with"
+  ]
+ },
+ {
+  "id": "hackernews:49877354",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: AI companies in race to demonstrate their model most threatening to humanity",
+  "body": "There are definitely economic incentives behind this. I’ve blogged about this recently [0]. My guess is the main reason behind this is that current SOTA models are already too expensive so it doesn’t make economic sense to train even larger models. Only exception is government paying for exclusive access to those.\n[0] https://www.vincentschmalbach.com/economic-incentives-behind...",
+  "url": "https://news.ycombinator.com/item?id=49877354",
+  "author": "33bdb6a517a1",
+  "createdAt": "2026-09-28T13:08:19.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 35,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49876837",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
+  "body": "So my naive understanding is that the stochastic parrot part of this business is the \"statistical likelyhood of the next token\", so there must be abstractly a function of \"whats the next token\" right? I'm also assuming that this function could be able to also return how \"right\" that next token is, or somehow some \"strength\" based on how many close matches there are, like for instance some tokens are obviously the right next token by a long shot, some next token spaces might have more closely competing candidates, so I guess my question is whether there is any value in saving or accumulating information on whether overall the tokens were close matches or not? Like a \"confidence\" running total or \"history log\", or is that just somehow too expensive or nonsensical to do?",
+  "url": "https://news.ycombinator.com/item?id=49876837",
+  "author": "fca48e935a7f",
+  "createdAt": "2026-09-28T12:18:26.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49875496",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+  "body": "Electricity distribution, mainly transformers from 10 kVA to 500 MVA and more.\nIt takes a long time to design and a lot of material to make a big transformer and they last for decades. They are critical infrastructure so when one fails you want it replaced or repaired quickly but they are too expensive (millions of dollars/pounds/euros) to keep a spare unit idle for decades and the lead time for a new large power transformer might be six months or even longer. So repair makes sense, especially if it can be done on site because moving a big metal box full of oil, steel, and copper that weighs hundreds of tonnes is a major logistical exercise.\nThis isn't something that can be done by a company that 'moves fast and breaks things' and disappears next year.",
+  "url": "https://news.ycombinator.com/item?id=49875496",
+  "author": "2bba5be82ab3",
+  "createdAt": "2026-09-28T09:27:44.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49874762",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Writing Efficient C++ Code (2013)",
+  "body": "So lets take C++ versus Rust\nThe C++ 23 containers are: array, vector, deque, forward_list, list, set, map, multiset, multimap, unordered_set, unordered_map, unordered_multiset, unordered_multimap\nRust's collections are: BTreeMap, BTreeSet, BinaryHeap, HashMap, HashSet, Vec, VecDeque\nFirstly, Rust doesn't consider \"array\" a library type here, in C++ the language has built-in arrays but they're very poor because they are the C arrays - so you use the library feature to get good arrays. In Rust they... just fixed the language, because duh.\nNext thing you'll notice is that C++ has lots more of these types, about twice as many. I stopped at C++ 23 because in C++ 26 they added even more. These are a significant maintenance burden and of course having more means in practice maintenance gets worse. But this could be good if these types were all high quality and kept that way.\nAll of the C++ unordered containers are the same crap hash table design but with slightly different parameters. The Rust HashMap and HashSet are Swiss Tables though they do not promise that and if a better design comes along they will probably switch. C++ can't change the design because the API welds them to a very specific shape for this data structure, a shape which delivers bad performance on any vaguely modern hardware.\nstd::deque is the most horrible surprise. A modern programmer who has thought about it at all is expecting a type like Rust's VecDeque. Generalise the amortized growable array from the language to use it as a ring buffer. Cheap push & pop at both ends, canonically use it as a FIFO but also practical in lots of other situations. But that's not what std::deque is at all, instead inside it's an array of links to small arrays. On MSVC it's effectively a linked list again because those inner arrays contain only one item due to ABI considerations.\nstd::set and std::map are very principled red-black trees. I say principled because in practice this is too expensive on modern hardware beca…",
+  "url": "https://news.ycombinator.com/item?id=49874762",
+  "author": "5f864a1acb7c",
+  "createdAt": "2026-09-28T07:38:23.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49872761",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: US halts flights at busy East Coast airports, says fiber line cut",
+  "body": "> It is possible to guarentee diversity, you just need to get specific detail and have good contractual protections.\nYeah, FWIW the non-redundant DAS links we designed when I was in that industry, it was typically a case of the client telling us 'That is too expensive, we accept the risk'.\nThe Detroit-chicago thing, I don't know the story on that, it was something that fiber provider had already built.",
+  "url": "https://news.ycombinator.com/item?id=49872761",
+  "author": "c7737c666567",
+  "createdAt": "2026-09-28T02:11:10.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49871540",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: When did Google get so weird?",
+  "body": "LLMs might not reason exactly like humans, but they do produce much better results if you turn reasoning on.\nThe \"crack-addled idiot savant\" phase was really circa 2024, before the big labs figured this out.\nI think the issue here is that Google decided that doing reasoning in the AI overviews in Google search would be too slow (and probably also too expensive), so it's still stuck making 2024-era mistakes.",
+  "url": "https://news.ycombinator.com/item?id=49871540",
+  "author": "0a3813b8934c",
+  "createdAt": "2026-09-27T22:39:41.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49870153",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: In an $80 motel room, a discovery to shed light on the origins of life",
+  "body": "+1 on this question, without any snark intended. What's a good, not too expensive beginner's microscope that's capable of this kind of citizen research (and other fun stuff)?",
+  "url": "https://news.ycombinator.com/item?id=49870153",
+  "author": "705c32da40df",
+  "createdAt": "2026-09-27T19:46:54.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49870007",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Show HN: Squint – Drag a box on your screen and ask AI about it",
+  "body": "It improves the usual workflow: take a screenshot, switch to a chat tab, upload it, switch back.\n- Built with Rust and Tauri v2, including a built-in native screenshot solution for maximum performance and stability.\n- Answers come from OpenAI models. Fast, the default, usually starts answering within 1–2 seconds; Best is slightly slower, but provides a much higher quality response.\n- Free is 3 captures a day, up to 10 a week, on Fast, and needs an email sign-in, since usage is metered per account. Plus is $10/month: 2,500 credits a month, the Best model (25 credits per answer, follow-ups included; Fast is 1), and up to 10 follow-ups per capture instead of 2.\n- Windows 10/11, and Linux on Wayland (GNOME 45+ or KDE Plasma 6). No macOS yet, and no X11.\nWhat I'd most like to know:\n1. Is this workflow actually quicker than what you do now?\n2. Squint Plus is currently $10/month or $99/year:\n a) At what monthly price would Plus feel like a good deal?\n b) At what price would it start to feel expensive, though you'd still consider it?\nc) At what price would it be too expensive to consider at all?\n3. Did anything break during install, sign-in, or a capture?\nThanks!",
+  "url": "https://news.ycombinator.com/item?id=49870007",
+  "author": "ecf96865534f",
+  "createdAt": "2026-09-27T19:29:41.000Z",
+  "engagement": {
+   "score": 4,
+   "comments": 0
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 42,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49868975",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: The Normalization of Inexplicable Failures",
+  "body": "We see this fatalistic attitude all the time in software. \"Bugs are inevitable.\" No, they aren't! Bugs are a choice. Almost all companies choose bugs because \"no bugs\" is too expensive. It's sometimes the right choice but we need to acknowledge that it's a choice and not some natural property of software. Imagine if people who built bridges or airplanes thought \"bridge collapses and airplane crashes are inevitable, no way to solve it.\"",
+  "url": "https://news.ycombinator.com/item?id=49868975",
+  "author": "578c1043b386",
+  "createdAt": "2026-09-27T17:46:29.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49868816",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: ASML says it sold 'absolutely nothing' in Europe in 2026",
+  "body": "The problem is that constructing a cutting-edge fab is stupidly expensive, and you can only pay for it by selling chips at quite a premium - and nobody is paying a premium for 5-year-old CPUs.\nSo that brand-new fab has to pay for itself within the first 3-5 years, or it'll simply never pay for itself. But indeed, once it has paid off its initial construction costs it'll happily keep running for another 10+ years, churning out pure profit.\nAn additional problem here is that the costs have been rapidly increasing as the nodes have gotten more advanced. The tech for something like, say, the 40nm node is now mature enough that building new fabs isn't too expensive, so there's a decent market for building new ancient fabs for cheap mass production. But with EUV everything has gotten so complicated that there's no reasonable way to make it cheaper as it matures, and scale-wise you're well into the diminishing returns for everything which isn't logic. It is very much doubtful whether building brand-new 7nm-and-smaller fabs for mass production will ever make economic sense.",
+  "url": "https://news.ycombinator.com/item?id=49868816",
+  "author": "3bc474a0adbd",
+  "createdAt": "2026-09-27T17:30:54.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 35,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49868597",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Does Georgism work? Five years later",
+  "body": "> 1) Land is effectively nationalized under 100% LVT.\nYou're close to understanding why people wouldn't like it.\n100% LVT schemes are basically a mechanism for letting the government force people to do things that the government wants. You want to live in your forever home that you and your husband worked for 50 years to afford? Sorry, government has other plans for that land and now it's too expensive for you to keep it.\nThe utopian use case that proponents talk about is replacing parking lots with high rise apartment buildings, which everyone loves because it feels like a win for the people and a loss for developers. The more realistic use cases would be much less popular, like the 90-year old couple getting forced out of their forever home because it's close to a substation, which suddenly turned that land into highly valuable property for data centers, which will happily pay those taxes and bulldoze the homes.\nEvery time I read a 100% LVT piece it's focused on the parking lots to houses type story. They either ignore the more obvious problems of people being forced out of their homes everywhere for businesses to take over, or they do a hand-wavey thing to say it's all for the greater good and we shouldn't care.\nEvery 100% LVT argument turns into an argument against private property ownership and in favor of a central planning type land reallocation, but with the final use case going to the highest bidder.\nPeople do not actually want this.",
+  "url": "https://news.ycombinator.com/item?id=49868597",
+  "author": "fa76ef9c5f77",
+  "createdAt": "2026-09-27T17:10:43.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 35,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49866566",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: ASML says it sold 'absolutely nothing' in Europe in 2026",
+  "body": "And yet their % share of nuclear is declining and will continue to decline every year. Because nukes are too expensive, even for a single party state",
+  "url": "https://news.ycombinator.com/item?id=49866566",
+  "author": "2561539cd80b",
+  "createdAt": "2026-09-27T13:39:12.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49877136",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: The smart home graveyard is getting crowded",
+  "body": "I still have a lot of the same stuff I bought, which falls into two main categories:\n* Hue bulbs, which get active updates and are still maintained by Philips, and honestly are pretty good, if insanely overpriced, especially the HomeKit bridge\n* \"iHome\" smart outlets which I belieeeeeeeve were once upon a time made by Belkin? They've ended support but the outlets themselves are very reliable, and pairable/managable entirely within the Home app so I barely noticed when they were discontinued. Picked up a 4-pack of them on fleabay recently for $20 and they work great still.\nMind you I'm not saying I'm great at this, if anything I'm lucky in that I really haven't had any smart home tech go poorly for me, apart from some other outlets that were some no-name brand. They're still kicking around my house but they need power cycles far more often than the iHome ones.",
+  "url": "https://news.ycombinator.com/item?id=49877136",
+  "author": "1cf850a39fd2",
+  "createdAt": "2026-09-28T12:48:16.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:49875723",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Have you or a loved one ever been a victim a MLM?",
+  "body": "I would assume most of you haven't been duped into a MLM scheme, but no judgments if so because they are victim making machines with highly dialed in cult tactics.\nAnyways, looking for feed back on my website for helping to educate people in or with friends/loved ones in any MLM. The aim is to show how the math truly works and help them to understand the structure behind these \"cults\" [i know defining them as a cult is debatable, but i believe they are at least low power cult at best].\nMy goal/hope is to find some help building out a database with financial information for some of the biggest and most aggressive MLMs in operation today. Finding former or current members to get a more accurate number of how much someone in a program would be spending each month, the requirements to be part of a down-line, and pricing of products, This data could then be used to make a striped down version of the website to present to a user showing them how overpriced products are, the actual potential of actually making money [spoiler alert, there isn't any], and clear numbers of how much they have sunk in the MLM and how much money could have been made simply investing that or using it to start a business they actually care about, that could generate an income.\nSorry if this post is too long/rambling, and maybe not appropriate for this forum...having a hard time getting feedback from other platforms.\nthanks, and fuck all mlms",
+  "url": "https://news.ycombinator.com/item?id=49875723",
+  "author": "ef57a98073b0",
+  "createdAt": "2026-09-28T10:05:14.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 35,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:49874005",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: S3 Is the Future, S3 Is the Past",
+  "body": "Cloudflare was really unclear about their motivation was and it was effectively a matter of kicking them off for not liking them. CF was annoying them about an overpriced enterprise plan, before suddenly throwing out accusations that if true would have meant cutting the company off even if they did buy enterprise. And they were demanding a ton of money, much more than bringing an IP is worth.\nMaybe maybe bringing their own IP would have solved the problem, but Cloudflare was obstructing everything and then did a cutoff without proper warning. It was really bad on Cloudflare's part.",
+  "url": "https://news.ycombinator.com/item?id=49874005",
+  "author": "5349c33ba4b3",
+  "createdAt": "2026-09-28T05:30:11.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:49869398",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Show HN: Building a Markdown editor for Mac, iOS and web",
+  "body": "Awesome job, this looks fantastic, and has all of the UX gaps I wish existed in Bear and Obsidian. However, my 2 biggest pain points with those could use addressing, and I would happily pay a high one-time price and upgrade fees over the years if they could be solved:\n1. My corporate laptop is locked down, so no apple app store installations. Could this be made into a brew-installable app and licensed another way?\n2. Related - every corporate laptop I've had for the last 10 years prohibits app store and icloud storage. So Bear notes (which I subscribed to) can't sync. Obsidian has a sync service, but I don't trust it (would prefer apple or dropbox), but unfortunately the plugin ecosystem is messy and difficult. There is no reliable community-supported plugin for syncing with dropbox on mobile. If you could make syncing with dropbox possible on desktop and mobile, that would be the ultimate gift to the community.",
+  "url": "https://news.ycombinator.com/item?id=49869398",
+  "author": "1801a613fb43",
+  "createdAt": "2026-09-27T18:26:46.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "would happily pay"
+  ]
+ },
+ {
+  "id": "hackernews:49878147",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: The smart home graveyard is getting crowded",
+  "body": "The math I have always done is, \"If I removed 100% of my issues with controlling my home appliances and I was absolutely sure it would only ever cost me, let's say, $1000, and it was never going to need maintenance and would never fail, how interested would I be?\"\nAnd the answer still keeps coming back, \"not very\". Not zero. But the problem is that there isn't a lot of value there to capture, so I'm not willing to pay all that much, especially when you consider the full cost-of-ownership of failure modes that they create. The daily annoyance of \"flipping some light switches\" just isn't that great.\nThat this industry keeps getting run by MBAs who keep calculating\n 1. Hey we can lock them in with these centralized services.\n 2. (A couple of years later) Hey we can make more money if we \n shut down our old centralized services.\n\non time frames shorter than the expected replacement of the things being controlled by those services doesn't help.\nAt least my smart phone, as much as we may all like to complain, brings a lot of value to me that can be leveraged for that sweet, sweet MBA-approved lockin. The smart home proposition never had anywhere near as much to leverage. And the smart phone world still is full of MBAs delusional enough to think that \"storing the user's heartbeat information in the cloud\" is somehow enough leverage to be worth a $9.95/month subscription to me.",
+  "url": "https://news.ycombinator.com/item?id=49878147",
+  "author": "d28b4d4cafe2",
+  "createdAt": "2026-09-28T14:03:37.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49877913",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: S3 Is the Future, S3 Is the Past",
+  "body": "The original comment by PunchyHamster was about cost, i.e how AWS S3 base tier costs cannot be justified if you purchase your own SSD.\nYou shifted the conversation to redundancy and how AWS provides bells and whistles. You are consistent in your position, just not with me and not with PunchyHamster because we both are comparing costs by self hosting.\nAnd for those of you who are willing to pay the premium and don't care about costs, like you, would obviously find AWS attractive.\nFor a startup like ours and many others, cost is everything. And spending a day or two for bitrot protection and having a couple of SSDs for redundancy and scalability is a no brainer.\nYou don't need big buildings for resilience. I suggest building things that require real scaling and resilience and you would know that it is about being distributed, having low cost, and owning your systems.\nYour argument that it is expensive and tedious to maintain compared to AWS S3 is false. No it isn't.\nFear mongering only works against those who haven't built reliable systems. Building an S3 equivalent with cheap providers for redundancy or having one's own small resilient distributed hardware with staffing most often dwarfs the horribly insane premium paid for AWS S3 services.\nBut this is only if you want the redundancy which is a different topic altogether.\nIf all you want is a single replica, which was what PunchyHamster originally commented on, the base price of what AWS S3 provides, which does not include redundancy, makes even lesser sense compared to having your own SSD.",
+  "url": "https://news.ycombinator.com/item?id=49877913",
+  "author": "e6e3392f2b04",
+  "createdAt": "2026-09-28T13:48:08.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49875541",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: S3 Is the Future, S3 Is the Past",
+  "body": "If you're suggesting they really do have 1000x the costs of companies whose core business is internet, and yet they refuse to contract with those companies to deliver the service (they can still get 990x profit while still leaving 10x for the other company) in a rational market that would be a business-ending level of incompetence.\nIt's no different than if I'm selling apples for $1000 each. Even if I can find one or two customers willing to pay that, wouldn't I have to be pretty stupid to spend $900 growing each apple incompetently when I could just spend $2 at the grocery store to fulfil those orders?",
+  "url": "https://news.ycombinator.com/item?id=49875541",
+  "author": "4d5d6346debb",
+  "createdAt": "2026-09-28T09:34:24.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49873571",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Musk, the Movie",
+  "body": "I... just don't understand your confusion? Of course it's a \"hit piece\". There's a market for hit pieces because there are people willing to pay to see content aimed at their favorite targets. And the trailer starts with Musk sniping to substantiate what it's about and clarify who its for.\nMaybe it's that you think \"hit piece\" means \"illigitimate?\". Documentary cinema is absolutely allowed to have perspective. Musk's own communication is hardly unbiased or coolly considered, and he's been known to engage in some \"creative advocacy\" of his own. Would you apply the same logic there?\nMy own opinion is that he's a complicated guy and a seemingly textbook bipolar case with a lot of good technical instincts and a really destructive egomaniacal streak. He could do with some hit pieces, honestly.",
+  "url": "https://news.ycombinator.com/item?id=49873571",
+  "author": "0fb8dcffc8db",
+  "createdAt": "2026-09-28T04:15:56.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49872967",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: S3 Is the Future, S3 Is the Past",
+  "body": "If they're charging what customers are willing to pay, are they overcharging? I think an axiom of capitalism is that that's the amount you should charge.\nMany people avoid T1 clouds because they're so expensive, but they seem to have found an extremely profitable market segmentation consisting of the remainder.",
+  "url": "https://news.ycombinator.com/item?id=49872967",
+  "author": "4d5d6346debb",
+  "createdAt": "2026-09-28T02:44:05.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49870261",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: I was impressed by Jev, please explain why I shouldn't be",
+  "body": "I frequently have found myself saying, \"People pay for that?! But xyz already exists,\" in the past, but overtime I've learned that (1) marketing is important and (2) if something reduces friction enough to get the wheels turning on something you're trying to achieve, there's always someone (actually a lot of people) out there willing to pay for it even if it's measurably worse than a self-scaffolded solution or even a really good solution that requires a lot of tinkering to get things rolling.",
+  "url": "https://news.ycombinator.com/item?id=49870261",
+  "author": "1200f099c3d8",
+  "createdAt": "2026-09-27T20:01:09.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49867777",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Does Georgism work? Five years later",
+  "body": "Except... it isn't. You see, there's a limit how much a person is willing to pay in rent and since the tax puts pressure on non-productive uses of land, either the market gets flooded with land or with rapid development, which brings down the prices of rent. The only problem the author has is that it mistook the mechanisms which it will work, prices will come down because supply will go up, not because they pay less.",
+  "url": "https://news.ycombinator.com/item?id=49867777",
+  "author": "9ae34d64bfd0",
+  "createdAt": "2026-09-27T15:51:42.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49876760",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: Hntui – A TUI for Hacker News",
+  "body": "hi there! i'd like you to try out a tui i made for browsing hackernews. it's built using opentui and also effect (learning experiment). i really like it and i think you will too!",
+  "url": "https://news.ycombinator.com/item?id=49876760",
+  "author": "a7b43d1d4e65",
+  "createdAt": "2026-09-28T12:11:20.000Z",
+  "engagement": {
+   "score": 50,
+   "comments": 24
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 48,
+  "matchedPhrases": []
+ },
+ {
+  "id": "hackernews:49869574",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=49869574",
+  "author": "6dd1b1958b9f",
+  "createdAt": "2026-09-27T18:44:30.000Z",
+  "engagement": {
+   "score": 284,
+   "comments": 116
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 61,
+  "matchedPhrases": []
+ },
+ {
+  "id": "hackernews:49867775",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: TinyAIArena watch AI agents battle it out",
+  "body": "Did you ever click on an “AI Arena” expecting glorious battle and instead get a boring benchmark? If so, this project is for you: proper life-or-death fights between four models on a picturesque 8×8 grid. May the most intelligent one win!\nClick on any of the matches to spectate them.\nCode: https://github.com/hp6/ai-arena",
+  "url": "https://news.ycombinator.com/item?id=49867775",
+  "author": "9d91cec7533d",
+  "createdAt": "2026-09-27T15:51:28.000Z",
+  "engagement": {
+   "score": 114,
+   "comments": 45
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 54,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1383809012",
+  "source": "github",
+  "kind": "tool",
+  "title": "yetone/magpie — 1537★",
+  "body": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+  "url": "https://github.com/yetone/magpie",
+  "author": "eef76acf9676",
+  "createdAt": "2026-09-23T16:22:35Z",
+  "engagement": {
+   "stars": 1537
+  },
+  "tags": [
+   "claude-code",
+   "Go"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1388482474",
+  "source": "github",
+  "kind": "tool",
+  "title": "dzhng/jevgrep — 1169★",
+  "body": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+  "url": "https://github.com/dzhng/jevgrep",
+  "author": "0e9025f10e2c",
+  "createdAt": "2026-09-26T04:06:56Z",
+  "engagement": {
+   "stars": 1169
+  },
+  "tags": [
+   "claude-code",
+   "TypeScript"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1383518430",
+  "source": "github",
+  "kind": "tool",
+  "title": "mikehasa/golive-skill — 1032★",
+  "body": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+  "url": "https://github.com/mikehasa/golive-skill",
+  "author": "1d8ad3fc8ad1",
+  "createdAt": "2026-09-23T13:37:26Z",
+  "engagement": {
+   "stars": 1032
+  },
+  "tags": [
+   "claude-code",
+   "TypeScript"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1381356320",
+  "source": "github",
+  "kind": "tool",
+  "title": "alexgreensh/anidoodle — 636★",
+  "body": "Art and animation, written as code. Illustrations, loops, interactive web art, stickers and scored films in dozens of styles, identical on every render.",
+  "url": "https://github.com/alexgreensh/anidoodle",
+  "author": "0020851e8877",
+  "createdAt": "2026-09-22T11:20:47Z",
+  "engagement": {
+   "stars": 636
+  },
+  "tags": [
+   "claude-code",
+   "TypeScript"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1378626483",
+  "source": "github",
+  "kind": "tool",
+  "title": "LockedinLabs-AI/agent-console — 609★",
+  "body": "Local-first observability for AI coding agents. Every Claude Code and Codex session's tokens, cache, models and cost, on this machine and every machine you connect through a self-hosted team hub. Presenting mode, policy hooks, Apple-signed and notarized macOS builds, attested releases. MIT.",
+  "url": "https://github.com/LockedinLabs-AI/agent-console",
+  "author": "9fea6e4e4d95",
+  "createdAt": "2026-09-20T17:55:58Z",
+  "engagement": {
+   "stars": 609
+  },
+  "tags": [
+   "claude-code",
+   "JavaScript"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1375615157",
+  "source": "github",
+  "kind": "tool",
+  "title": "Oldcircle/geo-sleuth — 497★",
+  "body": "An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CLI, OpenCode and GitHub Copilot.",
+  "url": "https://github.com/Oldcircle/geo-sleuth",
+  "author": "54cf3ec45b55",
+  "createdAt": "2026-09-18T08:51:34Z",
+  "engagement": {
+   "stars": 497
+  },
+  "tags": [
+   "claude-code",
+   "Python"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1375362154",
+  "source": "github",
+  "kind": "tool",
+  "title": "op7418/guizang-product-video-skill — 492★",
+  "body": "归藏 product video skill：复用真实产品组件和设计语言，用代码制作软件更新宣传片。包含分镜文案、原创配乐、动作音效与视频渲染，支持 Claude Code 和 Codex。",
+  "url": "https://github.com/op7418/guizang-product-video-skill",
+  "author": "0340c09daf54",
+  "createdAt": "2026-09-18T04:22:37Z",
+  "engagement": {
+   "stars": 492
+  },
+  "tags": [
+   "claude-code",
+   "Python"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1370752473",
+  "source": "github",
+  "kind": "tool",
+  "title": "ruc-datalab/EvoOntology — 489★",
+  "body": "EvoOntology: A Self-Evolving Ontology Layer for Data Agents ⚙️ EvoOntology插件为Claude Code/Codex 建立&进化本体层",
+  "url": "https://github.com/ruc-datalab/EvoOntology",
+  "author": "a5b031907f04",
+  "createdAt": "2026-09-15T01:57:40Z",
+  "engagement": {
+   "stars": 489
+  },
+  "tags": [
+   "claude-code",
+   "Python"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1389011744",
+  "source": "github",
+  "kind": "tool",
+  "title": "lemomo-ai/lemo-opuscar — 484★",
+  "body": "39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+  "url": "https://github.com/lemomo-ai/lemo-opuscar",
+  "author": "dba9e49c4e63",
+  "createdAt": "2026-09-26T10:10:41Z",
+  "engagement": {
+   "stars": 484
+  },
+  "tags": [
+   "claude-code",
+   "JavaScript"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1378383745",
+  "source": "github",
+  "kind": "tool",
+  "title": "minorun365/minorun-marp-skill — 394★",
+  "body": "Marpで登壇スライドを作るための、ストーリー・図・デザインバランスのスキル集と黒地テーマ、検査ツール",
+  "url": "https://github.com/minorun365/minorun-marp-skill",
+  "author": "78e2ffdddcee",
+  "createdAt": "2026-09-20T13:48:09Z",
+  "engagement": {
+   "stars": 394
+  },
+  "tags": [
+   "claude-code",
+   "Python"
+  ],
+  "painScore": 63,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1375721079",
+  "source": "github",
+  "kind": "tool",
+  "title": "coldteadotai/abide — 375★",
+  "body": "Make your coding agent abide by all your project rules ",
+  "url": "https://github.com/coldteadotai/abide",
+  "author": "94a366863a7d",
+  "createdAt": "2026-09-18T10:41:48Z",
+  "engagement": {
+   "stars": 375
+  },
+  "tags": [
+   "claude-code",
+   "TypeScript"
+  ],
+  "painScore": 63,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1386061631",
+  "source": "github",
+  "kind": "tool",
+  "title": "leter/zh-tech-writing — 301★",
+  "body": "写中文技术文档的 Agent Skill，基于阮一峰《中文技术文档的写作规范》：短句、平实、没有 AI 腔",
+  "url": "https://github.com/leter/zh-tech-writing",
+  "author": "5100d3a64468",
+  "createdAt": "2026-09-24T17:37:46Z",
+  "engagement": {
+   "stars": 301
+  },
+  "tags": [
+   "claude-code"
+  ],
+  "painScore": 61,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1377468874",
+  "source": "github",
+  "kind": "tool",
+  "title": "walidboulanouar/awesome-jev-use-cases — 297★",
+  "body": "Awesome list of TypeSafe AI Jev use cases: 74 demos ranked by likes, 150+ GitHub repos, limits, cost and API examples. CC0",
+  "url": "https://github.com/walidboulanouar/awesome-jev-use-cases",
+  "author": "b32e3a2bb9f0",
+  "createdAt": "2026-09-19T18:01:10Z",
+  "engagement": {
+   "stars": 297
+  },
+  "tags": [
+   "claude-code"
+  ],
+  "painScore": 61,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1376838660",
+  "source": "github",
+  "kind": "tool",
+  "title": "sno-ai/sno-station — 276★",
+  "body": "Sno Station — your Claude Code and Codex working as one squad on your own machine. Shared encrypted memory, agent-to-agent messaging (Reach), squad skills for handoff and cross-vendor review, and a nightly loop that rewrites the agents' own skills with your approval. Open source, no daemon, no cloud required. Assembled in public.",
+  "url": "https://github.com/sno-ai/sno-station",
+  "author": "9f823654c1de",
+  "createdAt": "2026-09-19T06:55:24Z",
+  "engagement": {
+   "stars": 276
+  },
+  "tags": [
+   "claude-code",
+   "TypeScript"
+  ],
+  "painScore": 61,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1382304020",
+  "source": "github",
+  "kind": "tool",
+  "title": "sevenevesai/riso-windowseat — 242★",
+  "body": "Procedural risograph films in single HTML files (Window Seat, Roost and more), with the Claude Code skills, docs and tools to make your own.",
+  "url": "https://github.com/sevenevesai/riso-windowseat",
+  "author": "2bfa4fb85196",
+  "createdAt": "2026-09-22T20:14:59Z",
+  "engagement": {
+   "stars": 242
+  },
+  "tags": [
+   "claude-code",
+   "HTML"
+  ],
+  "painScore": 60,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1373977947",
+  "source": "github",
+  "kind": "tool",
+  "title": "itsmostafa/system-one-connector — 329★",
+  "body": "System One MCP connector to evaluate anything fast and cheap. Give your AI agent direct access to models like: Jev, CLM and Laya",
+  "url": "https://github.com/itsmostafa/system-one-connector",
+  "author": "d31e7cfb2599",
+  "createdAt": "2026-09-17T05:23:34Z",
+  "engagement": {
+   "stars": 329
+  },
+  "tags": [
+   "mcp",
+   "Go"
+  ],
+  "painScore": 62,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1373978991",
+  "source": "github",
+  "kind": "tool",
+  "title": "NiazMorshed2007/jev-review — 230★",
+  "body": "Local-first MCP plugin for continuous software-quality review by AI coding agents, powered by Jev.",
+  "url": "https://github.com/NiazMorshed2007/jev-review",
+  "author": "57b79a5c52a7",
+  "createdAt": "2026-09-17T05:24:51Z",
+  "engagement": {
+   "stars": 230
+  },
+  "tags": [
+   "mcp",
+   "TypeScript"
+  ],
+  "painScore": 59,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1375815381",
+  "source": "github",
+  "kind": "tool",
+  "title": "Amal-David/awesome-jev — 207★",
+  "body": "Jev demos, projects, SDKs and skills, with source links and a curated X gallery.",
+  "url": "https://github.com/Amal-David/awesome-jev",
+  "author": "98f716f6376c",
+  "createdAt": "2026-09-18T12:09:59Z",
+  "engagement": {
+   "stars": 207
+  },
+  "tags": [
+   "mcp",
+   "Python"
+  ],
+  "painScore": 59,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1376771236",
+  "source": "github",
+  "kind": "tool",
+  "title": "hirotomasato/yowes — 196★",
+  "body": "Generate realistic teacher documents (ID cards, licenses, letters) for 13 countries via MCP.",
+  "url": "https://github.com/hirotomasato/yowes",
+  "author": "0694fe69bc3c",
+  "createdAt": "2026-09-19T05:33:10Z",
+  "engagement": {
+   "stars": 196
+  },
+  "tags": [
+   "mcp",
+   "Python"
+  ],
+  "painScore": 58,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1383604528",
+  "source": "github",
+  "kind": "tool",
+  "title": "XiaoPuOuO/openchatx-mcp — 186★",
+  "body": "Turn ChatGPT into a local agent runtime. Operate your computer, use local tools, discover MCP servers, and delegate work to your own models through one MCP connection.",
+  "url": "https://github.com/XiaoPuOuO/openchatx-mcp",
+  "author": "4b0a537973ad",
+  "createdAt": "2026-09-23T14:25:56Z",
+  "engagement": {
+   "stars": 186
+  },
+  "tags": [
+   "mcp",
+   "TypeScript"
+  ],
+  "painScore": 58,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1376081650",
+  "source": "github",
+  "kind": "tool",
+  "title": "kraayenjon/awesome-jev — 155★",
+  "body": "A curated list of Jev use cases, projects, SDKs, and resources. Jev is TypeSafe AI's System One model for fast, typed decisions in software — Choice, Score, and Noul with calibrated probabilities.",
+  "url": "https://github.com/kraayenjon/awesome-jev",
+  "author": "fc2b84860f55",
+  "createdAt": "2026-09-18T15:43:06Z",
+  "engagement": {
+   "stars": 155
+  },
+  "tags": [
+   "mcp"
+  ],
+  "painScore": 56,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1370916260",
+  "source": "github",
+  "kind": "tool",
+  "title": "mmdju/digikala-mcp — 126★",
+  "body": "MCP server for Digikala: search, compare and price-check products on Iran's largest marketplace. Read-only, no API key. 16 tools, hosted on Cloudflare Workers.",
+  "url": "https://github.com/mmdju/digikala-mcp",
+  "author": "847fe1d099eb",
+  "createdAt": "2026-09-15T04:54:56Z",
+  "engagement": {
+   "stars": 126
+  },
+  "tags": [
+   "mcp",
+   "JavaScript"
+  ],
+  "painScore": 55,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1388409097",
+  "source": "github",
+  "kind": "tool",
+  "title": "graygnatconsole/mcp-audit-tool — 119★",
+  "body": "🛡️ Security audit CLI for Model Context Protocol (MCP) servers — scan AI agent configs for tool poisoning, rug pulls, hardcoded secrets, command injection & supply-chain risks. Pure Python, SARIF + CI ready.",
+  "url": "https://github.com/graygnatconsole/mcp-audit-tool",
+  "author": "a7adca034d16",
+  "createdAt": "2026-09-26T02:42:57Z",
+  "engagement": {
+   "stars": 119
+  },
+  "tags": [
+   "mcp",
+   "Python"
+  ],
+  "painScore": 55,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1388388953",
+  "source": "github",
+  "kind": "tool",
+  "title": "breakstageaxe61/genspark-claw — 119★",
+  "body": "🦀⚡ Community skill pack & CLI for Genspark Claw, OpenClaw & Hermes agents — 5 production-ready SKILL.md skills (deep research, reports, slides, browser automation, AI call prep), zero-dependency Node.js installer, MCP server, one-line install",
+  "url": "https://github.com/breakstageaxe61/genspark-claw",
+  "author": "05b54620e1a3",
+  "createdAt": "2026-09-26T02:18:05Z",
+  "engagement": {
+   "stars": 119
+  },
+  "tags": [
+   "mcp",
+   "JavaScript"
+  ],
+  "painScore": 55,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1383804874",
+  "source": "github",
+  "kind": "tool",
+  "title": "georgeding/Relate — 117★",
+  "body": "记得她说过的每一句话，也记得你答应过的每一件事。A self-hosted AI chief of staff for your chats — remembers what they said and what you promised.",
+  "url": "https://github.com/georgeding/Relate",
+  "author": "5335f5c9d2f1",
+  "createdAt": "2026-09-23T16:20:10Z",
+  "engagement": {
+   "stars": 117
+  },
+  "tags": [
+   "mcp",
+   "JavaScript"
+  ],
+  "painScore": 54,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1372758029",
+  "source": "github",
+  "kind": "tool",
+  "title": "849879772/recruitops-agent — 102★",
+  "body": "Local-first recruitment intelligence and application operations agent",
+  "url": "https://github.com/849879772/recruitops-agent",
+  "author": "1772e1b25dc6",
+  "createdAt": "2026-09-16T08:41:51Z",
+  "engagement": {
+   "stars": 102
+  },
+  "tags": [
+   "mcp",
+   "Python"
+  ],
+  "painScore": 53,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1381397567",
+  "source": "github",
+  "kind": "tool",
+  "title": "Avinash-jetwani/jevmem — 92★",
+  "body": "Automatic project memory for Claude Code. Also works with Cursor and Codex.",
+  "url": "https://github.com/Avinash-jetwani/jevmem",
+  "author": "6ac2d2efe65d",
+  "createdAt": "2026-09-22T11:47:24Z",
+  "engagement": {
+   "stars": 92
+  },
+  "tags": [
+   "mcp",
+   "TypeScript"
+  ],
+  "painScore": 53,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1373227372",
+  "source": "github",
+  "kind": "tool",
+  "title": "Ying-Kai-Liao/jev-browser — 91★",
+  "body": "Browser automation where an LLM plans and Jev (Typesafe System One) decides. Library, CLI and MCP server.",
+  "url": "https://github.com/Ying-Kai-Liao/jev-browser",
+  "author": "f00416a190af",
+  "createdAt": "2026-09-16T15:13:23Z",
+  "engagement": {
+   "stars": 91
+  },
+  "tags": [
+   "mcp",
+   "JavaScript"
+  ],
+  "painScore": 53,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1375735725",
+  "source": "github",
+  "kind": "tool",
+  "title": "INSANE0777/Awwwards-mcp — 89★",
+  "body": "Free, open-source MCP server that gives AI coding agents (Claude Code, Codex, Cursor, OpenCode, ZCode…) design inspiration from award-winning websites — search with real screenshots, pull design DNA, capture and record live sites. A Mobbin alternative. No API key.",
+  "url": "https://github.com/INSANE0777/Awwwards-mcp",
+  "author": "bfa275771a1d",
+  "createdAt": "2026-09-18T10:57:09Z",
+  "engagement": {
+   "stars": 89
+  },
+  "tags": [
+   "mcp",
+   "TypeScript"
+  ],
+  "painScore": 52,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1387365303",
+  "source": "github",
+  "kind": "launch",
+  "title": "tugrawork-creator/saas-motion-kit — 134★",
+  "body": "Promo & motion videos for software products with HyperFrames + Claude Code. No two films should feel the same: tone matrix, variety audit, 24-transition atlas, 100 storyboard themes.",
+  "url": "https://github.com/tugrawork-creator/saas-motion-kit",
+  "author": "6f321d66aa25",
+  "createdAt": "2026-09-25T11:35:57Z",
+  "engagement": {
+   "stars": 134
+  },
+  "tags": [
+   "saas",
+   "Python"
+  ],
+  "painScore": 55,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1373440611",
+  "source": "github",
+  "kind": "launch",
+  "title": "awlevin/typesafe-computer-use — 1050★",
+  "body": "Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS.",
+  "url": "https://github.com/awlevin/typesafe-computer-use",
+  "author": "c170fc5805af",
+  "createdAt": "2026-09-16T17:48:45Z",
+  "engagement": {
+   "stars": 1050
+  },
+  "tags": [
+   "ai-agents",
+   "Python"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1373993338",
+  "source": "github",
+  "kind": "launch",
+  "title": "ethanplusai/astra-flash-orchestrator — 707★",
+  "body": "Astra plans and reviews; DeepSeek Flash builds. A native Codex workflow with phased tasks, verification, safe installation and reversible setup.",
+  "url": "https://github.com/ethanplusai/astra-flash-orchestrator",
+  "author": "38e35d8315c6",
+  "createdAt": "2026-09-17T05:42:31Z",
+  "engagement": {
+   "stars": 707
+  },
+  "tags": [
+   "ai-agents",
+   "Python"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1375482713",
+  "source": "github",
+  "kind": "launch",
+  "title": "logicrw/awesome-jev-projects — 597★",
+  "body": "Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
+  "url": "https://github.com/logicrw/awesome-jev-projects",
+  "author": "9b1869b5a1c3",
+  "createdAt": "2026-09-18T06:41:50Z",
+  "engagement": {
+   "stars": 597
+  },
+  "tags": [
+   "ai-agents",
+   "JavaScript"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1380762959",
+  "source": "github",
+  "kind": "launch",
+  "title": "kydlikebtc/awesome-jev — 582★",
+  "body": "1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility.",
+  "url": "https://github.com/kydlikebtc/awesome-jev",
+  "author": "b27eaad8ff21",
+  "createdAt": "2026-09-22T02:22:54Z",
+  "engagement": {
+   "stars": 582
+  },
+  "tags": [
+   "ai-agents",
+   "Python"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1374058281",
+  "source": "github",
+  "kind": "launch",
+  "title": "AbdelStark/awesome-typesafe-jev — 539★",
+  "body": "Awesome Jev: a source-backed field guide to TypeSafe's System One model, with SDKs, live demos, agent tools, and independent evaluations.",
+  "url": "https://github.com/AbdelStark/awesome-typesafe-jev",
+  "author": "7e368758446b",
+  "createdAt": "2026-09-17T06:56:37Z",
+  "engagement": {
+   "stars": 539
+  },
+  "tags": [
+   "ai-agents",
+   "HTML"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1386778170",
+  "source": "github",
+  "kind": "launch",
+  "title": "amitshekhariitbhu/ai-system-design — 460★",
+  "body": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
+  "url": "https://github.com/amitshekhariitbhu/ai-system-design",
+  "author": "fe936faba4dd",
+  "createdAt": "2026-09-25T04:50:06Z",
+  "engagement": {
+   "stars": 460
+  },
+  "tags": [
+   "ai-agents",
+   "Markdown"
+  ],
+  "painScore": 64,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1375694187",
+  "source": "github",
+  "kind": "launch",
+  "title": "cobanov/awesome-jev — 433★",
+  "body": "A curated, source-backed list of projects built with Jev, TypeSafe AI's System One model for typed decisions.",
+  "url": "https://github.com/cobanov/awesome-jev",
+  "author": "1225c6d5ef49",
+  "createdAt": "2026-09-18T10:12:18Z",
+  "engagement": {
+   "stars": 433
+  },
+  "tags": [
+   "ai-agents"
+  ],
+  "painScore": 64,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1385896447",
+  "source": "github",
+  "kind": "launch",
+  "title": "zouyuxuan122/dsh-our-free-model — 340★",
+  "body": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
+  "url": "https://github.com/zouyuxuan122/dsh-our-free-model",
+  "author": "e4e6ddbff79f",
+  "createdAt": "2026-09-24T16:17:19Z",
+  "engagement": {
+   "stars": 340
+  },
+  "tags": [
+   "ai-agents",
+   "JavaScript"
+  ],
+  "painScore": 62,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1377916761",
+  "source": "github",
+  "kind": "launch",
+  "title": "Devin-AXIS/jev-dsh-decision — 266★",
+  "body": "Jev DSH 决策引擎｜面向 Agent Harness 的结构化决策插件。原生支持 DeepSeek Harness，通过 iPolloWork 支持 OpenCode、Codex Harness。",
+  "url": "https://github.com/Devin-AXIS/jev-dsh-decision",
+  "author": "52be41b16a4d",
+  "createdAt": "2026-09-20T04:39:05Z",
+  "engagement": {
+   "stars": 266
+  },
+  "tags": [
+   "ai-agents",
+   "JavaScript"
+  ],
+  "painScore": 60,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1377952273",
+  "source": "github",
+  "kind": "launch",
+  "title": "penso/herdr-gpui — 246★",
+  "body": "Native macOS client for Herdr, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.",
+  "url": "https://github.com/penso/herdr-gpui",
+  "author": "ab40857ae25d",
+  "createdAt": "2026-09-20T05:22:39Z",
+  "engagement": {
+   "stars": 246
+  },
+  "tags": [
+   "ai-agents",
+   "Rust"
+  ],
+  "painScore": 60,
+  "matchedPhrases": []
+ }
+]
