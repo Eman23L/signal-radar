@@ -1,8 +1,25 @@
 # Handover: where this project came from and what's next
 
-_Written 28 Sept 2026 at the end of the first build session (in the Claude app), so a new Claude Code session can pick up without the original chat. Updated the same day after session 2: see **Latest status** just below._
+_Written 28 Sept 2026 at the end of the first build session (in the Claude app), so a new Claude Code session can pick up without the original chat. Updated the same day after sessions 2 and 3: see **Latest status** just below._
 
-## Latest status (session 2, 28 Sept 2026): read this first
+## Latest status (session 3, 28 Sept 2026): read this first
+
+The network allowlist works: Find a Tender, the App Store feed, Stack Exchange and HN Algolia all answer from Claude Code. (`api.github.com` still returns 403 from the sandbox, but GitHub works fine in Actions.) Node's `fetch` needs `NODE_USE_ENV_PROXY=1` here.
+
+**Fixed and live-tested**
+- **findatender**: 0 → 5 relevant tenders for the day. The `stages=tender` filter was returning 5 of about 48 tender notices. The collector now fetches every release (paging via `links.next`), keeps `tender` and `planning` tags (planning is shown as *[early engagement]*), matches on the **main** CPV only (big frameworks list hundreds of item codes), and falls back to `amountGross` for the value. The first live find was an HMRC Income Tax Self-Assessment (Making Tax Digital) proof of concept, £292k. The fixture now has the real shape.
+- **appstore**: the feed works (50 reviews per app). The 0 was the 26 h window: bad reviews for one app arrive every few days. Now `lookbackHours: 168` for this source (`seen.json` stops repeats), and an empty feed is retried once. Live: 2 Jobber 1★ reviews.
+- **stackexchange**: works. softwarerecs gets only ~2 questions a week, so this source also looks back 168 h now. Live: 2 items.
+- **Scoring**: the flat 50 is gone. "I would pay" is now counted once, not as a pain phrase *and* a money word *and* WTP. The full WTP bonus needs a real problem or tool-ask as well, and demand items with no engagement data (HN comments) lose 10. On live HN data, the generic chat now scores 10–25, below the cut-off of 30. Two new tests cover this.
+- 31 tests pass; typecheck clean; demo works.
+
+**Next steps for session 4, in order**
+1. The owner adds `ANTHROPIC_API_KEY` (console.anthropic.com → API keys → Create key; then GitHub repo → Settings → Secrets and variables → Actions → New repository secret). Then a **non**-dry run, to confirm the Telegram message arrives.
+2. Check the next scheduled run's report for the App Store line. If it still says "no entries" from Actions, Apple may be emptying the feed for GitHub's IP ranges.
+3. Check the Algora bounty label format on github (the last item in the "Not verified" table).
+4. Then Phase 1 of the roadmap.
+
+## Session 2 status (28 Sept 2026)
 
 **Done**
 - Telegram bot **"Signal Radar"** created. `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID` added as repo secrets. The token was verified with `getUpdates`. Sending a message has **not** been tested yet, because a dry run never notifies.
@@ -23,7 +40,7 @@ _Written 28 Sept 2026 at the end of the first build session (in the Claude app),
 
 **Why session 2 stopped:** the cloud environment's network policy blocked every source host (CONNECT 403 from the egress proxy), so collectors couldn't be live-tested from Claude Code. The owner has switched the environment's Network access to **Custom**, with `itunes.apple.com`, `www.find-tender.service.gov.uk`, `api.stackexchange.com`, `hn.algolia.com` and `api.github.com` allowed. That only takes effect in **new** sessions. If a request still gets a 403, check the proxy status and whether Node's `fetch` honours `HTTPS_PROXY` (try `NODE_USE_ENV_PROXY=1`); curl should work first.
 
-**Next steps for session 3, in order**
+**Next steps for session 3, in order** (all done except item 4; see above)
 1. `curl` one real response from Find a Tender and one from the App Store feed. Fix `findatender.ts` and `appstore.ts`, and update their fixtures to the real shapes (keeping the fake content).
 2. Check stackexchange with a wider window (for example, temporarily set `lookbackHours` to 168).
 3. Fix the flat-50 scoring (above) and add a test for it.

@@ -90,12 +90,14 @@ export default defineConfig({
         { site: 'webapps', everyQuestion: false },
         { site: 'superuser', everyQuestion: false },
       ],
+      lookbackHours: 168, // slow sites: look back a week; seen.json stops repeats
     },
     bluesky: { enabled: true }, // runs only if BLUESKY_HANDLE + BLUESKY_APP_PASSWORD are set
     appstore: {
       enabled: true,
       countries: ['gb', 'us'],
       maxRating: 2,
+      lookbackHours: 168, // reviews trickle in: look back a week; seen.json stops repeats
       // Pick paid apps in niches you're curious about. Their unhappy customers are your leads.
       // Find the ID in the App Store URL: apps.apple.com/gb/app/xero-accounting-for-business/id441880705
       apps: [

@@ -5,12 +5,12 @@
  * We keep only low-star reviews: paying customers explaining exactly what's broken.
  *
  * Quirks: `feed.entry` can be a single object instead of an array, and the first
- * entry is occasionally app metadata (no rating) — both handled. Some reports say
- * the feed occasionally returns an empty envelope; the run report flags apps with
- * zero entries so you notice.
+ * entry is occasionally app metadata (no rating) — both handled. The feed sometimes
+ * returns an empty envelope (seen once from GitHub Actions; fine when re-checked), so
+ * an empty answer is retried once before being logged.
  */
 import type { RadarConfig } from '../config.ts';
-import type { Collector, Signal } from '../types.ts';
+import type { Collector, Fetcher, Signal } from '../types.ts';
 import { truncate } from '../util/text.ts';
 
 type Label = { label?: string };
@@ -25,6 +25,12 @@ interface Entry {
   'im:voteSum'?: Label;
 }
 
+async function fetchEntries(fetch: Fetcher, url: string): Promise<Entry[]> {
+  const res = (await fetch(url)) as { feed?: { entry?: Entry | Entry[] } } | null;
+  const raw = res?.feed?.entry;
+  return Array.isArray(raw) ? raw : raw ? [raw] : [];
+}
+
 export function appStore(config: RadarConfig): Collector {
   const opts = config.sources.appstore;
   return {
@@ -37,9 +43,11 @@ export function appStore(config: RadarConfig): Collector {
       for (const app of opts.apps) {
         for (const cc of opts.countries) {
           const url = `https://itunes.apple.com/${cc}/rss/customerreviews/page=1/id=${app.id}/sortby=mostrecent/json`;
-          const res = (await ctx.fetch(url)) as { feed?: { entry?: Entry | Entry[] } };
-          const raw = res.feed?.entry;
-          const entries = Array.isArray(raw) ? raw : raw ? [raw] : [];
+          let entries = await fetchEntries(ctx.fetch, url);
+          if (entries.length === 0) {
+            await ctx.delay(3000);
+            entries = await fetchEntries(ctx.fetch, url);
+          }
           if (entries.length === 0) ctx.log(`appstore: no entries for ${app.name} (${cc}) — feed may be empty`);
           for (const e of entries) {
             const rating = Number(e['im:rating']?.label);

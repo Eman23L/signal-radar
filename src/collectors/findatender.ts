@@ -1,8 +1,15 @@
 /**
  * UK Find a Tender service — OCDS release packages (Open Government Licence).
  * Docs: https://www.find-tender.service.gov.uk/apidocumentation/1.0/GET-ocdsReleasePackages
- * Params: updatedFrom/updatedTo (YYYY-MM-DDTHH:MM:SS), stages (planning,tender,award),
- * limit (≤100), cursor. 429/503 come with Retry-After (handled by the HTTP fetcher).
+ * Params: updatedFrom/updatedTo (YYYY-MM-DDTHH:MM:SS), limit (≤100); the next page is in
+ * `links.next`. 429/503 come with Retry-After (handled by the HTTP fetcher).
+ *
+ * Checked against the live API (Sept 2026): the `stages=tender` filter returns only a
+ * handful of the day's tender notices, so we fetch everything (~300–400 releases/day)
+ * and filter on each release's `tag` ourselves. We keep new `tender` notices and
+ * `planning` notices (pre-market engagement: the earliest sign of what's coming).
+ * CPV matching uses the main classification only: big frameworks list hundreds of item
+ * codes, and one stray "48…" among them would let hospital equipment through.
  *
  * Public bodies buying software/IT services = proven demand with a budget attached,
  * and a list of what the public sector keeps paying for.
@@ -12,7 +19,8 @@ import type { Collector, Signal } from '../types.ts';
 import { normalize, stripHtml, truncate } from '../util/text.ts';
 
 const API = 'https://www.find-tender.service.gov.uk/api/1.0/ocdsReleasePackages';
-const MAX_PAGES = 5;
+const MAX_PAGES = 10;
+const KEEP_TAGS = ['tender', 'planning'];
 
 interface Classification {
   id?: string;
@@ -22,11 +30,12 @@ interface Release {
   id: string;
   ocid: string;
   date?: string;
+  tag?: string[];
   buyer?: { name?: string };
   tender?: {
     title?: string;
     description?: string;
-    value?: { amount?: number; currency?: string };
+    value?: { amount?: number; amountGross?: number; currency?: string };
     classification?: Classification;
     items?: { classification?: Classification; additionalClassifications?: Classification[] }[];
     tenderPeriod?: { endDate?: string };
@@ -35,7 +44,6 @@ interface Release {
 interface Package {
   releases?: Release[];
   links?: { next?: string };
-  cursor?: string;
 }
 
 export function findATender(config: RadarConfig): Collector {
@@ -44,14 +52,16 @@ export function findATender(config: RadarConfig): Collector {
     name: 'findatender',
     async collect(ctx) {
       const from = ctx.since.toISOString().slice(0, 19);
-      let url: string | undefined = `${API}?updatedFrom=${from}&stages=tender&limit=100`;
+      let url: string | undefined = `${API}?updatedFrom=${from}&limit=100`;
       const out = new Map<string, Signal>();
 
       for (let page = 0; url && page < MAX_PAGES; page++) {
         const res = (await ctx.fetch(url)) as Package;
         for (const r of res.releases ?? []) {
+          const stage = r.tag?.find((t) => KEEP_TAGS.includes(t));
+          if (!stage) continue; // awards, updates, cancellations
           const cpvs = cpvCodes(r);
-          if (!cpvs.some((c) => opts.cpvPrefixes.some((p) => c.startsWith(p)))) continue;
+          if (!cpvs.slice(0, 1).some((c) => opts.cpvPrefixes.some((p) => c.startsWith(p)))) continue;
           const title = r.tender?.title ?? '(untitled tender)';
           const description = stripHtml(r.tender?.description);
           if (opts.keywords.length) {
@@ -60,11 +70,12 @@ export function findATender(config: RadarConfig): Collector {
           }
           const noticeId = r.id.match(/\d{6}-\d{4}/)?.[0];
           const value = r.tender?.value;
+          const amount = value?.amount ?? value?.amountGross;
           out.set(r.ocid, {
             id: `findatender:${r.ocid}`,
             source: 'findatender',
             kind: 'tender',
-            title: `${r.buyer?.name ?? 'UK public body'}: ${title}`,
+            title: `${stage === 'planning' ? '[early engagement] ' : ''}${r.buyer?.name ?? 'UK public body'}: ${title}`,
             body: truncate(description, 1500),
             url: noticeId
               ? `https://www.find-tender.service.gov.uk/Notice/${noticeId}`
@@ -72,11 +83,11 @@ export function findATender(config: RadarConfig): Collector {
             author: r.buyer?.name,
             createdAt: r.date ?? ctx.now.toISOString(),
             engagement: {},
-            money: value?.amount ? { amount: value.amount, currency: value.currency ?? 'GBP' } : undefined,
-            tags: [...new Set(cpvs.map((c) => `cpv:${c}`))].slice(0, 5),
+            money: amount ? { amount, currency: value?.currency ?? 'GBP' } : undefined,
+            tags: [`stage:${stage}`, ...[...new Set(cpvs.map((c) => `cpv:${c}`))].slice(0, 5)],
           });
         }
-        url = res.links?.next ?? (res.cursor ? `${API}?updatedFrom=${from}&stages=tender&limit=100&cursor=${encodeURIComponent(res.cursor)}` : undefined);
+        url = res.links?.next;
         await ctx.delay(1000);
       }
       return [...out.values()];
@@ -84,6 +95,7 @@ export function findATender(config: RadarConfig): Collector {
   };
 }
 
+/** All CPV codes on a release, main classification first (falls back to item codes when there is none). */
 function cpvCodes(r: Release): string[] {
   const t = r.tender;
   if (!t) return [];

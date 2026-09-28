@@ -12,6 +12,21 @@ test('explicit willingness to pay outranks a plain question', () => {
   assert.deepEqual(plain.matchedPhrases, ['is there a tool']);
 });
 
+test('a bare "I would pay" with no problem or engagement stays below the digest cut-off', () => {
+  const chat = scoreSignal(signal({ id: 'a', title: 'Comment on: Star Trek computers', body: 'I would pay for that Star Trek computer' }), config);
+  assert.ok(chat.painScore! < config.scoring.minScore, `scored ${chat.painScore}`);
+  const real = scoreSignal(signal({ id: 'b', title: 'Is there a tool to chase late invoices? I would pay for it' }), config);
+  assert.ok(real.painScore! >= chat.painScore! + 20, `real ${real.painScore} vs chat ${chat.painScore}`);
+});
+
+test('a lone frustration phrase with no engagement data is cut; the same with engagement is kept', () => {
+  const body = 'Building a fab is far too expensive for Europe';
+  const bare = scoreSignal(signal({ id: 'a', title: 'Comment on: chips', body }), config);
+  const engaged = scoreSignal(signal({ id: 'b', title: 'Ask HN: chips', body, engagement: { score: 3, comments: 1 } }), config);
+  assert.ok(bare.painScore! < config.scoring.minScore, `bare scored ${bare.painScore}`);
+  assert.ok(engaged.painScore! >= config.scoring.minScore, `engaged scored ${engaged.painScore}`);
+});
+
 test('excluded phrases zero the score', () => {
   const s = scoreSignal(signal({ id: 'a', title: 'Is there a tool? Use promo code X' }), config);
   assert.equal(s.painScore, 0);

@@ -43,6 +43,8 @@ export interface RadarConfig {
        * "please recommend software for X"). Otherwise only questions matching pain phrases count.
        */
       sites: { site: string; everyQuestion: boolean }[];
+      /** Overrides the global lookbackHours: these sites are slow (softwarerecs gets ~2 questions a week). */
+      lookbackHours?: number;
     };
     bluesky: { enabled: boolean };
     /** 1–2 star reviews of paid apps = people telling you exactly what's broken. */
@@ -53,6 +55,8 @@ export interface RadarConfig {
       maxRating: number;
       /** Numeric App Store IDs (the digits in apps.apple.com/.../id123456789). */
       apps: { id: string; name: string }[];
+      /** Overrides the global lookbackHours: a single app gets a bad review every few days, not every day. */
+      lookbackHours?: number;
     };
     /** UK public-sector tenders (Find a Tender, OCDS API, Open Government Licence). */
     findatender: {
