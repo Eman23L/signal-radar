@@ -1,0 +1,65 @@
+name: Daily radar
+
+on:
+  schedule:
+    # 06:40 UTC = 07:40 in the UK during summer time (06:40 in winter).
+    # GitHub runs scheduled jobs on a best-effort basis; 5–30 min late is normal.
+    - cron: '40 6 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run (print the digest in the log, save nothing, notify no one)'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write # to commit data/ back to the repo
+
+concurrency:
+  group: radar
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      # No npm install needed: the radar has zero runtime dependencies.
+      - name: Run radar
+        run: node src/index.ts run ${{ inputs.dry_run && '--dry-run' || '' }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DIGEST_BASE_URL: ${{ github.server_url }}/${{ github.repository }}/blob/${{ github.ref_name }}/data/digests
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
+          STACKEXCHANGE_KEY: ${{ secrets.STACKEXCHANGE_KEY }}
+          BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_SERVER: ${{ vars.NTFY_SERVER }}
+          NTFY_TOKEN: ${{ secrets.NTFY_TOKEN }}
+
+      # Saving results back to the repo gives us free storage AND counts as
+      # activity, so GitHub never auto-disables this schedule after 60 idle days.
+      - name: Save results
+        if: ${{ !inputs.dry_run }}
+        run: |
+          git config user.name "signal-radar[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "Nothing new to save"
+          else
+            git commit -m "radar: $(date -u +%F)"
+            git pull --rebase --quiet
+            git push
+          fi
