@@ -1,0 +1,20 @@
+{
+ "_note": "SAMPLE DATA for offline demo/tests \u2014 shaped like the real API response, not real posts.",
+ "items": [
+  {
+   "id": 7000001,
+   "full_name": "sample-org/claude-code-skills-pack",
+   "description": "A collection of Claude Code skills for testing, refactors and release notes.",
+   "html_url": "https://github.com/sample-org/claude-code-skills-pack",
+   "owner": {
+    "login": "sample-org"
+   },
+   "created_at": "2026-09-24T06:00:00.000Z",
+   "stargazers_count": 480,
+   "topics": [
+    "claude-code"
+   ],
+   "language": "TypeScript"
+  }
+ ]
+}

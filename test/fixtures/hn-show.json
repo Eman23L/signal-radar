@@ -1,0 +1,20 @@
+{
+ "_note": "SAMPLE DATA for offline demo/tests \u2014 shaped like the real API response, not real posts.",
+ "hits": [
+  {
+   "objectID": "90000101",
+   "created_at": "2026-09-27T10:00:00.000Z",
+   "created_at_i": 1790503200,
+   "author": "sample_maker",
+   "title": "Show HN: An open-source MCP server for your accounting data",
+   "story_text": "",
+   "url": "https://example.com",
+   "points": 212,
+   "num_comments": 64,
+   "_tags": [
+    "story",
+    "show_hn"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "_note": "SAMPLE DATA for offline demo/tests \u2014 shaped like the real API response, not real posts.",
+ "feed": {
+  "entry": [
+   {
+    "im:name": {
+     "label": "Xero Accounting"
+    },
+    "id": {
+     "label": "app-metadata"
+    }
+   },
+   {
+    "id": {
+     "label": "5000000001"
+    },
+    "title": {
+     "label": "Invoice reminders useless"
+    },
+    "content": {
+     "label": "I still have to chase every late invoice myself. The reminders can't escalate or text clients. Considering switching."
+    },
+    "author": {
+     "name": {
+      "label": "sample_user_10"
+     }
+    },
+    "updated": {
+     "label": "2026-09-27T09:12:00-07:00"
+    },
+    "im:rating": {
+     "label": "2"
+    },
+    "im:version": {
+     "label": "9.1"
+    },
+    "im:voteSum": {
+     "label": "3"
+    }
+   },
+   {
+    "id": {
+     "label": "5000000002"
+    },
+    "title": {
+     "label": "Great app"
+    },
+    "content": {
+     "label": "Love it"
+    },
+    "author": {
+     "name": {
+      "label": "sample_user_11"
+     }
+    },
+    "updated": {
+     "label": "2026-09-27T10:00:00-07:00"
+    },
+    "im:rating": {
+     "label": "5"
+    }
+   }
+  ]
+ }
+}

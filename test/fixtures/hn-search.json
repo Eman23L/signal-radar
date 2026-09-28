@@ -1,0 +1,74 @@
+{
+ "_note": "SAMPLE DATA for offline demo/tests \u2014 shaped like the real API response, not real posts.",
+ "hits": [
+  {
+   "objectID": "90000001",
+   "created_at": "2026-09-27T08:00:00.000Z",
+   "created_at_i": 1790496000,
+   "author": "sample_user_1",
+   "title": null,
+   "story_title": "Ask HN: What admin work eats most of your week?",
+   "comment_text": "Chasing unpaid invoices. I run a 4-person design studio and spend hours every week sending reminder emails. Is there a tool that just chases late invoices politely and escalates? I'd pay for that tomorrow.",
+   "points": null,
+   "num_comments": null,
+   "_tags": [
+    "comment"
+   ]
+  },
+  {
+   "objectID": "90000002",
+   "created_at": "2026-09-27T09:00:00.000Z",
+   "created_at_i": 1790499600,
+   "author": "sample_user_2",
+   "title": "Ask HN: Is there a tool to automatically chase late invoices?",
+   "story_text": "Freelancer here. Xero's reminders are too basic and I still spend hours chasing clients who pay late. Is there a tool that handles invoice follow-ups with escalation? Willing to pay \u00a320/month.",
+   "points": 41,
+   "num_comments": 37,
+   "_tags": [
+    "story",
+    "ask_hn"
+   ]
+  },
+  {
+   "objectID": "90000003",
+   "created_at": "2026-09-27T11:00:00.000Z",
+   "created_at_i": 1790506800,
+   "author": "sample_user_3",
+   "title": null,
+   "story_title": "Show HN: Tiny CRM for plumbers",
+   "comment_text": "As a plumbing contractor the thing I wish there was is something that turns a voice note into a quote. I spend hours on quotes every evening.",
+   "points": null,
+   "num_comments": null,
+   "_tags": [
+    "comment"
+   ]
+  },
+  {
+   "objectID": "90000004",
+   "created_at": "2026-09-27T12:00:00.000Z",
+   "created_at_i": 1790510400,
+   "author": "sample_user_4",
+   "title": null,
+   "story_title": "Late payments are killing small agencies",
+   "comment_text": "Same here. We tried three apps and still ended up chasing late invoices by hand. Is there a tool for invoice chasing that works with QuickBooks?",
+   "points": null,
+   "num_comments": null,
+   "_tags": [
+    "comment"
+   ]
+  },
+  {
+   "objectID": "90000005",
+   "created_at": "2026-09-27T13:00:00.000Z",
+   "created_at_i": 1790514000,
+   "author": "sample_user_5",
+   "title": "Our new product launches today \u2014 50% off promo code",
+   "story_text": "is there a tool better than ours? no! promo code LAUNCH",
+   "points": 3,
+   "num_comments": 0,
+   "_tags": [
+    "story"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "_note": "SAMPLE DATA for offline demo/tests \u2014 shaped like the real API response, not real posts.",
+ "uri": "https://www.find-tender.service.gov.uk/api/1.0/ocdsReleasePackages",
+ "releases": [
+  {
+   "id": "099999-2026-tender",
+   "ocid": "ocds-h6vhtk-0sample1",
+   "date": "2026-09-27T10:00:00.000Z",
+   "buyer": {
+    "name": "Sample Borough Council"
+   },
+   "tender": {
+    "title": "Online booking and payments system for leisure services",
+    "description": "The Council seeks a cloud-based booking platform with online payments and reporting.",
+    "value": {
+     "amount": 180000,
+     "currency": "GBP"
+    },
+    "classification": {
+     "id": "48000000",
+     "description": "Software package and information systems"
+    }
+   }
+  },
+  {
+   "id": "099998-2026-tender",
+   "ocid": "ocds-h6vhtk-0sample2",
+   "date": "2026-09-27T10:00:00.000Z",
+   "buyer": {
+    "name": "Sample NHS Trust"
+   },
+   "tender": {
+    "title": "Catering supplies",
+    "description": "Food.",
+    "classification": {
+     "id": "15000000"
+    }
+   }
+  }
+ ]
+}

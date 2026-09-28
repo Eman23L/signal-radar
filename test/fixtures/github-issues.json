@@ -1,0 +1,25 @@
+{
+ "_note": "SAMPLE DATA for offline demo/tests \u2014 shaped like the real API response, not real posts.",
+ "items": [
+  {
+   "id": 8000101,
+   "title": "Feature request: recurring invoice reminders",
+   "body": "We spend hours chasing clients. Please add automatic reminders for overdue invoices.",
+   "html_url": "https://github.com/sample-org/invoicer/issues/7",
+   "user": {
+    "login": "sample_user_6"
+   },
+   "created_at": "2026-09-27T14:00:00.000Z",
+   "comments": 12,
+   "reactions": {
+    "total_count": 48
+   },
+   "labels": [
+    {
+     "name": "feature request"
+    }
+   ],
+   "repository_url": "https://api.github.com/repos/sample-org/invoicer"
+  }
+ ]
+}

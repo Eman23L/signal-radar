@@ -1,0 +1,41 @@
+{
+ "_note": "SAMPLE DATA for offline demo/tests \u2014 shaped like the real API response, not real posts.",
+ "items": [
+  {
+   "question_id": 6000001,
+   "title": "Software to automatically send reminders for overdue invoices",
+   "body": "<p>I'm a sole trader in the UK. Looking for software that chases overdue invoices by email and SMS, works with Xero. Paid is fine.</p>",
+   "link": "https://softwarerecs.stackexchange.com/q/6000001",
+   "owner": {
+    "display_name": "sample_user_7"
+   },
+   "creation_date": 1790521200,
+   "score": 4,
+   "answer_count": 1,
+   "view_count": 120,
+   "tags": [
+    "invoicing",
+    "windows"
+   ]
+  },
+  {
+   "question_id": 6000002,
+   "title": "Offline markdown editor with Git sync for Linux",
+   "body": "<p>Need an offline markdown editor.</p>",
+   "link": "https://softwarerecs.stackexchange.com/q/6000002",
+   "owner": {
+    "display_name": "sample_user_8"
+   },
+   "creation_date": 1790524800,
+   "score": 1,
+   "answer_count": 0,
+   "view_count": 30,
+   "tags": [
+    "linux",
+    "markdown"
+   ]
+  }
+ ],
+ "has_more": false,
+ "quota_remaining": 299
+}

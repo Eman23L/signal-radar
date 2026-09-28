@@ -1,0 +1,18 @@
+{
+ "_note": "SAMPLE DATA for offline demo/tests \u2014 shaped like the real API response, not real posts.",
+ "posts": [
+  {
+   "uri": "at://did:plc:sample1/app.bsky.feed.post/3sample1",
+   "author": {
+    "handle": "sample9.bsky.social"
+   },
+   "record": {
+    "text": "Is there a tool that turns job-site photos into a client report automatically? I'm tired of manually writing these up every night.",
+    "createdAt": "2026-09-27T17:00:00.000Z"
+   },
+   "indexedAt": "2026-09-27T17:00:00.000Z",
+   "likeCount": 14,
+   "replyCount": 6
+  }
+ ]
+}

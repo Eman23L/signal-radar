@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- SAMPLE DATA for offline tests: shaped like Reddit's Atom feed, not real posts. -->
+<feed xmlns="http://www.w3.org/2005/Atom">
+<entry><author><name>/u/sample_user_12</name></author><content type="html">&lt;p&gt;Is there a tool that chases late invoices for me? Spend hours on it.&lt;/p&gt;</content><id>t3_sample1</id><link href="https://www.reddit.com/r/smallbusiness/comments/sample1/"/><published>2026-09-27T12:00:00+00:00</published><title>Chasing invoices is eating my week</title></entry>
+<entry><author><name>/u/sample_user_13</name></author><content type="html">&lt;p&gt;Look at my new car&lt;/p&gt;</content><id>t3_sample2</id><link href="https://www.reddit.com/r/smallbusiness/comments/sample2/"/><published>2026-09-27T12:00:00+00:00</published><title>New car</title></entry>
+</feed>

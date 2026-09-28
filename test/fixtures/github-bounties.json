@@ -1,0 +1,48 @@
+{
+ "_note": "SAMPLE DATA for offline demo/tests \u2014 shaped like the real API response, not real posts.",
+ "items": [
+  {
+   "id": 8000001,
+   "title": "Add CSV export to reports ($250)",
+   "body": "Algora bounty for CSV export.",
+   "html_url": "https://github.com/sample-org/app/issues/42",
+   "user": {
+    "login": "sample-maint"
+   },
+   "created_at": "2026-09-27T07:00:00.000Z",
+   "comments": 3,
+   "reactions": {
+    "total_count": 5
+   },
+   "labels": [
+    {
+     "name": "\ud83d\udc8e Bounty"
+    },
+    {
+     "name": "$250"
+    }
+   ],
+   "repository_url": "https://api.github.com/repos/sample-org/app"
+  },
+  {
+   "id": 8000002,
+   "title": "Fix typo in docs",
+   "body": "",
+   "html_url": "https://github.com/sample-org/app/issues/43",
+   "user": {
+    "login": "sample-maint"
+   },
+   "created_at": "2026-09-27T07:00:00.000Z",
+   "comments": 0,
+   "labels": [
+    {
+     "name": "\ud83d\udc8e Bounty"
+    },
+    {
+     "name": "$10"
+    }
+   ],
+   "repository_url": "https://api.github.com/repos/sample-org/app"
+  }
+ ]
+}
