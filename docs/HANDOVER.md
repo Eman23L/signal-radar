@@ -1,6 +1,33 @@
 # Handover: where this project came from and what's next
 
-_Written 28 Sept 2026 at the end of the first build session (in the Claude app), so a new Claude Code session can pick up without the original chat._
+_Written 28 Sept 2026 at the end of the first build session (in the Claude app), so a new Claude Code session can pick up without the original chat. Updated the same day after session 2: see **Latest status** just below._
+
+## Latest status (session 2, 28 Sept 2026): read this first
+
+**Done**
+- Telegram bot **"Signal Radar"** created. `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID` added as repo secrets. The token was verified with `getUpdates`. Sending a message has **not** been tested yet, because a dry run never notifies.
+- First Action run: **Daily radar** (`workflow_dispatch`, dry run, run id 36421082377) finished green in about 35 s. Results:
+
+| Source | Result | Diagnosis |
+|---|---|---|
+| hackernews | ✅ 42 items | Works. |
+| github | ✅ 40 items | Works (new repos, feature requests). Bounty label format still unchecked. |
+| stackexchange | ⚠️ 0 items, finished in 0.3 s | Possibly genuine (26 h window on softwarerecs, plus the phrase filter), but confirm with a real response. |
+| appstore | ❌ 0 items: "no entries for Jobber Field Service" in both gb and us | The empty-feed problem predicted below. The iTunes customer-reviews RSS may be dead or changed; needs a real response. |
+| findatender | ❌ 0 items, finished in about 2 s (one page) | Most likely the CPV code location or the `stages`/pagination guess is wrong, so every release gets filtered out. |
+| bluesky | ⏭️ skipped | No credentials, as expected. |
+
+**Scoring problem found:** every Hacker News demand item scored exactly **50**. The reason: 25 (phrase) + 10 (money word "pay") + 15 (explicit WTP phrase) + 0 engagement, because Algolia comments have `points: null`. The digest filled up with generic chat like "I would pay for that Star Trek computer". Fixes to make:
+1. Get the owner to add `ANTHROPIC_API_KEY`: Claude review is what separates real pain from chat.
+2. Tighten the heuristic: stop generic "willing to pay" comments reaching the top on their own (for example, require a tool/problem phrase as well, or down-weight comments that have no engagement data).
+
+**Why session 2 stopped:** the cloud environment's network policy blocked every source host (CONNECT 403 from the egress proxy), so collectors couldn't be live-tested from Claude Code. The owner has switched the environment's Network access to **Custom**, with `itunes.apple.com`, `www.find-tender.service.gov.uk`, `api.stackexchange.com`, `hn.algolia.com` and `api.github.com` allowed. That only takes effect in **new** sessions. If a request still gets a 403, check the proxy status and whether Node's `fetch` honours `HTTPS_PROXY` (try `NODE_USE_ENV_PROXY=1`); curl should work first.
+
+**Next steps for session 3, in order**
+1. `curl` one real response from Find a Tender and one from the App Store feed. Fix `findatender.ts` and `appstore.ts`, and update their fixtures to the real shapes (keeping the fake content).
+2. Check stackexchange with a wider window (for example, temporarily set `lookbackHours` to 168).
+3. Fix the flat-50 scoring (above) and add a test for it.
+4. Walk the owner through adding `ANTHROPIC_API_KEY` (console.anthropic.com → API keys → repo secret), then a **non**-dry run, to confirm the Telegram message arrives.
 
 ## Who this is for and why it exists
 
@@ -39,13 +66,13 @@ The right way to test: `node src/index.ts run --dry-run --sources <name>` locall
 
 ## Setup status (what the owner still has to do)
 
-None of these were done at handover:
+Status as of session 2:
 
-- [ ] Telegram bot created; `TELEGRAM_BOT_TOKEN` + `TELEGRAM_CHAT_ID` added as repo secrets
+- [x] Telegram bot created; `TELEGRAM_BOT_TOKEN` + `TELEGRAM_CHAT_ID` added as repo secrets (sending not yet confirmed)
 - [ ] `ANTHROPIC_API_KEY` secret (optional, recommended, ~£1–5/month)
 - [ ] Optional: `STACKEXCHANGE_KEY`, `BLUESKY_HANDLE` + `BLUESKY_APP_PASSWORD`
 - [ ] Repo set to **private** (it will fill with market research)
-- [ ] First manual run: Actions → Daily radar → Run workflow → tick *dry run*
+- [x] First manual run: Actions → Daily radar → Run workflow → tick *dry run* (green; see Latest status)
 - [ ] The five decisions at the top of `ROADMAP.md`
 
 For local runs, copy `.env.example` to `.env`. Node must be **≥ 22.18** (it runs the `.ts` files directly).
