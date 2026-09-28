@@ -2,6 +2,10 @@
 
 Daily scanner that finds demand signals (people asking for tools, willing to pay, bad reviews of paid apps, UK tenders, bounties, launches), scores them, groups repeated pain, and sends a digest. Runs on GitHub Actions; results are committed to `data/`.
 
+**Start here:** the project's background, the owner's goals, what's unverified, and the next steps are in the handover note:
+
+@docs/HANDOVER.md
+
 ## Rules of the codebase
 
 - **Zero runtime dependencies.** Node ≥ 22.18 runs the TypeScript directly (type stripping). Use `fetch`, `node:*` modules only. Dev deps (typescript, @types/node) are for type-checking only.
