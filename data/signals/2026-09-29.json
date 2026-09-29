@@ -1,0 +1,785 @@
+[
+ {
+  "id": "hackernews:49883832",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: So long Google, and thanks for all the nudes",
+  "body": "I mean sure, but even if people have the ability to select a different app store, why are they going to do this? Even if you MAKE them do it, on device setup as was commented elsewhere, do we mandate Apple put the 3rd party stores above their own? Can Apple indicate which is theirs, or does this bias the answer the user gives?\nAnd more importantly I didn't ask what the user is picking or not picking, I'm asking: why is there an app store out there that's better than the main one? Is a 3rd party app store going to spin up a CDN, a transactions system, handle the customer service involved there, etc. and then just... not do all the evil shit Google and Apple are doing now, which is why their app stores make so much money? You're asking businesses to enter a market with established competitors with solid and wildly profitable business models, and to just have them make less money for the principle of it. Which like, I agree with, but you're gonna have a SHORT list of investors if that's your pitch.",
+  "url": "https://news.ycombinator.com/item?id=49883832",
+  "author": "1cf850a39fd2",
+  "createdAt": "2026-09-28T20:22:23.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "is there an app"
+  ]
+ },
+ {
+  "id": "hackernews:49892514",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Scientists solve 1840s space weather mystery",
+  "body": "There aren't very much of alternative to Reddit\nat that \"Top100 websites by traffic\" scale.",
+  "url": "https://news.ycombinator.com/item?id=49892514",
+  "author": "8d838ef93b53",
+  "createdAt": "2026-09-29T13:02:48.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49890883",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Does Reddit have an astroturfing problem? What the data suggests",
+  "body": "Once-upon-a-time reddit was the cool new alternative to digg",
+  "url": "https://news.ycombinator.com/item?id=49890883",
+  "author": "5ce7887694a6",
+  "createdAt": "2026-09-29T10:30:25.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49890479",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Show HN: AstraBox – an open-source alternative to Claude Managed Agents",
+  "body": "I built AstraBox. I've now open-sourced it. It is a self-hosted alternative to Claude Managed Agents.\nThe key point is allowing your agents to be fed work from the systems your team already has set up. You set up an agent with whatever skills, plugins, and MCP tools it will need to perform the work, and then launch it via a schedule, webhook, or API call. No one has to open a terminal window and kick off every one of those jobs by hand.\nI believe we are transitioning from local copilots to remote agents. Working with AI on a laptop is helpful, but there are also tasks you should be able to delegate and check back on when there's something to look at.\nTake a new request in Jira. You could attach it to an agent that interprets the request and generates a system design, then have your workflow pass the result to coding and testing agents. The team determines where human review is necessary. In initial trials, you might check every step of the way. If the team gains confidence in the results, it could let the stages run and check the changes before deploying.\nThat's exactly the kind of workflow I want to make possible with AstraBox. It manages the execution of agents in sandboxes, streams their output and tracks the session history. Schedules and webhooks make that execution work with whatever else you've got.\nIt supports Claude Code, Codex, pi, and DeepSeek Harness, with Hermes for personal assistant workspaces. It can be run via Docker Compose or Kubernetes. The code is Apache-2.0 licensed. The README has setup instructions and a demo you can try in your browser.",
+  "url": "https://news.ycombinator.com/item?id=49890479",
+  "author": "014f27cfa337",
+  "createdAt": "2026-09-29T09:37:22.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49889690",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Updated Google Maps shows destruction of the city of Rafah",
+  "body": "An alternative to levelling entire cities to the ground to find tunnels, would be to stop the expanding of the settlers, stop the apartheid within Israel, stop the blockade and starving on Gaza, and try to actually foster peace instead of constant conflict, pain and misery in order to retain power.\nThis is despicable, inhumane. It is generational trauma that started with the Nazis, now propagated to the poor souls around the new western colony of Israel.",
+  "url": "https://news.ycombinator.com/item?id=49889690",
+  "author": "7ad97548d67c",
+  "createdAt": "2026-09-29T07:55:28.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49886652",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: California farmers are struggling to sell grapes as demand for wine drops",
+  "body": "???\nTHC has never been an alternative to alcohol. There are definitely people who prefer it instead of alcohol and there are people who use both.\nI don't know anyone who thinks they're interchangeable unless they're solely looking at it as a political/functional slot to fill.\nIf you force a drunk who hates pot to switch and vice-versa, they genuinely might want to murder you, but why make this a wedge issue?",
+  "url": "https://news.ycombinator.com/item?id=49886652",
+  "author": "eda6056d4a83",
+  "createdAt": "2026-09-29T01:02:04.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49885107",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+  "body": "For _your_ classification it's unacceptable. The OP seems to have anticipated this and mentions you can fine tune it for your use case. Did you try that?\nI don't think the point is to displace Jev, but to show it's possible to build an MVP on open weights without years of work and millions of dollars.\nWhy (presumably) an engineer would dismiss exploring a lightweight, custom alternative to locking into a fashionable PaaS, I'll never know.",
+  "url": "https://news.ycombinator.com/item?id=49885107",
+  "author": "9bc9e3d0351b",
+  "createdAt": "2026-09-28T22:05:30.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49882034",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "A private alternative to cloud image converters and compressors",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=49882034",
+  "author": "d320a2e37935",
+  "createdAt": "2026-09-28T18:10:55.000Z",
+  "engagement": {
+   "score": 2,
+   "comments": 0
+  },
+  "tags": [],
+  "painScore": 30,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49884824",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Windows 11½",
+  "body": "I've had a pretty good track record with Fedora Atomic / Silverblue. The thing I like best about it is that I can have updates safely staged in the background invisibily. And next time I reboot my computer, I boot into that new version. No waiting around or anything.\nThat's not to say it's perfect. There was a pretty bad bug maybe around 2 years ago where upgrades just stopped working and without any warnings. You had a notice the issue and run a special command to fix the issue. I've also had quite a few AMD/kernel regressions recently that resulted in artifacts in the desktop and AV1 video decode.\nI wish there was like a Debian but atomic that has broad support like Fedora does. Though I did see that openSUSE leap 16.1 introduced an immutable option.",
+  "url": "https://news.ycombinator.com/item?id=49884824",
+  "author": "a32b4a1079fb",
+  "createdAt": "2026-09-28T21:42:31.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "wish there was"
+  ]
+ },
+ {
+  "id": "hackernews:49882007",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: 13 Months Sober (2025)",
+  "body": "I wish I could stop drinking. I'm not a big drinker, but I will have 1-2 drinks two times a week. Maybe once every two months I meet with friends and have a proper binge-drinking. It's not so bad it's a problem, I'm not 20 anymore and I can see it affecting me long term.\nI've tried stoping a few times. I managed up to 3 months. But social gatherings kill me, everything is better/funnier with a glass of wine.\nI wish there was an alternative pill that made me feel the same way as two beers with no health impact.",
+  "url": "https://news.ycombinator.com/item?id=49882007",
+  "author": "9ce9a529c1fa",
+  "createdAt": "2026-09-28T18:09:14.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "wish there was"
+  ]
+ },
+ {
+  "id": "hackernews:49887512",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Does Georgism work? Five years later",
+  "body": "Ah, returning to counterfactual over-dramatizing\nI'm not talking about a garden city or walled fortress of any kind, and I said so above. I'm talking about a semi-rural town where people have valued nature and open space.\nAnd no, destroying that to supposedly make housing for low-income people who are \"fighting to the death for a place to live\" will help zero of them. Because even if you gave the housing for near free, there are zero local jobs and zero local public transportation options to jobs, or even to groceries (nearest is 15min+ drive away). So, they'd need to jump up to meet the expenses of a two-car household, with car payments, insurance, maintenance, fuel, etc.. Plus spend hours commuting to work. Plus daycare, not cheap in the area. If you are that low-wage and have to support the automobiles and commuting, it literally costs more to get to work than you earn. You will have destroyed something of great value created over decades at vast personal expense, and helped no one.\nThe point is to put the housing where it makes sense. E.g., near jobs and public transport, and where it doesn't destroy open lands or literally endangered species habitat.\nNew York city could put plenty more housing right in Manhattan, but you don't see even the most radical pro-housing types suggesting they build over Central Park to do it.",
+  "url": "https://news.ycombinator.com/item?id=49887512",
+  "author": "b24858d80b29",
+  "createdAt": "2026-09-29T02:54:45.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "spend hours"
+  ]
+ },
+ {
+  "id": "hackernews:49881720",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: There is more to code review than (automatable) detection",
+  "body": "I disagree in some cases. Code is a means of communication. Sometimes it's more efficient to write code and bring it to your team than to discuss it in the abstract.\nAn example of this might be adding load shedding. You could spend hours talking through it, or you could say \"I'm going to add a load shedder to the blah service as a proof of concept\" in standup then take an hour to implement it, and have the team critique it from there.\nI agree that whether they're a useful gate is debateble, but they can be a useful means of expressing an idea to be approved or rejected.",
+  "url": "https://news.ycombinator.com/item?id=49881720",
+  "author": "d16d1f912bb7",
+  "createdAt": "2026-09-28T17:48:47.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "spend hours"
+  ]
+ },
+ {
+  "id": "hackernews:49888731",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Tank Body Problem",
+  "body": "cool, i played a fair bit of scorch\nmisc feedback\n - dominant strategy seems to be drive to point blank range & fire. needs some playtesting & rework to make it interesting for 2 players.\n - how do you bring up help for a reminder of what the controls are once the game is in progress?\n - the arrow keys for controlling the turret are unintuitive. i'd expect left & right arrows to change the barrel angle, like in the original scorched earth, but here they change the power level\n - the visual trajectory preview doesnt seem useful whenever the moon is involved as by the time you fire, the moon has moved the trajectory is wildly different to whatever the preview showed\n\none perspective i've heard some game developers talk about when prototyping a new game is focusing on trying to improve the length of time a player can have fun before they get sick of it. is it fun for 5 seconds? what could i do to increase that to make it fun for a whole 30 seconds? for 60 seconds?",
+  "url": "https://news.ycombinator.com/item?id=49888731",
+  "author": "b078c96d4491",
+  "createdAt": "2026-09-29T05:42:31.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49886926",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: So long Google, and thanks for all the nudes",
+  "body": "I mean that's the same argument as youtubers complaining about partner programme enrollment requirements being raised. Do you genuinely think your app should not have 12 testers? What if some youtuber picks it up for a promo, you get 1000 users in a day and all of them hit the same bug or someone finds a way to break the app and read everyone's actions done in the app?\nHobbyist are cool and all but I'm sure google got sick of one update publishers a long time ago and decided to only allow apps that can actually attract any sort of public.",
+  "url": "https://news.ycombinator.com/item?id=49886926",
+  "author": "59d872e9dd34",
+  "createdAt": "2026-09-29T01:32:40.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49886852",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Sonnet 5.5",
+  "body": "Sick of the cheap shot",
+  "url": "https://news.ycombinator.com/item?id=49886852",
+  "author": "f91135b1408f",
+  "createdAt": "2026-09-29T01:23:01.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49882548",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Windows 11½",
+  "body": "My aunt pulled a Windows XP computer out of storage recently because she's sick of Win 11. I'm excited to hear updates from my cousin (though unfortunately, I have to expect this experiment will fail)",
+  "url": "https://news.ycombinator.com/item?id=49882548",
+  "author": "c996fde11fcb",
+  "createdAt": "2026-09-28T18:42:58.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49879608",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: European industry is doing better than you may think",
+  "body": "Why do you think there isn't perpetual demand for cheaper goods and why do you think people in general are sick of cheaper goods?",
+  "url": "https://news.ycombinator.com/item?id=49879608",
+  "author": "2590a2c482e1",
+  "createdAt": "2026-09-28T15:29:44.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49878784",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: European industry is doing better than you may think",
+  "body": "Everyone has bought all the cheap shit that they could ever buy from china. There isnt perpetual demand for cheap chinese stuff. PPl are sick of it.",
+  "url": "https://news.ycombinator.com/item?id=49878784",
+  "author": "52c3136be07c",
+  "createdAt": "2026-09-28T14:42:24.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49883223",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Early last year, I got frustrated with MCP docs. So I wrote AI Agents with MCP",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=49883223",
+  "author": "d30d5b54908d",
+  "createdAt": "2026-09-28T19:33:13.000Z",
+  "engagement": {
+   "score": 1,
+   "comments": 1
+  },
+  "tags": [],
+  "painScore": 31,
+  "matchedPhrases": [
+   "frustrated with"
+  ]
+ },
+ {
+  "id": "hackernews:49887810",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: California farmers are struggling to sell grapes as demand for wine drops",
+  "body": "Even at $10/bottle, food is too expensive now for a lot of consumers to splurge on wine. I drink water with my meals almost exclusively now.\nIt's nothing to do with health concerns. It's the economy.",
+  "url": "https://news.ycombinator.com/item?id=49887810",
+  "author": "0beaa4b20487",
+  "createdAt": "2026-09-29T03:32:26.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49887260",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: OpenAI Says It Will Not Release Newest A.I. Model Over Safety Concerns",
+  "body": "A.k.a.: Too expensive for inference at fp16 and too dumb after quantisation, so it wouldn’t look good to release a step backwards.\nGPT 4.5 was scrapped for similar reasons.",
+  "url": "https://news.ycombinator.com/item?id=49887260",
+  "author": "ed3287f31ad5",
+  "createdAt": "2026-09-29T02:13:38.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49886244",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Sonnet 5.5",
+  "body": "Nobody should be using this model, it's too expensive.\nIf you look at Anthropic's own benchmarks any thinking levels above medium quickly approach the cost of Opus 5.5 and even exceed them.",
+  "url": "https://news.ycombinator.com/item?id=49886244",
+  "author": "5755f42707df",
+  "createdAt": "2026-09-29T00:12:16.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49883607",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Coding is not solved",
+  "body": "Porting this to rust would be a multiyear, multiengineer project normally. And in fact you would almost certainly never do it, because it would be too expensive and you'd have to take engineers off of work building new features for ages.",
+  "url": "https://news.ycombinator.com/item?id=49883607",
+  "author": "10e3dfba39cf",
+  "createdAt": "2026-09-28T20:05:10.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49883456",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Show HN: HN.watch – Videos of all Hacker News posts",
+  "body": "That video in the README is amazing! Will definitely dig into this project.\nWe're not using Opus 5.5 btw, as it would be too expensive. Our goals is to eventually get the cost down to 1 cent for a 1 minute video, and with 1 second delay from submit to playback. For that, we need dirt cheap and lightning fast models.",
+  "url": "https://news.ycombinator.com/item?id=49883456",
+  "author": "de15e5e8ab66",
+  "createdAt": "2026-09-28T19:52:42.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49882943",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Fakecloud: Local AWS cloud emulator for integration tests",
+  "body": "It depends on your tests and environments. MySQL container should be used for integration and CI/CD testing if you are cost sensitive. Dev or Staging should be end to end testing against AWS RDS.\nWhole point is this stuff is for those who think running Dev RDS is too expensive.",
+  "url": "https://news.ycombinator.com/item?id=49882943",
+  "author": "4bf0115405af",
+  "createdAt": "2026-09-28T19:10:02.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49892691",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: You Are No Longer Invited to Dinner",
+  "body": "Material conditions certainly affect this too.\nFor example, if you're younger, it's a lot harder to throw a dinner party in your tiny overpriced apartment than it might have been for a previous generation of people who already owned homes in their twenties.\nIt is also harder to throw a party when both partners in a relationship need to work full time to make ends meet.\nIt is also harder to throw parties when invitees also are overworked and tired and are habituated to netflix, rather than going out.\nIf you live in a city, going to a public space is inevitably easier. If you live in a suburb, staying home is inevitably easier.\nIt's much more plausible to me that these trends are due to underlying material conditions more than they are to some fundamental change in the social attitudes of people (though obviously both can play a role).",
+  "url": "https://news.ycombinator.com/item?id=49892691",
+  "author": "790cb98520fe",
+  "createdAt": "2026-09-29T13:13:38.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:49892204",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "What Does Deere Owe for Overpriced Repairs? Farmers Struggle to Find Out",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=49892204",
+  "author": "65ce7ec3949c",
+  "createdAt": "2026-09-29T12:40:34.000Z",
+  "engagement": {
+   "score": 1,
+   "comments": 1
+  },
+  "tags": [],
+  "painScore": 31,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:49889002",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: California farmers are struggling to sell grapes as demand for wine drops",
+  "body": "I would expect Californian wine to be overpriced, as most things are there. That could also be a factor. If your local wine costs as much as a nice imported Spanish Rioja, why would anyone pick the local wine?",
+  "url": "https://news.ycombinator.com/item?id=49889002",
+  "author": "d848d86a5d50",
+  "createdAt": "2026-09-29T06:24:09.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:49884134",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: California farmers are struggling to sell grapes as demand for wine drops",
+  "body": ":D\nThat said, American wine—and California wine in particular—has a bit of an IPA problem inasmuch as there is a lot of overpriced, overproduced swill being priced exceptionally high by international standards.",
+  "url": "https://news.ycombinator.com/item?id=49884134",
+  "author": "e5478a9a6694",
+  "createdAt": "2026-09-28T20:48:03.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:49883475",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Sonnet 5.5",
+  "body": "> American AI lost the game already, people just can't see it.\nMicrosoft has been releasing dog shit insanely overpriced software with decent alternatives for decades and is still used in every single company I work for or with.\nYour take is the \"current year is the year of the linux desktop\" meme of \"ai\"",
+  "url": "https://news.ycombinator.com/item?id=49883475",
+  "author": "2a8cb282bae3",
+  "createdAt": "2026-09-28T19:54:03.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:49881304",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: MongoDB CEO resigns to join Meta",
+  "body": "> AI makes it much less painful to move off of legacy and/or overpriced software.\nAgreed. While DynamoDB != MongoDB, they are similar. I built a product on DynamoDB (Single-table-design) and while it was cool to find a way to make relational data work in DynamoDB, it was always a chore. New feature development was a huge PITA as was changing schema in any way. Sure, I might have been \"holding it wrong\" but after a weekend with Claude I migrated everything to Postgres and have been incredibly happy with that change something like 4-6 months later.",
+  "url": "https://news.ycombinator.com/item?id=49881304",
+  "author": "1d11e1b88395",
+  "createdAt": "2026-09-28T17:19:19.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:49880069",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: MongoDB CEO resigns to join Meta",
+  "body": "TIL MongoDB is a publicly traded company.\nI can't imagine the future is bright for MongoDB as AI makes it much less painful to move off of legacy and/or overpriced software.",
+  "url": "https://news.ycombinator.com/item?id=49880069",
+  "author": "fbdc81a48a32",
+  "createdAt": "2026-09-28T15:56:13.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:49879026",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Replacing the old battery on rechargeable bike lights",
+  "body": "Glad to read this. I have an overpriced umbrella with solar powered lights in it. It used to work great but now the lights only stay on for about 30 seconds now before turning of. I figured something may have gone bad with the solar panel on it - reading this makes me think that changing the battery out could be the fix instead.",
+  "url": "https://news.ycombinator.com/item?id=49879026",
+  "author": "58f4751c3ed4",
+  "createdAt": "2026-09-28T14:55:18.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:49883122",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Show HN: HN.watch – Videos of all Hacker News posts",
+  "body": "This looks a good idea to let people choose their preferred medium. I am not into video either, but I turned one of my latest blog article into a video using Claude, since I thought it would be “easy.” I asked it to build the video by screencasting a browser presenting the interactive diagrams of the article and add some titles. It build some kind of recording app for me. It still took me many hours, but I think I would be faster if I redid it. I would pay to have it done faster, but I want to keep control of the text, not have a summary.\nThe article: https://vincent.bernat.ch/en/blog/2026-spanning-tree-video\nThe tool built by Claude to make the video: https://github.com/vincentbernat/vincent.bernat.ch/tree/2808...",
+  "url": "https://news.ycombinator.com/item?id=49883122",
+  "author": "abf9f262b6f6",
+  "createdAt": "2026-09-28T19:25:21.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "i would pay"
+  ]
+ },
+ {
+  "id": "hackernews:49887895",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982",
+  "body": "The counterpoint is that the US is producing more crude domestically than ever with more efficient drilling technology:\nhttps://www.oilmonster.com/article/more-productive-wells-spu...\nInsofar as I can tell what's really reflected here is a difference between Democrat and Republican policy positions. The Democrats want to minimize domestic environmental impact and be a net oil importer. Let someone else handle the dirty work of drilling. The Republicans are less concerned with the environmental impact and want to increase exports, oil jobs and economic sovereignty. With higher domestic production and less dependence on foreign states, such a large petroleum reserve is unnecessary.\nI prefer the Republican position. It sucks to harm the environment. But it sucks more to enable some of the regimes we import oil from. They frequently are not close allies. We frequently end up immersing ourself in wars and other entanglements over this foreign oil. You want to stop the wars, you have to stop the dependence on imported oil. (To be clear I'm not arguing that Republicans will start less wars, or are a more moral party. I am arguing in favor of domestic oil production because it removes a justification for war.)\nThe Democratic position exports the moral hazard to a place where Americans don't see it. Takes it out of their backyard. But frankly that is an immoral approach which both parties have taken repeatedly and it has undermined the health of the nation. The other case where this takes place at an absolutely massive scale is exporting certain types of jobs to other countries where labor standards are lax, and where slave labor takes place. People out there killed themselves while making iPhone or your shoes because the working conditions in those countries were so horrible. I am willing to pay a little more for shoes and buy a little bit fewer luxury goods so that I don't enable slave labor. Move the jobs back onshore where we can regulate the well being of the workers.…",
+  "url": "https://news.ycombinator.com/item?id=49887895",
+  "author": "3a9ef6448916",
+  "createdAt": "2026-09-29T03:42:02.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49885340",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Sonnet 5.5",
+  "body": "The usage numbers tell a different story. Not only is the great majority of AI users on American frontier providers, they are also willing to pay the premium price for the premium product. It's not like tech is oblivious to the Chinese models. It's that the industry is aware they are always 6 months to a year behind.\nYou didn't discover some new trick for cost performance. And the rest of the world isn't dumb.\nYou're just too broke to afford the supercar and justifying the hooptie. It gets you to the kindergarten class after all. And that's all you need.",
+  "url": "https://news.ycombinator.com/item?id=49885340",
+  "author": "6a4fb99714a7",
+  "createdAt": "2026-09-28T22:27:33.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49885493",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?",
+  "body": "Benchmarks how well Harness+models can create a Pac-Man game from a single prompt:\n“Create a Pac-Man game in a single HTML page”\nEach model gets one shot — no follow-up prompts or fixes.",
+  "url": "https://news.ycombinator.com/item?id=49885493",
+  "author": "c0363a91e097",
+  "createdAt": "2026-09-28T22:43:12.000Z",
+  "engagement": {
+   "score": 71,
+   "comments": 44
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 51,
+  "matchedPhrases": []
+ },
+ {
+  "id": "hackernews:49880601",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: Destroy Any Website with Stickman",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=49880601",
+  "author": "eec89bba44a4",
+  "createdAt": "2026-09-28T16:31:28.000Z",
+  "engagement": {
+   "score": 148,
+   "comments": 36
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 56,
+  "matchedPhrases": []
+ },
+ {
+  "id": "hackernews:49879401",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+  "body": "Hi HN, I’m Per, founder of Scrimba (YC S20). We’ve spent the last decade teaching people how to code with an HTML-based video format. We’ve now plugged an LLM into it, so that people can create explainer videos about anything. It’s called “Scrimba Explain”.\nTo demo this technology for Hacker News, we built HN.watch. It’s like HN, but with explainer videos instead of articles. We create them on-the-fly the first time someone clicks on a link.\nWhile there are obvious visual drawbacks of using HTML instead of diffusion models, there are three big benefits: - Speed: Much faster to generate than pixel-based videos (just a few seconds from click to playback) - Cost: Our cost per video is ~$0.04. (Excluding image generation, which some videos utilize. Quickly blows up the cost) - Easy editing: the above benefits also make AI-assisted editing cheap & fast\nOur hypothesis is that if video creation goes from “dollars and minutes” to “cents and seconds”, a bunch of new use cases will be unlocked. Here are some we see already: - A video explanation of every single Pull Request (we do this internally) - Give every page in your internal/extrernal docs a video - Turn a complex article into a video in ~4 seconds (via our Chrome extension) - Course creators can quickly draft lessons before recording the real thing - People also create a lot of personal stuff stories for their kids, wedding invitations, birthdays, etc\nThe stack is based on an open-source programming language (Imba) created by our CTO, Sindre Aarsæther. It compiles to JavaScript, so it interoperates fully with the npm + node ecosystem. You can learn more here: https://imba.io/\nWe’ve also built our own sync engine (OP), and a context management system for agents (Q). We feared this would make the LLMs struggle when writing code for us, as neither is in their training data (there’s very little Imba in there too). However, we’ve been pleasantly surprised to see that LLMs actually are really good at our stack. This is pro…",
+  "url": "https://news.ycombinator.com/item?id=49879401",
+  "author": "de15e5e8ab66",
+  "createdAt": "2026-09-28T15:16:13.000Z",
+  "engagement": {
+   "score": 198,
+   "comments": 96
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 58,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1380950524",
+  "source": "github",
+  "kind": "tool",
+  "title": "angel291592/Intent-Router — 297★",
+  "body": "Intent compiler for AI agents — converges vague requests into typed IntentSpec contracts (probe, ask, or halt before routing), the input layer for routers and typed-decision models like Jev & Laya",
+  "url": "https://github.com/angel291592/Intent-Router",
+  "author": "1e860d27ddd4",
+  "createdAt": "2026-09-22T06:00:27Z",
+  "engagement": {
+   "stars": 297
+  },
+  "tags": [
+   "claude-code",
+   "Python"
+  ],
+  "painScore": 61,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1390088311",
+  "source": "github",
+  "kind": "tool",
+  "title": "zhuyansen/awesome-claude-video-skills — 265★",
+  "body": "Open-source skills and toolkits that let Claude Code, Codex and other coding agents make video. 180 repos by type, each security-graded. English / 中文.",
+  "url": "https://github.com/zhuyansen/awesome-claude-video-skills",
+  "author": "a15c17c2119f",
+  "createdAt": "2026-09-27T04:06:05Z",
+  "engagement": {
+   "stars": 265
+  },
+  "tags": [
+   "claude-code"
+  ],
+  "painScore": 60,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1393965829",
+  "source": "github",
+  "kind": "tool",
+  "title": "KKKKhazix/AIHOT — 2509★",
+  "body": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+  "url": "https://github.com/KKKKhazix/AIHOT",
+  "author": "35db2c4efcf8",
+  "createdAt": "2026-09-28T23:40:05Z",
+  "engagement": {
+   "stars": 2509
+  },
+  "tags": [
+   "mcp",
+   "TypeScript"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1373457285",
+  "source": "github",
+  "kind": "tool",
+  "title": "GetBrew/growth-engineer — 108★",
+  "body": "Open-source catalog of go-to-market tools and workflows, written as markdown files any agent can run. Includes a read-only MCP server.",
+  "url": "https://github.com/GetBrew/growth-engineer",
+  "author": "0814ea182307",
+  "createdAt": "2026-09-16T18:02:33Z",
+  "engagement": {
+   "stars": 108
+  },
+  "tags": [
+   "mcp",
+   "TypeScript"
+  ],
+  "painScore": 54,
+  "matchedPhrases": []
+ }
+]
