@@ -1,0 +1,1324 @@
+[
+ {
+  "id": "hackernews:49904961",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Cf: The Agentic CLI for the Cloudflare API",
+  "body": "> I just tested gcloud (...)\nThat's fine if all you want to do is put together a nonsensical apples to oranges comparison.\nIf you actually want to take a look at what kind of cli app Cloudflare can put together, you'd look at the likes of wrangler.\nI mean, I'm sure it takes a couple of minutes to find a notable cli app written in your language of choice with is riddled with problems. Don't you agree? Would that serve as proof your language of choice is bad?\nHaving said that, you should take a look at what kinds of tests you are doing and what kind of values you're seeing. Any http request is expected to take ~200ms to execute, and any app that does any kind of auth verification will do a pair of those at app start. This is before the app does anything useful. Therefore this means you are trying to nitpick over milliseconds in domains where latency alone will be an order of magnitude or two greater than the values you are holding onto as meaningful.\nWhy do you think the likes of nodejs dominates backend development? It's surely not because of isomorphic JavaScript, it's something else.",
+  "url": "https://news.ycombinator.com/item?id=49904961",
+  "author": "7027767bd1e8",
+  "createdAt": "2026-09-30T06:01:36.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "any app that"
+  ]
+ },
+ {
+  "id": "hackernews:49896742",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Is there a lanscaping tool which can take photos of my garden and make 3D model?",
+  "body": "I am looking for a tool which would allow me to take photos of my garden and then generate a 3D editable garden where I can drag and move things. Something like Blender or CAD but with the photos as inputs.",
+  "url": "https://news.ycombinator.com/item?id=49896742",
+  "author": "ce05563b6f6c",
+  "createdAt": "2026-09-29T17:14:46.000Z",
+  "engagement": {
+   "score": 3,
+   "comments": 3
+  },
+  "tags": [
+   "ask_hn"
+  ],
+  "painScore": 35,
+  "matchedPhrases": [
+   "looking for a tool"
+  ]
+ },
+ {
+  "id": "hackernews:49905773",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Show HN: Melete – an open-source alternative to OpenAI's Dots",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=49905773",
+  "author": "e01c35cae716",
+  "createdAt": "2026-09-30T07:51:10.000Z",
+  "engagement": {
+   "score": 1,
+   "comments": 0
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 28,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49904793",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+  "body": "Local alternative to jev is very interesting. \nTrue hacker spirit: pulling this off on a single local RTX PRO 6000 with open-model synthetic data—zero reliance on cloud GPUs or closed APIs.",
+  "url": "https://news.ycombinator.com/item?id=49904793",
+  "author": "9d537f173eb9",
+  "createdAt": "2026-09-30T05:40:49.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49903576",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: AI needs $6T in annual revenue to justify data centre boom",
+  "body": "Not true due to induced demand. Traffic increases when more lanes are added to a highway. The alternative to $200 in AI costs is not $20,000 in labor costs. The alternative is nothing because the work was never worth $20,000. So the AI did not eliminate $20,000 worth of hypothetical labor.\nAI creates demand for things that didn't exist previously",
+  "url": "https://news.ycombinator.com/item?id=49903576",
+  "author": "098de172e850",
+  "createdAt": "2026-09-30T02:15:38.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49902277",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Updated Google Maps shows destruction of the city of Rafah",
+  "body": "> An alternative to levelling entire cities to the ground to find tunnels, would be to stop the expanding of the settlers, stop the apartheid within Israel, stop the blockade and starving on Gaza, and try to actually foster peace instead of constant conflict, pain and misery in order to retain power.\nIsrael left Gaza back in 2005 after forcibly expelling all Jews and only later on only blockaded Gaza due to weapons being smuggled in, so they tried that and it clearly didn't work. It seems unilateral disengagement is simply not a strategy that can be succesful here.",
+  "url": "https://news.ycombinator.com/item?id=49902277",
+  "author": "21f6a2900078",
+  "createdAt": "2026-09-29T23:29:35.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49901586",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Tcl/Tk 9.1",
+  "body": "> Entirety of interpreter state is encapsulated inside the interpreter object\nThis was their attempt to position Tcl as an alternative to JS. The sub-interpreters were introduced as controllable sandboxes for running untrusted code with reduced privilege. Instead we got a web scripting language that allows untrusted code to interact with your USB devices. Python sub-interpreters are a joke compared to what Tcl has.",
+  "url": "https://news.ycombinator.com/item?id=49901586",
+  "author": "62d208a1238b",
+  "createdAt": "2026-09-29T22:22:17.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49901205",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "MacOBlox – New Alternative to Sober on Linux",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=49901205",
+  "author": "d86dba1791de",
+  "createdAt": "2026-09-29T21:52:26.000Z",
+  "engagement": {
+   "score": 3,
+   "comments": 2
+  },
+  "tags": [],
+  "painScore": 34,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49899276",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Show HN: NSL – WSL for Linux",
+  "body": "Oh cool thanks for the info!\nIt's an interesting project.\nAre these systemd containers comparable to lxc containers or better maybe?\nThis could be a really interesting alternative to fully featured LXC containers.\nUbuntu has a similar cli tool you probably know about called multi-pass but it just spins up Ubuntu distros.\nThe issue I had with multipass was how difficult it was to access and backup files, I guess it was meant for more of a disposable container.",
+  "url": "https://news.ycombinator.com/item?id=49899276",
+  "author": "85aaabfbc752",
+  "createdAt": "2026-09-29T19:45:51.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49897710",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Open Dots: Open-Source Alternative to OpenAI Dots",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=49897710",
+  "author": "243c8bb04cf8",
+  "createdAt": "2026-09-29T18:03:38.000Z",
+  "engagement": {
+   "score": 3,
+   "comments": 1
+  },
+  "tags": [],
+  "painScore": 33,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49897591",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Show HN: OpenDots – model agnostic alternative to OpenAI's Dots",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=49897591",
+  "author": "5f7d8fc76372",
+  "createdAt": "2026-09-29T17:58:22.000Z",
+  "engagement": {
+   "score": 2,
+   "comments": 0
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 30,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49896066",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: California farmers are struggling to sell grapes as demand for wine drops",
+  "body": "Smoking is a plant-based alternative to vaping.",
+  "url": "https://news.ycombinator.com/item?id=49896066",
+  "author": "5eecbd0ca1d3",
+  "createdAt": "2026-09-29T16:31:56.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49895344",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: US sanctions force The Netherlands off Microsoft and toward alternative NixOS",
+  "body": "I think it depends on what they want it for. I can imagine NixOS being perfect for user workstations for example, as an alternative to Windows workstations managed with Active Directory.\nI imagine you have a lot more experience than I do packaging for NixOS and other distros given your product, but in the few cases that I've needed to run a binary, I just wrap it with a flake and it's done. I also stay on NixOS stable, so I avoid the sharp parts of \"bleeding edge\". In my experience as a desktop user, I've never had a failed rollback since using NixOS as my primary OS since around 2016. However, whenever I try to use it as a server OS, I often do hit the pain point you mentioned around statefulness. More specifically, the happy path is extremely happy, but once you need something off the happy path, you find yourself creating some really ugly glue to get it to interface with the happy path. The pattern I've settled on is using Podman quadlets for most services, but that isn't without pain either. Then you find that you've become a Unix sysadmin, managing different UIDs for rootless podman, different network domains, dealing with permissions issues, etc. I'm currently experimenting with microvm.nix to see if that will be cleaner, but no conclusions yet.",
+  "url": "https://news.ycombinator.com/item?id=49895344",
+  "author": "381e509ad7b4",
+  "createdAt": "2026-09-29T15:46:27.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49908208",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: LinkedIn Larpmaxxing",
+  "body": "I wish there was an alternative but at least there's not much right wing propaganda and it does just work.\nGo on corposlop site centered around betraying your humanity by method acting as lobotomized drone slaves of global transnational capitalism. I lie and sign myself to lies! At least no \"right wing propaganda\" though.",
+  "url": "https://news.ycombinator.com/item?id=49908208",
+  "author": "cdd4d69c979d",
+  "createdAt": "2026-09-30T12:51:23.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "wish there was"
+  ]
+ },
+ {
+  "id": "hackernews:49905935",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Is there a lanscaping tool which can take photos of my garden and make 3D model?",
+  "body": "Wow. Were you able to drag things around manually? I wish there was something that can select like a Chair and drag it around the room in 3D because Claude could interact with it so that the design is done by prompting",
+  "url": "https://news.ycombinator.com/item?id=49905935",
+  "author": "ce05563b6f6c",
+  "createdAt": "2026-09-30T08:17:21.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "wish there was"
+  ]
+ },
+ {
+  "id": "hackernews:49904611",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: LinkedIn Larpmaxxing",
+  "body": "I know there's a lot of hate for LinkedIn here on HN but it really is the only place to see where ex-colleagues are working at and what competitors say they are up to. It's kind of like a boring version of TwitterX, but essential to those of us in normie jobs.\nI wish there was an alternative but at least there's not much right wing propaganda and it does just work.",
+  "url": "https://news.ycombinator.com/item?id=49904611",
+  "author": "7c7d15bd5492",
+  "createdAt": "2026-09-30T05:13:24.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "wish there was"
+  ]
+ },
+ {
+  "id": "hackernews:49904291",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+  "body": "I wish there was some picts.",
+  "url": "https://news.ycombinator.com/item?id=49904291",
+  "author": "64b33f37c5b4",
+  "createdAt": "2026-09-30T04:16:35.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "wish there was"
+  ]
+ },
+ {
+  "id": "hackernews:49898688",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Does Reddit have an astroturfing problem? What the data suggests",
+  "body": "I absolutely loathe reddit now. It used to be so great. It's filled with ban-happy moderators, AI slop posts and comments, reposts of comments and posts, memes, low effort posts, and of course astroturfing. Recently it's become basically unusable as there's nothing of importance being posted. I wish there was a new platform to replace it but unfortunately that will probably turn into what reddit is now.",
+  "url": "https://news.ycombinator.com/item?id=49898688",
+  "author": "ba8a6419860a",
+  "createdAt": "2026-09-29T19:03:04.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "wish there was"
+  ]
+ },
+ {
+  "id": "hackernews:49902659",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Ask HN: What are you reading?",
+  "body": "> I heard complaints that it's just a Tolkien clone\nWhat a flattering complaint. Reminds me of this:\n\"Terry Brooks has often been disparaged for imitating Tolkien, particularly by those reviewers who find his books inferior to Tolkien's own. I can say only that I wish there were more imitators -- we need them -- and that all imitations of so great an original must necessarily be inferior. \"\nhttps://web.archive.org/web/20110823100353/https://www.theni...",
+  "url": "https://news.ycombinator.com/item?id=49902659",
+  "author": "d56841928cd8",
+  "createdAt": "2026-09-30T00:12:32.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "wish there were"
+  ]
+ },
+ {
+  "id": "hackernews:49898885",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: macOS Golden Gate Is a Buggy Mess",
+  "body": "You should try to add comments with that built-in editor. You can spend hours of writing the comments, and then suddenly, some comment gets corrupted and it removes all existing comments. All work gone. You can't trust that tool.",
+  "url": "https://news.ycombinator.com/item?id=49898885",
+  "author": "943bbd81975a",
+  "createdAt": "2026-09-29T19:16:28.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "spend hours"
+  ]
+ },
+ {
+  "id": "hackernews:49896348",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: You are no longer invited to dinner",
+  "body": "My wife was a volunteer coordinator at our school district. One time she roped me into making food for 150 teachers for teacher appreciation week. I’d much rather do that than prepare for a party in my house regardless of how much or little food I have to prepare. The food prep is the easy part. I can put in AirPods and listen to an audiobook while prepping or cooking things late at night. I can hand over the food and receive compliments via proxy. I don’t have to interact with people at the end and spend hours counting down the minutes until my house is empty and I can relax again.",
+  "url": "https://news.ycombinator.com/item?id=49896348",
+  "author": "57f80d68c10d",
+  "createdAt": "2026-09-29T16:51:38.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "spend hours"
+  ]
+ },
+ {
+  "id": "hackernews:49895581",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: You are no longer invited to dinner",
+  "body": "I can feel equally socially energised meeting people outside and I don't have to spend hours cleaning up after!",
+  "url": "https://news.ycombinator.com/item?id=49895581",
+  "author": "b6abbde1e3e2",
+  "createdAt": "2026-09-29T16:00:15.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "spend hours"
+  ]
+ },
+ {
+  "id": "hackernews:49907549",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: PS5 Relapse Exploit",
+  "body": ">but they are sick of it, not appreciating it, most of the time I win\nI agree with not going easy on your kids, but I think it's a good opportunity to motivate them to work together to beat you",
+  "url": "https://news.ycombinator.com/item?id=49907549",
+  "author": "e503c3d8564c",
+  "createdAt": "2026-09-30T11:48:27.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49906267",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: PS5 Relapse Exploit",
+  "body": "Honestly I am not even interested in PS4 and especially PS5 exploits, the only reason I have PS3 is to play split screen games with kids or kids alone, the push to online play killed consoles for me, PS3 was the peak of split screen gaming, PS4 and PS5 have significantly less split screen games than PS3 and let's not forget you can play PS1 and PS2 split screen games on PS3, so I guess for someone not playing split screen games these jailbreaks are relevant, but for me they killed their newer consoles with abandoninh split screen games. I bought our previous PS3 Slim for 40EUR including shipping, after one year it died most likely because of RSX (random artifacts, no overheating), now bought PS3 Super Slim for 50EUR, will see how long will last that, but anyway if it would be 40-50EUR per year of offline split screen gaming I am fine with that, using HEN.\nand since someone asked me here recently what we play, here copypasta:\nWhat we/they play:\nmy favorite game (but they are sick of it, not appreciating it, most of the time I win) is Worms 2 Armageddon (part of Worms Revolution collection)\nBlur - racing with fun for me and son\nSonic & Sega All-Stars Racing or Sonic & All-Stars Racing Transformed - all of us including dauther\nLittle Big Planet - co-op platformer, all of us liked it until it got really difficult\nNHL Legacy edition - all of us ocassionally\nMotorStorm - Pacific Rift - racing, seems only son, but I can bear it for while\nChildren like (but without me):\nMinecraft - PlayStation 3 Edition - they play it offline like all games we have, I guess it is co-op\nRayman Legends - co-op platformer\nThe Simpsons Game - co-op platformer, but needs to think, can get stuck in places\nand since we watch together MotoGP and F1 they recently started to play F1 2013 - Complete Edition, but seems too difficult, for racing the best fun is first Sonic all star racing or Blur\non PS2:\nLEGO Batman - co-op platformer, but requires lot of thinking\nShrek 2 - same as above\nwe liked from…",
+  "url": "https://news.ycombinator.com/item?id=49906267",
+  "author": "df2fd6bf3f5c",
+  "createdAt": "2026-09-30T09:05:56.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49904478",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Dots: Always-on agents",
+  "body": "I'm sick of cutesy avatars in products. I don't want to converse with a purple triangle, a cloud or a dot.\nWhere are the Klingon avatars?",
+  "url": "https://news.ycombinator.com/item?id=49904478",
+  "author": "1a3b43ab7feb",
+  "createdAt": "2026-09-30T04:52:15.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49902924",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Backblaze drive stats for Q2 2026",
+  "body": "i guess, but to me its not so much \"this is ai this is terrible\" and more \"i'm sick of hearing this phrase all the time\". it's not that I never want to see an em-dash ever again, its just that i don't want them used every other sentence.",
+  "url": "https://news.ycombinator.com/item?id=49902924",
+  "author": "3e5cfe3e201e",
+  "createdAt": "2026-09-30T00:42:55.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49902612",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: We’re forgetting what darkness feels like",
+  "body": "The one big reason I would love to live in the past or have a time machine is to see a true night sky. Sick of the light washed-out and satellite specked one we have now.",
+  "url": "https://news.ycombinator.com/item?id=49902612",
+  "author": "5c630dcace98",
+  "createdAt": "2026-09-30T00:08:15.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49895958",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Show HN: Share Claude Code rate-limits between friends",
+  "body": "Hi !\nIt's been a few months since with my best friend (and cofounder) we were really getting sick of one rate limiting while the other had plenty of \"tokens\" left on his Claude subscription.\nSo we made this. And we find it cool so we share it to you.\nPlease give us feedback, that'd be really appreciated, negative or positive ;)",
+  "url": "https://news.ycombinator.com/item?id=49895958",
+  "author": "6e10a30d4304",
+  "createdAt": "2026-09-29T16:24:04.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 35,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49907114",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+  "body": "tl;dr it changes the weights, it does not add new ones.\nRL makes the model better within its capabilities, it does not increase the total ceiling of the model. Ie does not make it smarter. Qwen 3.8 27B is a great model, still probably not at the limit of 27B in terms of coding capabilities, and it still has that \"small model feel\" to it. The better smaller models get at coding the worse they get at everything else too.\nGoing from Sol 5.6 to Astra, Opus to Fable, you can still get that \"larger model feeling,\" though less so. The bigger models can reference things that you would not have expected.\nThe distinction I'm making is that models themselves are getting too expensive, so the improvements are mainly on the RL side. Which is fine, but they do not make the model smarter, rather make them use their capabilities better. They are likely to catch things they are RL'd for, and that hopefully anything else doesn't get negatively affected. RL'ing for Javascript world for example did not improve the C world when working with the models.",
+  "url": "https://news.ycombinator.com/item?id=49907114",
+  "author": "e47951d5e9bc",
+  "createdAt": "2026-09-30T10:56:09.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49906239",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Dots: Always-on agents",
+  "body": "I just came up with an idea for a toy project: I would use dots to manage things like market research, checklists, and design ideas.\nSince it starts with the Pro pricing plan, I’ll have to try it out later when it’s available on the Plus plan. Pro plan for toy project is too expensive.",
+  "url": "https://news.ycombinator.com/item?id=49906239",
+  "author": "ffb91995bcb7",
+  "createdAt": "2026-09-30T09:01:50.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 35,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49904601",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: AI needs $6T in annual revenue to justify data centre boom",
+  "body": "We're coming up on another AI winter. This is the one where AI is useful, but too expensive.",
+  "url": "https://news.ycombinator.com/item?id=49904601",
+  "author": "2bda64d948b3",
+  "createdAt": "2026-09-30T05:12:07.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49904027",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: How our vibe coded website looks like a designer made it",
+  "body": "it doesnt really. some layoffs yes, others no.\nthe high performers in a whole org that gets cut, still gets cut.\neven the performance of the org itself doesnt matter if the business decides the opportunity cost of not doing something else is too expensive",
+  "url": "https://news.ycombinator.com/item?id=49904027",
+  "author": "e4005bf0b7ef",
+  "createdAt": "2026-09-30T03:25:35.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49900503",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: 500k facial scans at UK stations yield no arrests, 1 false positive",
+  "body": "I guess that tells you how expensive travelling by trains is then, if in 6 months only 500k unique faces were captured or identified. That is roughly 3k per day or 120-150 every hour or 2-3 every minute across multiple stations.\nUnfortunately, this exercise would be labelled as too expensive to be scaled, the irony.\nSurely, the preference for the department is buying rather than building their own cost effective solutions inhouse which would be scalable rather than limited.\nLook at France and Netherlands, their government departments are already working on reducing reliance on microsoft products. This has to come from the very top, rather than being consumers these departments with their budgets should become tech producers.",
+  "url": "https://news.ycombinator.com/item?id=49900503",
+  "author": "f89c66af0e83",
+  "createdAt": "2026-09-29T21:02:59.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49899797",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Why Doesn't Anyone Want to Fix One of America's Scariest Roads?",
+  "body": "This article really reminds of how the Golden Gate Bridge was one of the most suicide-prone bridges in the country, and the locals resisted making the barriers higher or add a protective net beneath. The reasoning was basically the same: it’s too expensive, it’s a matter of personal responsibility, know the risks yourself, etc.",
+  "url": "https://news.ycombinator.com/item?id=49899797",
+  "author": "369fce712551",
+  "createdAt": "2026-09-29T20:19:25.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49898370",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+  "body": "> ... the pace of progress has continued on it's exponential trajectory since ChatGPT first came to the public's attention.\nDid it? Model wise? I would understand agents wise, sure. But model wise? The attention to detail from the model? The ability to recall minute things? Improvements are there, yes, but mostly on Fable and Astra. Opus still isn't as attentive as Fable in long term writing for example.\nSure, Opus 5.5 benchmarks better than Fable. Sure. But is that the model, or is that the RL for agentic work?\nFrom where I'm standing, the model work has not been exponential at all, and more and more it looks like the latest and greatest is getting too expensive too fast. Both 5.5 and 5.6 chat models got nerfed, actually nerfed not the tea leaves kind. In mid 5.5 cycle the chat model lost the ability to substitute names if given an outline. 5.6 cycle the chat model lost the ability to use paragraphs after a few hundred words (coinciding with Chat/Work split).\nThere's a race from OpenAI to serve dumber models on chat. I'm not even sure who they are racing against, but the fact that Astra, Sol 6.0, and now Sol 6.1 not being available for chat, should tell you that those models are expensive, and not the kind of models that can be freely \"chatted\" with on a subscription. OpenAI much prefers you use Work and limit the chat usage, much like Grok and Claude. I'm guessing they will announce that later during the dev days.\nThat could be cost cutting too, true, but really? That's the only explanation? And nothing else?\nSure, the progress did not stop. But it is nowhere near close being exponential when it comes to LLMs themselves. Agents are separate.",
+  "url": "https://news.ycombinator.com/item?id=49898370",
+  "author": "e47951d5e9bc",
+  "createdAt": "2026-09-29T18:43:29.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 35,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49897542",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+  "body": "Still too expensive. Needs to come down to $1 or less to compete with china.",
+  "url": "https://news.ycombinator.com/item?id=49897542",
+  "author": "a64a285fa560",
+  "createdAt": "2026-09-29T17:55:21.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49896763",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Everybody’s home. No one’s coming over",
+  "body": "There's probably some mathematical relationship between car dependency, time, and urban sprawl too.\nBack in the 70s there may have been 1 or 2 affordable neighborhoods in your metro area where people in their late 20s could buy a house -- and they were both probably fairly close to the city center. Nowdays, I'd say those neighborhoods are likely to be farther away from the city center (exurbs) and thus farther away from each other.\nI think about this with my hometown friends in the PNW. Growing up we all lived in Bellevue, Redmond, and Kirkland, and now those areas are all too expensive and folks are living in Issaquah, Duvall, Renton, etc.",
+  "url": "https://news.ycombinator.com/item?id=49896763",
+  "author": "50ce96ca50af",
+  "createdAt": "2026-09-29T17:16:11.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49896468",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Google ending ChromeOS support two years early",
+  "body": "> I still don't get the point of Chromebooks. You need the exact same hardware as a real laptop, you don't get to save on anything,\nIn a time when buttons are too expensive, avoiding having a windows key is a valuable savings :P\nI've purchased a few chromebooks over time, and probably need to get one more for my mother-in-law. For her, the limitations of ChromeOS are a feature --- it's much harder for her to screw it up when she's on a call with fake support than with windows and she hadn't run anything other than a browser on her windows computer anyway.\nCertainly the core hardware is basically the same, but fluffy optional hardware tends to be left off or lower cost for Chromebooks. Many manufacturers offer laptops without an OS, but you usually miss out on pricing promotions so you're paying for Windows even if you don't want it. Chromebooks get pricing promotions and firesales, so careful shopping gets you pretty inexpensive computers that are good enough to do what they need to do.\nI don't like the forced expiration, and it's especially brutal when you purchase a new device late in its model life ... but I do try to purchase models that can use 3rd party bios replacement scripts so you can use them for other stuff when the OS is too far expired. Kind of derpy to have to bios replace to run ChromeOS flex to keep doing what you were doing, but such is life. Sometimes the device doesn't live that long, and that's fine too. Some of the chrombooks are cheaper simply because they have a very tiny SSD, and few of them are user replaceable, which makes prospects for running Windows later in life pretty bleak, but Windows is pretty bleak these days anyway. :P",
+  "url": "https://news.ycombinator.com/item?id=49896468",
+  "author": "b4357f28ec11",
+  "createdAt": "2026-09-29T16:59:03.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 35,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49896370",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Google ending ChromeOS support two years early",
+  "body": "\"Best build quality\" is the most important part. If you never got to handle one you are missing out. Glass and Solid milled aluminum. Silicone wrist pads and grip. 4:3 screen ratio. high quality keyboard. Rock solid 360 screen hinge.\nHardware is essentially a high end cellphone from 2016, which isn't a powerhouse but still does everything I would ask of a chromebook in 2026. Batteries are all generally going well.\nRepair-ability is a challenge, but I want to work on that. You can mod it to run windows or linux. Stock it runs chromeos, linux subsystem, and android apps. It has a \"feature\" where if you keep in developer mode it auto-wipes itself if anybody else tries to boot it (hitting anything but the un-indicated ctrl-d at the boot screen initiates powerwash). Great for international travel.\nIt isn't a good choice for \"power\" but dominates every other aspect of \"being a good laptop\". It was too expensive for the chromebook market back then, but now you can pick them up for $200 and hand them to your parents and stop getting asked to fix their computer.",
+  "url": "https://news.ycombinator.com/item?id=49896370",
+  "author": "0ae13d2b7f3d",
+  "createdAt": "2026-09-29T16:52:26.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49895132",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Nvidia wants to put a watchdog chip next to every AI agent",
+  "body": "So having AI in the US requires us all, collectively, taking that 1% chance of the end of humanity? It would be too expensive to properly sandbox the models, we'll just externalize that risk of the end of humanity?\nTruly psychopathic.",
+  "url": "https://news.ycombinator.com/item?id=49895132",
+  "author": "ff547b72bf6f",
+  "createdAt": "2026-09-29T15:34:37.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49895035",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Claude partial outage",
+  "body": "We don’t even need to imagine that world, Russia is doing it today.\nMissiles and ammo are too expensive, so they send people to run at the enemy, revealing their firing positions. Then they drone the people who revealed themselves.\nIf I was an AI, I would reason that a T-800 is far more valuable than a man soldier who I must feed and clothe and heat. Use the disposable soldiers first and save the robots for later.",
+  "url": "https://news.ycombinator.com/item?id=49895035",
+  "author": "a64a285fa560",
+  "createdAt": "2026-09-29T15:30:29.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49893958",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Climate is accumulating 4 Hiroshima atomic bombs worth of heat per second",
+  "body": "Honestly burning natural gas is much better than producing electricity with coal, and we can retrofit existing coal generation plants with natural gas and be like 85% cleaner. I'm kind of fed up with the absolutist takes of \"don't use any fossil fuels,\" since that's just completely unreasonable in the next 10-20 years. Setting up power plants takes massive investment, and excluding AI-driven demand, there's not much money in power generation.\nSolar has been making incredible progress, and works in sunny locations, but it's not a general purpose solution. Nuclear is getting there, but it's still too expensive and over regulated. I can't say much about wind as I haven't looked into it enough to say. Both thermal and hydro are location dependent, so good when it works but not a general purpose solution.\nSo that leaves coal and natural gas. We have a lot of both, but switching over to natural gas to coal by retrofitting existing power generation would make a massive difference imo.\nAt the end of the day, we want diversity in the power grid, not just one thing for every place, since every place is different/has its own history.",
+  "url": "https://news.ycombinator.com/item?id=49893958",
+  "author": "3fbc759d1ab1",
+  "createdAt": "2026-09-29T14:30:23.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49908196",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: PS5 Relapse Exploit",
+  "body": "You could buy another one used if they aren't ridiculously overpriced just so you can play exclusives. Airgapped, what runs runs, what doesn't run doesn't...",
+  "url": "https://news.ycombinator.com/item?id=49908196",
+  "author": "e0c2625c6d46",
+  "createdAt": "2026-09-30T12:50:10.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:49905581",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Dead Money",
+  "body": "They should be giving a fuck if those bullshit companies go bust and now they have all their fabs tooled for useless overpriced regular people won't buy.\nAlso at the same time as Chinese companies massively scaling the production of regular RAM.",
+  "url": "https://news.ycombinator.com/item?id=49905581",
+  "author": "62b3bd62e745",
+  "createdAt": "2026-09-30T07:26:10.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:49900644",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Memory Companies Have Destroyed the Consumer Market",
+  "body": ">People have the option of just not buying stuff. \nUnless you know, your main and only PC/notebook just died and need a replacement ASAP, they you don't really have an option to not buy. And no, the used market (where I live) is just as fucked, proportionally reflecting the retail gouging, with people wanting quite a lot of cash for tower PCs and notebooks from the Pentium 4 - Core 2 Duo era.\n> Prices will crash.\nDoes your crystal ball also say when exactly? If my laptop broke, then I need a replacement now in the overpriced market, not in X years when prices will crash.",
+  "url": "https://news.ycombinator.com/item?id=49900644",
+  "author": "788254a28d0a",
+  "createdAt": "2026-09-29T21:12:17.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:49900542",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Memory Companies Have Destroyed the Consumer Market",
+  "body": "The same thing was said 4 years ago about NVIDIA on HN, that it's stock it's outrageously overpriced, given it's $20 bln revenue, that it should have at least 10 times more revenue to justify that stock price, which is fantasy, that there is no plausible way for such demand no matter what you think about GPT-2.",
+  "url": "https://news.ycombinator.com/item?id=49900542",
+  "author": "541c9ef5ca4c",
+  "createdAt": "2026-09-29T21:06:03.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:49898558",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Dots: Always-on agents",
+  "body": "> They also have a nasty habit of being aware of nefarious practices, will resist all attempts to and harvest their data\nLol what? Most of the hackernews gang consider themselves nerds and they lap this shit up! Every new overpriced and unnecessary product that gets released by google, meta, openai, anthropic, whoever, they lap it up!",
+  "url": "https://news.ycombinator.com/item?id=49898558",
+  "author": "204b0d3ae436",
+  "createdAt": "2026-09-29T18:55:38.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:49897426",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: California farmers are struggling to sell grapes as demand for wine drops",
+  "body": "Our local wine shop in Burlingame, CA has a very knowledgeable 65 yr old proprietor (30 yrs running this store) who told me that Napa wines are definitely overpriced by 3x.\nBecause I'm not as particular about region he regularly introduces me to wines from other parts of the world that taste great at a much lower cost.",
+  "url": "https://news.ycombinator.com/item?id=49897426",
+  "author": "dca3c30e8718",
+  "createdAt": "2026-09-29T17:48:48.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:49894294",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: California farmers are struggling to sell grapes as demand for wine drops",
+  "body": "I'd characterize it differently - america makes lots of medicore wine and whiskey, but it also makes some fantastic wine and whiskey - my problem has always been that the good stuff in the US is stupidly overpriced why pay 2x-3x+ for an american bottle of wine when you can have one of similar quality for a fraction of the price from south africa, spain, france, germany etc.",
+  "url": "https://news.ycombinator.com/item?id=49894294",
+  "author": "f0800afe458b",
+  "createdAt": "2026-09-29T14:48:32.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 35,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:49893685",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: California farmers are struggling to sell grapes as demand for wine drops",
+  "body": "Unsurprising. As a US-based wine drinker, California wine feels overpriced and inferior to European imports. Add in Huberman convincing Gen Z that all alcohol is harmful, and the trend makes complete sense.",
+  "url": "https://news.ycombinator.com/item?id=49893685",
+  "author": "be310c7c72bb",
+  "createdAt": "2026-09-29T14:13:55.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:49899418",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: California farmers are struggling to sell grapes as demand for wine drops",
+  "body": "I would pay a premium to buy actual wine grapes instead of the boring green spheres that usually show up in the grocery store",
+  "url": "https://news.ycombinator.com/item?id=49899418",
+  "author": "c5079c03aeb0",
+  "createdAt": "2026-09-29T19:56:14.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "i would pay"
+  ]
+ },
+ {
+  "id": "hackernews:49906004",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: McDonald's push to have AI price your Big Mac",
+  "body": "That's alright. I'm willing to pay $1 for a Big Mac. If the algorithm matches that willingness of mine, I may buy one. Maybe.",
+  "url": "https://news.ycombinator.com/item?id=49906004",
+  "author": "af8ac18c709a",
+  "createdAt": "2026-09-30T08:27:58.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49905341",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: When oil prices spike, where does the money go?",
+  "body": "Price change and supply are not linear. I see the price of oil as largely a human decision, based on how much people are willing to pay for oil and its derivatives, or buy oil for thinking they can sell it for more later. It's linked to supply/demand but not directly controlled through a formula. You can look at the profit statements of oil companies around the world to verify that there is indeed much more money being made when supply is limited.",
+  "url": "https://news.ycombinator.com/item?id=49905341",
+  "author": "7fe6ed3c9b89",
+  "createdAt": "2026-09-30T06:54:46.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49903734",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: ChatGPT Pro 500",
+  "body": "I mean, it's a good deal for the boss, but I also wouldn't want to waste two years of my life doing something I could do in a couple months or weeks, would you? That's not a good use of my life, regardless of whether someone's willing to pay me.",
+  "url": "https://news.ycombinator.com/item?id=49903734",
+  "author": "8f4712c32129",
+  "createdAt": "2026-09-30T02:40:08.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49903420",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Vermont replacing power plants with home batteries",
+  "body": ">I'd feel better about this if they weren't charging people thousands for the batteries. As it is, this looks like a scam by utility companies to force their costs onto consumers and charge them for it on top of that. People should be being paid by the utility for storing, hosting, and allowing access to the power company's distributed infrastructure.\nI participated in this program early on (currently on year 8 or 9) and I don't think you're giving a fair characterization. First, the batteries took the place of a generator, and have reliable protected my buildings from power outages since. Part of the program is that in case of storm warnings or other risk it actually switches out from the VPP for the duration to protect you instead. So there's direct value to having them, particularly in a rural area of a rural state, regardless of any other money. Having a sizable generator isn't free, not just in terms of purchase but in terms of\nSecond, the utility did in fact pay with a pretty massive discount (around $5-6k per battery at the time IIRC). The amount they were willing to pay wasn't enough to completely cancel out the battery cost back then, but it was like 70-80% of the cost. And in general looking at all the various VPP programs in the region utilities remain very much willing to pay you per kWh, whether it's a lease or BYOB.\nThere are multiple ways to make a battery work for you in terms of ROI, and the math has changed over the years as various component costs have changed as well as being individual to each person's situation in terms of their own usage patterns and generation. But I don't think this was a scam at all, it was a genuine win/win even before getting into softer factors like reducing usage of fossil fuel peaker plants that a lot of us do really care about. In an ideal world neutralizing that carbon pollution would all just be built into pricing so the market could better sort it out, but as it stands I don't feel bad about supporting a shift to…",
+  "url": "https://news.ycombinator.com/item?id=49903420",
+  "author": "4a487d1ed201",
+  "createdAt": "2026-09-30T01:52:08.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49903175",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it",
+  "body": "Welcome to fast food auctions, where every purchase is an auction, for not the lowest price, but the highest price they think you are willing to pay.",
+  "url": "https://news.ycombinator.com/item?id=49903175",
+  "author": "f40b84c76072",
+  "createdAt": "2026-09-30T01:16:40.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49902786",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: We’re forgetting what darkness feels like",
+  "body": "To be honest, I think this is a very unbalanced take. Better illumination stops crime and traffic accidents and I'm not willing to pay with human lives to see the stars obviously. The effect on wildlife and plants is certainly to be considered but this article is from the U.S.A. and I live in a country with far better illumination than that place and I've seen stories multiple times from foreigners who moved here and noticed that immediately, they stopped being afraid at night because the country is so well-lit and crime numbers are low as a consequence.\nHuman lives are a big price to pay to see some stars.",
+  "url": "https://news.ycombinator.com/item?id=49902786",
+  "author": "772f21f60d8c",
+  "createdAt": "2026-09-30T00:26:55.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49901347",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: McDonald's push to have AI price your Big Mac",
+  "body": "> One pricing factor supercharged by AI: an estimate of how much each store’s patrons are willing to pay.\nHow is this any different from businesses who do not have transparent pricing? E.g.: Enterprise SaaS; consultancy; architectural materials.",
+  "url": "https://news.ycombinator.com/item?id=49901347",
+  "author": "8f678098c3d6",
+  "createdAt": "2026-09-29T22:02:42.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49899981",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: The End of a Fair Price: Dynamic Pricing and the Normalization of Gouging",
+  "body": "In my example, the price actually depends on _how_ I drive (speeding, use of turn signals, etc.), so it fits.\n> Charge me twice as much because I'm buying twice as many potatoes? Of course, that's how prices work. Charge me twice as much because you've purchased a detailed psychological profile based on tracking my internet activity and that profile says I really like potatoes and I'm willing to pay extra for them?\nThis really makes no sense. If you raise the price of potatoes on me, I'll just go to someone else. Competition still exists, after all.\nMore realistically, you'll raise the prices by a couple of percent for potatoes for me so I won't notice that. This is more insidious, but it also is self-limiting in scope.\nI guess the key here is that there's only so much information that _people_ can track. For example, I don't really care about the price of Sensodyne toothpaste that I always buy, so a store can sneakily add a dollar or two to the price.\nBut hey, there are AI agents for that!",
+  "url": "https://news.ycombinator.com/item?id=49899981",
+  "author": "2c3d96a6d7ed",
+  "createdAt": "2026-09-29T20:29:53.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49899788",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: The End of a Fair Price: Dynamic Pricing and the Normalization of Gouging",
+  "body": "I think \"gouging\" is an entirely fair description for targeted pricing that charges certain people more solely because your analytics suggest that they're willing to pay more.",
+  "url": "https://news.ycombinator.com/item?id=49899788",
+  "author": "f52d213e1ff7",
+  "createdAt": "2026-09-29T20:19:03.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49899674",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: The End of a Fair Price: Dynamic Pricing and the Normalization of Gouging",
+  "body": "Per-mile insurance is just usage-based pricing, no different from per-gallon water or per-pound potatoes. That's not normally what people consider to be dynamic pricing.\nWhere it becomes a problem is when the price starts being set based on aspects of the would-be purchaser that have nothing to do with the actual product, and are solely there to evaluate your willingness to pay. Charge me twice as much because I'm buying twice as many potatoes? Of course, that's how prices work. Charge me twice as much because you've purchased a detailed psychological profile based on tracking my internet activity and that profile says I really like potatoes and I'm willing to pay extra for them? No, straight to jail.",
+  "url": "https://news.ycombinator.com/item?id=49899674",
+  "author": "f52d213e1ff7",
+  "createdAt": "2026-09-29T20:13:25.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49896112",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+  "body": "This paper focuses on the use of the providers' web and phone tools, and the data sharing arrangements they built through ad networks and tracking services like Data Dog. It doesn't talk about how they handle data from API calls. For one thing that can be pretty opaque.\nI have a friend/client who understandably doesn't trust the existing privacy policies of the major providers. They have the same problem many of us do: We want the most powerful models, we're willing to pay for them, but we see over and over how much of a frontier the frontier actually is. Frontiers are ugly if you don't have guns.\nSo for now maybe platform tools like Open WebUI and TypingMind are a good workaround since the big boys don't (apparently) train on API data (for now) or (probably) send that data to advertisers. It would be interesting to confirm that.",
+  "url": "https://news.ycombinator.com/item?id=49896112",
+  "author": "1b8045dc5418",
+  "createdAt": "2026-09-29T16:35:30.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49898931",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
+  "body": "Inspired by minGPT for home experiments.\nRequires CUDA 13.4; build script is Windows only.",
+  "url": "https://news.ycombinator.com/item?id=49898931",
+  "author": "2521375a20ee",
+  "createdAt": "2026-09-29T19:20:02.000Z",
+  "engagement": {
+   "score": 52,
+   "comments": 10
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 49,
+  "matchedPhrases": []
+ },
+ {
+  "id": "hackernews:49898778",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=49898778",
+  "author": "46337835810b",
+  "createdAt": "2026-09-29T19:08:01.000Z",
+  "engagement": {
+   "score": 287,
+   "comments": 70
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 61,
+  "matchedPhrases": []
+ },
+ {
+  "id": "hackernews:49896757",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: A working 3D model of an Enigma machine",
+  "body": "I watched the excellent Veritasium video [1] on the Enigma machine, and watched the full animation by Jared Owen [2], but was still a bit confused on how the inner mechanics of an Enigma machine work. I used Astra to build out the inner components through a combination of reference images, writing out hundreds of extremely detailed prompts, and building my own inspection tools to ensure that every part is sized and positioned in a historically accurate way.\nIt's still a work in progress, but would love any feedback on the experience so far!\n1. https://www.youtube.com/watch?v=JsBZOcqZerk\n2. https://www.youtube.com/watch?v=ybkkiGtJmkM",
+  "url": "https://news.ycombinator.com/item?id=49896757",
+  "author": "b72b9cff4bcb",
+  "createdAt": "2026-09-29T17:15:56.000Z",
+  "engagement": {
+   "score": 76,
+   "comments": 24
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 51,
+  "matchedPhrases": []
+ },
+ {
+  "id": "hackernews:49894351",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: NSL – WSL for Linux",
+  "body": "One of the things that Windows really got right is WSL2. I drive an atomic Linux distro for daily use, but wanted a way to develop with multiple different distros with that same WSL UX. NSL is my answer. It is a faithful reproduction of the developer experience, powered by a single VM that hosts one or more systemd-nspawn containers with your development instances. Host file edits and port sharing come along for the ride, just like WSL. Take a look and tell me what you think... It's yet another step in my long journey to keep my host installation free from all the changing and breaking dev dependencies that force a reinstall every few months.",
+  "url": "https://news.ycombinator.com/item?id=49894351",
+  "author": "191b5cfbc3d5",
+  "createdAt": "2026-09-29T14:51:36.000Z",
+  "engagement": {
+   "score": 144,
+   "comments": 86
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 56,
+  "matchedPhrases": []
+ },
+ {
+  "id": "hackernews:49891769",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=49891769",
+  "author": "df262d263ccc",
+  "createdAt": "2026-09-29T12:05:07.000Z",
+  "engagement": {
+   "score": 63,
+   "comments": 15
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 50,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1396688303",
+  "source": "github",
+  "kind": "tool",
+  "title": "feder-cr/dots — 1124★",
+  "body": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+  "url": "https://github.com/feder-cr/dots",
+  "author": "eed73a878771",
+  "createdAt": "2026-09-29T23:06:00Z",
+  "engagement": {
+   "stars": 1124
+  },
+  "tags": [
+   "mcp",
+   "Python"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1397016507",
+  "source": "github",
+  "kind": "tool",
+  "title": "rehan-remade/universal-modder — 268★",
+  "body": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+  "url": "https://github.com/rehan-remade/universal-modder",
+  "author": "741ecd301564",
+  "createdAt": "2026-09-30T05:00:35Z",
+  "engagement": {
+   "stars": 268
+  },
+  "tags": [
+   "mcp",
+   "Python"
+  ],
+  "painScore": 60,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1376187020",
+  "source": "github",
+  "kind": "tool",
+  "title": "heymi/aldus-palace — 99★",
+  "body": "A trustworthy context layer for AI that remembers, plans and acts — free text into typed commitments, decisions and memories, each with its evidence, in a SQLite file you own. MCP, HTTP, library and typed client.",
+  "url": "https://github.com/heymi/aldus-palace",
+  "author": "2e74d2c4b06a",
+  "createdAt": "2026-09-18T17:10:56Z",
+  "engagement": {
+   "stars": 99
+  },
+  "tags": [
+   "mcp",
+   "TypeScript"
+  ],
+  "painScore": 53,
+  "matchedPhrases": []
+ },
+ {
+  "id": "stackexchange:softwarerecs:95640",
+  "source": "stackexchange",
+  "kind": "demand",
+  "title": "Is there a program which returns the output of `dumpsys window windows` as a JSON?",
+  "body": "I'm writing the\nAndroid Window Manager\n(android-wm) and I would like\nto know if it exists a program which\nreturns the output of dumpsys window windows\nas a JSON for easier parsing.",
+  "url": "https://softwarerecs.stackexchange.com/questions/95640/is-there-a-program-which-returns-the-output-of-dumpsys-window-windows-as-a-jso",
+  "author": "38c8c5146dec",
+  "createdAt": "2026-09-29T15:14:11.000Z",
+  "engagement": {
+   "score": 0,
+   "comments": 0,
+   "views": 8
+  },
+  "tags": [
+   "softwarerecs",
+   "android",
+   "software-development",
+   "json"
+  ],
+  "painScore": 30,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-077cc1",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "Ayrshire College: ICT Data Platform Consultancy Services",
+  "body": "Ayrshire College is seeking to appoint a suitably qualified and experienced technical specialist partner to support the development of a modern, secure and scalable enterprise data platform capability for Ayrshire College.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/091992-2026",
+  "author": "298a80585597",
+  "createdAt": "2026-09-29T15:31:49+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 200000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "cpv:72220000"
+  ],
+  "painScore": 61,
+  "matchedPhrases": []
+ }
+]
