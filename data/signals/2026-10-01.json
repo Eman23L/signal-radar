@@ -1,0 +1,1089 @@
+[
+ {
+  "id": "hackernews:49908659",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
+  "body": "Nice! But is there an app with this algorithm/strategy/design for finding good matches for casually having fun together? All the apps I know suck.",
+  "url": "https://news.ycombinator.com/item?id=49908659",
+  "author": "925244b14199",
+  "createdAt": "2026-09-30T13:28:11.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "is there an app"
+  ]
+ },
+ {
+  "id": "hackernews:49920639",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Ultra-processed food consumption and chronic diseases among 8,819,894 adults",
+  "body": "There really has to be a better alternative to NOVA for these studies, it makes it very difficult to separate specific preparation steps or additives from the effect of \"people with money and free time to cook at home are healthier\", creating an environment where people can simultaneously interpret \"no UPFs\" as \"no fast food\" and see the benefits they would from almost any reasonable planned diet, or as \"no food processing whatsoever\" and start trying to DIY baby formula",
+  "url": "https://news.ycombinator.com/item?id=49920639",
+  "author": "c04cbbbb98f3",
+  "createdAt": "2026-10-01T12:13:14.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49919866",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Why the Bronze Age Collapsed",
+  "body": "You have to make the evil claim: that the Spanish invaders were seen as a better alternative to the indigenous Aztecs by at least a decent majority of the population (and then, later, the Inca) (maybe this even explains the final end of the Maya)\nWhich is both likely true and morally against what we currently seem to believe.",
+  "url": "https://news.ycombinator.com/item?id=49919866",
+  "author": "b466c5d65de1",
+  "createdAt": "2026-10-01T10:15:55.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49918674",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Show HN: Ledge.sh – Runnable Markdown Notes",
+  "body": "Interesting. This seems like a good alternative to Jupyter Notebooks. I get annoyed when working with them using agents. They avoid editing the file directly because there is too much JSON bloat (or sometimes image bytes). It'd be great if this had a config option / toggle for 'Notebook mode' that would enable Jupyter-like execution, e.g., run all cells above, below, etc, so I could use it as a notebook.",
+  "url": "https://news.ycombinator.com/item?id=49918674",
+  "author": "d1a4ab0e3f7c",
+  "createdAt": "2026-10-01T07:12:30.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49916658",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Eigen: Self-hosted alternative to Google Workspace",
+  "body": "Found this gem. A self-hosted, open source alternative to Google Workspace: mail, drive, docs, sheets, slides, calendar and chat. Built on vite, tanstack, tailwind and modern TS stack. Finally something that is not nextcloud",
+  "url": "https://news.ycombinator.com/item?id=49916658",
+  "author": "bdd756ffccf4",
+  "createdAt": "2026-10-01T01:38:59.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49916657",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Eigen: Self-hosted alternative to Google Workspace",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=49916657",
+  "author": "bdd756ffccf4",
+  "createdAt": "2026-10-01T01:38:59.000Z",
+  "engagement": {
+   "score": 4,
+   "comments": 2
+  },
+  "tags": [],
+  "painScore": 35,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49915866",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "FOSS Alternative to Nextcloud",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=49915866",
+  "author": "f8f427dba0c6",
+  "createdAt": "2026-09-30T23:38:17.000Z",
+  "engagement": {
+   "score": 2,
+   "comments": 2
+  },
+  "tags": [],
+  "painScore": 33,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49915277",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Dear Software Makers",
+  "body": "Surely this is way too broad a statement?\nThere are small A/B tests which absolutely make sense. You often see marketing sites making small tweaks to banners and copy. It's not that one has worse UX or even that one is objectively worse, just that different users have different preferences and it's often difficult to know exactly what will work best.\nSimilarly you can be very confident of something, but A/B testing it still reduces risk. Any significant change should probably always be rolled out to a small fraction of the user base first in case you accidentally change something for the worse.\nI agree if you're talking about some BS experiment where a company uses A/B testing as an alternative to putting the hours into product design and user research.",
+  "url": "https://news.ycombinator.com/item?id=49915277",
+  "author": "bb1e1b30a878",
+  "createdAt": "2026-09-30T22:28:04.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49914566",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Dear Software Makers",
+  "body": "I've seen this argument a few times and honestly I don't get it - how do people propose we otherwise measure relative success of particular interventions -- Vibes? I've found that people who complain about how everything needs to be measured and how measurements are imperfect are often just bad at devising measurable quantities as proxies of real-world benefit. Sure it can take a bit of time to devise such measurements, and they're not inherently valuable, but if I can prove that a given variant performs better, why not pursue the preferable alternative?\nIt seems easy enough to say \"keep the youtube we love\" but how do you think this variant came about in the first place? I can assure you there have been numerous A/B tests that have led to the current feature set. And even if its a local rather than global maximum, at least there are measurable qualities by which it is preferable. Also - do you believe that everyone who says this is harkening back to the same historical reality? This is quickly approaching \"make youtube great again\" territory - when exactly was it great again? and why? This statement is easy to agree with and hard to prove.\nIt also seems easy to handle links to different variants; just supply a URL parameter. This is a non-issue.\nIf someone out there has a non-tea leaf divination style alternative to measuring things as a way to determine success, I'm all ears, but I don't believe in fortune tellers, and people who make software shouldn't either.",
+  "url": "https://news.ycombinator.com/item?id=49914566",
+  "author": "eb7d21030095",
+  "createdAt": "2026-09-30T21:16:21.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49912846",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Show HN: Hedwig, a free and open-source alternative to Instantly and Smartlead",
+  "body": "I created an open source alternative to tools like Instantly or Smartlead, which charge huge amounts of money per lead for basic cold email campaign management.\nThe emails are sent from your inbox, and you get open rates and analytics for your campaign.\nIt also comes with an MCP server, so you can manage the whole campaign from Claude or Codex.\nIt also has multi email option, so you can spread the senders through various emails as you like, and many other things like classification of replies or automatic draft reply generation.\nIf you like the project, you can sign up and use the hosted version and if you star the Github project it would help it grow!\nLet me know what you think :)",
+  "url": "https://news.ycombinator.com/item?id=49912846",
+  "author": "9a4376c3198b",
+  "createdAt": "2026-09-30T18:55:05.000Z",
+  "engagement": {
+   "score": 3,
+   "comments": 0
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 31,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49912203",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: I could've accessed 17T Microsoft records",
+  "body": "I think HN, like a lot of people in this industry, have strongly skewed perception of the actual importance of these bugs.\nYou could view the bounty prices as market evidence that most of this is rightfully treated as nothingburgers. I.e. the alternative to paying $5000 to some random person for this class of vulnerability research is not risking a trillion dollar hack the next day - it's just risking shmaybe some kerfuffle down the line, followed by fixing it through normal triage process. The bounty program is as much marketing as security, and $5000 is probably about the right price for marginal effort into sustaining the \"we are treating security seriously\" message.\nIn a way, the very existence of those bug bounty programs in large companies is evidence they don't see a reason to treat vulnerabilities seriously enough to proactively find and fix them in-house.\nIf security vulnerabilities would be anywhere serious as most commenters on-line seem to think, companies would pay hundreds of thousands for serious vulnerabilities, just to save a day before they get hit by them - on top of spending millions in-house to try and stay ahead of the attackers.\nBut they don't. Because most exploits are inconsequential and/or aren't being exploited much.",
+  "url": "https://news.ycombinator.com/item?id=49912203",
+  "author": "4ef68a3f95fc",
+  "createdAt": "2026-09-30T17:55:47.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 35,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49912132",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Let's Ditch Google (Verb)",
+  "body": "Brave search is the best alternative to Google. They have an independent index and good UI. Very rarely do I switch to another engine. Brave does well at surfacing forum threads and the AI summary has been surprisingly good for a while.\nhttps://www.privacyguides.org/en/search-engines/",
+  "url": "https://news.ycombinator.com/item?id=49912132",
+  "author": "1888001f9a4f",
+  "createdAt": "2026-09-30T17:49:46.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49911753",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
+  "body": "> The one thing that low carbon grids around the world share is high portion of nuclear (or hydro, which you can't build unless it naturally exists).\nThis is an historical artifact. When that generating capacity was built, nuclear was the alternative to fossil fuels. It isn't today; renewables are now cheaper and faster to install.\nYour argument can be seen as a way to ignore the cost decline of renewables without at first glance doing so.\n(As you say, there are hydro-dominated grids with no nuclear, for example Costa Rica, which gets 98% of its electrical energy from renewables.)",
+  "url": "https://news.ycombinator.com/item?id=49911753",
+  "author": "741193579f97",
+  "createdAt": "2026-09-30T17:17:53.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49911388",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Needed 1+1, built a functional programming language",
+  "body": "Yeah, the Smalltalk and Self family take this \"everything is an object\" approach, sometimes to extremes.\nAnother relatively well known language in this space for its use as an alternative to especially Lua in embedding situations is Io: https://iolanguage.org/",
+  "url": "https://news.ycombinator.com/item?id=49911388",
+  "author": "309e2de14138",
+  "createdAt": "2026-09-30T16:51:01.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49908455",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "European Network for Payments – An EU Alternative to Visa/Mastercard",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=49908455",
+  "author": "72c17052b5bb",
+  "createdAt": "2026-09-30T13:11:29.000Z",
+  "engagement": {
+   "score": 19,
+   "comments": 1
+  },
+  "tags": [],
+  "painScore": 38,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49911525",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: A brief history of the Bloomberg terminal",
+  "body": "Yeah, I think this is something a lot folks miss when doing UI/UX these days. There’s an immense focus on new users, not on folks who rely on it day in and day out for actual work. I’ve seen loads of old, incredibly “ugly” UIs that absolutely mog newer friendlier attempts at the same. They’re absolutely intimidating to new users, but once folks learn it they’re indispensable and obviously intentional.\nI really wish there was a resurgence of information dense UIs and tools, optimizing for people who use them daily and not “use it once.” It really reminds me of the hate folks have for things like Eclipse or IntelliJ which are daunting at first but once you get over the shock and learn them really are amazing tools.",
+  "url": "https://news.ycombinator.com/item?id=49911525",
+  "author": "aba3ad49b2f9",
+  "createdAt": "2026-09-30T16:59:57.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "wish there was"
+  ]
+ },
+ {
+  "id": "hackernews:49919964",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Jacques Barzun, Cultural historian and critic (1980)",
+  "body": "What a delight to see Barzun's name here. I read From Dawn to Decadence in 2000 when I was young. It was one of the first books of its kind that I read, and it stuck with me all these years because its style was so bizarre to me - unstructured, meandering, erudite, conversational. It connected references of the obscure to the well-known. The wikipedia page notes a review that described his judgments of historical figures as \"at best otiose and...[at times] ludicrously banal.\" And, that makes me laugh. I wish there were more books written that tweaked literary editors. If the 20th century is described as decadent (\"Boredom and fatigue are great historical forces\"), I describe the 21st century as a climax to platitudinous, bromidic, jejeune.",
+  "url": "https://news.ycombinator.com/item?id=49919964",
+  "author": "629efa04a2af",
+  "createdAt": "2026-10-01T10:29:17.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "wish there were"
+  ]
+ },
+ {
+  "id": "hackernews:49909423",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: SDF vs. MSDF vs. Slug: GPU Text Rendering",
+  "body": "Slug looks impressive!\nThe project I'm most known for is basically an MSDF shader with a bloom pass. It serves my needs 100%, though if I expand to support arbitrary text, I may reach for Slug.\nThe one issue with MSDF I want to raise is, it seems everybody uses the same msdfgen texture creation program from Viktor Chlumský's master's thesis 11 years ago. I wish there were other implementations. Who ever heard of a graphics technique that was only ever programmed once, and then used everywhere without substantial iteration? We need to de-XKCD-2347 MSDFs for everyone's sake, including and especially Chlumský.",
+  "url": "https://news.ycombinator.com/item?id=49909423",
+  "author": "da05447aacf2",
+  "createdAt": "2026-09-30T14:22:18.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "wish there were"
+  ]
+ },
+ {
+  "id": "hackernews:49916606",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: California farmers are struggling to sell grapes as demand for wine drops",
+  "body": "I don't use drugs, and if you are implying weed then you are out of your mind. I think weed should stay illegal as should all psychedelics. Don't put me in a box, I just despise alcohol because most other dangerously evil drugs aren't tolerated. Seeing people drink alcohol is like seeing someone on a crack pipe. Its wrong and disgusting and normal people are enranged at this intolerable behavior. Forced rehab for all alchys, druggies, and the like.\nWorst is all the nonsense that infiltrates society because of alcohol. How many people claiming rape or raping or whatever or bar fights or swerving jnto the road killing innocent people. Its a big mess and I am sick of this. No more. If you drink I don't care if you get water boarded, I will walk right past you, no sympathy except for those who seek help.",
+  "url": "https://news.ycombinator.com/item?id=49916606",
+  "author": "7b3af75842f0",
+  "createdAt": "2026-10-01T01:29:24.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49911233",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: PS5 Relapse Exploit",
+  "body": "Whatever anticheat company can come up with a decent enough anticheat for linux (stay out of my fucking kernel) and pair it with some kind of server side anti cheat heuristic may win the day. I know a lot of people who are steamdeck kids and are experimenting with steamos or other linuxes on the desktop because they are sick of windows in general.\nI'm about ready to pull the trigger on my windows gaming pc to move it to linux because I honestly don't really play anything that requires anticheat anymore. Too old to bother with multiplayer that isn't co-op anymore. I think the last game I have with anticheat in it is elden ring and I don't pvp there either so I can just disable the online stuff and ignore the anti-cheat all together.",
+  "url": "https://news.ycombinator.com/item?id=49911233",
+  "author": "7825ee0bf249",
+  "createdAt": "2026-09-30T16:41:49.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49921395",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Gemini 4 Argon",
+  "body": "Just make it too expensive. Wanna buy one internet link per hour to download videos. Or maybe rotate between source IPs (google will block the whole ASN ip block in less than an hour). Or maybe pay people to download videos for you? They can download maybe 20 in a day, for a week, because tarpit and blocks.\nIt's a numbers game.",
+  "url": "https://news.ycombinator.com/item?id=49921395",
+  "author": "ea223993ec03",
+  "createdAt": "2026-10-01T13:27:55.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 35,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49921192",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+  "body": "Would be really nice honestly. But I don't think it will be coming anytime soon, it's just too expensive to build a chip.\nThe one-time costs for masks are just much more expensive as for PCBs, so wafer shuttle services are still really expensive when pooled PCBs are really cheap.\nAnd any machines that would be cheaper for prototyping (direct laser writing or direct e-beam writing) don't scale to mass production.\nYou can already make (tiny) chips for a somewhat affordable cost with tiny tapeout.\nBut that's still not nearly as cheap as PCB prototypes and with much longer wait times.",
+  "url": "https://news.ycombinator.com/item?id=49921192",
+  "author": "13a2ebda1ade",
+  "createdAt": "2026-10-01T13:10:56.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49918944",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: CHOMPI portable sampler instrument is now open-source (hardware and software)",
+  "body": "Electronic toys that are not mass produced are always too expensive for the mass market. Chompi is awfully cute though.",
+  "url": "https://news.ycombinator.com/item?id=49918944",
+  "author": "1a1665d133db",
+  "createdAt": "2026-10-01T07:51:27.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49916574",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Tesla takes on $30B in credit as it approaches unprofitability",
+  "body": "both of them are too expensive for my taste. tesla is the only one i could afford. its a shame.",
+  "url": "https://news.ycombinator.com/item?id=49916574",
+  "author": "7b3af75842f0",
+  "createdAt": "2026-10-01T01:25:40.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49915983",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
+  "body": "I thought this was a sarcastic reply, so I checked the facts myself. I was stunned. You are spot on.\nFor those unaware, the submarine is Virginia-class[1] and is powered by a 210MW nuclear reactor called the \"S9G\"[2]. And yes, as of 2019 prices, each boat cost 2.8B USD. There are 28 of these subs active in the US Navy. This isn't some new, experimental reactor design. The US is pumping these out of their shipyards. Sheesh. 5B+ USD for a measly 300MW reactor... (without the nuclear sub!) looks way too expensive. What am I missing?\n[1] https://en.wikipedia.org/wiki/Virginia-class_submarine\n[2] https://en.wikipedia.org/wiki/S9G_reactor",
+  "url": "https://news.ycombinator.com/item?id=49915983",
+  "author": "1b6e3b09b343",
+  "createdAt": "2026-09-30T23:52:17.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49911307",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: The AI Race Just Got Awkward",
+  "body": "They’re not contradictory positions. Inference is too expensive now to make money because the industry is immature and hasn’t yet optimized for financial success while customers don’t care much about price because they’re more concerned about not missing out.\nInference will be too cheap long term to make money because it is being commoditized and customers will start to care about results and not just be wowed by impressive technology.\nAnd of course this technology will continue to exist but that is irrelevant to the business. OpenAI investors don’t care if LLMs exist in 10 years, they care if their investment in OpenAI has made money.",
+  "url": "https://news.ycombinator.com/item?id=49911307",
+  "author": "5ca73aac2634",
+  "createdAt": "2026-09-30T16:46:06.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49910095",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
+  "body": "I call this the \"bigger rat\" argument.\nThe rat, having been caught by the rat catcher, complains there are other, bigger rats. But he's still a rat.\nThe uneconomical project, having been called out, complains there are other, even more expensive activities. But that doesn't change that the project is too expensive.",
+  "url": "https://news.ycombinator.com/item?id=49910095",
+  "author": "741193579f97",
+  "createdAt": "2026-09-30T15:16:58.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49910007",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Most data centers refusing to say how much water, electricity they use",
+  "body": "It's complicated, and depends on the hardness of the water entering the system from the water supply as well, since blowdown is ultimately to control the level of dissolved solids in the water so it does not contrate enough to start coming out of solution. Rarely if ever is true demineralized water used in open loop cooling systems; it's simply too expensive to produce to then \"throw away\" into evaporation.\nThe previously stated 80/20 isn't a bad general estimate, but it varies depending on the specific site. 10%-25% of makeup water being lost to blowdown is a reasonable range.\nAs for papers about it, I was only able to find a few in my brief search, but they don't land on a single number since it depends on the ratio of dissolved minerals/solids in the circulating cooling-tower water compared with the incoming makeup water, which varies due to acceptability for the process and due to the incoming water quality.\nThis short PDF on \"Mechanical Systems Water Efficiency Management\" from the EPA goes over the concepts pretty well though\n- https://www.epa.gov/sites/default/files/2017-12/documents/ws...\nThis document from the US DOD (UFM 3-230-13, Industrial Water Treatment Operation and Maintenance (2026), Chapter 5) says that most cooling towers operate at 3-10 CoC, with 5-7 CoC identified as a cost-effective range. Where CoC is Cycles of concentration described in the previous PDF, and a higher CoC means less blowdown and better water efficiency, with the trade-off of a greater risk of scaling, corrosion, and biological/water-chemistry problems.\n- https://www.wbdg.org/FFC/DOD/UFC/ufm_3_230_13_2026.pdf\nVeolia also has a \"Open Recirculating Cooling Systems\" handbook that shows some good examples with real numbers in table 31-1.\n- https://www.watertechnologies.com/handbook/chapter-31-open-r...",
+  "url": "https://news.ycombinator.com/item?id=49910007",
+  "author": "251c66572fc5",
+  "createdAt": "2026-09-30T15:07:23.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49909386",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: How Delhi cut electricity loss from 50 to 5 percent",
+  "body": "Yeah I think it's too expensive for anyone to really implement it, but I do think if you want it to be a viable choice to not pursue a career for a while (and a year isn't long enough) then it's the only ethical way to do it.\nBanning women from working certain jobs or something seems like the authoritarian method instead, and unfortunately easier to implement.",
+  "url": "https://news.ycombinator.com/item?id=49909386",
+  "author": "b3e0d397577a",
+  "createdAt": "2026-09-30T14:20:09.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49919213",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+  "body": "Baristas are my favoured example.\nPeople often bring up something like \"oh, someone will need to maintain the robots that just took your job.\" But that's seldom where the new jobs are, at least not en masse: the whole point of automation is to use less labour on the task in aggregate afterwards.\nBaristas making overpriced fancy coffee is something the western world started to want to afford in the 1990s and 2000s, because we were getting rich enough thanks to lots of automation and technological progress in other areas. Coffee-making itself hadn't see much progress.\nThe new jobs can be anywhere in the economy, it doesn't have anything to do with the jobs that got automated or replaced.",
+  "url": "https://news.ycombinator.com/item?id=49919213",
+  "author": "7b5093f343d8",
+  "createdAt": "2026-10-01T08:30:55.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:49919151",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: CHOMPI portable sampler instrument is now open-source (hardware and software)",
+  "body": "The CHOMPI is a very fun project.. have considered building one myself over the years, but I think I have a bit more motivation to build a FundamentalFrequency LMN-3, which is in a similar form factor but is, imho, a bit more open ended with regards to what it can be used for ..\nhttps://github.com/FundamentalFrequency\nEither way the time has come for open source projects of this nature and form factor .. the world tires of overpriced junk from boutique vendors, and wants more DIY music making toys for the kids to rock out ..",
+  "url": "https://news.ycombinator.com/item?id=49919151",
+  "author": "053c01fc4455",
+  "createdAt": "2026-10-01T08:22:50.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:49914841",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: The End of a Fair Price: Dynamic Pricing and the Normalization of Gouging",
+  "body": "Your comment about cartels, monopolies, etc... actually support my point that when people say that dynamic pricing is a problem, usually, the problem is elsewhere. Monopolies are a problem and something economists recognized (though it is not as simple as \"monopolies bad\"), and there are laws against it.\nFree market is indeed somewhat fictional, as it is far from free in practice. The stock market in particular may look unhinged, but it is heavily regulated, that's the reason why it works, and the reason it looks like the ideal of a free market is, ironically, because of regulations.\nAs for diamonds, these are luxury goods, being expensive is the whole point, so what if they are overpriced? If de Beers didn't have a history of things like using slave labor, I wouldn't have a problem with it. Would I have hated it, if my $10k diamond turned out $500, yes, no one likes losing money from a bad investment, but prices have to go down at some point. It also shows that competition can work, de Beers didn't go down because of regulation, it went down because it was beaten by technology and bad publicity.\nThe problem with Shkreli and the Epipen was because healthcare is not a normal market and completely unlike diamonds. Normally, one would expect the government to make sure that life-saving drugs stay affordable, and it is the case in many countries, the US being a notable exception. Instead, in the US, the government promotes this kind of behavior though a combination of its mostly private health insurance system, tight control on who gets to make and sell drugs, but no control on the price. EU countries (most of the developed world in fact) are much more sane in that regard. Dynamic pricing is allowed as a general rule, luxury goods are still overpriced, but essentials like health and housing are regulated to prevent pathological cases like the Epipen thing.",
+  "url": "https://news.ycombinator.com/item?id=49914841",
+  "author": "6c31f7c6ff45",
+  "createdAt": "2026-09-30T21:39:31.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 35,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:49909777",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: PS5 Relapse Exploit",
+  "body": "Yeah, at least since Steam Deck launched & especially with Steam Machine now also being available consoles really don't make any sense.\nAll the lazy complaints about \"I want it to just work\", \"I don't want to build & maintain a PC\" etc. really make no sense any more.\nAnd arguably the breaking point has been much sooner, with the PS4 & Switch both selling you back commodity hardware (x86 APU with FreeBSD for PS4 & ancient NVIDIA Tegra for Switch), just totally locked down, user hostile & with overpriced games.",
+  "url": "https://news.ycombinator.com/item?id=49909777",
+  "author": "62b3bd62e745",
+  "createdAt": "2026-09-30T14:50:03.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:49908647",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: The End of a Fair Price: Dynamic Pricing and the Normalization of Gouging",
+  "body": "Consumers also have so much data on retailers. It has never been so easy to compare prices and thanks to online stores, availability is at an all time high. Now that eBay and AliExpress exist, I realized how overpriced small items were.\nRental has a problem, made worse by algorithmic pricing, it is, simply, that in some places, housing on a free market would be much more expensive than people can afford. Which is a problem because people need a place to live, and kicking them out is not great. So in this case, government intervention makes sense: a ban on dynamic pricing is one thing, but also just capping rents, subsidized housing, banning short term rentals, etc... the usual \"socialist\" stuff. But this is, again, not a dynamic pricing problem (though it makes things worse in this case), it is a housing problem.\n> they get taken for every penny that they are willing to spend\nWhat is the problem with paying for what you are willing to pay? It is only a problem when you are paying for what you are not willing to pay. Housing is one of these cases, so is food, healthcare and other essentials, also taxes. These are special cases and they usually involve government intervention. And sure, in this case, algorithmic pricing can be a problem, because you leave the usual free market economy.",
+  "url": "https://news.ycombinator.com/item?id=49908647",
+  "author": "6c31f7c6ff45",
+  "createdAt": "2026-09-30T13:27:29.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 58,
+  "matchedPhrases": [
+   "overpriced",
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49910176",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: ChatGPT Pro 500",
+  "body": "If I would pay 500 bucks, I would squeeze as much as I can. Won't you?",
+  "url": "https://news.ycombinator.com/item?id=49910176",
+  "author": "7e25bd3199fb",
+  "createdAt": "2026-09-30T15:22:26.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "i would pay"
+  ]
+ },
+ {
+  "id": "hackernews:49920801",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
+  "body": "> You are talking about someone who gets zero matches at all\nNo, I'm not.\n> People are far more willing to pay to upgrade a good experience than they are to pay to try to improve a bad one\nThis is an assumption and one I believe is false. My belief is that people are more risk-averse rather than they are risk-taking [1]. People don't care to upgrade when they're winning.\n> Further, an unappealing profile that gets zero likes will continue to get zero likes after they upgrade to a paid subscription.\nNot matching with someone does not mean they have 0 likes. The platform just isn't incentivized to show you who likes you for free. Concretely we can take Tinder as an example. They will show you that someone likes you even when they won't show you who. Swiping enough to find the person who likes you usually takes countless hours.\n> This user is far more likely to get frustrated and uninstall after a few minutes than if they were to download the app and be shown profiles that are appealing\nIf you're extending this to anything past the first profiles shown, this is simply untrue. You just need to dangle a carrot in the form of \"someone likes you,\" even when the person liking you is a bot account.\n[1] https://en.wikipedia.org/wiki/Prospect_theory",
+  "url": "https://news.ycombinator.com/item?id=49920801",
+  "author": "95972f0078ca",
+  "createdAt": "2026-10-01T12:34:04.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49920541",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
+  "body": "I guess OP was using the user centric approach of measuring success, however naive or ir realistic it is nowadays.\nThat's the problem: ad based apps want to keep you there, not solve your problems.\nI thought about a dating app where you pay for entry and that's it. Then the incentive is that you don't need it anymore ASAP, because the more time you spend there, the more costs.\nTheres a network problem, where it must be high quality, successful, and with lots of people before people are willing to pay. Maybe it would need to start with a free trial in a small region to get some traction before, and rolled out slowly.",
+  "url": "https://news.ycombinator.com/item?id=49920541",
+  "author": "dff63b8ee33e",
+  "createdAt": "2026-10-01T12:01:25.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49920125",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: AI borrowers face tough sell in risky corners of US credit market",
+  "body": "It’s difficult to define “research” and “experimentation”, but the spending seems to accomplish the goal of the tax credit:\nhttps://www.congress.gov/crs-product/RL31181\n>The R&E credit is intended to encourage companies to invest more in basic and applied research and some stages of development than they would if there were no such credit. The credit reduces the after-tax cost of qualified research, which in turn lowers the user cost of capital for this purpose. In theory, a reduction in the user cost of capital would increase the number of R&D investments a company could profitably undertake.\n>In addition, the returns on R&D investment can spill over to consumers and other firms through access to new or improved goods and services at prices below the prices they would be willing to pay for these goods and services.4 Empirical evidence suggests that R&D spillovers are \"most powerful and diffuse most rapidly at the local and national levels.",
+  "url": "https://news.ycombinator.com/item?id=49920125",
+  "author": "1547af6d33a8",
+  "createdAt": "2026-10-01T10:54:11.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49918029",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: CHOMPI portable sampler instrument is now open-source (hardware and software)",
+  "body": "The price you are willing to pay for it.",
+  "url": "https://news.ycombinator.com/item?id=49918029",
+  "author": "13d0b9e1df21",
+  "createdAt": "2026-10-01T05:25:28.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49917567",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
+  "body": "I think we're talking about different populations. You are talking about someone who gets zero matches at all but we are talking about people that get matches, but those matches never turn into relationships. To be fair, both populations of people have the same complaint that \"dating apps don't work\", but for extremely different reasons.\nI don't think that dating apps are showing users profiles that have already swiped left, and if they do, it's not an attempt to get users to convert to a paid subscription. Consumer psychology doesn't work that way. People are far more willing to pay to upgrade a good experience than they are to pay to try to improve a bad one. Further, an unappealing profile that gets zero likes will continue to get zero likes after they upgrade to a paid subscription. This means that user will churn almost immediately after 1-2 months of paying for something that doesn't work. They typically don't stick around paying for years while getting zero matches all the while.\nDating apps DO derank unappealing profiles, but rather than doing it to try to get them to convert, it's instead done to try to prevent high bounce rates. Imagine a user downloads a dating app and is shown profiles in completely randomized order. This user is far more likely to get frustrated and uninstall after a few minutes than if they were to download the app and be shown profiles that are appealing. This rigged ranking may sound like its reducing relationship formation, but they never would have swiped on the unappealing profiles anyway; the counterfactual is they simply uninstall the app in frustration.",
+  "url": "https://news.ycombinator.com/item?id=49917567",
+  "author": "b49ecbd3652d",
+  "createdAt": "2026-10-01T03:57:44.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49916765",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: CHOMPI portable sampler instrument is now open-source (hardware and software)",
+  "body": "Glad to see stuff like this. I'm willing to pay quite a bit more for products supporting oss/osh.",
+  "url": "https://news.ycombinator.com/item?id=49916765",
+  "author": "ccc92c2766fa",
+  "createdAt": "2026-10-01T01:57:53.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49912860",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Strutt's Powered Wheelchair Is Not a Wheelchair (For Legal Reasons)",
+  "body": "The obligations of organizations (insurance, federal, local and state governments, etc.) is the major reason wheelchairs are classified as medical devices.\nAs always you can get whatever you want if you are willing to pay out of pocket. But when someone else pays, you can't.",
+  "url": "https://news.ycombinator.com/item?id=49912860",
+  "author": "b38bde3f3e67",
+  "createdAt": "2026-09-30T18:56:20.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49912769",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: The End of a Fair Price: Dynamic Pricing and the Normalization of Gouging",
+  "body": "> Consumers also have so much data on retailers\nThis is useful up to a point. One constraint is whether the goods are fungible. (Rental location is not.) Another is whether price differences even exist.\n> What is the problem with paying for what you are willing to pay?\n\"Free\" markets are a fiction. Transactions do not exist in a legal vacuum. (Except perhaps for cryptocurrencies, which exemplify why such laws exist.)\nThe fact is that some markets are dysfunctional. Cartels, monopolies, and monopsonies are generally seen as evidence of market failure.\nThere are sound reasons for regulators to limit price gouging. Just because retailers have pricing power does not mean they should be allowed to exploit it to the maximum degree possible. For example: company scrip has been outlawed for many years, even in the USA. Likewise, antitrust laws restrict -- or are intended to restrict -- the ability of retailers to collude in fixing prices at whatever the market will bear.\nConsider a real-life example. Imagine you bought a diamond ring for your fiancee. You paid $10,000 for a tiny stone because a cartel has been restricting the supply for 100 years. Six months later, chemists make diamonds in a lab and break the monopoly. You can now buy the same stone for $500. Do you feel ripped off? Or do you feel that the $10,000 you paid represented market value, and put the humiliating loss down to poor timing?\n(\"Same stone\" is not quite accurate, because for the time being de Beers is still trying to market \"natural\" stones at the original price. They don't have much choice because their stockpile represents an enormous unrealized loss. Behind the scenes, you can bet that they are trying to get rid of them any way they can. In crypto parlance, they are left holding the bag.)\nNow substitute \"life saving drug\" for diamonds, and \"pharma bro\" for de Beers. (And recall that the price gouging was legal, Shkreli was jailed for an unrelated fraud.)",
+  "url": "https://news.ycombinator.com/item?id=49912769",
+  "author": "85a107f3de47",
+  "createdAt": "2026-09-30T18:47:34.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49911290",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: The AI Race Just Got Awkward",
+  "body": "Actually opposite occurs. Big businesses are ok with a mediocre but cheaper result. Very few are willing to pay such cost. Just look at tech wages and the distributions",
+  "url": "https://news.ycombinator.com/item?id=49911290",
+  "author": "6d2791a9c42f",
+  "createdAt": "2026-09-30T16:45:17.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49910822",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Vermont replacing power plants with home batteries",
+  "body": "> they still need base load generation\nnit pick, but this isnt true at all. \"Base load generation\" refers to fixed capacity generators (coal, nukes) that run at 100%, matched to the lowest point of the demand curve overnight. This is an obsolete concept in a modern grid where batteries, wind, solar etc have destroyed that economic niche.\nwhat you mean is likely \"backup capacity\". And yes heavily renewable grids will likely need some standin / backup generation for exceptional circumstances, for the foreseeable future. The economics and sizing of this backup is almost entirely unrelated to the economics and sizing of \"base load generation\". (for eg, there will never be a time when a diversified grid is at zero. The amount of backup needed is a function of how frequent these exceptional events are, the mix of your grid, and how much you're willing to pay backup generators to avoid load shedding in these situation)",
+  "url": "https://news.ycombinator.com/item?id=49910822",
+  "author": "2561539cd80b",
+  "createdAt": "2026-09-30T16:13:48.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49910046",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence",
+  "body": "That doesn't resolve them from providing a stable service for something they market. I'm not buying something under the counter, and it's not advertised to be an alternative for people not willing to pay the full price. From my perspective, the subscription is the full price and I expect stable, reliable service.",
+  "url": "https://news.ycombinator.com/item?id=49910046",
+  "author": "fcd30839c9ba",
+  "createdAt": "2026-09-30T15:11:40.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49909986",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: The last time my family was replaced by technology",
+  "body": "The knowledge economy was already on the way out in favour of the performance economy even before LLMs. LLMs have also shown that they can produce in the performance space, of course, so it remains to be seen how valuable humans are in that position but so far it would appear that many are willing to pay for a \"human connection\".",
+  "url": "https://news.ycombinator.com/item?id=49909986",
+  "author": "9d63073351a8",
+  "createdAt": "2026-09-30T15:05:29.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49908518",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: The End of a Fair Price: Dynamic Pricing and the Normalization of Gouging",
+  "body": "That's still usage-based pricing, because the cost of providing insurance is based on your risk. You cost them more (on average, probabilistically) -> they charge you more.\nThe objectionable stuff would be something like giving you a higher quote because the know you buy Tom Clancy novels, not because Clancy readers are riskier, but because Clancy readers shop around less and are willing to pay more.\nIf you're the sort who would buy potatoes from a competitor if the price went up, they won't charge you more. Willingness to switch to a competitor will be a big part of the pricing algorithm.",
+  "url": "https://news.ycombinator.com/item?id=49908518",
+  "author": "f52d213e1ff7",
+  "createdAt": "2026-09-30T13:16:12.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49911931",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: I built a free Burp/Caido alternative but, zero setup - API Testing",
+  "body": "This is Katriel, the architect of the tool APIaxess.\nI have been API pentesting for a good time now, and starting with API pentesting was a bit of a rough patch. Specially the setting up and having to know the intricacies of proxies, networking and other stuff. Then once i got through it, the next rough patch was the apk pentesting, where getting the traffic of any apk was more of a task then the pentesting itself. So i started by writing scripts that automates the process and then made sure that any rooted adb just automatically started sending traffic to the burpsuite setup, and then that helped a lot. Then i just thought that this issue needs to be resolved in a more open manner, since its a very known pain point. So i built a GUI around it, made sure that it can handle everything that a normal api traffic tool can and then thought of releasing it, for people to test it out. Before the inital release, i have myself battle tested this tool, in multiple ways, while also sharing it with other professionals in my industry who constantly use Burp/Caido/HTTPToolkit or other similar tools. I know that the tool needs more features and more refinements, but thought of making it public so that i can get to know about the issues much sooner.\nDo check out the Github and leave a star if it helped you out, and do share it with your colleagues so that they could also waste less time setting it up and more time doing the work that they like. github.com/KatrielMoses/apiaxess",
+  "url": "https://news.ycombinator.com/item?id=49911931",
+  "author": "b4dc66db93cc",
+  "createdAt": "2026-09-30T17:32:10.000Z",
+  "engagement": {
+   "score": 31,
+   "comments": 5
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 45,
+  "matchedPhrases": []
+ },
+ {
+  "id": "hackernews:49910328",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: Parrot – Open-Source Smart Meeting Recorder with Co-Pilot on Mac",
+  "body": "Hello Hacker News\nI am Uygar, I am an entrepreneur from London. I run my businesses on calls everyday, customers, partners and suppliers. And i have a horrible memory i forgot things. So months ago with the help of Claude i have built Parrot. I have designed and coded for my work and what i need. An to be honest worked very well and helped me alot.\nParrot records what your mac hears and everything stays in your computer if you use local models, no account, no API calls. There is something called copilot which made my life easier, you can upload your files and when parrot hears that question on the screen recommends the answer. Which i believe very handy.\nIf you want to make it smarter and dont mind cloud you can hook up your Claude API and Deepgram account, that gives super powers to Parrot. You still keep it locally but eventually you need to make API calls.\nSo local or cloud totally up to you.\nThen after months of thinking i have decided share it as open source and this is my first open source project, so please go easy on me :)\nNo account, no membership, open source and free.\nCode: https://github.com/turantekin/Parrot\nThis project made me so excited and really would like to share with you guys so i hope can help you too. Again, i am new so go easy on me and if you have any feedback i would like to hear.\nThank you\nUygar",
+  "url": "https://news.ycombinator.com/item?id=49910328",
+  "author": "759dd074627f",
+  "createdAt": "2026-09-30T15:33:12.000Z",
+  "engagement": {
+   "score": 33,
+   "comments": 24
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 45,
+  "matchedPhrases": []
+ },
+ {
+  "id": "hackernews:49909648",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
+  "body": "I made this for kids around 10 to 14. A robot called Errol solves a math problem step by step and one of the steps is wrong. The kid has to find it and say what's wrong with it. Sometimes nothing is wrong, so just saying \"there's a mistake\" every time doesn't work. The user needs to enter an explanation if she finds an error to gain more XP; speed matters also for more points. There is no direct interaction or chatting with an LLM. Lathoa's harness is stable and has many evaluation steps to catch inconsistencies and prompt injections.\nYou can play one on the homepage without signing up.\nThe part that surprised me: it's hard to get an LLM to be wrong on purpose. Half the time it gives you the right answer and calls it wrong, or a \"mistake\" that's actually correct. So every case gets checked before a kid sees it. Where it can, a plain arithmetic check redoes the math exactly. A second model also solves the problem without seeing Errol's work. If anything disagrees, the case is thrown away.\nThe weak spot is that the second model can make the same mistake as the first. The arithmetic check is there for that, but it only works on English cases so far. German and Greek write decimals with a comma and I haven't got the parsing right yet.\nWhat I'd really like to know: does finding someone else's mistake teach anything that solving the problem yourself doesn't? I'm not sure, and I'd like to hear from people who teach.",
+  "url": "https://news.ycombinator.com/item?id=49909648",
+  "author": "b9f5be02d0ce",
+  "createdAt": "2026-09-30T14:38:57.000Z",
+  "engagement": {
+   "score": 51,
+   "comments": 45
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 49,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1391438314",
+  "source": "github",
+  "kind": "tool",
+  "title": "Louis-CFM/coucou — 2124★",
+  "body": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows) and keeps an eye on your Claude Code sessions.",
+  "url": "https://github.com/Louis-CFM/coucou",
+  "author": "cd0ddaa2de75",
+  "createdAt": "2026-09-27T21:54:12Z",
+  "engagement": {
+   "stars": 2124
+  },
+  "tags": [
+   "claude-code",
+   "Swift"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1397771878",
+  "source": "github",
+  "kind": "tool",
+  "title": "nanaism/yomiyasu — 828★",
+  "body": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+  "url": "https://github.com/nanaism/yomiyasu",
+  "author": "bdd58bed48f1",
+  "createdAt": "2026-09-30T11:49:32Z",
+  "engagement": {
+   "stars": 828
+  },
+  "tags": [
+   "claude-code",
+   "Python"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1393689296",
+  "source": "github",
+  "kind": "tool",
+  "title": "edenfunf/reelmimic — 641★",
+  "body": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
+  "url": "https://github.com/edenfunf/reelmimic",
+  "author": "52f2b95a8c50",
+  "createdAt": "2026-09-28T19:14:59Z",
+  "engagement": {
+   "stars": 641
+  },
+  "tags": [
+   "claude-code",
+   "JavaScript"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1379023782",
+  "source": "github",
+  "kind": "tool",
+  "title": "MiniMax-AI/OpenAgentCore — 99★",
+  "body": "Open-source, self-hosted implementation of the OpenAI Agents API with multiple native harnesses.",
+  "url": "https://github.com/MiniMax-AI/OpenAgentCore",
+  "author": "f7bae092e047",
+  "createdAt": "2026-09-21T03:18:15Z",
+  "engagement": {
+   "stars": 99
+  },
+  "tags": [
+   "mcp",
+   "Go"
+  ],
+  "painScore": 53,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1375922101",
+  "source": "github",
+  "kind": "tool",
+  "title": "wh000wh000/awesome-jev-live — 97★",
+  "body": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
+  "url": "https://github.com/wh000wh000/awesome-jev-live",
+  "author": "694f9dbfb0e9",
+  "createdAt": "2026-09-18T13:37:03Z",
+  "engagement": {
+   "stars": 97
+  },
+  "tags": [
+   "mcp",
+   "Python"
+  ],
+  "painScore": 53,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1377737136",
+  "source": "github",
+  "kind": "tool",
+  "title": "nassim-arifette/jevgrep — 92★",
+  "body": "Jev-powered semantic code search for coding agents — find behavior across repositories via CLI or MCP, with exact source excerpts and line numbers.",
+  "url": "https://github.com/nassim-arifette/jevgrep",
+  "author": "8f5b95996947",
+  "createdAt": "2026-09-20T00:27:29Z",
+  "engagement": {
+   "stars": 92
+  },
+  "tags": [
+   "mcp",
+   "TypeScript"
+  ],
+  "painScore": 53,
+  "matchedPhrases": []
+ },
+ {
+  "id": "stackexchange:softwarerecs:95647",
+  "source": "stackexchange",
+  "kind": "demand",
+  "title": "Can You Migrate Just a Few Slack Users Instead of the Whole Workspace?",
+  "body": "Yes, Kernel Slack to Teams Migration Tool supports this. You can search and select specific users, chats, and channels to migrate rather than running the whole workspace at once, which works well for a pilot or a phased rollout. There's also a date filter if you only want to bring over data from a particular time period. Once you're ready to expand the migration, incremental migration kicks in so the pilot data won't get duplicated when you run the rest later.",
+  "url": "https://softwarerecs.stackexchange.com/questions/95647/can-you-migrate-just-a-few-slack-users-instead-of-the-whole-workspace",
+  "author": "63156550d64d",
+  "createdAt": "2026-10-01T06:53:37.000Z",
+  "engagement": {
+   "score": -1,
+   "comments": 0,
+   "views": 8
+  },
+  "tags": [
+   "softwarerecs",
+   "software"
+  ],
+  "painScore": 30,
+  "matchedPhrases": []
+ },
+ {
+  "id": "stackexchange:softwarerecs:95646",
+  "source": "stackexchange",
+  "kind": "demand",
+  "title": "Is there a program which returns the output of `dumpsys activity activities` as a JSON?",
+  "body": "I'm writing the\nAndroid Window Manager\n(android-wm) and now after having asked for\nhow to parse dumpsys window windows\nI need to parse dumpsys activity activities\ninstead to attach the titles to the windows.\n\nDo you know if it already exists a program which\ndoes it? I mean it's only 23 years Android exists.",
+  "url": "https://softwarerecs.stackexchange.com/questions/95646/is-there-a-program-which-returns-the-output-of-dumpsys-activity-activities-as",
+  "author": "38c8c5146dec",
+  "createdAt": "2026-10-01T01:31:44.000Z",
+  "engagement": {
+   "score": 0,
+   "comments": 0,
+   "views": 5
+  },
+  "tags": [
+   "softwarerecs",
+   "android",
+   "software-development",
+   "json",
+   "shell-scripting"
+  ],
+  "painScore": 30,
+  "matchedPhrases": []
+ }
+]
