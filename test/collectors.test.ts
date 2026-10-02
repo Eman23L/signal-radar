@@ -58,11 +58,21 @@ test('appstore keeps low-star reviews and skips the metadata entry', async () =>
   assert.ok(out[0].tags.includes('rating:2'));
 });
 
-test('findatender filters by CPV prefix and links to the notice', async () => {
-  const out = await findATender(config).collect(ctx());
-  assert.equal(out.length, 1, 'catering tender (CPV 15) is filtered out');
-  assert.equal(out[0].url, 'https://www.find-tender.service.gov.uk/Notice/099999-2026');
-  assert.deepEqual(out[0].money, { amount: 180000, currency: 'GBP' });
+test('findatender keeps new tenders and planning notices with an IT main CPV, and follows links.next', async () => {
+  const urls: string[] = [];
+  const c = ctx();
+  const fetch = c.fetch;
+  const out = await findATender(config).collect({ ...c, fetch: (url, init) => (urls.push(url), fetch(url, init)) });
+  // Dropped: catering (CPV 15), award notice, tender update, equipment framework whose only IT codes are item-level.
+  assert.deepEqual(out.map((s) => s.id).sort(), ['findatender:ocds-h6vhtk-0sample1', 'findatender:ocds-h6vhtk-0sample3']);
+  assert.equal(urls.length, 2, 'fetched the page behind links.next');
+  assert.ok(!urls[0].includes('stages='), 'the stages filter drops most tenders, so we filter on tags');
+  const tender = out.find((s) => s.id.endsWith('sample1'))!;
+  assert.equal(tender.url, 'https://www.find-tender.service.gov.uk/Notice/099991-2026');
+  assert.deepEqual(tender.money, { amount: 180000, currency: 'GBP' });
+  const planning = out.find((s) => s.id.endsWith('sample3'))!;
+  assert.match(planning.title, /^\[early engagement\]/);
+  assert.deepEqual(planning.money, { amount: 600000, currency: 'GBP' }, 'falls back to amountGross');
 });
 
 test('reddit RSS keeps only pain-phrase posts', async () => {

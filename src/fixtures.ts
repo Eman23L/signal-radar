@@ -29,7 +29,8 @@ export const fixtureFetcher: Fetcher = async (url, init) => {
     case 'itunes.apple.com':
       return url.includes('/gb/') && url.includes('id=441880705') ? json('appstore.json') : { feed: {} };
     case 'www.find-tender.service.gov.uk':
-      return json('findatender.json');
+      // Page 1 links to page 2 via links.next; page 2 is the (empty) last page.
+      return u.searchParams.has('cursor') ? { releases: [] } : json('findatender.json');
     default:
       throw new Error(`no fixture for ${url} (${init?.method ?? 'GET'})`);
   }

@@ -58,7 +58,9 @@ export async function runRadar(o: RunOptions): Promise<RunResult> {
       continue;
     }
     try {
-      const items = await c.collect(ctx);
+      // Slow sources can look further back; seen.json keeps them from repeating.
+      const hours = (config.sources as Record<string, { lookbackHours?: number }>)[c.name]?.lookbackHours;
+      const items = await c.collect(hours ? { ...ctx, since: new Date(now.getTime() - hours * 3_600_000) } : ctx);
       collected.push(...items);
       report.push({ source: c.name, status: 'ok', count: items.length });
       log(`${c.name}: ${items.length} items`);

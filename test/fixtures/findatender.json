@@ -1,41 +1,190 @@
 {
- "_note": "SAMPLE DATA for offline demo/tests \u2014 shaped like the real API response, not real posts.",
- "uri": "https://www.find-tender.service.gov.uk/api/1.0/ocdsReleasePackages",
+ "_note": "SAMPLE DATA for offline demo/tests — shaped like the real API response (checked live Sept 2026), not real notices.",
+ "uri": "https://www.find-tender.service.gov.uk/api/1.0/ocdsReleasePackages?updatedFrom=2026-09-26T04:40:00&limit=100",
+ "version": "1.1",
+ "publishedDate": "2026-09-27T12:00:00Z",
  "releases": [
   {
-   "id": "099999-2026-tender",
    "ocid": "ocds-h6vhtk-0sample1",
-   "date": "2026-09-27T10:00:00.000Z",
-   "buyer": {
-    "name": "Sample Borough Council"
-   },
+   "id": "099991-2026",
+   "date": "2026-09-27T10:00:00Z",
+   "tag": [
+    "tender"
+   ],
+   "initiationType": "tender",
    "tender": {
+    "id": "SAMPLE-1",
     "title": "Online booking and payments system for leisure services",
+    "status": "active",
+    "classification": {
+     "scheme": "CPV",
+     "id": "48000000"
+    },
+    "mainProcurementCategory": "services",
     "description": "The Council seeks a cloud-based booking platform with online payments and reporting.",
     "value": {
+     "amountGross": 216000,
      "amount": 180000,
      "currency": "GBP"
-    },
-    "classification": {
-     "id": "48000000",
-     "description": "Software package and information systems"
     }
-   }
+   },
+   "buyer": {
+    "id": "GB-SAMPLE",
+    "name": "Sample Borough Council"
+   },
+   "language": "en"
   },
   {
-   "id": "099998-2026-tender",
    "ocid": "ocds-h6vhtk-0sample2",
-   "date": "2026-09-27T10:00:00.000Z",
+   "id": "099992-2026",
+   "date": "2026-09-27T10:00:00Z",
+   "tag": [
+    "tender"
+   ],
+   "initiationType": "tender",
+   "tender": {
+    "id": "SAMPLE-2",
+    "title": "Catering supplies",
+    "status": "active",
+    "classification": {
+     "scheme": "CPV",
+     "id": "15000000"
+    },
+    "mainProcurementCategory": "services",
+    "description": "Food."
+   },
    "buyer": {
+    "id": "GB-SAMPLE",
     "name": "Sample NHS Trust"
    },
+   "language": "en"
+  },
+  {
+   "ocid": "ocds-h6vhtk-0sample3",
+   "id": "099993-2026",
+   "date": "2026-09-27T10:00:00Z",
+   "tag": [
+    "planning"
+   ],
+   "initiationType": "tender",
    "tender": {
-    "title": "Catering supplies",
-    "description": "Food.",
+    "id": "SAMPLE-3",
+    "title": "Case management system: market engagement",
+    "status": "planned",
     "classification": {
-     "id": "15000000"
+     "scheme": "CPV",
+     "id": "72000000"
+    },
+    "mainProcurementCategory": "services",
+    "description": "Early market engagement for a replacement case management system.",
+    "value": {
+     "amountGross": 600000,
+     "currency": "GBP"
     }
-   }
+   },
+   "buyer": {
+    "id": "GB-SAMPLE",
+    "name": "Sample County Council"
+   },
+   "language": "en"
+  },
+  {
+   "ocid": "ocds-h6vhtk-0sample4",
+   "id": "099994-2026",
+   "date": "2026-09-27T10:00:00Z",
+   "tag": [
+    "award",
+    "contract"
+   ],
+   "initiationType": "tender",
+   "tender": {
+    "id": "SAMPLE-4",
+    "title": "Payroll software",
+    "status": "active",
+    "classification": {
+     "scheme": "CPV",
+     "id": "48000000"
+    },
+    "mainProcurementCategory": "services",
+    "description": "Contract awarded.",
+    "value": {
+     "amount": 50000,
+     "currency": "GBP"
+    }
+   },
+   "buyer": {
+    "id": "GB-SAMPLE",
+    "name": "Sample District Council"
+   },
+   "language": "en"
+  },
+  {
+   "ocid": "ocds-h6vhtk-0sample5",
+   "id": "099995-2026",
+   "date": "2026-09-27T10:00:00Z",
+   "tag": [
+    "tender"
+   ],
+   "initiationType": "tender",
+   "tender": {
+    "id": "SAMPLE-5",
+    "title": "Diagnostic equipment framework",
+    "status": "active",
+    "classification": {
+     "scheme": "CPV",
+     "id": "33100000"
+    },
+    "mainProcurementCategory": "services",
+    "description": "Imaging equipment plus related software and maintenance.",
+    "items": [
+     {
+      "id": "1",
+      "additionalClassifications": [
+       {
+        "scheme": "CPV",
+        "id": "48180000"
+       },
+       {
+        "scheme": "CPV",
+        "id": "72212180"
+       }
+      ]
+     }
+    ]
+   },
+   "buyer": {
+    "id": "GB-SAMPLE",
+    "name": "Sample Health Board"
+   },
+   "language": "en"
+  },
+  {
+   "ocid": "ocds-h6vhtk-0sample6",
+   "id": "099996-2026",
+   "date": "2026-09-27T10:00:00Z",
+   "tag": [
+    "tenderUpdate"
+   ],
+   "initiationType": "tender",
+   "tender": {
+    "id": "SAMPLE-6",
+    "title": "Online booking and payments system for leisure services",
+    "status": "active",
+    "classification": {
+     "scheme": "CPV",
+     "id": "48000000"
+    },
+    "mainProcurementCategory": "services",
+    "description": "Clarification issued."
+   },
+   "buyer": {
+    "id": "GB-SAMPLE",
+    "name": "Sample Borough Council"
+   },
+   "language": "en"
   }
- ]
+ ],
+ "links": {
+  "next": "https://www.find-tender.service.gov.uk/api/1.0/ocdsReleasePackages?updatedFrom=2026-09-26T04:40:00&limit=100&cursor=c2FtcGxl"
+ }
 }

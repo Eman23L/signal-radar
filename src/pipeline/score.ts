@@ -7,6 +7,7 @@ import type { Signal } from '../types.ts';
 import { normalize } from '../util/text.ts';
 
 const EXPLICIT_WTP = ["i'd pay", 'i would pay', 'would happily pay', 'willing to pay', 'take my money', 'happy to pay'];
+const isWtpPhrase = (p: string) => EXPLICIT_WTP.some((w) => p.includes(w) || w.includes(p));
 
 const clamp = (n: number, lo = 0, hi = 100) => Math.max(lo, Math.min(hi, n));
 const log2 = (n: number) => Math.log2(1 + Math.max(0, n));
@@ -36,10 +37,20 @@ export function scoreSignal(s: Signal, config: RadarConfig): Signal {
     case 'demand': {
       // Sources where every item is demand by nature get a floor.
       const inherentlyDemand = s.tags.includes('softwarerecs') || s.source === 'appstore';
-      score = matched.length ? 25 + Math.min(15, (matched.length - 1) * 8) : inherentlyDemand ? 30 : 5;
-      if (config.moneyPhrases.some((p) => containsWord(text, p))) score += 10;
-      if (EXPLICIT_WTP.some((p) => text.includes(p))) score += 15;
+      // "I would pay for that" on its own is usually chat ("I'd pay for a Star Trek computer"),
+      // so willingness to pay only counts in full next to a real problem or tool request,
+      // and it's counted once (not again as a pain phrase and a money word).
+      const problems = matched.filter((p) => !isWtpPhrase(p));
+      const wtp = EXPLICIT_WTP.some((p) => text.includes(p));
+      const hasProblem = problems.length > 0 || inherentlyDemand;
+      score = problems.length ? 25 + Math.min(15, (problems.length - 1) * 8) : inherentlyDemand ? 30 : matched.length ? 15 : 5;
+      const moneyText = EXPLICIT_WTP.reduce((t, p) => t.replaceAll(p, ' '), text);
+      if (config.moneyPhrases.some((p) => containsWord(moneyText, p))) score += 10;
+      if (wtp) score += hasProblem ? 15 : 5;
       if (s.source === 'appstore' && s.tags.includes('rating:1')) score += 5;
+      // No engagement data at all (e.g. HN comments, which carry no points): nothing backs up
+      // a stray "too expensive" in a thread about something else.
+      if (!inherentlyDemand && Object.values(e).every((v) => v === undefined)) score -= 10;
       score += engagement + nicheBonus;
       break;
     }
