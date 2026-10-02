@@ -1,0 +1,915 @@
+[
+ {
+  "id": "hackernews:49932577",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Pi 1.0",
+  "body": "Just retried:\nLLM error: failed to start claude CLI: claude executable not found. Searched $PATH, the login shell, and known install locations (~/.local/bin, ~/.claude/local, ~/.npm-global/bin, /opt/homebrew/bin, /usr/local/bin). Set JUGGLER_CLAUDE_PATH to its absolute path if it lives elsewhere\nI think any tool that needs claude CLI is a no-go in my list. Claude is a closed source binary with idk what it does in there, IIUC. Maybe I am not the target market for this.",
+  "url": "https://news.ycombinator.com/item?id=49932577",
+  "author": "3b695e07d8e3",
+  "createdAt": "2026-10-02T12:07:56.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "any tool that"
+  ]
+ },
+ {
+  "id": "hackernews:49925951",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Ask HN: Who wants to be hired? (October 2026)",
+  "body": "Location: Bengaluru, Karnataka, India\nRemote: Yes\nWilling to relocate: Open to relocation\nTechnologies:\n - Rust\n\n - Tokio, Actix, Actix-Web\n\n - Python, FastAPI, Django\n\n - TypeScript, React, Vite\n\n - C++, Go\n\n - PostgreSQL, MySQL, SQLite\n\n - Linux, Docker, Kubernetes\n\n - AWS, GCP\n\n - GitHub Actions, GitLab CI/CD\n\n - WebSockets, REST APIs, Microservices\n\n - Claude Code, Agentic AI\n\nRésumé/CV: https://drive.google.com/file/d/1KlQnQNAO0qkTh3q1iSxSmbcVcsl...\nEmail: piyushxcoder@gmail.com\nI’m a jack of many traits(Engineer), focused on Rust systems programming and agentic AI tooling, with production experience across frontend, backend, DevOps, and AI systems. I’ve built a working BitTorrent client from the protocol up in Rust, real-time WebSocket systems, production React/FastAPI applications, and agentic Claude Code pipelines. I’m currently looking for software engineering opportunities where I can work on systems, backend infrastructure, Rust, distributed systems, or developer tooling.",
+  "url": "https://news.ycombinator.com/item?id=49925951",
+  "author": "752ca0ac7f36",
+  "createdAt": "2026-10-01T19:22:17.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "looking for software"
+  ]
+ },
+ {
+  "id": "hackernews:49923444",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Ask HN: Who wants to be hired? (October 2026)",
+  "body": "Location: Patna, Bihar, India\nRemote: Yes\nWilling to relocate: Yes, within India\nTechnologies:\n * Languages: Go, Node.js, TypeScript, JavaScript\n * Frontend: React\n * Databases & Cache: PostgreSQL, MongoDB, Redis\n * Cloud & Infra: AWS, S3, Docker, Linux\n * APIs & Protocols: REST, gRPC, WebSockets\n * Observability & Testing: Prometheus, Grafana, k6\n\nRésumé/CV: https://drive.google.com/file/d/1xY1EPw2Er5eAwmYUdbfBBXImEmQ...\nGitHub: https://github.com/lightningbat\nEmail: raj@krynix.xyz\nI build backend systems and infrastructure, with a particular interest in concurrency, scalability, reliability, and performance.\nRecent projects include a distributed URL shortener in Go with Redis-backed ID allocation, multi-level caching and load testing; a resilient rate limiter using a Redis/Lua token bucket with an in-memory fallback; and Hostlane, a multi-tenant static hosting platform built with Node.js/TypeScript, Go, PostgreSQL, Redis and Nginx.\nI'm looking for software engineering opportunities where I can contribute to building and operating real products, particularly backend and infrastructure systems. I'm open to remote and on-site opportunities.",
+  "url": "https://news.ycombinator.com/item?id=49923444",
+  "author": "52c70a13844d",
+  "createdAt": "2026-10-01T16:00:05.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "looking for software"
+  ]
+ },
+ {
+  "id": "hackernews:49922692",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Ask HN: Who wants to be hired? (October 2026)",
+  "body": "Location: Buenos Aires, Argentina (UTC-3)\nRemote: Yes\nWilling to relocate: Yes, depending on the opportunity Technologies: Python, TypeScript/Node.js, React/Next.js, FastAPI, PostgreSQL, AWS, PyTorch, LLM/agent systems, TTS/voice cloning\nRésumé/CV: https://canva.link/5kxnuxwtxhp54bk\nGitHub: https://github.com/franclarke\nLinkedIn: https://www.linkedin.com/in/franciscoclarke\nEmail: ffranclarke@gmail.com\nSoftware / AI Engineer and recently graduated Systems Engineer with ~1 year of professional experience.\nAt Neufitech, I work on voice technology for people with ALS, including voice cloning/TTS, audio processing, APIs, inference infrastructure, and integration into applications.\nFor my engineering thesis, I built ManyHands, a multi-agent software engineering orchestrator that decomposes tasks into a hierarchical DAG, runs coding agents in isolated Git worktrees, evaluates outputs, and integrates results bottom-up.\nPrimarily looking for Software Engineering and Applied AI / AI Engineering roles. Also very interested in MLOps, AI infrastructure, and cloud/platform engineering.\nI enjoy working at the intersection of software, models, and infrastructure, and owning problems end-to-end.\nOpen to remote opportunities internationally and roles in Argentina.",
+  "url": "https://news.ycombinator.com/item?id=49922692",
+  "author": "5e87c5fadcd9",
+  "createdAt": "2026-10-01T15:08:35.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "looking for software"
+  ]
+ },
+ {
+  "id": "hackernews:49928044",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: The death of web development education",
+  "body": "what do you use for this approach? or you just let the LLM come up with the whole implementation without any frameworks?",
+  "url": "https://news.ycombinator.com/item?id=49928044",
+  "author": "dfcdbab3987a",
+  "createdAt": "2026-10-01T22:58:43.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "what do you use for"
+  ]
+ },
+ {
+  "id": "hackernews:49932622",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Pi 1.0",
+  "body": "> Pi-heads who fancy a bit of GUI actionz\nThis project looks great, well done, BUT it seems very odd to be \"grumbling\" about Pi when you're explicitly targeting a separate audience (GUI users).\nThere are other GUI tools like Juggler that are quite popular, like cmux, that it seems better placed as an alternative to.",
+  "url": "https://news.ycombinator.com/item?id=49932622",
+  "author": "bdc78541443b",
+  "createdAt": "2026-10-02T12:13:42.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49932299",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Why media fans want to escape algorithms with CDs, DVDs and vinyl",
+  "body": "https://listenbrainz.org/ is an open source alternative to Last.fm that I can confirm works with Navidrome. You can also self host it if you would prefer to keep your listen history private.",
+  "url": "https://news.ycombinator.com/item?id=49932299",
+  "author": "af5af437403c",
+  "createdAt": "2026-10-02T11:29:43.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49931693",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Show HN: Header Modifier Pro – A $19 pay-once alternative to Requestly",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=49931693",
+  "author": "438644282bae",
+  "createdAt": "2026-10-02T09:51:29.000Z",
+  "engagement": {
+   "score": 1,
+   "comments": 0
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 38,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49930355",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
+  "body": "> This is a common misconception.\nI should have clarified it more precisely:\nWeather dependent renewables (wind, solar) without storage are not an alternative to nuclear.\nNow we can discuss more precisely the kinds of storage: pumped hydro, battery storage, H2 storage, thermal energy storage, the costs and space and material needs of each kind of storage.\n> https://model.energy/\nThis energy model is not 100% renewables, Combined cycle gas turbine with CO2 capture is also included in the mix.",
+  "url": "https://news.ycombinator.com/item?id=49930355",
+  "author": "ea47678afab0",
+  "createdAt": "2026-10-02T06:17:31.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 35,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49930031",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Ask HN: What are you working on? (October 2026)",
+  "body": "I'm building the Fillvisa: open-Source Alternative to Docketwise\nSo far, legaltech has mostly been closed-software. I'm building an open source alternative to Immigration tech software.\nGithub: https://github.com/athos2113/fillvisa-os\nLive demo: https://fillvisa.com/demo\nDocketwise: https://www.docketwise.com/",
+  "url": "https://news.ycombinator.com/item?id=49930031",
+  "author": "c9ce45226f3e",
+  "createdAt": "2026-10-02T05:09:32.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49927703",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
+  "body": "> Weather dependent renewables (wind, solar) are not an alternative to nuclear, even when they are perceived in this way by the public.\nThis is a common misconception. The reality is that coupled with storage in a cost-optimized way renewables are no more expensive than nuclear for providing 365/24/7 power and likely considerably cheaper.\nhttps://model.energy/",
+  "url": "https://news.ycombinator.com/item?id=49927703",
+  "author": "741193579f97",
+  "createdAt": "2026-10-01T22:16:43.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 35,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49926328",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Free hosted API for Laya, the open-weight decision model",
+  "body": "Hi HN - I'm Santiago, VP of Marketing at Boundless, an inference platform for open models. We're now serving Laya, the open-source alternative to Jev, for free on Vercel AI Gateway (through Oct 31).",
+  "url": "https://news.ycombinator.com/item?id=49926328",
+  "author": "da24b966fa58",
+  "createdAt": "2026-10-01T19:57:03.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49924518",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Git 3.0's upcoming SHA-256 default will be a costly mistake",
+  "body": "This seems like Y2K fud.\nThe alternative to making sha256 the default is to leave sha1 the default. Nobody changes to sha256. sha1 is broken in 10 years. Suddenly everyone has to switch all at once on the same day because it is a critical security issue, but github never implemented sha256 because they didn't have to. This would be a major problem.\nThis is very very easy to fix if you run into it.\n1. Adopt git 3.0 if you can with sha256.\n2. If you can't use sha256, set the config to put things back to sha1. Wherever you need to do this you probably already set dozens of ENV vars or settings, just add a new one.\nOr write a 15 page analysis about how the above is so hard people will probably just find it catastrophic to even think about.",
+  "url": "https://news.ycombinator.com/item?id=49924518",
+  "author": "7958e5aefbee",
+  "createdAt": "2026-10-01T17:25:40.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49923064",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Show HN: Engrams, an open source alternative to Devin",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=49923064",
+  "author": "aff036b7c9ec",
+  "createdAt": "2026-10-01T15:34:11.000Z",
+  "engagement": {
+   "score": 17,
+   "comments": 0
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 38,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49922031",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
+  "body": "Weather dependent renewables (wind, solar) are not an alternative to nuclear, even when they are perceived in this way by the public.\nFrom point of view of an electrical grid operator only wind/solar+fossil are alternative to nuclear, if you want to maintain stable electric grid without blackout or rolling blackouts.\nhttps://en.wikipedia.org/wiki/Rolling_blackout",
+  "url": "https://news.ycombinator.com/item?id=49922031",
+  "author": "ea47678afab0",
+  "createdAt": "2026-10-01T14:18:07.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49930621",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: DeepSeek Harness Desktop for macOS and Windows",
+  "body": "> I wish there was a tool I could use to share my documents, activity, etc. directly with the world's major intelligence agencies.\noh, good old times of PRISM, rightly bygone. Of course they don't do this now.",
+  "url": "https://news.ycombinator.com/item?id=49930621",
+  "author": "39e277c06282",
+  "createdAt": "2026-10-02T07:05:49.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "wish there was"
+  ]
+ },
+ {
+  "id": "hackernews:49929915",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: DeepSeek Harness Desktop for macOS and Windows",
+  "body": "I wish there was a tool I could use to share my documents, activity, etc. directly with the world's major intelligence agencies.\nA marketplace, where the different intelligence agencies could evaluate the value of my digital stuff and then offer me something (like a $5 gift card to Olive Garden), would be really nice.",
+  "url": "https://news.ycombinator.com/item?id=49929915",
+  "author": "b5c91f894833",
+  "createdAt": "2026-10-02T04:43:53.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "wish there was"
+  ]
+ },
+ {
+  "id": "hackernews:49929182",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: 2026 International Utility Locate Rodeo",
+  "body": "Actually, sounds like total fun.\nIf they added studfinding into this and it would be more like divining rods and witchcraft.\n(tried countless studfinders and wish there was one that gave a clear wall picture)",
+  "url": "https://news.ycombinator.com/item?id=49929182",
+  "author": "c1a2caeaa564",
+  "createdAt": "2026-10-02T02:07:32.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "wish there was"
+  ]
+ },
+ {
+  "id": "hackernews:49929771",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: DeepSeek Harness Desktop for macOS and Windows",
+  "body": "https://frontierharness.org/ allegedly this is on the Pareto frontier, though I don't know how good of a benchmark this really is. it seems to focus on one-shot type tasks, whereas the real utility of one harness over another seems to make itself known in long running tasks.\nalso this is a very limited static snapshot with one model as backend, I wish there were more consistently refreshed and diversified harness benchmarks.",
+  "url": "https://news.ycombinator.com/item?id=49929771",
+  "author": "1023dc2a187c",
+  "createdAt": "2026-10-02T04:13:46.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "wish there were"
+  ]
+ },
+ {
+  "id": "hackernews:49924630",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: We’re forgetting what darkness feels like",
+  "body": "I wish there were completely dark places outside of my city that were easy drives. It takes me about 2 hours to get to a b3. b1 is about 9, with a decent amount of speeding. And the difference between the two is massive.\nIf you go talk to professional astronomers about this, they're pretty practical, and thankfully, they can be. The single biggest improvement we can make is shielding the directionality of the lights - and not using harsh bright white lights. Thankfully, doing both of these actually improves the usability for the lights for their intended purposes.\nDown at the Macdonald Observatory in Ft. Davis they have worked with surrounding cities, industrial compounds, etc., to get light pollution down. I was watching a presentation they gave on the subject and a large industrial complex moved from fairly un-targeted bright white floodlights to the more yellow/amber lights that shielded upwards reflection - the peak brightness was lower, but it covered things much more evenly, didn't impact your night vision as much when working in it, which then kept darker spots from being pitch black holes like they were with the bright white floodlights. They improved safety for their workers - measurably! - and significantly reduced the amount of light being polluted back up into the sky.\nAnd no, the loss of dark skies is a real issue. The article points out multiple issues not even related to human enjoyment of dark skies, but literally impacting our ecosystems. These are real and measured and not debated. If you are going to accuse this of being clickbait, perhaps engage with the actual points in the article and point out how they aren't actually of concern and why?",
+  "url": "https://news.ycombinator.com/item?id=49924630",
+  "author": "1670bf9a9fb4",
+  "createdAt": "2026-10-01T17:33:52.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "wish there were"
+  ]
+ },
+ {
+  "id": "hackernews:49930608",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Claude Usage Monitor for Windows",
+  "body": "I got sick of clicking Settings -> Usage all the time when using Claude Code, so I made a tiny Windows app that puts all the usage information I wanted in one place, along with the current session and context information.\nI just released it as open source on GitHub under the MIT License, so if you use Claude Code and you're interested, check it out.\nIt's only the Windows .exe, no installer, frameworks, or other stuff to install.\nhttps://github.com/mheilemann/ClaudeUsageMonitor/",
+  "url": "https://news.ycombinator.com/item?id=49930608",
+  "author": "822c862d3df9",
+  "createdAt": "2026-10-02T07:02:51.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49929922",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Pi 1.0",
+  "body": "I am using pi the same way everyone uses Codex and Claude, but pi makes it very simple to make folders to make the agent behave a certain way and that was easy for me to understand.\nChatGPT Desktop seems to intentionally hide what they are doing and where they are storing state, sessions, config, I never had any idea what is in context or what \"archiving\" even means. I got sick of OpenAI hiding how ChatGPT Desktop was working. I opened pi and the default behavior shows me how much context I am using, how much that costs and tells me where it stores my session data.\nSuddenly it was all demystified and that is why I use pi. It has nothing to do with a functional gap, it was the joy a using a harness that was transparent about how it worked.",
+  "url": "https://news.ycombinator.com/item?id=49929922",
+  "author": "2ffe3f3bd27c",
+  "createdAt": "2026-10-02T04:45:00.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49925738",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Show HN: PBI Guard – Stop people from messing up your Power BI (you included)",
+  "body": "Hi HN!\nI have been a frequent user of Power BI for some time, and I have observed that the tooling is not up to date with the latest platforms/tooling in software engineering.\nAlthough some testing tools and frameworks exist (like Tabular Editor 2/3 or PQL), my day-to-day use cases felt like using a shotgun to catch fish (sure, you can do it, but a rod would have been better). So, I talked to some people and built a Power BI error checker where you can freeze a .pbip at any point in time (consider it the golden source of truth), and if you or someone else (person or AI) changes something that you don't like, you see exactly what changed in your data.\nYou can also add your own tests using simple YAML instructions (similar to DAX) or drag-and-drop tools.\nIf you work with Power BI and you are sick of digging through tables to understand what went wrong, this tool might be for you!\nIt is open-source, written in Python, and it is pretty fast at catching issues.\nIf you have any feedback/comments, I'd be glad to hear them.",
+  "url": "https://news.ycombinator.com/item?id=49925738",
+  "author": "3b37dcc00b11",
+  "createdAt": "2026-10-01T19:03:05.000Z",
+  "engagement": {
+   "score": 1,
+   "comments": 0
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 28,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49924260",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Show HN: I got sick of sequencers and CRMs, so I built this",
+  "body": "I've built and sold software that plugs into CRMs, and for years I've been unhappy with mass messaging and sequencer tools. They feel generic, and they don't work. I have a warm book of relationships and a long sales cycle, and I need to keep everyone up to date with personalized outreach.\nNo tool did this, so I ended up dumping my entire email into an agent chat and asking \"who should I reach out to today?\" That helps with replies, but it doesn't answer \"who are the best prospects I've ever talked to, and what message gets them closer to a sale today?\"\nSo I built Ember. It reads your inbox and CRM and keeps up with every relationship the way you would. If someone says \"circle back in April,\" it circles back in April. If it isn't sure, it asks first.\nMy company's sales team still pays for HubSpot and Attio, but Ember is the only interface they use now. I think we'll drop those soon.\nIt's not cold outreach and it's not a workflow builder. It's more like a version of me and my team that never drops a thread.\nFree to try at withember.ai.",
+  "url": "https://news.ycombinator.com/item?id=49924260",
+  "author": "5426cb13d59c",
+  "createdAt": "2026-10-01T17:03:23.000Z",
+  "engagement": {
+   "score": 1,
+   "comments": 0
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 28,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49931360",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Several vulnerabilities have been discovered in the Linux kernel",
+  "body": "Yeah it’s a great video (TLDR from the video)\n1. LLMs have high false positive rate. From mythos 79 vulnerabilities found in the Linux kernel, only a single digit were actual bugs and they were all obscure so don’t panic.\n2. What does obscure mean? I don’t really understand it, but many of the bugs have to do with custom network drivers or other custom drivers that are very specific to certain organizational setups, not a general Linux distro issue.\n3. He’s very frustrated with the high false positive rate mythos generates. Even after multiple rounds of adversarial review and prompting strats, he mentions it is > 20% false positive rate, which wastes a lot of time. When some random user on the internet brings up a bug with an LLM it’s almost always fake, he even says just push back a few times claiming it’s not a bug to see if it’s a real bug (LLMs very quickly cave and “notice their mistake” etc)\n4. General observation on the useful bugs mythos finds. Chain multiple smaller bugs to see if you can get a bigger breakage. Mythos is really good at constructing these long convoluted chains that fuzzers miss.\n5. Go through recent bug fixes and check if similar bugs are hidden elsewhere in the codebase. Mythos is good at such pattern matching albeit with a high false positive rate.\nFinal conclusion: don’t panic, the bugs are getting fixed, this is not as bad as the first fuzzer bug mania and will be fixed quicker, he estimates a year and we won’t see huge bug reports anymore.",
+  "url": "https://news.ycombinator.com/item?id=49931360",
+  "author": "0dad629b3796",
+  "createdAt": "2026-10-02T09:00:20.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "frustrated with"
+  ]
+ },
+ {
+  "id": "hackernews:49931404",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Ask HN: Who wants to be hired? (October 2026)",
+  "body": "Location: Hyderabad, India\nRemote: Yes\nWilling to relocate: Yes\nTechnologies: Python, PyTorch, ONNX, ONNX Runtime, quantization, QDQ, INT8/INT4, model compression, calibration, accuracy recovery, computer vision, LLM fine-tuning, LoRA/QLoRA, evaluation pipelines, Docker, Linux\nRésumé/CV: Available on request\nEmail: johnzakkam2592@gmail.com\nAI / ML engineer focused on model optimization, quantization, and deployment.\nI help teams take models from “works in research” to “runs efficiently in production.” My work includes PyTorch to ONNX export/debugging, INT8/INT4 quantization, calibration, accuracy recovery after compression, latency/memory benchmarking, and fine-tuning/evaluation workflows.\nBest fit: startups or teams with ML/AI models that are too slow, too expensive to serve, hard to deploy, or losing accuracy after quantization/compression.\nInterested in freelance, consulting, part-time, or full-time opportunities around model optimization, edge AI, inference efficiency, and applied ML systems.",
+  "url": "https://news.ycombinator.com/item?id=49931404",
+  "author": "613ea6d480b2",
+  "createdAt": "2026-10-02T09:06:32.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49928285",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: ArXiv's Updated Rate Limit Policy",
+  "body": "Arxiv papers are not supposed to signify anything. The only reason that people may derive some kind of career benefits is because Google Scholar indexes it and counts it towards the h-index etc. All that metric-based career-optimization going on is quite broken anyway, so this is fixing things from the wrong end as well. (The better end: stop hiring and promoting people based on Arxiv paper counts, so there is no incentive to flood it)\nThe hosting cost side I can understand, though they received quite some funding recently, but I assume it's not going towards actually running the site, but to who knows what broader impacts and so on.\nModeration for Arxiv is a silly idea. It already shouldn't be taken as a quality signal that something is able to be up on Arxiv. Obviously they should remove illegal stuff, but beyond that, requiring moderation is a misunderstanding of their role and reason for popularity.\nIf hosting is too expensive, I guess an alternative aggregator could also arise. With just metadata and a hash of the pdf that can be hosted anywhere, and as the sumbitter, if you move the file, you can change the URL.\nThe main reason for Arxiv's existence is the timestamping and the easy referencing. (Though I admit that the stable hosting is also a pretty important part, but they mention moderation effort as the reason, not the hosting costs.)\nAcademia is losing sight of the forest for the trees, can't see more than an arm's length ahead of their noses.",
+  "url": "https://news.ycombinator.com/item?id=49928285",
+  "author": "bb223529112b",
+  "createdAt": "2026-10-01T23:41:02.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49927631",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Ask HN: Who wants to be hired? (October 2026)",
+  "body": "Location: Cambridge, Massachusetts, USA\nRemote: Yes\nWilling to relocate: No\nTechnologies: Python (Flask, SQLAlchemy), JavaScript (React), SQL (PostgreSQL), ElasticSearch\nResumé/CV: http://michaelawhite.net/cv/\nEmail: See resumé.\nI'm an entrepreneurial software engineer looking for work (ideally part-time) to help finance my side projects (see my website). I am a 20-year Linux user and have founded two viable SaaS web application companies. I can do all aspects of launching a new product or improving an existing one from idea generation to light graphic design to DevOps, and of course including full stack development. I haven't learned the coding AIs yet. You would agree that AI can't produce the same quality results as me or is too expensive, although I may be willing to learn an AI workflow.\nI can adjust to C, C++, Java, Rust, Go, TypeScript, OCaml, and Clojure work quickly since I read about them all the time and have some experience in C and C++.",
+  "url": "https://news.ycombinator.com/item?id=49927631",
+  "author": "6c7bf67e3081",
+  "createdAt": "2026-10-01T22:07:34.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49922487",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
+  "body": "In the US you might need it to be a five figure salary, sure. 50k? We could probably figure out the math on it.\nWorking out the logistics of paying for it is another matter, but if it's too expensive then you can't really complain about the low birthrate - either the state pays or the people do for all that time spent on raising kids. People who rationally choose to skip that time to work or do other things need to be motivated somehow if you want the kids, right?\nSo ultimately it depends on how seriously you want to take the birthrate crisis. This is the simplest way I can think of to tackle the two income household obstacle though.",
+  "url": "https://news.ycombinator.com/item?id=49922487",
+  "author": "b3e0d397577a",
+  "createdAt": "2026-10-01T14:55:18.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 35,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49921814",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+  "body": "But only in 2028 because all the wafers rotting away in the warehouses are HBM which are too expensive to package or integrate into consumer electronics with tighter margins. Looking forward to having enthousiast-grade GPUs with HBM again though.",
+  "url": "https://news.ycombinator.com/item?id=49921814",
+  "author": "0f901705a916",
+  "createdAt": "2026-10-01T13:59:57.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49922024",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: CHOMPI portable sampler instrument is now open-source (hardware and software)",
+  "body": "I'm not saying that you've clearly never built and shipped a hardware device as a small team in North America; maybe you have, and maybe that's what you do all day.\nHowever, I have noticed that the only people who look at a product like Chompi and think \"overpriced\" are people who have never built and shipped a hardware device. Perhaps you'll be the one to prove me wrong.\nI'm not saying that Chompi wasn't expensive, or that you couldn't get a mass-produced device like a Roland SP-404 for less on Reverb. I am saying that that is not a fair comparison, however.",
+  "url": "https://news.ycombinator.com/item?id=49922024",
+  "author": "6bf1e3dd0b34",
+  "createdAt": "2026-10-01T14:17:22.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:49921710",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: LinkedIn Larpmaxxing",
+  "body": "Their entire business model is targeted ads and selling overpriced linkedin premium to thought-leader wannabes. If they lose the ads surface, they are dead in the water, so it makes sense to block headless experiences at all cost",
+  "url": "https://news.ycombinator.com/item?id=49921710",
+  "author": "4725c25106ad",
+  "createdAt": "2026-10-01T13:51:34.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:49931639",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Several vulnerabilities have been discovered in the Linux kernel",
+  "body": "Depends on if people are willing to pay the extra wall time to write mathematical proofs for everything to make it provably correct. Takes way way longer but modern models can do it.",
+  "url": "https://news.ycombinator.com/item?id=49931639",
+  "author": "8396532a3b4f",
+  "createdAt": "2026-10-02T09:42:34.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49928589",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it",
+  "body": "Price discrimination on monopoly goods doesnt seem so bad to me. A lot of people who arent willing to pay so much would likely be able to get stuff that otherwise would be limited to the wealthy. Drug prices should definitely have price discrimination as far as Im concerned.",
+  "url": "https://news.ycombinator.com/item?id=49928589",
+  "author": "d013cff2d1c0",
+  "createdAt": "2026-10-02T00:32:07.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49928235",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Don't Be Fooled by this Summer of AI Hype",
+  "body": "Not me, but I'm using an adblocker and have JS disabled by default to avoid exactly that kind of thing. I probably miss out on a lot of ironic or inappropriate advertising like banner ads for guns on a news article about a school shooting, but that's a price I'm willing to pay.",
+  "url": "https://news.ycombinator.com/item?id=49928235",
+  "author": "2b043b6ac459",
+  "createdAt": "2026-10-01T23:30:28.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49928177",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Red Hat being phased out of existence?",
+  "body": "Their goal is to create a system that's easy to run and manage even if you don't really know much about k8s - which I guess is a common thing, since k8s is a nightmare to manage directly until you learn everything about everything.\nMore importantly, they want to build an ecosystem around their ecosystem around k8s. They want people publishing their software to work on OpenShift (e.g. in the operator catalog), they have certification processes for software compatibility (e.g. CNI certification), and now that they've come as far as they have they're going after VMWare's lunch, madly scooping up every customer they can get their hands on to try to offer them a user-friendly kubevirt implementation to replace VMWare (and NSX).\nIf OpenShift was close to k8s then there wouldn't be enough differentiation between the two to make it worth the money so they're building out everything they think that execs and overworked infra teams will be willing to pay for to make k8s migration a workable option (rather than an internal migration project that stagnates and drags on for ten years).\nOCP is just RHEL but for Kubernetes, and RHEL has done pretty well over the years all in all. RHEL is \"just Linux\", but it's \"just Linux\" with a bunch of RHEL-specific stuff in it and on top of it, and RHEL-specific policies around it, such that you can buy something from a software or hardware vendor that works with and is tested on RHEL and you know it'll work with your systems.\nThe goal is the same; company sells this software/solution, it runs on OpenShift v4.xx and up; you need RH's mesh and virt operators installed and configured, and then you can install our operator for our software and you're done. Now your whatever, database or CMS or whatever it is, just works. You don't have to customize the charts or define your own ingress gateway, it's all handled already if your system is set up properly. Then you get the meta-control panel that lets you see and manage all of your clusters and etc…",
+  "url": "https://news.ycombinator.com/item?id=49928177",
+  "author": "daad0ae8109d",
+  "createdAt": "2026-10-01T23:20:44.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49922243",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+  "body": "As an end user it’s difficult to not be bitter about the situation, particularly when you have execs coming out and saying, “yep these prices sure are terrible, better buy now before they get even worse!”\nI’ve seen people say, “well that’s just the free market, there’s a customer that’s willing to pay more than you,” but that argument doesn’t hold water when industry incumbents are actively obstructing entrance of new competitors into their primary markets. Micron, etc can’t both refuse to carve off more of their capacity for consumer-destined NAND and also refuse to allow others to fill the vacuum they’ve so conveniently created. Either you’re serving the market or you’re not; you don’t get to have your cake and eat it too under properly functioning, healthy capitalism.",
+  "url": "https://news.ycombinator.com/item?id=49922243",
+  "author": "beac853a144a",
+  "createdAt": "2026-10-01T14:35:37.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 50,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49931031",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=49931031",
+  "author": "8eab2c144646",
+  "createdAt": "2026-10-02T08:05:48.000Z",
+  "engagement": {
+   "score": 48,
+   "comments": 16
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 48,
+  "matchedPhrases": []
+ },
+ {
+  "id": "hackernews:49926773",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=49926773",
+  "author": "8ba7dbed45a4",
+  "createdAt": "2026-10-01T20:36:47.000Z",
+  "engagement": {
+   "score": 82,
+   "comments": 14
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 52,
+  "matchedPhrases": []
+ },
+ {
+  "id": "hackernews:49926726",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: Rhun, an open-source code editor written in assembly",
+  "body": "I found that I'm not using even 1/3 of vim/vscode features anymore.\nThat's wht I'm building rhun - a small code editor for Linux, Windows and Apple silicon Macs. It obviously has Vim mode, a terminal, Git diffs and a panel for Claude Code or Codex sessions.\nThe editor and pixel renderer share an x86-64 assembly core. For Apple silicon, a build-time translator converts that core to AArch64, with separate platform adapters around it.\nThe latest release can draft commit messages using a local Ollama model or an existing Claude Code or Codex subscription.\nIt's a solo project, MIT licensed and still early.",
+  "url": "https://news.ycombinator.com/item?id=49926726",
+  "author": "d000331202de",
+  "createdAt": "2026-10-01T20:32:18.000Z",
+  "engagement": {
+   "score": 56,
+   "comments": 33
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 49,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1397939439",
+  "source": "github",
+  "kind": "tool",
+  "title": "Edwardxlai/easyread — 577★",
+  "body": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+  "url": "https://github.com/Edwardxlai/easyread",
+  "author": "f329eba555a3",
+  "createdAt": "2026-09-30T12:52:24Z",
+  "engagement": {
+   "stars": 577
+  },
+  "tags": [
+   "claude-code",
+   "JavaScript"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1397840198",
+  "source": "github",
+  "kind": "tool",
+  "title": "justxor/claude-code-pro-course — 177★",
+  "body": "Claude Code PRO — полный курс и гайд на русском: CLAUDE.md, settings, skills, subagents, hooks, MCP, плагины, CI. 8 лабораторных, библиотека промптов и готовый starter-kit. Здесь бесплатные курсы  по chatgpt - ",
+  "url": "https://github.com/justxor/claude-code-pro-course",
+  "author": "dfb9519a6eec",
+  "createdAt": "2026-09-30T12:15:37Z",
+  "engagement": {
+   "stars": 177
+  },
+  "tags": [
+   "mcp",
+   "Shell"
+  ],
+  "painScore": 57,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1377893932",
+  "source": "github",
+  "kind": "tool",
+  "title": "PerryLink/jevcore — 96★",
+  "body": "TypeSafe Jev for DeepSeek Harness, the Model Context Protocol, and plain Node: typed judgments instead of prose, offline by default.",
+  "url": "https://github.com/PerryLink/jevcore",
+  "author": "5ebdcfb62f78",
+  "createdAt": "2026-09-20T04:11:31Z",
+  "engagement": {
+   "stars": 96
+  },
+  "tags": [
+   "mcp",
+   "TypeScript"
+  ],
+  "painScore": 53,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1377066211",
+  "source": "github",
+  "kind": "tool",
+  "title": "using-system/otelyssey — 87★",
+  "body": "OpenTelemetry plugins for every coding agent, in the Agent Plugins format — a marketplace that runs itself: open an issue, the repository validates, reviews, lists and follows your plugin.",
+  "url": "https://github.com/using-system/otelyssey",
+  "author": "be03f49451f4",
+  "createdAt": "2026-09-19T11:22:20Z",
+  "engagement": {
+   "stars": 87
+  },
+  "tags": [
+   "mcp",
+   "Python"
+  ],
+  "painScore": 52,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1384291789",
+  "source": "github",
+  "kind": "tool",
+  "title": "PyModel/jev-judge-mcp — 85★",
+  "body": "Typed judgment tools for MCP agents. TypeSafe's Jev model as verify, screen, find, classify, rerank, decide, compare, extract, review, gate, and score: the model judges, policy decides auto, review, or escalate.",
+  "url": "https://github.com/PyModel/jev-judge-mcp",
+  "author": "e7c3dcd4a35e",
+  "createdAt": "2026-09-23T22:48:43Z",
+  "engagement": {
+   "stars": 85
+  },
+  "tags": [
+   "mcp",
+   "Python"
+  ],
+  "painScore": 52,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1393410826",
+  "source": "github",
+  "kind": "tool",
+  "title": "tunaarikaya/magaza-mcp — 84★",
+  "body": "Tek MCP sunucusu, iki mağaza: App Store Connect + Google Play. Tamamen Türkçe.",
+  "url": "https://github.com/tunaarikaya/magaza-mcp",
+  "author": "37ce4edb23de",
+  "createdAt": "2026-09-28T17:25:16Z",
+  "engagement": {
+   "stars": 84
+  },
+  "tags": [
+   "mcp",
+   "TypeScript"
+  ],
+  "painScore": 52,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1389045266",
+  "source": "github",
+  "kind": "launch",
+  "title": "PSA-Team-source/AdLibrarySpy — 27★",
+  "body": "A free, open-source Shopify store and Meta ads spy tool. Find winning stores, see the ads they run, track competitors. Every number measured, nothing estimated.",
+  "url": "https://github.com/PSA-Team-source/AdLibrarySpy",
+  "author": "d13c21cd42e8",
+  "createdAt": "2026-09-26T10:48:29Z",
+  "engagement": {
+   "stars": 27
+  },
+  "tags": [
+   "saas",
+   "TypeScript"
+  ],
+  "painScore": 44,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1387743071",
+  "source": "github",
+  "kind": "launch",
+  "title": "vincentsch/explainroo — 310★",
+  "body": "Explainer videos and product demos made by your AI agent. Free and open source: a local voice (Kokoro), word timing (Whisper) and a canvas renderer turn a script into a narrated MP4.",
+  "url": "https://github.com/vincentsch/explainroo",
+  "author": "5f2028db632c",
+  "createdAt": "2026-09-25T15:09:54Z",
+  "engagement": {
+   "stars": 310
+  },
+  "tags": [
+   "ai-agents",
+   "JavaScript"
+  ],
+  "painScore": 61,
+  "matchedPhrases": []
+ },
+ {
+  "id": "stackexchange:softwarerecs:95649",
+  "source": "stackexchange",
+  "kind": "demand",
+  "title": "Is there an app store or user repository from which applications can't be taken down by anybod, not even by myself?",
+  "body": "This question of mine about whether it exists\nan application store from which applications\ncan't be deleted from after published independently\nfrom one's will and even after the developer has\ndeceased has been deleted from the\nAndroid Enthusiast Stack Exchange.\n\nI guess I have to ask on this Stack Exchange\ninstead if it exists the application I've written\nto solve my own problem of how to be sure\nmy work will stay online regardless of anything\nwhich I think other people may find useful to solve\nfor themselves as well.",
+  "url": "https://softwarerecs.stackexchange.com/questions/95649/is-there-an-app-store-or-user-repository-from-which-applications-cant-be-taken",
+  "author": "38c8c5146dec",
+  "createdAt": "2026-10-02T03:29:23.000Z",
+  "engagement": {
+   "score": 0,
+   "comments": 1,
+   "views": 12
+  },
+  "tags": [
+   "softwarerecs",
+   "web-apps",
+   "cross-platform",
+   "self-hosted",
+   "android-app"
+  ],
+  "painScore": 30,
+  "matchedPhrases": [
+   "is there an app"
+  ]
+ }
+]
