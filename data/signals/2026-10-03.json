@@ -1,0 +1,922 @@
+[
+ {
+  "id": "hackernews:49937618",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "What tools do you wish existed?",
+  "body": "In 2026, it almost feels like there's a tool for absolutely every conceivable problem or pain point. Is there a tool out there for anyone, that doesn't already exist, that you would pay for?",
+  "url": "https://news.ycombinator.com/item?id=49937618",
+  "author": "3b304242831d",
+  "createdAt": "2026-10-02T19:36:13.000Z",
+  "engagement": {
+   "score": 1,
+   "comments": 1
+  },
+  "tags": [
+   "ask_hn"
+  ],
+  "painScore": 41,
+  "matchedPhrases": [
+   "is there a tool"
+  ]
+ },
+ {
+  "id": "hackernews:49939178",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Ask HN: Who wants to be hired? (October 2026)",
+  "body": "Location: Edmonton, Canada\nRemote: Yes\nWilling to Relocate: Yes, within Canada\nTechnologies: C++, Rust, Kafka, TypeScript, Express.js, C#, React, PostgreSQL, KDB+\nRésumé/CV: https://www.mitul.codes/resume.pdf\nEmail: mituldhawan154@gmail.com\nI’m a software engineer who enjoys building fast, reliable systems and solving challenging technical problems.\nMy experience ranges from performance-sensitive trading and backend systems in C++ and Rust to distributed systems, Kafka pipelines, APIs, and full-stack development. I’ve also built projects such as a CPU emulator from the ground up and enjoy working close to the systems level when performance matters.\nI’m comfortable working across the stack, whether that means optimizing backend infrastructure, designing APIs with TypeScript and Express.js, working with databases and messaging systems, or solving lower-level performance problems.\nI care about writing clean, maintainable code, learning quickly, and working with teams that enjoy solving difficult engineering problems.\nI’m currently looking for Software Engineer, Backend Engineer, or Systems Engineer opportunities in Canada. I’m open to remote, hybrid, or relocating within Canada.\nIf your team is hiring, feel free to reach out.",
+  "url": "https://news.ycombinator.com/item?id=49939178",
+  "author": "1051ca0f3557",
+  "createdAt": "2026-10-02T22:04:56.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "looking for software"
+  ]
+ },
+ {
+  "id": "hackernews:49939051",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Pi Durable",
+  "body": "It’s neat but I don’t think fixes these issues because they have to integrate with live systems. You can lie about system time in tests by making everything else have the same time.\nThat doesn’t apply if I need to hit gmail.com and can’t login because my system time is a week behind and the JWT says it isn’t valid for another week.\nEven if you make everything else accept the time, timestamps will be screwed. Like in a fake gmail service that accepts mocked times, what do you use for timestamps on emails?",
+  "url": "https://news.ycombinator.com/item?id=49939051",
+  "author": "36df5e6356d3",
+  "createdAt": "2026-10-02T21:51:17.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "what do you use for"
+  ]
+ },
+ {
+  "id": "hackernews:49942294",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Pillage First Ask question later",
+  "body": "Pillage First! (Ask Questions Later) is an open-source, single-player, strategy game inspired by Travian.\nBuild villages, manage resources, train troops, start adventures and wage war in persistent, offline-first game worlds.\nPillage First! requires no account or download. We strive to offer a more customizable and time-friendly alternative to Travian.",
+  "url": "https://news.ycombinator.com/item?id=49942294",
+  "author": "802997debb1a",
+  "createdAt": "2026-10-03T08:08:26.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49941865",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Be careful what you measure",
+  "body": "What’s the alternative to this? Without having a fallback to human driven judgement that itself can be gamed.\nMaybe you’d suggest that the VP must ask all their direct reports to verify it manually. Then you rely on each person below you to have good judgement and also act in good faith. The director asks the managers who asks the leads who may or may not give accurate reports.\nIt’s not clear that’s any better?",
+  "url": "https://news.ycombinator.com/item?id=49941865",
+  "author": "aa9f1d12fe6e",
+  "createdAt": "2026-10-03T06:36:53.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49941082",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Every SaaS business will become a harness around a model",
+  "body": "> Agents can: Make pixel perfect clone of Slack or Jira with SQLite or ejabberd behind.\nIf it's that easy, then maybe you can do it and give the world a free and better-than-Zulip alternative to Slack?",
+  "url": "https://news.ycombinator.com/item?id=49941082",
+  "author": "5ba5ec42ad29",
+  "createdAt": "2026-10-03T03:14:06.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49939357",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Every SaaS business will become a harness around a model",
+  "body": "I’ve built a software factory and am using it to build an open-source alternative to every SaaS. What do you mean it’s not possible? A harness like Pi can be turned into a software factory with the right spec, extensions, skills, and a cron.",
+  "url": "https://news.ycombinator.com/item?id=49939357",
+  "author": "9a3e879e2c4d",
+  "createdAt": "2026-10-02T22:23:27.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49938786",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: GrapheneOS has fixed the Android 17 QPR1 kernel performance regression",
+  "body": "I read a lot of comments like this, saying \"we should have an alternative\". And I agree that it would be really cool, BUT:\nAOSP and the Android SDK are open source. GrapheneOS is exactly an alternative to Google Android. Sure, Google could shut down the Play Store (but alternative stores exist), or destroy the Play Services (but even then, there is microG).\nI am happy that Google is still contributing to Android because they have a ton of money and many brilliant engineers, even though as a company it seems like it's somehow trying to burn it to the ground. But I am optimistic: it would be possible to build on top of the open source parts of Android if needed.",
+  "url": "https://news.ycombinator.com/item?id=49938786",
+  "author": "474aef6bfff8",
+  "createdAt": "2026-10-02T21:25:47.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49936314",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: ICC judge on what U.S. sanctions mean for her and global courts",
+  "body": "There is just no alternative to Microsoft. Since they push everything into cloud MS gets centralised control. Cutting MS literally cuts the person off from anything digital.\nThere is some movement to reduce MS dependency in Europe, but it's not yet there. Until then, this will be a huge lever available to US.\nI've written about this back in the day: https://blog.miloslavhomer.cz/microsoft-dependency-has-risks...\nDiscussion: https://news.ycombinator.com/item?id=44381358",
+  "url": "https://news.ycombinator.com/item?id=49936314",
+  "author": "ac508fcf48af",
+  "createdAt": "2026-10-02T17:44:07.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49935899",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Big Tech ruined the cloud, so we're renaming ours",
+  "body": "To me, a \"cloud\" always felt like it should be describing something decentralized. So I recently made an alternative to the Big Tech clouds, and I'm giving it away as open source. Anyone can use it on their site, to have their site's members store data in their browser tabs, it's like IPFS pinning, but far more efficient and easy to use: just open a tab and that's it.\nhttps://safebots.github.io/Safecloud\nIt has three types of participants:\n Drops - this is regular normies opening a tab\n Jets - this is people running a node to route requests\n Client - this is what's embedded in iframes etc.\n\nOh, and one more thing. It encrypts everything end-to-end, supports streaming video (!) and lets you share specific intervals or chunks if you want, so that the decryption happens only of those intervals. You can sell content that many people around the world store encrypted, and don't know what they're storing.\nHere is an article about it in a security magazine: https://www.helpnetsecurity.com/2026/06/19/safecloud-browser...",
+  "url": "https://news.ycombinator.com/item?id=49935899",
+  "author": "6ac62142b122",
+  "createdAt": "2026-10-02T17:06:12.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49936907",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Sites in ChatGPT",
+  "body": "uBlock needs a slop filter post haste.\nAnd I wish there was a SponsorBlock type, crowdsourced slop filter for Youtube.",
+  "url": "https://news.ycombinator.com/item?id=49936907",
+  "author": "ce552938442f",
+  "createdAt": "2026-10-02T18:31:03.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "wish there was"
+  ]
+ },
+ {
+  "id": "hackernews:49935257",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Big Tech ruined the cloud, so we're renaming ours",
+  "body": "From a pure branding perspective, I think there is something to this. We are building a new \"cloud\" at exe.dev (everything from racking machines, building a global load balancer, and new APIs onto VMs) and yet it is very hard to bring ourselves to use the word cloud. We don't really want to be associated with the experience or mindset that \"cloud\" implies. I certainly wish there were a better way to describe this.",
+  "url": "https://news.ycombinator.com/item?id=49935257",
+  "author": "43abb99cce28",
+  "createdAt": "2026-10-02T16:17:32.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "wish there were"
+  ]
+ },
+ {
+  "id": "hackernews:49936810",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Show HN: We built a real-time desktop companion for patient's telehealth visits",
+  "body": ">> balance between live help vs after-visit\nDon't forget pre-visit. Doctor visits go much better if the patient advocate (this thing) has questions in hand. The patient can spend hours talking to the tool and get a summary so they are better prepped for the 5-minute doctor conversation. A tool that summarizes observed symptoms for the doctor might be an idea.",
+  "url": "https://news.ycombinator.com/item?id=49936810",
+  "author": "734d755eab4d",
+  "createdAt": "2026-10-02T18:23:59.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "spend hours"
+  ]
+ },
+ {
+  "id": "hackernews:49935179",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: AI Makes Me Sad",
+  "body": "> And, seriously, there are so many verified accounts that just post AI-generated replies to popular posts, and we all just ignore them. It's the most insane, Kafkaesque thing. Absolutely nobody likes it. It's an eyesore. And we're supposed to be living in the most powerful age for AI. You're telling me that nobody at SpaceX/Xai/Grok/SuperGrok/whatever can write a classifier to ban these accounts? I can press a button on any post and be given a full explanation by Grok, a button which I've pressed 2 dozen times on accident and never on purpose. You can't run a decision model for $0.0000001 cents whenever someone hits \"Post\" and realize that a reply makes no sense?\nAI doesn't make me sad but this drives me crazy. I don't want racists banned, I want replies to posts that don't make any earthly sense banned. I want twitter to stop you before a post and say \"did you even read the post?\" \"Are you just posting because you want to participate?\" \"Banned for nonresponsiveness.\" \"Six other commenters submitted comments almost exactly like yours, are you sure yours in necessary?\"\nShouldn't AI have solved this? I can't imagine that it's holding people on the site - maybe it pushes up some badly done interaction metric. But there should be a last AI check before submission: \"Are you dumb? If you are dumb, press submit, but I have to warn you that the comment you're replying to has showdumb:off.\"",
+  "url": "https://news.ycombinator.com/item?id=49935179",
+  "author": "d78b2c3da09e",
+  "createdAt": "2026-10-02T16:11:03.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "drives me crazy"
+  ]
+ },
+ {
+  "id": "hackernews:49939418",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Every SaaS business will become a harness around a model",
+  "body": "Wait a minute - and who is going to buy that software exactly?\nBecause someone was so sick of expensive Adobe Photoshop they created their own vibe coded PhotoShop for $2000 worth of tokens and then selling it on for way cheaper. [0]\nSome YouTuber got so sick of Adobe Premier they literally vibe coded their own full fledge video editor exactly to their needs with everything else that they don't need stripped out. [1]\nI know of a case where a totally non technical person sitting in an south asian city wrote his own financial management software for his business in just three weeks. Vibe coded and now his daily driver tracking accounts, payables, receivables, contracts, parses PDFs from his inbox, populates forms and full workflow that HE needs for his specific commission/resale/distribution business.\nSo what this company is going to sell with that Harness? Or would it be selling just that Harness to other companies like those Rails bootstrap SaaS boilerplate businesses that used to charge $300 for that junk with lifetime update promise?\nEDIT: Formatting\n[0]. https://www.reddit.com/r/vibecoding/comments/1wpaies/my_vibe...\n[1]. https://youtu.be/qOQ3MEx6czY",
+  "url": "https://news.ycombinator.com/item?id=49939418",
+  "author": "8eb19b37d122",
+  "createdAt": "2026-10-02T22:30:14.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49934676",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: SvelteKit 3",
+  "body": "I have only ever used react professional in my career and I have been sick of it since hooks were introduced. Easily the worst thing to come to the frontend world and has held it back for a solid decade.",
+  "url": "https://news.ycombinator.com/item?id=49934676",
+  "author": "8f1964ef4f76",
+  "createdAt": "2026-10-02T15:35:09.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49933676",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Reddit to sunset RSS access because of AI bots",
+  "body": "I’ve sunset my personal use of reddit because of enshittification like this. I’m sick of these platforms.",
+  "url": "https://news.ycombinator.com/item?id=49933676",
+  "author": "be0764ce3c4b",
+  "createdAt": "2026-10-02T14:05:17.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49937046",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Pi 1.0",
+  "body": "> Did it have warts? It’s been working nearly flawlessly, but there have been a couple of really minor things. One of the things I realized quickly was that it didn’t have a WebFetch tool built in, so I prompted “add a webfetch tool” and it did it within 5 minutes. Warts are trivially fixed.\nSure, and then tomorrow it's compaction, then worktrees, then an annoying buffer scrolling bug, image clipboard handling, etc etc. I don't buy for a minute that a one-liner prompt creates a perfect program because I know from experience it doesn't. You are inheriting the maintenance of a non-trivial program. That's perfectly fine if you want to tinker and spend time on that but I would rather offload that to someone who wants to spend more time thinking about those problems than I do.\n> Personally, I am getting frustrated with the amount of people trying to pitch me their tool they made. Tools are a dime a dozen. Share with me your ideas, and I’ll share with you mine, but I’m not gonna adopt your tool.\nI'm not sure I follow this line of thinking. Obviously, juggler is the result of an author who has spent a great deal amount of time thinking about an idea. It is the manifestation of the author's ideas. I agree that the amount of vibe coded slop out there that people think is marketable is ridiculous, but Juggler doesn't really look like that. It's still worthwhile to evaluate well thought out tools IMO.",
+  "url": "https://news.ycombinator.com/item?id=49937046",
+  "author": "834817768765",
+  "createdAt": "2026-10-02T18:42:51.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "frustrated with"
+  ]
+ },
+ {
+  "id": "hackernews:49936714",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Pi 1.0",
+  "body": "I think you probably meant to write “underestimate”. But I think you are overestimating how difficult it is!\nI’m not exaggerating when I say all I had to do was prompt “build me an LLM coding harness like Claude code, but make it so that I can resume sessions from OpenCode and Pi as well” and that’s it, and it was done within an hour.\nDid it have warts? It’s been working nearly flawlessly, but there have been a couple of really minor things. One of the things I realized quickly was that it didn’t have a WebFetch tool built in, so I prompted “add a webfetch tool” and it did it within 5 minutes. Warts are trivially fixed.\nThe things that really differentiate software now are the ideas behind them, not the implementation. So if (like the OP) you’re looking at a tool and going “well mine does that too…”, so what? If it’s just a re-implementation of the same ideas, anyone can recreate it (and add on their own customizations to boot).\nPersonally, I am getting frustrated with the amount of people trying to pitch me their tool they made. Tools are a dime a dozen. Share with me your ideas, and I’ll share with you mine, but I’m not gonna adopt your tool.",
+  "url": "https://news.ycombinator.com/item?id=49936714",
+  "author": "ee7865c582f8",
+  "createdAt": "2026-10-02T18:13:31.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "frustrated with"
+  ]
+ },
+ {
+  "id": "hackernews:49933440",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: How Singapore's government-run dating service works",
+  "body": "> until some proportion pay.\nTo run a business you either need to show ads, have everyone pay, or have a freemium model where it can be used for free but some portion of users pay.\nIt’s easy to imagine making a better service by removing all of the parts that fit what I just described. I could make a better Instagram if it didn’t show any ads and was free for everyone. I don’t think my developers or hosting providers would want to work for free though.\nThe reason dating apps have this freemium model is because building a large pool of users is important to their success. Most people will not pay for an app if a free alternative exists. Most people hate ads. So the product which wins will always be the one lets people get started without paying, bringing in the largest dating pool.\nThere have been many dating app businesses that tried models where everyone pays the same flat fee. Most either converted to freemium or disappeared. There are still some niche social apps that use their expense and difficulty of getting an invite as a selling point, but they target very niche audiences because they’ll never be mainstream.\nYour friend just discovered one of the harder realities of dating apps: Your odds of getting a response from an individual profile is very low. Swiping on a lot of profiles is necessary. For people who get easily frustrated by these odds and who get angry at having to pay for anything they’re going to be generally very frustrated with the apps in general.\nDating apps are one of the most poignant examples of a service that provides a lot of value relative to alternatives (you’ll spend more on a single drink at a bar or even on transport to a restaurant to meet someone) yet the nominal charge still makes users scoff. It’s hard to sell apps to consumers.",
+  "url": "https://news.ycombinator.com/item?id=49933440",
+  "author": "fa76ef9c5f77",
+  "createdAt": "2026-10-02T13:42:54.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "frustrated with"
+  ]
+ },
+ {
+  "id": "hackernews:49943049",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: ArXiv's Updated Rate Limit Policy",
+  "body": ">If hosting is too expensive, I guess an alternative aggregator could also arise.\ngoogle drive",
+  "url": "https://news.ycombinator.com/item?id=49943049",
+  "author": "83c049a38f4f",
+  "createdAt": "2026-10-03T10:46:30.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49941972",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Would you use Hive-simpler AI agents?",
+  "body": "We're building Hive — AI agents that are simpler and cheaper than existing solutions.\nCurrent problem: Existing platforms are too expensive and complex for small teams.\nHive: Simple API. Actually works.\nWould you use this? Feedback appreciated.",
+  "url": "https://news.ycombinator.com/item?id=49941972",
+  "author": "cd110d4f0e23",
+  "createdAt": "2026-10-03T06:58:53.000Z",
+  "engagement": {
+   "score": 2,
+   "comments": 0
+  },
+  "tags": [
+   "ask_hn"
+  ],
+  "painScore": 30,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49940421",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Every SaaS business will become a harness around a model",
+  "body": "Running everything through a LLM is way too expensive.",
+  "url": "https://news.ycombinator.com/item?id=49940421",
+  "author": "8a9bdd6a5145",
+  "createdAt": "2026-10-03T01:01:31.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49939679",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Every SaaS business will become a harness around a model",
+  "body": "It's not always what the nerds want to do though: I know of what the insides used to look like in one of those on the list, and things were very custom, because some early technical decisions were outright landmines that were too expensive to move away from. So having custom harnesses to actually survive that codebase I remember seems like a baseline to get reasonable turnaround of AI helpers. The company had done cowboy development for way too long, and solved too many problems by creating bigger, more custom problems.\nSo don't assume it's all nerds having fun. Now, is it what the future will look like for everyone? I don't think so, but that's because I expect AI is bringing us a more unified dev experience, with more developers than even Google has. This will make general programming harnesses very good, quite fast, solely because said harnesses can be differentiators in the AI race. So we are seeing some of the largest companies inthe world, with the largest research budgets, dedicating more money to the dev experience of their product than almost anyone else does.",
+  "url": "https://news.ycombinator.com/item?id=49939679",
+  "author": "379bc2a9b47a",
+  "createdAt": "2026-10-02T23:07:15.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49935259",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: AI Makes Me Sad",
+  "body": "Maybe compilers? instead of using them to make 1950s software faster, we used the abstraction they created to build vastly more complex systems like operating systems, browsers, cloud platforms, and modern games. AI could be another jump in abstraction, making software possible that would previously have been too expensive or complicated to build.",
+  "url": "https://news.ycombinator.com/item?id=49935259",
+  "author": "95474eabb1e4",
+  "createdAt": "2026-10-02T16:17:37.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49935298",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Big Tech ruined the cloud, so we're renaming ours",
+  "body": "£65/year is overpriced? It's this choosing beggars mentality that ends up in projects being abandoned.",
+  "url": "https://news.ycombinator.com/item?id=49935298",
+  "author": "667ea91b1299",
+  "createdAt": "2026-10-02T16:20:02.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:49934767",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Big Tech ruined the cloud, so we're renaming ours",
+  "body": "Sadly way overpriced for what you get. You can achieve the same for free with a Cloudflare tunnel. It’s great that this service supports the development of home assistant but the pricing is just silly.",
+  "url": "https://news.ycombinator.com/item?id=49934767",
+  "author": "30fb73288a5a",
+  "createdAt": "2026-10-02T15:41:37.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:49939692",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Pi 1.0",
+  "body": ">time is money\nOne of the dumbest sayings ever. Unless you spend all of your time doing something that makes money, the time is worth $0. You could say that you prefer to do something else during that time and would happily pay to free it up.",
+  "url": "https://news.ycombinator.com/item?id=49939692",
+  "author": "15ae83f1807c",
+  "createdAt": "2026-10-02T23:08:42.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 10,
+  "matchedPhrases": [
+   "would happily pay"
+  ]
+ },
+ {
+  "id": "hackernews:49937764",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: On social reality in China",
+  "body": "Because we have a push-based knowledge culture that encompasses only what someone is willing to pay an advertisement channel to tell you.",
+  "url": "https://news.ycombinator.com/item?id=49937764",
+  "author": "7845a85eeae3",
+  "createdAt": "2026-10-02T19:48:51.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 10,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49935907",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: US tells France and Germany to release diesel stocks or face US export ban",
+  "body": "I can't speak to whether or not we have excess diesel, but the price would be high because U.S. diesel is sold outside of the united states, so if EU members are willing to pay higher $$$ for it, then that's what U.S. oil producers will sell it for, raising domestic prices in turn.",
+  "url": "https://news.ycombinator.com/item?id=49935907",
+  "author": "49c1bf1cd222",
+  "createdAt": "2026-10-02T17:06:32.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 10,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49937916",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: Made an open-source Lego AI generator",
+  "body": "Hi there :-) New on HN, first time posting.\nPast year, around December, I started experimenting with making ChatGPT and Claude generate source code in LDraw language.\nThis LDraw is literally an \"assembly\" language, a low-level programming language that describes how to assemble LEGO pieces together into models, one placement instruction at a time.\nWhen executed by specific tools, like e.g. LDView, LeoCAD, Studio... these instructions become LEGO CAD models, that can be interacted with, modified, etc.\nOr, in other words: one LDraw source file in .mpd or .ldr format is equivalent to one LEGO CAD model.\nSo, the idea I had was: if I manage for maybe ChatGPT or Claude to generate high-quality LDraw source files... then, they would actually be generating high-quality LEGO CAD models, right?\nThen, after months of iterations and trying one thing after the other... it worked!!!\nLong story short: using GPT-6 Astra and Opus 5.5, I've managed to create a python toolset, instructions, and docs for agents in general. Now, these can be used by them to generate LDraw models.\nI've packed it all as a dockerized web app for others to try and experiment, with several providers (and agents) to choose from: OpenAI, Claude and OpenRouter.\nHere's a bunch of exmaples: https://anteloc.github.io/index-samples.html.\nIf you are curious about the internals of an .mpd model, the \"what was the agent picturing on its mind\", open the .mpd file that got your attention on a text editor, and read the first line under the ones starting with \"0 FILE\".\nI'd really appreciate feedback and comments, let's see where this goes =)",
+  "url": "https://news.ycombinator.com/item?id=49937916",
+  "author": "94a00b846ec1",
+  "createdAt": "2026-10-02T20:00:15.000Z",
+  "engagement": {
+   "score": 119,
+   "comments": 46
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 55,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1384702527",
+  "source": "github",
+  "kind": "tool",
+  "title": "chipfighter/codex-attachment-manager — 66★",
+  "body": "Codex plugin: choose which past images go to the model with your next message. Unchecked images become placeholders, the task goes on, and requests stay small.",
+  "url": "https://github.com/chipfighter/codex-attachment-manager",
+  "author": "05299f597b8f",
+  "createdAt": "2026-09-24T05:00:09Z",
+  "engagement": {
+   "stars": 66
+  },
+  "tags": [
+   "mcp",
+   "TypeScript"
+  ],
+  "painScore": 50,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1384244575",
+  "source": "github",
+  "kind": "launch",
+  "title": "ZCodium-project/ZCodium — 214★",
+  "body": "ZCodium，Independent audit fork of ZCode (ZCode → ZCodium). All monitoring and telemetry removed; upstream commits reviewed one by one. ZCode 的独立审计分支（ZCode → ZCodium）：已移除监控与遥测，上游改动逐提交审阅。",
+  "url": "https://github.com/ZCodium-project/ZCodium",
+  "author": "b469c3372d6a",
+  "createdAt": "2026-09-23T21:53:06Z",
+  "engagement": {
+   "stars": 214
+  },
+  "tags": [
+   "ai-agents",
+   "TypeScript"
+  ],
+  "painScore": 59,
+  "matchedPhrases": []
+ },
+ {
+  "id": "appstore:14606522033",
+  "source": "appstore",
+  "kind": "demand",
+  "title": "★☆☆☆☆ Xero Accounting: The worst app I have used",
+  "body": "If getting points for over complicating things was a thing this app would take top spot cancelled membership on the second day.",
+  "url": "https://apps.apple.com/gb/app/id441880705?see-all=reviews",
+  "author": "17d7c47563dd",
+  "createdAt": "2026-09-29T09:49:45.000Z",
+  "engagement": {},
+  "tags": [
+   "Xero Accounting",
+   "gb",
+   "rating:1"
+  ],
+  "painScore": 35,
+  "matchedPhrases": []
+ },
+ {
+  "id": "appstore:14610593518",
+  "source": "appstore",
+  "kind": "demand",
+  "title": "★☆☆☆☆ Jobber Field Service: Poor excuse for a time card",
+  "body": "one of the two worst workplace solutions and definitely the worst digital punch card I’ve ever had the displeasure of using both as a laborer and an owner. You are better off grabbing a notepad, a pencil, and a manilla folder like it’s still 2003, than you are falling for jobbers marketing. \n\nYou are better off giving your guys a timesheet every week, and having them log their hours and job name the old fashioned way. Genuinely nothing this thing does justifies the absurd price, poor interface, workplace confusion, and absolutely asinine job setup. The AI features are wholly unnecessary, add zero actual convenience to day to day use of the app and unironically they are the only ones that will consistently work. \nDoesn’t matter though, your guys can’t clock in unless the connection is rock solid. guys can’t see the job you’ve assigned them to half the time either unless you mess around with it on a computer while they’re in the app so  despite paying for a solution you’ll be calling and texting your employees in the morning like you always have anyway. \n\n\n\nMy guys aren’t clocking out for lunch because your app wont let them clock in afterwards, so it looks like they’re working through every lunch. Any idea how bad that looks? \n\nThe ability to clock in and out while offline and the app automatically sending it out when you reconnect is something plenty of existing timecard apps have already figured out and built in. The fact that this one doesn’t makes whatever vibe coded nons…",
+  "url": "https://apps.apple.com/us/app/id1014146758?see-all=reviews",
+  "author": "2bf4870e9f6e",
+  "createdAt": "2026-09-30T11:30:01.000Z",
+  "engagement": {},
+  "tags": [
+   "Jobber Field Service",
+   "us",
+   "rating:1"
+  ],
+  "painScore": 45,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-078034",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "The Careers and Enterprise Company: Support for CEC Digital Products",
+  "body": "We are seeking to procure expert technical support to maintain, develop and enhance the capabilities of our digital products and services.\nFor more information about this opportunity, please visit the eSourcing portal at: \nhttps://www.delta-esourcing.com/tenders/UK-UK-London:-Educational-software-development-services./53Y927A793\nTo respond to this opportunity, please click here: \nhttps://www.delta-esourcing.com/respond/53Y927A793",
+  "url": "https://www.find-tender.service.gov.uk/Notice/093570-2026",
+  "author": "ccb95c601ebf",
+  "createdAt": "2026-10-02T18:33:32+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 15600000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:tender",
+   "cpv:72222300",
+   "cpv:72212190"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-07802a",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "Durham County Council: 003726 - Internal Audit Management System",
+  "body": "Replacement of Internal Audit Software system. Full requirements can be found in Document 3a. Contract Specification and PSQ Appendix 1 of the tender documents, which are available free of charge at www.open-uk.org\nThe reason for this procurement is due to our existing Internal Audit Management Software being on premise and the Council is currently undergoing a 'cloud first' strategy.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/093549-2026",
+  "author": "3d1ff4eb7c96",
+  "createdAt": "2026-10-02T17:04:39+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 170000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:tender",
+   "cpv:48100000"
+  ],
+  "painScore": 61,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-07801f",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "[early engagement] Department of Finance: ID 6641977 Department of Finance LPS Ordnance Survey eCommerce Procurement Project - PRELIMINARY MARKET ENGAGEMENT",
+  "body": "PRELIMINARY MARKET ENGAGEMENT EXERCISE\nPLEASE NOTE:\nThe Preliminary Market Engagement Questionnaire can be accessed in the Cft Documents area.\nThe Department of Finance (DoF) is currently preparing to initiate a procurement process to establish a contract with a Supplier to provide a new Land and Property Services (LPS) Ordnance Survey NI (OSNI) E-Commerce Solution, to include development, support and maintenance. The potential scale and scope of this service is such that it offers a significant opportunity to Suppliers. Prior to initiating the procurement, the DoF wishes to establish the level of market interest in participating in the procurement process • gain initial supplier awareness, engagement and opinion • gain insight into potential innovative solutions and possibilities for delivery • Understand risks and issues not previously considered • inform the Outline Business Case; and • inform any necessary Procurement Strategy.\nPLEASE NOTE: ALL COMPLETED QUESTIONNAIRES MUST BE SUBMITTED VIA THE MESSAGING FUNCTION on eTendersNI, BEFORE 15:00 on the date specified below under 'Time-limit for receipt of tenders or requests to participate'.\nDepending on the volume of responses, the Department of Finance may wish to follow up the questionnaire with online meetings with respondents. Further detail is included within the PME Questionnaire.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/093530-2026",
+  "author": "975ac22bc9fe",
+  "createdAt": "2026-10-02T16:30:46+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 1,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:planning",
+   "cpv:48000000",
+   "cpv:72000000",
+   "cpv:71354000",
+   "cpv:71354200",
+   "cpv:71354100"
+  ],
+  "painScore": 41,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-06d01a",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "Nexus Multi-Academy Trust: “Your Education Technology” An Open Framework (PA 2023) for the provision of ICT products, services, and solutions.",
+  "body": "Nexus Multi Academy Trust (“Nexus” or “the Authority”) is seeking to establish an Open Framework for the provision of ICT products, services and solutions to the education sector. The Framework is intended to provide Nexus and other eligible Contracting Authorities with a compliant and accessible route to market for the procurement of ICT requirements. The Framework is divided into three Lots: Lot 1 – ICT Support Services and Managed Services Lot 2 – Professional Services Lot 3 – Hardware Suppliers may tender for one, multiple or all Lots. There will be no limit on the number of Suppliers that may be appointed to each Lot. The Framework will operate as an Open Framework in accordance with the Procurement Act 2023 and is intended to be reopened periodically to allow new Suppliers to apply for appointment. The maximum duration of the Open Framework will be eight years. The estimated maximum value of the Framework is £1,000,000,000 excluding VAT over its maximum term. This represents estimated potential expenditure through the Framework and does not constitute a guarantee of expenditure, minimum spend, volume of business or exclusivity. The Framework will be established and operated by Nexus Multi Academy Trust and will be available for use by eligible Contracting Authorities in respect of publicly funded schools and colleges.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/093521-2026",
+  "author": "f60f4ccecf82",
+  "createdAt": "2026-10-02T16:22:47+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 1000000000,
+   "currency": "AED"
+  },
+  "tags": [
+   "stage:tender",
+   "cpv:72000000",
+   "cpv:50300000",
+   "cpv:72220000",
+   "cpv:79400000",
+   "cpv:80533100"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-06e0f5",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "Merthyr Tydfil County Borough Council: Cytundeb Fframwaith CymruSOC 2.0 CymruSOC 2.0 Framework Agreement",
+  "body": "Bydd CymruSOC 2.0 yn darparu fframwaith SOC a reolir cenedlaethol sy'n cynnwys gwasanaeth SOC craidd a reolir a Gwasanaethau Ychwanegol a archebir ar wahân. Rhaid i'r gwasanaeth gynnal parhad canlyniadau gofynnol CymruSOC 1.0, gan gefnogi gwelliant rheoledig, cyfranogiad ehangach ac amgylcheddau technegol amrywiol y Cyfranogwyr.\nRhaid i'r gwasanaeth barhau i fod yn annibynnol ar unrhyw SIEM penodol a rhaid iddo gefnogi trefniadau SIEM ac offer diogelwch eraill sydd naill ai'n eiddo i Gyfranogwyr neu'n drefniadau amgen a gymeradwywyd, lle gellir cyflawni'r canlyniadau gofynnol o ran diogelwch, monitro, rhannu gwybodaeth, rhyngweithrededd a sicrwydd.\nMae rhagor o wybodaeth fanwl ar gael yn y Datganiad o'r Gofynion, a ddarperir fel atodiad yng Ngham 1 ar eDendroCymru.\nMae hwn yn gaffaeliad cydweithredol sy'n cael ei gynnal gan Gyngor Bwrdeistref Sirol Merthyr Tudful (yr Awdurdod Contractio) mewn partneriaeth â Llywodraeth Cymru, a bydd yn ceisio sefydlu Cytundeb Fframwaith un lot gydag un cyflenwr er mwyn galluogi awdurdodau sy'n cymryd rhan i alw i lawr a chreu contractau ar gyfer y gwasanaethau sydd eu hangen arnynt.\nBydd yn ofynnol i'r tendrwr llwyddiannus ymrwymo i Gytundeb Fframwaith gyda'r Awdurdod Contractio ac, wedi hynny, ymrwymo i gontractau unigol gan ddefnyddio templed contract galw i lawr gydag awdurdodau sy'n cymryd rhan drwy'r weithdrefn galw i lawr.\nEr budd tryloywder ac er mwyn rhoi gwybod i ddarpar dendrwyr cyn gynted â phosibl, mae'r contractwr presennol wedi…",
+  "url": "https://www.find-tender.service.gov.uk/Notice/093506-2026",
+  "author": "888e86977abf",
+  "createdAt": "2026-10-02T16:08:33+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 90000000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:tender",
+   "cpv:72000000"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-078009",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "[early engagement] University Hospitals Birmingham NHS Foundation Trust: UHB Medical Devices Vulnerability Solution",
+  "body": "University Hospitals Birmingham NHS Foundation Trust (UHB) is one of the largest teaching hospital Trusts in England and the West Midlands, serving a regional, national and international population. It includes Birmingham Heartlands Hospital, Birmingham Chest Clinic, Good Hope Hospital, the Queen Elizabeth Hospital Birmingham, Solihull Hospital and various Community Services. We also run a number of smaller satellite units, allowing people to be treated as close to home as possible.\nAs an NHS organisation, UHB will see and treat more than 2.2 million people every year across our sites. UHB currently employs over 20,000 members of staff and we are committed to investing in their development and their health and well being.\nThis Pre Market Engagement Notice outlines the requirements for a Medical Devices Vulnerability Solution \nPlease see the Briefing note within the PME documents for more information.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/093482-2026",
+  "author": "4947d676c542",
+  "createdAt": "2026-10-02T15:42:55+01:00",
+  "engagement": {},
+  "tags": [
+   "stage:planning",
+   "cpv:48000000"
+  ],
+  "painScore": 40,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-078006",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "[early engagement] University Hospitals Birmingham NHS Foundation Trust: NHS Central Tenant Discovery & Pre-Migration Alignment Support",
+  "body": "University Hospitals Birmingham NHS Foundation Trust (UHB) is one of the largest teaching hospital Trusts in England and the West Midlands, serving a regional, national and international population. It includes Birmingham Heartlands Hospital, Birmingham Chest Clinic, Good Hope Hospital, the Queen Elizabeth Hospital Birmingham, Solihull Hospital and various Community Services. We also run a number of smaller satellite units, allowing people to be treated as close to home as possible.\nAs an NHS organisation, UHB will see and treat more than 2.2 million people every year across our sites. UHB currently employs over 20,000 members of staff and we are committed to investing in their development and their health and well being.\nThis Pre Market Engagement Notice outlines the requirements for an NHS Central Tenant Discovery & Pre-Migration Alignment Support\nPlease see the Briefing note within the PME documents for more information.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/093477-2026",
+  "author": "4947d676c542",
+  "createdAt": "2026-10-02T15:41:25+01:00",
+  "engagement": {},
+  "tags": [
+   "stage:planning",
+   "cpv:48000000"
+  ],
+  "painScore": 40,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-06a56d",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "Oxford City Council: Commercial Asset Management System",
+  "body": "This contract is for an asset & property management and property services system (AMPS)",
+  "url": "https://www.find-tender.service.gov.uk/Notice/093436-2026",
+  "author": "b532a2ce92a6",
+  "createdAt": "2026-10-02T15:01:41+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 1800000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:tender",
+   "cpv:48100000"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-077fe0",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "[early engagement] West Sussex County Council: West Sussex CC - RFI - Highway Network Management Systems",
+  "body": "The Council is engaging with the market to gather insights from suppliers to help shape and inform any future procurement activity related to a consolidated and more integrated Highways Network Management software solution that meets the functional requirements of the team. \nMore details about the current software position are in the RFI document located on the Atamis platform",
+  "url": "https://www.find-tender.service.gov.uk/Notice/093410-2026",
+  "author": "8d82638881f7",
+  "createdAt": "2026-10-02T14:35:58+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 500000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:planning",
+   "cpv:72260000"
+  ],
+  "painScore": 63,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-077fdf",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "East Riding of Yorkshire Council: Network Operating System (Cisco)",
+  "body": "Network Operating System (Cisco) East Riding of Yorkshire Council (ERYC) (the council) is looking to partner with a suitably qualified supplier to provide consultancy, design, implementation, migration, testing, knowledge transfer, and support services to facilitate the transition from a Cisco Application Policy Infrastructure Controller (APIC) managed Cisco ACI environment to a traditional Cisco NX-OS based data centre network architecture.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/093408-2026",
+  "author": "de6c90bceb56",
+  "createdAt": "2026-10-02T14:33:05+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 275000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:tender",
+   "cpv:48000000",
+   "cpv:72000000"
+  ],
+  "painScore": 62,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-077fa6",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "Bolton Metropolitan Borough Council: Bolton Cares Care Recording System",
+  "body": "The Borough Council of Bolton (\"the Authority\") on behalf of Bolton Cares, is looking to procure a contract for a Bolton Cares Care Recording System.\nBolton Cares requires a new Care Recording System to replace its existing bespoke system that is near end of life. The system should meet all minimum care recording standards as per the DSCR solutions that have been assured by NHS England (Assured solutions for digital social care records | Digitising Social Care).\nThe system should be cloud based and able to cater for a number of sites and devices (and device types), delivering a variety of care at all levels from day care and assisted living to full time residential care.\nThis Procurement is being conducted in accordance with the Act using the Competitive Flexible Procedure.\nThe Authority will appoint a single (1) contractor on to the Contract.\nIt is intended for the Contract to commence on 11 January 2027 for a period of three (3) years. There is the option to extend for a further two (2) twelve (12) month periods.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/093316-2026",
+  "author": "ca1a2abdcda8",
+  "createdAt": "2026-10-02T12:33:29+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 600000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:tender",
+   "cpv:48000000"
+  ],
+  "painScore": 63,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-077f97",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "[early engagement] The North Yorkshire Council: Kitchen Management Solution & Associated Hardware",
+  "body": "North Yorkshire Council is requesting information from suppliers to help determine the scope and feasibility of its requirement, to understand the range of potential solutions available in the market, and to assist with drafting a potential future tender specification for a Kitchen Management Solution and associated hardware for use in schools and corporate sites across North Yorkshire. The system will also be used centrally for recipe maintenance, nutritional analysis and allergen control.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/093284-2026",
+  "author": "38ecb0a10176",
+  "createdAt": "2026-10-02T12:03:08+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 245500,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:planning",
+   "cpv:48000000",
+   "cpv:30213200",
+   "cpv:48219300",
+   "cpv:72000000"
+  ],
+  "painScore": 62,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-077f6e",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "[early engagement] Neath Port Talbot County Borough Council: Independent Living Skills App for Young People",
+  "body": "Background\nNeath Port Talbot County Borough Council's Commissioning Team is exploring the potential development of an Independent Living Skills App for young people living in supported accommodation and those preparing to move into independent living.\nThe concept has evolved from previous work undertaken to develop an Independent Living Skills Workbook. Feedback gathered through engagement with stakeholders indicated a preference for a digital solution, with an app being viewed as a more engaging, accessible and interactive way of supporting young people to develop essential life skills.\nThe proposed app could include content relating to daily living skills, health and wellbeing and tenancy rights and responsibilities and is intended to be a mixed model of engagement through guidance, learning and self-development.\nThe Council is currently undertaking soft market testing to understand the opportunities, constraints and indicative costs associated with developing such a solution before determining any future procurement approach.\nPurpose of Market Engagement:-\nThe Council wishes to engage with organisations that have experience in app design, development and implementation, particularly those with experience in:\n• Youth and children's services\n• Housing and supported accommodation services\n• Educational and skills development applications\n• Public sector and local authority projects\n• User-centred and co-produced digital solutions\nFeedback gathered through these engagement se…",
+  "url": "https://www.find-tender.service.gov.uk/Notice/093213-2026",
+  "author": "d0f5dee285e0",
+  "createdAt": "2026-10-02T11:11:19+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 1,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:planning",
+   "cpv:72230000",
+   "cpv:72212000",
+   "cpv:72240000",
+   "cpv:72200000"
+  ],
+  "painScore": 41,
+  "matchedPhrases": []
+ }
+]
