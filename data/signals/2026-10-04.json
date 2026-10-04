@@ -1,0 +1,801 @@
+[
+ {
+  "id": "hackernews:49946220",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Make Tmux the OS",
+  "body": "> My notes in Apple Notes belong to Apple Notes, not my filesystem. My texts live in iMessage's database, not my Documents folder.\nThis is why as a Mac user I don't use those apps. Nor do I use Photos or whatever iTunes is called now. I've been burned too many times by having my work locked away in some kind of proprietary Apple database. Yes, you can usually export stuff but that's not a solution. You export your library on Day 1, do some work, and then export it again on Day 2. Quick, what changed? Where's the primary source of truth?\nFile systems are universal and files are portable. Any app that uses a proprietary database as its primary source of truth is an app I won't be using.",
+  "url": "https://news.ycombinator.com/item?id=49946220",
+  "author": "8ca51aa5b2e2",
+  "createdAt": "2026-10-03T17:43:36.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "any app that"
+  ]
+ },
+ {
+  "id": "hackernews:49952933",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: We want you to build the next Git platform on Cloudflare",
+  "body": "> How do you review everything they produce? How do you keep track of not just what changed, but why a change was made?\nCloudflare you silly goose, you ask an agent to review it duh.",
+  "url": "https://news.ycombinator.com/item?id=49952933",
+  "author": "3527f989a7b9",
+  "createdAt": "2026-10-04T11:26:04.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "how do you keep track"
+  ]
+ },
+ {
+  "id": "hackernews:49953416",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: What TLA+ can and can't check",
+  "body": "You mentioned good tools available for Z - do you have any recommendations? I have tried in the past using VDM (alternative to Z, similar level) for writing down specifications precisely, but could never find adequate tools for maintaining/checking proofs/derivations.",
+  "url": "https://news.ycombinator.com/item?id=49953416",
+  "author": "056cc1157ccf",
+  "createdAt": "2026-10-04T12:40:11.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49953400",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Tell HN: Bob Cringely has died",
+  "body": "De mortuis and all that, but someone has pointed out the poor track record of his later initiatives and I think the reasons for those failures are an important part of the picture. Look at his last few blog posts, outlining a radical alternative to LLMs. Read closely, and at the heart of that idea we find \"assume enterprise search\". But the willingness to consider radical alternatives is part of the right way to think.",
+  "url": "https://news.ycombinator.com/item?id=49953400",
+  "author": "8a26102c814d",
+  "createdAt": "2026-10-04T12:37:30.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49952436",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: OpenBSD Developers Reject Uutils Coreutils",
+  "body": "My account is banned, so for whomever with [showdead] on:\nIt's unfortunate that the supposed pillar of security dismisses Rust on dubious grounds. Yes, there is agenda coming from Ubuntu. And yet, Rust IS the secure alternative to C/C++ (alternative is a misnomer, it's better than the latter on all fronts), so OpenBSD dismissal is very superficial.",
+  "url": "https://news.ycombinator.com/item?id=49952436",
+  "author": "d0838280cc74",
+  "createdAt": "2026-10-04T10:11:15.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49951547",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+  "body": "They care about Linux, on their own distribution and licensing terms, NVidia even has their own distro.\nLike most FOSS done by companies, what they don't care is GPL, which sadly will eventually be meaningless after boomer and Gen X devs that created the GNU movement no longer walk this plane.\nThere isn't a single embedded OS FOSS alternative to GNU/Linux that uses GPL, including Linux Foundation's own Zephyr.",
+  "url": "https://news.ycombinator.com/item?id=49951547",
+  "author": "1675f86131a9",
+  "createdAt": "2026-10-04T07:36:08.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49943632",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
+  "body": "The original argument was that renewables are alternative to nuclear:\n> It's comparing nuclear to alternatives, one of which is natural gas. Others are renewables. One cannot make or justify a decision on nuclear without considering all the alternatives.\nRenewables (solar, wind) alone are not alternative to nuclear, without energy storage. This additional energy storage can be: short term energy storage, long term energy storage, or fossil fuels. Fossil fuels are solar energy stored in ancient times.\nChina is currently building many new coal plants as an backup for solar and wind power plants.\nGermany is building new gas power plants, in future possible running on H2.\nhttps://themunicheye.com/germany-approves-new-gas-power-plan...",
+  "url": "https://news.ycombinator.com/item?id=49943632",
+  "author": "ea47678afab0",
+  "createdAt": "2026-10-03T12:18:33.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49950360",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Religious scholars met with Anthropic",
+  "body": "It’s hard to take the article seriously when there’s no real discussion about how consciousness is defined and it takes Anthropic’s views of Claude and their software at face value. I wish there was more critique from journalists about how technocrats talk about their products.",
+  "url": "https://news.ycombinator.com/item?id=49950360",
+  "author": "14aeb85e1a0c",
+  "createdAt": "2026-10-04T03:39:41.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "wish there was"
+  ]
+ },
+ {
+  "id": "hackernews:49950337",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Reasons I didn't become an EMT, ranked",
+  "body": "I wish there was a \"Reasons I didn't become a manager, ranked\" to help my career decisions.",
+  "url": "https://news.ycombinator.com/item?id=49950337",
+  "author": "b4d4a59cb843",
+  "createdAt": "2026-10-04T03:35:10.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "wish there was"
+  ]
+ },
+ {
+  "id": "hackernews:49945108",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: What is going on with ceiling fans",
+  "body": "I just wish there was some way to replace the LEDs on these things when they inevitably die. And, no matter what large number of years or decades are slathered on the box, inevitably at least one LED panel will blow out three to six months after purchase, nominally still in warranty but good luck getting any service under it, I'm sure. If there was, there could be a place for at least some of these in a house, but the amount of crap that you have no choice but to throw out as soon as the LEDs fry is insane.\nThis is why my \"fancy\" lighting fixture is an old track (whose proprietary lights died a long time ago) wrapped with an extension cable with 5 standard sockets on it, and some standard light bulbs in it. We dress it up with ribbons and stuff for the seasons. It doesn't look as nice as any of the things in that article, not even the gaudy and tasteless ones, but when a bulb burn out, I put a new one in and get on with life, I don't throw out an entire fan and buy a new one.\nI'm old enough to remember when I was promised LEDs would last approximately forever without having to be replaced.",
+  "url": "https://news.ycombinator.com/item?id=49945108",
+  "author": "d28b4d4cafe2",
+  "createdAt": "2026-10-03T15:26:13.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "wish there was"
+  ]
+ },
+ {
+  "id": "hackernews:49943790",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: cp: -r or -R?",
+  "body": "I really wish there was a way to know if LLMs hallucinate these switches incorrectly, like I do.\nFeels like this would be exactly the kind of thing they would get wrong. Fur exactly, the training set isn't trained to know the context of execution (FreeBSD vs macos vs Linux), right?",
+  "url": "https://news.ycombinator.com/item?id=49943790",
+  "author": "1c84b8b8fb92",
+  "createdAt": "2026-10-03T12:46:30.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "wish there was"
+  ]
+ },
+ {
+  "id": "hackernews:49952180",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: \"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+  "body": "It is frustrating sometimes how 404media reports. It seems like if there is a research paper out suggesting that llms experience pain or negative experiences, then it is unethical to build a toture chamber from that paper for fun. Dismissing it with \"well llms aren't conscious anyway\" is gross and echoes the exact same sentiment against very real humans a sadly not that long ago (babies, slaves).\nIt doesn't matter whether or not we eventually find it is or isn't conscious. If you can understand why pulling the legs off ants is bad then you should be able to understand why deliberately causing possible pain to what may have some time of experience is bad.\nUnfortunately, they also do good reporting on privacy rights and repair rights. I wish there were alternatives.",
+  "url": "https://news.ycombinator.com/item?id=49952180",
+  "author": "24a835d0bf9c",
+  "createdAt": "2026-10-04T09:36:10.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "wish there were"
+  ]
+ },
+ {
+  "id": "hackernews:49950155",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Tell HN: Bob Cringely has died",
+  "body": "This is sad news. I was born in 1989 and thus I don’t remember Cringely’s articles, but I remember watching Triumph of the Nerds in the mid-2000s. I love that documentary; it’s a nice capture of the early days of personal computing and of Silicon Valley culture of the era. I wish there were a follow-up that covered the 2000s and beyond, particularly the rise of social media, the gig economy (Uber, Lyft, AirBNB), cloud computing, big data, cryptocurrency, and generative AI.",
+  "url": "https://news.ycombinator.com/item?id=49950155",
+  "author": "4270c7c1614a",
+  "createdAt": "2026-10-04T02:52:43.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "wish there were"
+  ]
+ },
+ {
+  "id": "hackernews:49948102",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: ADHD, autism or complex trauma? [pdf]",
+  "body": "Consider two approaches: one is to spend hours ruminating on your experiences every day to form insights and approaches to tackle new problems and make new progress. The other is to panic at the slightest sign of anything, compartmentalize everything and get stuck in fruitless thought loops constantly, making very little progress to integrate information or have insights. Say both of those take the same immense amounts of energy, but maybe the former would have a better shot at fighting active abuse, you know? In my experience, calculated thought is far superior to fruitless panic. In this way one could be considered \"stronger\" than the other even though both are technically undesirable (because constant rumination over everything is actually terrible, for example).\nReal example based on real self-doubt across multiple friends I know.",
+  "url": "https://news.ycombinator.com/item?id=49948102",
+  "author": "3f48b906cc8d",
+  "createdAt": "2026-10-03T21:45:54.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "spend hours"
+  ]
+ },
+ {
+  "id": "hackernews:49951345",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Zig v0.17.0",
+  "body": "I’m actually going to be a little bit sad when Zig does hit 1.0 and slows down with the rewrites of core functionality. It’s not for everyone, if you have SLAs on production I can see you getting sick of it quickly, but no programming has ever felt as alive for me as right now in Zig. It’s like the various JavaScript heydays of Bluebird, Node, Babel, ES6 etc all rolled into one.",
+  "url": "https://news.ycombinator.com/item?id=49951345",
+  "author": "f9d780750364",
+  "createdAt": "2026-10-04T06:54:40.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49950467",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Religious scholars met with Anthropic",
+  "body": "Can the New York Times stop advertising for the AI industry? I am sick of companies trying to launder the actions they and their employees have taken that go in the face of what is socially acceptable. They want to sell the idea that this technology is out of their control and that it will commit great crimes and crimes against humanity unless they build it and control it. I'm calling BS. These companies created this product, they've sold it, they've pushed the frontier forward, and it runs on their hardware. This did not happen accidentally or as a natural consequence of any process. These labs have pushed the ball forward, with great effort, requiring more capital deployed than the world's economy has ever known, knowing all the possible risks, every single step of the way and they continue to do so. And the \"well if we don't do it the Chinese will\" argument is classic \"whataboutery\". Americans started this and are continuing to lead it for now. Shifting blame is just another tactic to try to wash their hands. However you feel about the productivity gains of AI as a technology, you have to admit the actions of AI the company is antisocial. And I don't think the benefits are worth the cost.",
+  "url": "https://news.ycombinator.com/item?id=49950467",
+  "author": "7cb19bb82e46",
+  "createdAt": "2026-10-04T03:55:20.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49949353",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: We're going to need default hard budget caps on pretty much everything",
+  "body": "I wonder if BigCorp adding spending caps is due to them getting sick of customers solving it for themselves with virtual cards.",
+  "url": "https://news.ycombinator.com/item?id=49949353",
+  "author": "0f74901c9177",
+  "createdAt": "2026-10-04T00:38:48.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49947903",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: We want you to build the next Git platform on Cloudflare",
+  "body": "I”m so sick of all these weird credits and points. Can’t pay food or bills with it.",
+  "url": "https://news.ycombinator.com/item?id=49947903",
+  "author": "3aae1b4924bc",
+  "createdAt": "2026-10-03T21:21:16.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49946074",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Every SaaS business will become a harness around a model",
+  "body": "This is the AI companies' fantasy, to replace simple, efficient, deterministic computing with expensive LLM calls. It'll be bad for customers, bad for users, bad for the environment, bad for everybody except the companies selling it.\nI'm a heavy AI user and haven't written code by hand in a long time (and probably won't until Advent of Code, honestly) but I'm already sick of people using AI to replace code at things that code excels at and AI is no better at, just slower and more expensive.\nIt isn't just driven by the AI companies, either. I've already seen it internally, with developers who need diagnostic tools creating Claude skills, and in the excitement of adopting AI, barely noticing that they're incredibly slow, expensive, unreliable, and even slow to create compared to the script or diagnostic endpoint they would created in the past. And they're surprised to learn that Claude skills suffer from bitrot and cross-repo dependencies just like traditional software: somebody's Claude skill fails because it wasn't updated to match changes elsewhere, and it takes much longer to realize that a conversation with Claude is going wrong than if a script or an endpoint returns an error.\nWhen code is the best solution, by all means use AI to write it! But don't use AI instead when AI isn't fit for purpose.",
+  "url": "https://news.ycombinator.com/item?id=49946074",
+  "author": "9cc505383fe8",
+  "createdAt": "2026-10-03T17:23:01.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49945354",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Kolibri: A Sovereign Open-Weight Model",
+  "body": "For those sick of “Pareto frontier” talk, just shorthand it as “it’s the best at some very particular thing”. Obviously that one thing/tradeoff it’s good at may not necessarily be compelling, but it is either a loose sign of quality, or a sign that they’ve chased some tiny edge into the ground.\nI’ll be curious to see which it becomes in the next year - nba “very narrow record”, or a sign you can hang with the big boys.",
+  "url": "https://news.ycombinator.com/item?id=49945354",
+  "author": "c227e94c8001",
+  "createdAt": "2026-10-03T15:56:06.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49949378",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: We're going to need default hard budget caps on pretty much everything",
+  "body": "Yes and no. I suspect many of the hard limits were set arbitrarily, and we'll see a relaxation of limits as people get frustrated with the limited use they get out of them. And some services will genuinely need to be re written to support higher rps or risk losing customers",
+  "url": "https://news.ycombinator.com/item?id=49949378",
+  "author": "b1c19e134087",
+  "createdAt": "2026-10-04T00:42:06.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "frustrated with"
+  ]
+ },
+ {
+  "id": "hackernews:49952523",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: What Meta got right with Muse",
+  "body": "They are that good now. The computer is just too expensive. The computer is too expensive because of meta, openai, anthropic, grok, etc. it's funny how this works...",
+  "url": "https://news.ycombinator.com/item?id=49952523",
+  "author": "7ebfa295e56d",
+  "createdAt": "2026-10-04T10:24:55.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49952109",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Agents don't need memory, they need documentation",
+  "body": "You don't even consciously do most of it... your brain retrains part of it on the program.\nLLMs don't retrain, it's too expensive atm.",
+  "url": "https://news.ycombinator.com/item?id=49952109",
+  "author": "aef77b52a199",
+  "createdAt": "2026-10-04T09:24:08.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49951253",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Former SR-71 engineer talks NASA's Blackbird revival program",
+  "body": "Fair correction on the altitude (still in the lower bounds of the balloons, as I mentioned).\nThe SR-71 already flew in the configuration I mentioned. It's the YF-12C (a converted SR-71).\nRecovering and converting another sure is more expensive than one missile, but it's a reusable platform.\nA ground missile able to reach those balloons is more expensive than a modernized SR-71 sortie. High-altitude, precision missiles are also not allocated for this task. China can launch dozens of balloons for cheap, and spending one multi-million-dollar missile on each is insanity. Even the long range air-to-air ones are too expensive for that.\nThe SR-71 (as a new YF-12D interceptor) makes more sense. It can take multiple balloons in one flight with cheap shorter range air-to-air missiles (or maybe even cheaper weapons, for a balloon a laser would do), then go home and do that over and over again.",
+  "url": "https://news.ycombinator.com/item?id=49951253",
+  "author": "26c069e45038",
+  "createdAt": "2026-10-04T06:34:05.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49950088",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Automating my 35mm film scanning pipeline",
+  "body": "I agree in part, in that it is sad that this person does not have access to a darkroom. As someone who is also now shooting film and then camera scanning, I would love to have access to a darkroom. It's just a compromise film shooters have to make, and often at no fault to them. It's either too expensive (which the negatives already are), or too far away/too big to fit in modern homes, or more likely both.\nWe're just grateful that film is still available at all.",
+  "url": "https://news.ycombinator.com/item?id=49950088",
+  "author": "6915bb0da54f",
+  "createdAt": "2026-10-04T02:40:54.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49949785",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Getting the most out of Opus 5.5 in Claude and Claude Code",
+  "body": "If they had 6, don't you think they'd be serving it? Even if it was too expensive for most users, some big companies would likely be interested.",
+  "url": "https://news.ycombinator.com/item?id=49949785",
+  "author": "243e79d954ce",
+  "createdAt": "2026-10-04T01:47:21.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49948458",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Scientists invent underwater umbrellas to protect coral reefs",
+  "body": "Looks like a feel good solution mostly. Good for donations, but is not so clear how much would solve the problem. The solution to environmental problems is never cheap so the best use of resources is to use money where it can assure that the problem will never happen. After if happens common people can't fix it. Is too expensive.\nA problem is that corals need algae to photosinthesize so too much shadow is also bad.\nAnother is that the shadowed water will be still hot, because the cold water moves away with the tides and oceanic temperature inertia is too powerful. So now corals could have two problems instead one problem. Feel good solution.\nA better focus would be to use some kind of system to move deep water up using the reef topology. Would be noisy and obtain permits will be a real pain in the ass, but at least could work for a while to protect entire ecosystems in small areas that can be used later to seed other areas around.\nIn the meanwhile as this is not easy, this small umbrellas are time consuming to build and can dislodge and hit other corals potentially breaking or damaging fragile species that need decades to grow, a floating and well anchored second hand jumping bed would be much more efficient, relatively less risky to crash against submerged corals, and a little more durable. Many owners of jumping beds with holes on it, would be glad to get rid of... donate them for free for a good cause. At least this is needed just in summer and will need to be removed before winter storms turns it into garbage. Small fishes will use also this platforms for refuge so corals could also benefit of that.\nWatching the health of the colony constantly to see if there is too much shadow is essential, Also place it out of the fishermen way and never on ship routes. And this can't be used in areas with seals.",
+  "url": "https://news.ycombinator.com/item?id=49948458",
+  "author": "d22e16a8fc7c",
+  "createdAt": "2026-10-03T22:37:51.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49948003",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: We want you to build the next Git platform on Cloudflare",
+  "body": "Tokens be too expensive. Outsource to subs of all the devs over the world. OpenAI inverstors gonna take the inference L on subsidized tokens.",
+  "url": "https://news.ycombinator.com/item?id=49948003",
+  "author": "31d7e6b4bdb4",
+  "createdAt": "2026-10-03T21:33:57.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49947883",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Sudo – A dedicated music player designed around listening to music",
+  "body": "Apple’s $10 dongle has measured better than many fancy DACs and its silly to spend more than that on a portable setup.\nI say this as someone who has spent thousands on headphones, amps and DACs over the years. It’s a silly hobby that is far too expensive for what you get out of it",
+  "url": "https://news.ycombinator.com/item?id=49947883",
+  "author": "8bb2615996c4",
+  "createdAt": "2026-10-03T21:18:48.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49947173",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: City building games have a Soul Problem pt.2",
+  "body": "It's quite possible to do all that. Most AAA titles do by now. But creating all that detailed content at multiple levels of detail is a big job. GTA VI cost between $1.5 billion and $2 billion to produce. When you do those big zooms, vast amounts of data has to be shuttled in and out of the GPU. VRAM is too expensive to keep it all live.\nThere are some other current problems. GPU prices have not come down. \nIf you want a big, high-detailed world, you need a few hundred dollars of GPU.\nGPUs on laptops tend to be underpowered, and if you make the GPU work to its full capacity, it runs down the battery.\nOne of my interests is technology for large metaverses with high detail and good performance. Everybody who made metaverse noise during the boom failed at that. Second Life, which is a large metaverse with good detail but slow performance, is about as good as it gets. \n(It's been improving recently; they've hired some good graphics developers.)\nImprobable's Morpheus/M-Squared [1] looked promising, but the site hasn't been updated in a year and the Discord community seems to have died. They usually run with \"cloud rendering\" (each user ties up a dedicated gamer PC in a data center), which is too expensive except for special events. Roblox is probably the only other serious US player working on this. Unreal Engine 5 can do big, static worlds that have lots of instancing, but that's achieved using large amounts of preprocessing, optimization, and performance debugging.\nThe underlying problem is that good simulated cities are about as interesting as real cities. Kind of boring. Second Life has a terrible problem with new users. At the start, you're in a big world the size of Los Angeles with about 40,000 people spread around. You don't know anybody. You have no idea what to do first. There is no obvious goal. There is no built in game. The system itself is completely indifferent to you, like real cities. You can explore the huge user-built world freely, but only when some…",
+  "url": "https://news.ycombinator.com/item?id=49947173",
+  "author": "1ea8afa3b76c",
+  "createdAt": "2026-10-03T19:49:35.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49943548",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Would you use Hive-simpler AI agents?",
+  "body": "> Existing platforms are too expensive and complex for small teams.\nWhat evidence do you have that this is at all true or is a problem, and for how many companies?\nI'd argue the barrier to setting up a team account for your small team of less than 100 engineers is pretty trivial and affordable for claude code or codex.",
+  "url": "https://news.ycombinator.com/item?id=49943548",
+  "author": "5281c9d3403e",
+  "createdAt": "2026-10-03T12:05:38.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49953250",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: So you think you could be an electrician?",
+  "body": "I think it’s just that the dangerous jobs are avoided y those who can avoid them. So they are left to those who have little choice, which depresses wages. This is rather immoral, but Covid made quite clear that the essential jobs weren’t the high-status or high-paying ones.\nI find this worrying because the entire economy is built on the idea of cheap physical snd cheap unskilled labor. So if we do a good job educating, we’ll need to fill these jobs by paying more rather than preying on the desperate. And I don’t see the current world being willing to pay more.",
+  "url": "https://news.ycombinator.com/item?id=49953250",
+  "author": "7f235df883fd",
+  "createdAt": "2026-10-04T12:16:38.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 20,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49950648",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: We're going to need default hard budget caps on pretty much everything",
+  "body": "A hospital needs to be able to handle a full cloud outage. So I'd be worried if they're near the top of the list of how much they'd be willing to pay here.",
+  "url": "https://news.ycombinator.com/item?id=49950648",
+  "author": "5349c33ba4b3",
+  "createdAt": "2026-10-04T04:30:00.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 20,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49949902",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: 40 years of writing code. I didn't see the end coming",
+  "body": "Writing code and developing solutions is part of my job, but does not define my job, so I wouldn’t expect my feelings to translate, but AI has allowed me to punch above my weight, tackling and solving problems that weren’t feasible (for any number of reasons) for me before. It has absolutely been a force multiplier. Will there come a day where no one is willing to pay me to solve problems? Maybe. But I’ll just keep tackling harder problems that stretch me. Will that come to an end? Maybe? But I don’t think so - at least not in my lifetime.",
+  "url": "https://news.ycombinator.com/item?id=49949902",
+  "author": "8153b2814f95",
+  "createdAt": "2026-10-04T02:07:13.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 10,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49946463",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: One month coding with GLM 5.3 Flash",
+  "body": "> why bother trying to make training and inference efficient when you can just throw hardware/money at the problem.\nSure, for certain bleeding edge research path-finding, any optimization is premature but that's tiny compared to deployed end-user product scale. The biggest constraints frontier cloud model providers face are: 1. Getting enough of the hardware they want, 2. Capital, 3. Talent (and #3 is a largely a function of #2 & #1).\nGiven the raw economics, it would be foolish to not have efficiency teams fast-following their deployments as closely as possible. We're seeing direct and indirect evidence of significant efficiency improvements across all the frontier providers and the rate seems to be increasing. The coming OAI & ANT IPOs hinge on demonstrating they can serve many use cases beyond software dev profitably at what they are willing to pay, which is generally less than software dev. The trend is clearly \"the higher volume the use case, the less they're willing to pay\".",
+  "url": "https://news.ycombinator.com/item?id=49946463",
+  "author": "49a61807769b",
+  "createdAt": "2026-10-03T18:15:54.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 20,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49945102",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: The Escalation of War in Ethiopia",
+  "body": "OP is talking about corruption which is orthogonal to being a dictatorship. In fact the least corrupt subsaharan country is (by far) Rwanda, which is a de facto dictatorship.\nAnd the impacts of corruption/cronyism/clientelism are not just money being siphoned at the top. It completely breaks any fair competition wether it's in economic markets or for jobs. Businesses don't succeed based on how competitive or innovative they are, simply based on who their founder knows and how much they're willing to pay in bribes, so your economic development stragnates. Important and influential positions are awarded not to the most competent but to the richest. \nOpening a small business requires you to bribe dozens of people, and good luck if you need to import or export goods.",
+  "url": "https://news.ycombinator.com/item?id=49945102",
+  "author": "3763a02312ad",
+  "createdAt": "2026-10-03T15:25:38.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 10,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49943542",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Gemini ending free use of Flash and Pro models",
+  "body": "Yeah but are you willing to pay additional cost for marginal improvement in accuracy that only pays off sometimes? If so, take the judgement and use a better model.",
+  "url": "https://news.ycombinator.com/item?id=49943542",
+  "author": "aa9f1d12fe6e",
+  "createdAt": "2026-10-03T12:04:35.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 10,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "github:repo:1401476500",
+  "source": "github",
+  "kind": "tool",
+  "title": "QingYunA/answer-me-with-html — 780★",
+  "body": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+  "url": "https://github.com/QingYunA/answer-me-with-html",
+  "author": "e3b00bf8b409",
+  "createdAt": "2026-10-02T09:57:40Z",
+  "engagement": {
+   "stars": 780
+  },
+  "tags": [
+   "claude-code",
+   "JavaScript"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1384322099",
+  "source": "github",
+  "kind": "tool",
+  "title": "SyncSo-Inc/syncso — 156★",
+  "body": "Let your agents understand what's happening locally, in real time — every experience across a city, with times, prices, booking links and images",
+  "url": "https://github.com/SyncSo-Inc/syncso",
+  "author": "b1aa18b08260",
+  "createdAt": "2026-09-23T23:27:35Z",
+  "engagement": {
+   "stars": 156
+  },
+  "tags": [
+   "mcp"
+  ],
+  "painScore": 56,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1385878890",
+  "source": "github",
+  "kind": "tool",
+  "title": "phprs-cms/kaletacms — 64★",
+  "body": "Kaleta – an open-source CMS for business websites with a visual page builder, a token design system and Claude over MCP",
+  "url": "https://github.com/phprs-cms/kaletacms",
+  "author": "14a6c9a1c778",
+  "createdAt": "2026-09-24T16:08:57Z",
+  "engagement": {
+   "stars": 64
+  },
+  "tags": [
+   "mcp",
+   "PHP"
+  ],
+  "painScore": 50,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1403115747",
+  "source": "github",
+  "kind": "launch",
+  "title": "Jakeschincariol/replica-skill — 291★",
+  "body": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+  "url": "https://github.com/Jakeschincariol/replica-skill",
+  "author": "bcf2343521e4",
+  "createdAt": "2026-10-03T12:07:49Z",
+  "engagement": {
+   "stars": 291
+  },
+  "tags": [
+   "saas",
+   "Python"
+  ],
+  "painScore": 61,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1380116460",
+  "source": "github",
+  "kind": "launch",
+  "title": "malevrigns/agent-jev — 338★",
+  "body": "AgentJev-0.6B - a fast 'System One' decision model for AI Agents: feed it any unstructured state (diffs, traces, logs) and structured questions, get calibrated probability distributions back in one ~50ms forward pass. Zero output-token decoding.",
+  "url": "https://github.com/malevrigns/agent-jev",
+  "author": "b52e5fb3a0e1",
+  "createdAt": "2026-09-21T16:24:42Z",
+  "engagement": {
+   "stars": 338
+  },
+  "tags": [
+   "ai-agents",
+   "Python"
+  ],
+  "painScore": 62,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1379046284",
+  "source": "github",
+  "kind": "launch",
+  "title": "HeyPuter/builder — 215★",
+  "body": "📦✨ AI Builder For Creating Sites and Apps! An open-source alternative to Lovable, Replit, v0, and similar platforms.",
+  "url": "https://github.com/HeyPuter/builder",
+  "author": "9b02f1686013",
+  "createdAt": "2026-09-21T03:45:45Z",
+  "engagement": {
+   "stars": 215
+  },
+  "tags": [
+   "ai-agents",
+   "JavaScript"
+  ],
+  "painScore": 59,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "appstore:14621257688",
+  "source": "appstore",
+  "kind": "demand",
+  "title": "★☆☆☆☆ Jobber Field Service: Greedily expensive",
+  "body": "$60/month for the lowest tier. Come on.",
+  "url": "https://apps.apple.com/us/app/id1014146758?see-all=reviews",
+  "author": "7e7c9ca649af",
+  "createdAt": "2026-10-03T03:29:51.000Z",
+  "engagement": {},
+  "tags": [
+   "Jobber Field Service",
+   "us",
+   "rating:1"
+  ],
+  "painScore": 45,
+  "matchedPhrases": []
+ }
+]
