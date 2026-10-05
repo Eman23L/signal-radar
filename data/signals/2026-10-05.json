@@ -1,0 +1,1257 @@
+[
+ {
+  "id": "hackernews:49958559",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Ask HN: Who wants to be hired? (October 2026)",
+  "body": "Location: Virginia, USA\nRemote: Yes, (open to onsite/hybrid)\nWilling to relocate: Yes\nWork authorization: Authorized to work in the US on OPT (STEM OPT extension eligible)\nTechnologies: Python, PyTorch, Hugging Face, Claude/OpenAI APIs, LLM tooling, Java/Spring Boot, TypeScript/Node.js, React, MySQL, Docker, Kubernetes, Terraform, GCP (Associate Cloud Engineer)\nRésumé/CV: https://drive.google.com/file/d/1KdL-4_1AtpJYFj6JQIG3xkNYCz4...\nGitHub: https://github.com/ishani02\nPortfolio: https://ishanikohli.vercel.app\nEmail: ishanik.ms@gmail.com\nLinkedIn: https://linkedin.com/in/ishani-kohli\nWhat should happen when the LLM in your product is wrong, or the API is down? I built GuardRail to answer that for infrastructure code. Seven deterministic rules parse a Terraform plan and decide pass or fail. Claude only explains the risk and drafts the corrected HCL, so the verdict still ships when the API fails.\nI also know what breaks inside the models. I attacked LLaMA 3 adapted for image classification with FGSM across 60K MNIST examples and watched accuracy fall from 83% to 66% once the adaptation disrupted self-attention. In a separate project I merged two separately fine-tuned BERT models into one 110M-parameter model by composing task vectors. It reached 87% on sentiment and 74% F1 on NER with 50% less storage.\nThe engineering underneath is production work. At Persistent Systems I interviewed 8 developers about why code-review findings were ignored, then built the dashboard around their answers. It covered 15+ enterprise codebases and cut vulnerabilities 30%. I also shipped 10+ Spring Boot APIs and moved deploys from hours to minutes with Docker-based CI/CD. At Virginia Tech, I was the primary developer on a live exam platform where I built the exam-management module from scratch, made the frontend WCAG-compliant for 2,000+ students with registered disabilities, and users grew 42% to 7.2K+.\nLooking for software engineering roles building LLM products, where I can own a servi…",
+  "url": "https://news.ycombinator.com/item?id=49958559",
+  "author": "5e05178901a1",
+  "createdAt": "2026-10-04T22:24:27.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "looking for software"
+  ]
+ },
+ {
+  "id": "hackernews:49954006",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Ask HN: Who wants to be hired? (October 2026)",
+  "body": "Location: India (currently in India; Hyderabad / Bengaluru)\nRemote: Yes — open to worldwide remote roles where I can legally work from India. Also open to country-restricted remote roles with sponsorship/work authorization and relocation support.\nWilling to relocate: Yes — actively seeking employer-sponsored opportunities in Germany, UAE, and Luxembourg; also open to other realistic international sponsorship markets.\nAvailability: Immediate\nExperience: 3+ years\nTechnologies: Java, Spring Boot, Microservices, REST APIs, Apache Kafka, JPA/Hibernate, SQL/PostgreSQL, MySQL, MongoDB, Redis, AWS, Docker, Kubernetes, JavaScript, TypeScript, Angular, React, RxJS, NgRx, JUnit, Mockito, Jest, Jasmine, GitHub Actions, ELK/Kibana, Grafana\nRésumé/CV:\nLinkedIn: https://www.linkedin.com/in/shalom-raju-battu/\nCV: https://www.dropbox.com/scl/fi/0gj9c0595pts9bin4tkk8/Shalom_...\nEmail: shalom.bnri777@gmail.com\nAbout me: Software Engineer with 3+ years of experience across JPMorgan Chase and Entain, focused on Java backend and full-stack development. I have hands-on experience building Spring Boot microservices, REST APIs, Kafka-based services, cloud applications, and Angular applications.\nI’m primarily looking for Software Engineer II / SDE-2, Java Backend, Backend Engineer, or Java Full-Stack roles. Angular is my preferred frontend technology, with React.js also within my stack.\nI’m particularly interested in relocating to Germany, UAE, or Luxembourg through employer-sponsored opportunities. I’m also open to worldwide remote roles where I can legally work from India. I speak English and am currently learning German.\nI’m looking for long-term engineering roles involving production systems, backend development, distributed systems, APIs, Kafka, cloud infrastructure, and meaningful ownership. I’m open to different industries but am not looking for sports, gaming, or betting-related roles.\nProject I’m proud of: At Entain, I owned a real-time Live Tracking module end-to-end across .NET C…",
+  "url": "https://news.ycombinator.com/item?id=49954006",
+  "author": "a826bd89ff83",
+  "createdAt": "2026-10-04T14:00:08.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "looking for software"
+  ]
+ },
+ {
+  "id": "hackernews:49964441",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Apple and a Hacker's Future",
+  "body": "If you are interested in tech outside of consumer electronics lobsters is a good alternative to here.",
+  "url": "https://news.ycombinator.com/item?id=49964441",
+  "author": "6cf8fa548486",
+  "createdAt": "2026-10-05T13:14:28.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49964361",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Show HN: Browsentic Open-source Claude for Chrome alternative for any agent CLI",
+  "body": "A personal agent harness lives in your existing browser, connects to your claude-code (or any other major harness codex or cursor-cli...) NOT the SDK API, exposes web-optimized tools to the harness - that's Browsentic.\nA free, opensource (Apache 2.0) with rich capabilities alternative to Comet, BrowserOS, Browser-use, Claude for Chrome or nanobrowser.\nThe unique architecture of Browsentic makes it different from all other alternatives. It uses a loopback MCP server that spawns claude/codex/OpenCode/Cursor harness in a detached process. You can already guess, it is a bi-directional MCP, you can browse agentic through the browser harness or through any MCP client.\nBrowsentic doesn't require any new browser to install and not limited to chromium, it supports Firefox as well. By default you don't even need CDP to perform core agentic browsing.\nCapabilities: core accessibilities (50+ compare to nanobrowser only had 20), custom skill, record-replay, schedule-monitoring-notification, resolves captcha autonomously, has it's own memory, voice orb over web-speech API, can sideload custom tools, platform + browser + agent agnostic\nIt is opensource, no API key, no telemetry & local first and actively maintained and yesterday was the first public stable launch (v0.8.0)\nCurrently I'm the only author but every & any contribution or suggestion will be more than welcome :)\nSource: https://github.com/imshaikot/browsentic\nInstall guide: https://browsentic.com/install\nDocs: https://browsentic.com/docs\nInstall video: https://www.youtube.com/watch?v=o8t4l9Q9BkE",
+  "url": "https://news.ycombinator.com/item?id=49964361",
+  "author": "e83dccd184c3",
+  "createdAt": "2026-10-05T13:08:05.000Z",
+  "engagement": {
+   "score": 1,
+   "comments": 0
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 28,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49963583",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Precogly (The open-source alternative to commercial threat modeling platforms)",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=49963583",
+  "author": "5b2686e6466d",
+  "createdAt": "2026-10-05T11:41:58.000Z",
+  "engagement": {
+   "score": 1,
+   "comments": 0
+  },
+  "tags": [],
+  "painScore": 28,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49962758",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: We ported the original Doom to SQL",
+  "body": "I was actually just recently looking if there is a self-hostable alternative to a HTAP system like TiDB + TiFlash with a Postgres-compatible syntax, but LLMs didn't really pick up on CedarDB yet. These guys know game.",
+  "url": "https://news.ycombinator.com/item?id=49962758",
+  "author": "1ae0064c0ffc",
+  "createdAt": "2026-10-05T09:53:37.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49961855",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: All I wanted was a custom domain email",
+  "body": "Fastmail lets you do safeway@glyptodon.mydomain.example as an alternative to plus-aliases.\nhttps://www.fastmail.help/hc/en-us/articles/360060591053-Plu...",
+  "url": "https://news.ycombinator.com/item?id=49961855",
+  "author": "bba328d53dff",
+  "createdAt": "2026-10-05T07:45:13.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49960915",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: All Games Are Open Source Now",
+  "body": "No excuses for a proper Linux Phone (Not Android) and an alternative to the iPhone then.",
+  "url": "https://news.ycombinator.com/item?id=49960915",
+  "author": "74b6d43d64f9",
+  "createdAt": "2026-10-05T05:13:37.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49958586",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "European Commission Staff Dislike Their 'Sovereign' Alternative to Teams",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=49958586",
+  "author": "902f9d1a8a6b",
+  "createdAt": "2026-10-04T22:27:35.000Z",
+  "engagement": {
+   "score": 5,
+   "comments": 6
+  },
+  "tags": [],
+  "painScore": 38,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49957381",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: C++ Insights – See your source code with the eyes of a Compiler",
+  "body": "Wow, that's awesome. I've been writing C++ since 20 years, and I still stumble over details where I ask myself what exactly is happening. Looking at the machine code is often quite opaque to me, and so is the reference, because it is overly formal. So this will be a great alternative to get a quick understanding of a concrete snippet. Thank you!",
+  "url": "https://news.ycombinator.com/item?id=49957381",
+  "author": "56525a4a2bec",
+  "createdAt": "2026-10-04T20:15:05.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49954615",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Why don't more developers “use the platform”?",
+  "body": "> We don't blame crypto for being hard, or demand new frameworks\nThis is not true. There are innumerable cryptography libraries whose primary reason for existence was to replace or offer an alternative to a library with the same affordances but with primitives that were too easy to use incorrectly. “Maybe we should redesign this knife so it’s hard to slice a finger off” is not unique to web dev",
+  "url": "https://news.ycombinator.com/item?id=49954615",
+  "author": "387c88cc0350",
+  "createdAt": "2026-10-04T15:16:00.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49954300",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Tell HN: Bob Cringely has died",
+  "body": "I don't really understand what your comment is trying to say, but I read through the last few pages of his blog and all the posts after the first one from 2026 announcing his return seem AI generated. I think it's a shame, as I loved his writing style in \"Accidental Empires\" and in his earlier blog posts and columns. It's strange to me that someone who had spent most of his life writing either didn't notice or didn't care about the drop in quality from using LLMs to write.\n> Look at his last few blog posts, outlining a radical alternative to LLMs. Read closely, and at the heart of that idea we find \"assume enterprise search\".\nI found the patent for his company's technology (https://patents.google.com/patent/US20250259069A1). I always have trouble reading patents, but as far as I can tell it's basically a wrapper around commodity LLMs. The reliability improvements come from prompting the LLM to only source its data from an external database that you provide rather than from whatever it was trained on, and from prompting multiple LLMs simultaneously then doing semantic analysis on the responses to make sure they all agree. I imagine that doing this would probably reduce hallucinations, but there's no hard constraint to prevent them entirely and I'm not sure what the moat is.",
+  "url": "https://news.ycombinator.com/item?id=49954300",
+  "author": "d186d81068d1",
+  "createdAt": "2026-10-04T14:35:42.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49953902",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: gpuvis: GPU Trace Visualizer",
+  "body": "I've found perfetto [1] to be a excellent modern alternative to gpuvis.\n[1] https://ui.perfetto.dev/",
+  "url": "https://news.ycombinator.com/item?id=49953902",
+  "author": "2a3d60fbaded",
+  "createdAt": "2026-10-04T13:45:25.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49962967",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: A browser-native classic Visual Basic VB6 IDE",
+  "body": "Because I learned on this, it made learning everything else that much harder. Even today I wish there was something as functional, basic, and intuitive, even though I well.understand the reasons for doing things different ways.",
+  "url": "https://news.ycombinator.com/item?id=49962967",
+  "author": "4a0e29116fb0",
+  "createdAt": "2026-10-05T10:20:06.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "wish there was"
+  ]
+ },
+ {
+  "id": "hackernews:49953837",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: We're working on a new RuneScape MMO",
+  "body": "I wish there was a millenial version of \"too old to click around for 99 hours\" where they just allow bots. Maybe they can be certain servers or certain account types, like ironman. We can call it botman.",
+  "url": "https://news.ycombinator.com/item?id=49953837",
+  "author": "e891c8849c2d",
+  "createdAt": "2026-10-04T13:38:19.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "wish there was"
+  ]
+ },
+ {
+  "id": "hackernews:49953653",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: In Ukraine, distributed renewables foil Russia's assaults",
+  "body": "I am not sure if solar panel are worth using in places where the sky is clear only several months a year. A desert (for example, in Africa or Emirates) would be a better place for them.\nWouldn't it be better to have thousands of traditional natural gas, coal or diesel-powered generators to replace large centralized plants? They are compact (easier to hide). A 2 MW generator is a size of a truck. And portable 24 MW generator is a size of several trucks. Before the war, they had ~44 GW of generation (~1 kW per person), so one needs thousands of mobile generators to replace the system, and I doubt anyone provided them.\nI wish there was a comparison of installation costs and generation costs for traditional and renewable energy. Without comparison, it might be that renewables are simply not worth investing yet.\nOne company advertises solar panels [1] and claims that 1 MW scale array requires 3000 panels and costs over $1M. While used diesel-powered 2MW generator costs several hundreds thousands USD. Why would someone buy one array when for that price several diesel generators can be bought?\nTraditional energy is cheap. For example, Russia has 240 GW of generation, almost no solar and wind, and electricity costs 8 cents per kWh and in the West the energy is super expensive despite using solar and wind power. Also, diesel costs 65 RUB/liter, or 2.94 USD/US gallon (if 1 US gallon = 3.78 L) and again in the West for some reason it is overpriced. Maybe the renewables are only profitable with overpriced natural resources and government subsidies, without a comparison it is difficult to say.\n[1] https://solartechonline.com/blog/what-is-a-solar-array/",
+  "url": "https://news.ycombinator.com/item?id=49953653",
+  "author": "7da99cb026f0",
+  "createdAt": "2026-10-04T13:14:21.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 23,
+  "matchedPhrases": [
+   "wish there was",
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:49958151",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: The evolution of effective altruism",
+  "body": "That's how I understand it: a movement encouraging people to donate their wealth to good causes which save and improve lives.\nHowever, there's some who predict an existential future risk such as an AI apocalypse. If that's the case, why save a child's life today when we'll all be killed by AI tomorrow? Critics would call this funding pet projects rather than altruism.\nBut you can even further down this line of thinking. If you're a billionaire and see yourself as the only hope of saving humanity from extinction, why donate any of your wealth? You should be doing the opposite, gathering as much wealth and power as possible. Taxes and laws that get in your way are impediments to the salvation of humanity.\nI'm pretty sure most of the criticism is for folks in the latter groups. I wish there were different words to distinguish them better, because I like the idea of encouraging charity but somehow a handful of billionaires have poisoned the word altruism.",
+  "url": "https://news.ycombinator.com/item?id=49958151",
+  "author": "937c455fd1b8",
+  "createdAt": "2026-10-04T21:36:40.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "wish there were"
+  ]
+ },
+ {
+  "id": "hackernews:49955766",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs",
+  "body": "Apple is one of the only ways to get a good chiclet keyboard as a peripheral. Wish there were one with the full laptop layout though, half-height arrows and all.",
+  "url": "https://news.ycombinator.com/item?id=49955766",
+  "author": "3f48b906cc8d",
+  "createdAt": "2026-10-04T17:13:50.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "wish there were"
+  ]
+ },
+ {
+  "id": "hackernews:49957964",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Results from the ASIC puzzle",
+  "body": "> The hardware team at Jane Street designs FPGAs and ASICs that run some of the fastest trading systems in the world, and the day-to-day work is full of puzzles just like this one: staring at a sea of gates, timing reports, or waveforms and slowly teasing out what’s really going on.\nAlthough not really any more. AI is really good at debugging failing tests so I no longer have to spend hours - sometimes it was even days - staring at waves and instruction traces.\nTbh that's one thing I won't miss.",
+  "url": "https://news.ycombinator.com/item?id=49957964",
+  "author": "e6f86a7b1073",
+  "createdAt": "2026-10-04T21:15:32.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "spend hours"
+  ]
+ },
+ {
+  "id": "hackernews:49954616",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Religious scholars met with Anthropic",
+  "body": "> This would presume we knew what consciousness and pain is. We don't. We we are clueless.\n> LLMs may help to offer a new perspective on consciousness\nHow do we gain a new perspective on something we do not understand?\nThis is the doublespeak by the AI psychotics that drives me crazy.",
+  "url": "https://news.ycombinator.com/item?id=49954616",
+  "author": "d7a3314ffdf9",
+  "createdAt": "2026-10-04T15:16:01.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "drives me crazy"
+  ]
+ },
+ {
+  "id": "hackernews:49964403",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Automating my 35mm film scanning pipeline",
+  "body": "For me it's largely to avoid the temptation of things like being able to immediately review the photos and \"I can take another\". \nI'm very much someone who wants a quick uncritical snap of a moment and very little interest in how well it's framed or how the people are looking though.\nAlso a bit sick of having thousands of photos that I'll never get around to curating into anything worth my time looking back on. They all just get dumped on an external hard drive and never looked back on.\nRE: the cost it can be cheap enough. B&W is very easy to develop at home for not much and if you get a half frame camera you can get 72 shots from a single roll which can take an incredibly long amount of time to get through.",
+  "url": "https://news.ycombinator.com/item?id=49964403",
+  "author": "c5088c8d91b0",
+  "createdAt": "2026-10-05T13:12:04.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49963307",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+  "body": "\"I'm sick of these 4 day old vibe coded projects becoming hyped to hell while I spend a year on something and it goes nowhere\"\nYou know, in a way, you are both in the same boat. The difference is that the 4 day old project gets the clout first and then becomes irrelevant.",
+  "url": "https://news.ycombinator.com/item?id=49963307",
+  "author": "1ae759c6fd25",
+  "createdAt": "2026-10-05T11:05:51.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49961249",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+  "body": "I'm sick of these 4 day old vibe coded projects becoming hyped to hell while I spend a year on something and it goes nowhere\nI don't know who this kid is but I've looked at the code, it's all Claude. Saying you can run on 2-bit quant with some optimization flags at 100t/s isn't like some \"oh my goodness\" ... it's wasting everyone's time with noise. I mean give me a break.\nWhat are they doing? Is it Tiktok? Discord? LinkedIn?\nI want to do high quality work but apparently I should be dicking around on social media",
+  "url": "https://news.ycombinator.com/item?id=49961249",
+  "author": "ce2524e2deb4",
+  "createdAt": "2026-10-05T06:14:16.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49960812",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Bill Draper has died",
+  "body": "I've read a ton of Andreesen's pronouncements over the recent years, including many things that were specifically in his own words, e.g. https://a16z.com/the-techno-optimist-manifesto/\nFrankly, if I had to compare that manifesto with the Unabombers', I think the Unabomber's makes a lot more sense. Everything I've ever heard out of Andreesen's mouth is \"whatever advancements that have made me a mega billionaire are great, and anybody who says otherwise wants to murder children.\" The absolute cluelessness over even willing to contemplate that technological advancements have some real downsides is so self serving it's gross.\nYou say \"A16Z folks are very human, terrific at what they do and good people.\" I accept they're very human and terrific at what they do, but no, I don't think they are good people. Hardly anybody ever really thinks \"maybe we're the baddies?\", and people can tell themselves all sorts of stories about why they're good people as they're raking in millions of dollars. But I'm sick of pretending that people at that level don't have a choice, and what they're choosing to do is cash in while investing in a shitload of things that have negative societal impact. I mean, someone at a16z greenlit the Doublespeed (aka \"AI bot farm\") investment, and I'm sure they think of themselves as a good person.",
+  "url": "https://news.ycombinator.com/item?id=49960812",
+  "author": "3ce875166d41",
+  "createdAt": "2026-10-05T04:51:41.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49959674",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: ArtCraft Apps – open-source Adobe compatible suite written in Rust",
+  "body": "Only have to pay the price once.\nI'm sick of Gimp, Krita, and Inkscape being the best Linux and open source have to offer.",
+  "url": "https://news.ycombinator.com/item?id=49959674",
+  "author": "c410838e5e41",
+  "createdAt": "2026-10-05T01:16:32.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49958241",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: RuneScape's Position on Gen AI",
+  "body": "Yeah, we'll see how long that lasts.\nI'd bet 500 thousand dollars that this sentiment goes away as fast as they were rerunning cold and flu medicine commercials after everyone was sick of giving a shit about COVID.",
+  "url": "https://news.ycombinator.com/item?id=49958241",
+  "author": "59ac826c6c0c",
+  "createdAt": "2026-10-04T21:48:13.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49957566",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Turn off Apple Intelligence on macOS 27 and get its disk space back",
+  "body": "I'm sick of juggling disk space on my 1tb laptop AND I don't want an llm attack vector anywhere near my machine, this things getting nuked from orbit or i'm not updating to golden gate, ever.",
+  "url": "https://news.ycombinator.com/item?id=49957566",
+  "author": "26ca89429603",
+  "createdAt": "2026-10-04T20:37:24.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49957447",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+  "body": "I'm on m1 max 64gb and went from qwen3.8-27B back to qwen3.6-a35b. Is flash next the move? I went from usable say 40tk/s qwen3.6 to unusable, like 11 with 3.8 and not impressed with the replies for the time sacrifice. pi (omp) and omlx but not with the recent 3.8 patch.\nI've been waiting for a 35b of 3.8, I don't really know what the other versions are about. I'm on 5g so juggling 40gb of model files sucks. And honestly I'm sick of tweaking this stuff for no, very little, or break-it level improvements. Qwen3.6-a35b has been solid for work, just don't give it freedom to wipe your data.",
+  "url": "https://news.ycombinator.com/item?id=49957447",
+  "author": "26ca89429603",
+  "createdAt": "2026-10-04T20:23:43.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49955453",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+  "body": "I'm sick of this strawman nonsense. You are attacking a false analogy.\nDiscuss the actual meat of the argument instead.",
+  "url": "https://news.ycombinator.com/item?id=49955453",
+  "author": "692795fef35a",
+  "createdAt": "2026-10-04T16:41:22.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49961120",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: ArtCraft Apps – open-source Adobe compatible suite written in Rust",
+  "body": "> someone frustrated with their pricing\nWhat about their service?",
+  "url": "https://news.ycombinator.com/item?id=49961120",
+  "author": "78a957faf789",
+  "createdAt": "2026-10-05T05:50:57.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "frustrated with"
+  ]
+ },
+ {
+  "id": "hackernews:49960809",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Agents don't need memory, they need documentation",
+  "body": "\"docs and maps\" are hardly specifying preferences. I DID say I still often keep a high level AGENTS.md or CLAUDE.md. Where I have them, they're super high-level. In places where we have well defined and followed standards that top level markdown file can be as simple as \"check out this other repo for patterns\" and where I don't, the markdown file is high level overview of what the app is and then a high level overview of architecture or some preferences. Always a shorter/smaller doc.\nI don't mind SOME documentation. I'm growing extremely frustrated with the absolute MOUNTAIN of docs, comments, decision documents, etc being created. I'm so fucking tired of the LLM rube goldberg machines being built.",
+  "url": "https://news.ycombinator.com/item?id=49960809",
+  "author": "ef548113dce5",
+  "createdAt": "2026-10-05T04:50:57.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "frustrated with"
+  ]
+ },
+ {
+  "id": "hackernews:49959822",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: ArtCraft Apps – open-source Adobe compatible suite written in Rust",
+  "body": "Adobe's moat is so small, so it's a matter of time until someone frustrated with their pricing would rather just rebuild the entire Creative Suite. I have also rebuilt the features from Photoshop I want using Rust recently (primarily because the company I work for started blocking Photopea, but I digress...) and it's been a great to work with. I can imagine the same would hold true for Lightroom, Illustrator, and Indesign.\nOverall, looks like a cool project. Looking forward to the *Craft repos on github gaining traction",
+  "url": "https://news.ycombinator.com/item?id=49959822",
+  "author": "39d25a0975b7",
+  "createdAt": "2026-10-05T01:45:12.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "frustrated with"
+  ]
+ },
+ {
+  "id": "hackernews:49957425",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Show HN: Web Analytics Focused on Revenue",
+  "body": "I was frustrated with Google Analytics and Plausible, and I wanted something simple that highlighted actionable things I could focus on to improve revenue. Less focus on vanity metrics like pageviews, instead just showing where revenue comes from. That tells you what's the most profitable and best use of your time, at a glance. So I built the tool I wanted.\nOne of the first side projects I ever worked on was a web analytics tool back when I was teaching myself how to code almost 25 years ago when I was 18.\nSo it feels like coming full circle to actually build a web analytics tool.\nI've always struggled to finish side projects and do the last 20% of polish (which takes 80% of the time somehow). Coding and building things is fun, but that work is tedious. I credit AI with making it easier to the point where I can actually finish side projects now.\nI'm very interested in what others think and how I could improve it. Be honest, but gentle please :)",
+  "url": "https://news.ycombinator.com/item?id=49957425",
+  "author": "4be76c272d36",
+  "createdAt": "2026-10-04T20:20:35.000Z",
+  "engagement": {
+   "score": 1,
+   "comments": 0
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 28,
+  "matchedPhrases": [
+   "frustrated with"
+  ]
+ },
+ {
+  "id": "hackernews:49964327",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+  "body": "If Europe was not a vassal of the US why do we refuse to stand on our own legs? Why is almost every decision of ours predicated on US participation? Europe will give guarantees to Ukraine but only if USA puts boots on the ground. Europe will secure the Hormuz straight but only once USA has secured it. It's pathetic and embarrassing.\nEurope shut down more than 20 Diesel refineries in the past 20 years and then we cry that Diesel is too expensive and blame the Americans. Pathetic.\nOur industrial and energy policy is that we will become completely dependent on the Middle East, US, Russia and China so we have absolutely no autonomy and no viability. Embarrassing. Pathetic. Shameful.",
+  "url": "https://news.ycombinator.com/item?id=49964327",
+  "author": "24782aa4964e",
+  "createdAt": "2026-10-05T13:05:02.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49961697",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: The Tao of Backup",
+  "body": "It isn't too expensive for my use case – per month, I retrieve about 500GB a month from Glacier Instant Retrieval to verify, which costs ~$15. Combined with other costs, my monthly bill is ~$50.\nI used to use Backblaze B2, which had cheaper egress at the cost of slightly more expensive storage (I think ~$5/TB/mo, with free egress up to 3x all current storage?) So I paid $20. But at some point AWS opened a datacenter near me, and I couldn't ignore how much faster data transfers got.",
+  "url": "https://news.ycombinator.com/item?id=49961697",
+  "author": "88979c030faa",
+  "createdAt": "2026-10-05T07:24:08.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49961237",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+  "body": "> Seems a lot better place to learn than in the middle of the race and earning $0 for the race.\nThat's... not how it works at all, though. There are no prizes for individual races and the championship money is also pennies to the teams.\nMercedes's Kimi Antonelli is going to win the WDC anyway for sure at this point, given the points difference.\n> Isn't that the entire point of a simulator to learn things that are too expensive to learn in the real world?\nYou're right but this is not those expensive things. Track time is extremely limited, so the primary role of the sim is to develop the car and how it feels to the drivers, mainly so the setup feels perfect to them.\nSystem-level bugs etc must have their own testing but sim is mainly for driver-engineer testing. Many drivers also don't like using the sim at all like Hamilton.",
+  "url": "https://news.ycombinator.com/item?id=49961237",
+  "author": "e9cc025bc00f",
+  "createdAt": "2026-10-05T06:12:28.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49961233",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: The Tao of Backup",
+  "body": "S3 is too expensive to do a restore from. And you have to restore to verify.",
+  "url": "https://news.ycombinator.com/item?id=49961233",
+  "author": "a056c5904e5b",
+  "createdAt": "2026-10-05T06:11:48.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49960696",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+  "body": "Seems a lot better place to learn than in the middle of the race and earning $0 for the race. Isn't that the entire point of a simulator to learn things that are too expensive to learn in the real world?",
+  "url": "https://news.ycombinator.com/item?id=49960696",
+  "author": "0e34aebce079",
+  "createdAt": "2026-10-05T04:31:12.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49956877",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: I quit OpenAI because its culture is broken",
+  "body": "Yep that was one of the reasons for sure as was environmental regulations and free trade agreements. I am not even opposed to that phenomenon as it’s now more affordable for people to buy furniture and clothes (my grandparents owned a fabric store and it was common to have sewing parties for new parents to make clothes for the kids because it was too expensive to buy clothes otherwise). But child labor was cheaper than adult labor and one of the drivers of these movements across state and national borders.",
+  "url": "https://news.ycombinator.com/item?id=49956877",
+  "author": "46f6a39355f0",
+  "createdAt": "2026-10-04T19:11:42.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49956569",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Car is a smartphone on wheels. Here's who's listening",
+  "body": "Carplay in the beater is nice. My 2002 Acura feels great with it. Gonna drive it into the ground. Atoto makes an okay head unit for the cost.\nI think I squeezed a few more years out of my girls Camry by adding a backup camera for her. Not too expensive, $150 bucks maybe…\nMay you beat your beater for many miles!",
+  "url": "https://news.ycombinator.com/item?id=49956569",
+  "author": "3da320def723",
+  "createdAt": "2026-10-04T18:36:15.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49954486",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Anatomy of a Lean proof for software engineers",
+  "body": "You only need to trust your spec and the Lean kernel. If you trust those two things, you don't ever need to manually inspect or check the proof. That's the job of the Lean kernel, and your trust of it transfers over to trust of any proof verified by it.\nMaking sure your spec is correct -- and that it's expressed at a level of abstraction that both captures what matters, without overly constraining implementation details within the repo -- is the hard part. The more the spec constrains implementation details, the less you can ask an agent to, e.g., try many ideas to optimize a specific component without breaking correctness. And of course if the spec isn't enforcing what you wanted it to, then all the proofs don't count for much.\nSome people say the spec issues are enough reason to avoid formal methods, but I'm not convinced. Part of me truly thinks AI formal methods is the future of a lot of software engineering. The basis of that belief for me is that the industry has collectively put almost no effort yet into solving the spec problem, and that's because for decades formal methods were too expensive to seriously consider most of the time. Now that AI is fundamentally shifting the economics, there's now, for the first time ever, a real incentive to try to solve the spec problem. And frankly it seems solvable to me; I view it as more of a product design and UI problem than a purely technical one.",
+  "url": "https://news.ycombinator.com/item?id=49954486",
+  "author": "4ab3d9dcbbd4",
+  "createdAt": "2026-10-04T15:00:46.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49960576",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: How is your country doing on \"AI inside Drones\"?",
+  "body": "You wouldnt be saying this because you are trying to get a government contract for an overpriced drone ?",
+  "url": "https://news.ycombinator.com/item?id=49960576",
+  "author": "f40b84c76072",
+  "createdAt": "2026-10-05T04:09:38.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:49959685",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Turn off Apple Intelligence on macOS 27 and get its disk space back",
+  "body": "I think most consumers would happily pay a bit extra for these controllers if it meant that they could manually upgrade their SSDs. I can’t help but have the feeling that it’s also quite convenient for Apple that all this stuff is effectively non-replaceable / upgradable.\nI don’t think the benefits are the same as with their RAM being part of their SoC, as that gives them real speed improvements, right?",
+  "url": "https://news.ycombinator.com/item?id=49959685",
+  "author": "342b0121e36a",
+  "createdAt": "2026-10-05T01:18:25.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 10,
+  "matchedPhrases": [
+   "would happily pay"
+  ]
+ },
+ {
+  "id": "hackernews:49965140",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+  "body": "And despite that they are willing to pay, because if you are out of poverty your health is a high priority!\nSo yes, Americans love consuming healthcare. Is there any category they aren’t a high consumer of? You can’t measure efficiency only looking at the input side.",
+  "url": "https://news.ycombinator.com/item?id=49965140",
+  "author": "1fb8de5d9a02",
+  "createdAt": "2026-10-05T14:11:10.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 10,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49965116",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: ArtCraft Apps – open-source Adobe compatible suite written in Rust",
+  "body": "Everyone knows there's a big group of people willing to pay through the nose for good ones so nobody wants to give them away?",
+  "url": "https://news.ycombinator.com/item?id=49965116",
+  "author": "448f885d8123",
+  "createdAt": "2026-10-05T14:09:10.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 10,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49959582",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: In Ukraine, distributed renewables foil Russia's assaults",
+  "body": "Public transit is mostly about the middle 80%. If it's useful for them, they are willing to pay to keep it that way one way or another. If it's not, they won't pay, and the service will be bad for those who have no other options.\nHelsinki just completed a 10 km light rail line that cost ~€400 million, including some major bridges. That's maybe €10k per current and future resident in the areas connected by it to the city center. Spending that much for an option to have good public transit only makes sense if most of those people are going to use the line.",
+  "url": "https://news.ycombinator.com/item?id=49959582",
+  "author": "386a4f02d4d3",
+  "createdAt": "2026-10-05T00:57:23.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 20,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49959456",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: How to scale intent, quality, and artistry with AI [video]",
+  "body": "The problem isn't that you can't use AI to uplevel your creativity. It's that doing it slows you down, so you end up at a marked disadvantage, because others who just prompt \"hey Claude, make me X\" will produce 100 good enough slop-pieces in the time it takes you to finish one.\nFor the vast majority of paying customers or social media appreciators, that low-effort slop is sufficient. It's cheap, fast, and gets better with every passing month. So if your overriding goal is to scale to win in that marketplace, then you can only scale by giving up on quality and artistry. It's a race to the bottom.\nI think the only way to win is to push back on the notion that you need to work on superhuman scale in the first place. You can differentiate yourself from AI by asserting you're human and that there's inherent value in human art. You'll find some customers willing to pay extra for that, just like some hire a woodworker instead of buying at Ikea. But it's going to be a tough market for artisans because fewer and fewer people are forced to buy the fruits of your intellectual labor.\nIn software engineering specifically, we gleefully decided that speed and cost are the only thing that matters and we celebrate \"hey Claude, make me X\" projects the same as we celebrate human ingenuity (case in point: HN front page). So for SWEs, even that \"I'm a human\" route may be unavailable.",
+  "url": "https://news.ycombinator.com/item?id=49959456",
+  "author": "029a4810c569",
+  "createdAt": "2026-10-05T00:31:03.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 20,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49956831",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: So you think you could be an electrician?",
+  "body": "I read a book called \"Nothing to Envy: Ordinary Lives in North Korea\" by Barbara Demick, about North Koreans in the 1990s that escaped into China and told their story. One of the interesting parts of it is about the planned economy, and all the control the government exerts over the economy in NK.\nThere was a massive famine I didn't know about in the mid-to-late 1990s in NK, and millions died. During this period, an underground capitalism took over, where people were producing food in various ways, often grown in their own gardens, and then buying and selling from each other, with barter rates / prices determined by availability.\nWhile I agree with you that countries can make rules that fix prices (or do whatever they want), there is an underlying set of mechanisms to supply and demand that are not derived from law, but logic. If I have 5 cupcakes, and there are 100 people that want them, unless someone points a gun at me and says \"Sell them each for 5 cents\" (while the 100 people all fight over who gets to pay), the natural incentive structure would essentially be an auction to figure out who is willing to pay the most, and then sell it to them. That's not some legal theory or set of laws, but rather the human condition.\nOf course, it doesn't play out this way in reality. In reality, it all comes down to power, and those with power take whatever they want, but my point here is that supply and demand exist outside of a legal structure, and if there's only one electrician, and there's enough work for 10 electricians, that one electrician can server the richest 1/10 of those in need (and charge accordingly to select that 1/10), and it is rational to do so independent of any laws made. So much so, in fact, that laws are advisory, but the fundamental incentives are inherent.\nThis is why I like incentives more than rules: they're less brittle.",
+  "url": "https://news.ycombinator.com/item?id=49956831",
+  "author": "e1ff9aa54579",
+  "createdAt": "2026-10-04T19:05:18.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 20,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49956771",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: Build with Python – a beginner course where your code draws",
+  "body": "Hi HN, I built this because I watched my daughter struggle at learning Python. I made something that runs only in the browser with visuals rather than relying on CLI/terminal output. No need to worry about python installation, package versions, venv etc.\nThe lab runs with Pyodide in a web worker, and the program output is a picture by the side of the code block. A user would experiment with the code, and see the immediate changes in the visual output.\nThe course has 13 modules, with the first 6 foundation modules free, module 7-13 with free readings but guide labs for a one-time price of $49.\nPlease give it a try at https://scimigo.com/en/learn/build-with-python\nSend me feedback on the UX and on the exercise design, especially if you teach kids to program.\nI am also working on a C++ version for beginners (also with browser, no gcc or command lines). stay tuned.",
+  "url": "https://news.ycombinator.com/item?id=49956771",
+  "author": "79d81f3e9f9e",
+  "createdAt": "2026-10-04T18:59:25.000Z",
+  "engagement": {
+   "score": 39,
+   "comments": 13
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 47,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1381783784",
+  "source": "github",
+  "kind": "tool",
+  "title": "amontlabs/lcu — 310★",
+  "body": "Codex computer use, decoupled from the app, for usage inside any harness.",
+  "url": "https://github.com/amontlabs/lcu",
+  "author": "254c20af4c5e",
+  "createdAt": "2026-09-22T15:08:18Z",
+  "engagement": {
+   "stars": 310
+  },
+  "tags": [
+   "mcp",
+   "Python"
+  ],
+  "painScore": 61,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1404158154",
+  "source": "github",
+  "kind": "tool",
+  "title": "joeseesun/qiaomu-codex-imagegen — 86★",
+  "body": "让任何 Agent 调用 Codex 内置生图（MCP + CLI + Skill），内置小红书、视频封面、Mondo 海报技巧 · Codex image generation for any agent",
+  "url": "https://github.com/joeseesun/qiaomu-codex-imagegen",
+  "author": "5d5f88c24785",
+  "createdAt": "2026-10-04T08:47:02Z",
+  "engagement": {
+   "stars": 86
+  },
+  "tags": [
+   "mcp",
+   "JavaScript"
+  ],
+  "painScore": 52,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1386811131",
+  "source": "github",
+  "kind": "launch",
+  "title": "kostja94/bricks — 187★",
+  "body": "Component layer for AI agents: implementation-aware contracts for building project-native interface components.",
+  "url": "https://github.com/kostja94/bricks",
+  "author": "6bbcacc804f5",
+  "createdAt": "2026-09-25T05:18:31Z",
+  "engagement": {
+   "stars": 187
+  },
+  "tags": [
+   "ai-agents",
+   "JavaScript"
+  ],
+  "painScore": 58,
+  "matchedPhrases": []
+ },
+ {
+  "id": "stackexchange:softwarerecs:95654",
+  "source": "stackexchange",
+  "kind": "demand",
+  "title": "Using Google (or any other search engine) to search for PDFs with fixed page range",
+  "body": "I would like to search the internet for a PDF with a fixed range of pages, e.g.\n\n\"Title of the PDF filetype:pdf pages:50-120\"\n\nIs there any search engine for which this is possible or any other way to do this?",
+  "url": "https://softwarerecs.stackexchange.com/questions/95654/using-google-or-any-other-search-engine-to-search-for-pdfs-with-fixed-page-ran",
+  "author": "f2292780e0f3",
+  "createdAt": "2026-10-04T15:23:04.000Z",
+  "engagement": {
+   "score": -1,
+   "comments": 0,
+   "views": 10
+  },
+  "tags": [
+   "softwarerecs",
+   "search",
+   "search-engine",
+   "internet",
+   "text-search",
+   "google"
+  ],
+  "painScore": 30,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-068ba7",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "The Common Services Agency (more commonly known as Public Services Delivery Scotland) (PSD Scotland): C002187 Framework Agreement for the provision of a Learning Management System",
+  "body": "Public Services Delivery Scotland (PSD Scotland) is delivering the Digital Learning Infrastructure (DLI) Programme, a national transformation programme to establish a modern, scalable, interoperable and sustainable digital learning ecosystem for Scotland’s health and social care workforce. The programme responds to a fragmented learning technology landscape across public, private, voluntary and not-for-profit provision, where multiple local learning management systems, duplicated content, variable user experiences and inconsistent data quality limit workforce mobility, planning and system-wide efficiency.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/093955-2026",
+  "author": "410b8c5388d7",
+  "createdAt": "2026-10-05T15:59:53+01:00",
+  "engagement": {},
+  "tags": [
+   "stage:tender",
+   "cpv:72212190"
+  ],
+  "painScore": 40,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-078109",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "NHS Borders: Asset Tracking System",
+  "body": "NHS Borders is seeking competitive tenders from suitably experienced suppliers for an asset tracking system. The requirement supports a programme to improve the control, traceability and efficient management of clinical and selected non-clinical equipment, replacing fragmented manual records with sustainable digital tracking and reporting.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/093954-2026",
+  "author": "9642402166a8",
+  "createdAt": "2026-10-05T15:58:32+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 116000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:tender",
+   "cpv:48422000"
+  ],
+  "painScore": 60,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-078101",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "[early engagement] Torbay Council: Digital Optimisation Implementation Support",
+  "body": "Please note this project has potentially three elements to it. You may express an interest to all three if applicable, if not please express an interest where applicable. \nThe council is seeking to commission implementation support to assist with to key digital optimisation activities. An independent audit and review of its Financial Assessment Process. The review is to assess the effectiveness, efficiency, compliance, consistency and customer experience of the current process and identify opportunities for improvement. Alongside this the council is looking to invest in a digital marketing solution to improve Foster Carer recruitment through targeted audience identification, tailored messaging and enhanced digital engagement. The council requires specialist implementation support capable of delivering a propriety methodology, covering content development, channel strategy, audience targeting, enquiry generation, recruitment process optimisation and benefits realisation, ensuring the council captures the full value value of it digital marketing tool and achieves measurable increases in foster carer recruitment",
+  "url": "https://www.find-tender.service.gov.uk/Notice/093942-2026",
+  "author": "49ad84aeff7a",
+  "createdAt": "2026-10-05T15:38:04+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 150000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:planning",
+   "cpv:72000000",
+   "cpv:79000000",
+   "cpv:48000000"
+  ],
+  "painScore": 61,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-0780b0",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "[early engagement] Anchor Hanover Group: Enquiry & Customer Management",
+  "body": "Anchor Hanover Group is England’s largest not-for-profit provider of housing and care for older people, operating 120 care homes across England. These services support over 6000 older people with a range of residential care needs where safety, dignity, independence, accessibility and regulatory assurance are central to day-to-day operations.\nThe required services will be managing enquiries, admissions and occupancy from initial contact to accepted admission. This will be through dedicated enquiries and admissions products, CRM-led approaches, broader care technology platforms or integrated partner models.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/093776-2026",
+  "author": "1d378f372fb8",
+  "createdAt": "2026-10-05T12:33:20+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 3000000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:planning",
+   "cpv:48000000"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-0780ae",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "[early engagement] Anchor Hanover Group: Incident Management",
+  "body": "Anchor Hanover Group is England’s largest not-for-profit provider of housing and care for older people, operating 120 care homes across England. These services support over 6000 older people with a range of residential care needs where safety, dignity, independence, accessibility and regulatory assurance are central to day-to-day operations.\nAnchor operates a distributed care home estate and needs a consistent, auditable and insight-led approach to the capture, triage, investigation, oversight and learning of incidents, safeguarding concerns, complaints, compliments and quality events. The opportunity is to replace the legacy solution and strengthen resident safety, regulatory assurance, operational control and organisational learning. Anchor wants to improve understanding of how modern solutions can support end-to-end case management, timely escalation, regulatory reporting, action tracking and enterprise-level insight.\nThe potential scope is expected to focus on regulated care home operations in England, with capability that can operate across multiple homes, regions and central support functions. Anchor requires both specialist best-of-breed solutions and broader care governance platforms, including where these integrate with retained digital care planning, medication management, workforce, resident, finance, document management and enterprise reporting services.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/093773-2026",
+  "author": "1d378f372fb8",
+  "createdAt": "2026-10-05T12:31:52+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 3000000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:planning",
+   "cpv:48000000"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-0780fb",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "[early engagement] NHS England: Curated literature based database of germline human genomic variants database",
+  "body": "The requirement is for a database or a tool that clinicians can use to search for rare inherited disease mutations, or search for an overview of known mutations associated with a particular disease, interpreting clinical test results, looking for the likely causal mutation in a list of variants, or seeking to integrate mutation content into your custom NGS pipeline or data repository.\nThe Database or tool will need to work by collating all published variants into a detailed repository of information. It should easily allow for variants to be listed using transcripts, to ensure that scientists can easily search for the variant they are researching which enormously reduces scientific analytical time, and in turn turn around times for patients.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/093928-2026",
+  "author": "f4bcd50afa47",
+  "createdAt": "2026-10-05T15:23:42+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 2347766,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:planning",
+   "cpv:72320000"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-0780e5",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "[early engagement] London Borough of Waltham Forest: Case Management System Review - Preliminary Market Engagement",
+  "body": "The London Borough of Waltham Forest is undertaking a Case Management System Review Programme to consider the future technology required to support services across: Adult Social Care; Children's Social Care, including Youth Justice; Education, including SEND, Early Years and NCCIS; Commissioning and Brokerage activity associated with these services; and cross-service functions and capabilities that may support more than one of these areas.\nThe review is considering both current and future service requirements, including relevant statutory requirements, opportunities to improve service delivery and user experience, interoperability between systems, use of data and emerging technology.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/093885-2026",
+  "author": "e8fe11f09e02",
+  "createdAt": "2026-10-05T14:37:24+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 207720,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:planning",
+   "cpv:72000000"
+  ],
+  "painScore": 61,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-0780cc",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "[early engagement] Transport for London: Transport for London (TfL) Digital Traffic Enforcement System (DTES) Replacement",
+  "body": "This project seeks to deliver a Digital Traffic Enforcement System (DTES) Replacement Solution that will support the following potential objectives. Suppliers who express interest are asked to consider the following:\nObjective 1: Gauge supplier knowledge on potential routes to market and possible frameworks to carry out the procurement.\nObjective 2: Seek feedback on how TfL can ensure continuity of Traffic Order Enforcement on the TfL Road Network (TLRN) with no loss of enforcement capability during transition or following implementation of the replacement solution.\nObjective 3: Seek feedback on how TfL can deliver a more efficient and cost-effective solution with lower maintenance costs compared to current delivery solution.\nObjective 4:Seek feedback on how TfL can deliver a solution with a more simplified architecture to future proof technology and ensure compliance with relevant regulatory authorities.\nObjective 5: Seek feedback on how TfL can provide a solution which continues to be satisfactory by end users and enables effective use of enforcement resources i.e. issuing PCNs effectively and efficiently.\nObjective 6: Seek feedback on how TfL can ensure that all internal and external systems are integrated for effective delivery.\nObjective 7: Seek feedback on how TfL can enhance quality of current system and bring video quality up to market standards to increase likelihood of number plate capture and consistency of evidence packs.\nObjective 8: Seek feedback on how TfL can…",
+  "url": "https://www.find-tender.service.gov.uk/Notice/093844-2026",
+  "author": "000d8101bb71",
+  "createdAt": "2026-10-05T13:40:54+01:00",
+  "engagement": {},
+  "tags": [
+   "stage:planning",
+   "cpv:72000000"
+  ],
+  "painScore": 40,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-0780ac",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "[early engagement] UK Hydrographic Office: Provision of Systems Integrator Services",
+  "body": "Provision of SI Services for a new SaaS service covering eCommerce, CRM, Middleware and ERP (Finance and Procurement only)",
+  "url": "https://www.find-tender.service.gov.uk/Notice/093771-2026",
+  "author": "7a680e952e65",
+  "createdAt": "2026-10-05T12:31:32+01:00",
+  "engagement": {},
+  "tags": [
+   "stage:planning",
+   "cpv:72263000"
+  ],
+  "painScore": 40,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-0780a3",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "[early engagement] Tyne and Wear Passenger Transport Executive T/A Nexus: Data Governance & Management Support",
+  "body": "Nexus is seeking market feedback regarding a potential requirement for consultancy support to complete a review of existing data governance arrangements, establish a set of data management/governance processes and develop a structure proposal.\nThe purpose of this engagement is to obtain supplier feedback on scope, delivery approaches, timescales and indicative costs.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/093756-2026",
+  "author": "7ae99220b3ca",
+  "createdAt": "2026-10-05T12:14:47+01:00",
+  "engagement": {},
+  "tags": [
+   "stage:planning",
+   "cpv:72221000",
+   "cpv:72310000"
+  ],
+  "painScore": 40,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-0780a0",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "The Police and Crime Commissioner for Nottinghamshire: Uniform, Inventory and Asset Management Solutio",
+  "body": "The Police and Crime Commissioner for Nottinghamshire is seeking to procure a Uniform, Inventory and Asset Management Solution, including implementation, configuration, data migration, training, support, maintenance and associated professional services.\nThe proposed solution shall support the management, tracking, issuance, return and reporting of uniform, personal protective equipment (PPE), operational equipment, consumable products and other organisational assets across Nottinghamshire Police.\nThe Authority requires a proven Commercial-Off-The-Shelf (COTS) solution capable of supporting inventory management, stock control, asset lifecycle management, self-service functionality, role-based entitlements, workflow approvals, reporting and analytics, barcode and/or QR code tracking, and integration with Authority systems where required.\nThe Authority is willing to consider Software-as-a-Service (SaaS), On-Premise and Hybrid deployment models.\nThe Contract will include implementation, configuration, data migration, testing support, training, support and maintenance services.\nThe Contract will be awarded for an initial period of three (3) years with the option, at the Authority's discretion, to extend for a further three (3) years.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/093752-2026",
+  "author": "c88e8ba6fdc8",
+  "createdAt": "2026-10-05T12:08:30+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 200000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:tender",
+   "cpv:72263000"
+  ],
+  "painScore": 61,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-07809f",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "[early engagement] SOUTH WESTERN RAILWAY LIMITED: Competency Management System",
+  "body": "South Western Railway, GT Railway and Southeastern Railway are seeking information from suppliers capable of providing a hosted and supported Competency, Assessment and Safety Management solution for use within a safety-critical railway environment.\nThe purpose of this Request for Information (RFI) is to understand the capability of the market, identify potential suppliers and solutions, and gather information to inform future procurement strategy. This RFI is for market engagement and information gathering purposes only and does not constitute a commitment to undertake a procurement exercise or award a contract.\nPlease self-register on Medius E-Tendering platform and look for the opportunity \"SWR004581\" and click on \"View more details\" in order to download the RFI documents and instructions about the submission. Please use this link: https://swrl.medius-s2c.com/S2C/DisplayModules/TradeModules/Negotiations/Opportunities/ListEvents.aspx?ApplicationInstanceID=27adc89e-0cb2-4b51-9bc1-34061f10156f",
+  "url": "https://www.find-tender.service.gov.uk/Notice/093751-2026",
+  "author": "1f7d8b3c0f0c",
+  "createdAt": "2026-10-05T12:06:45+01:00",
+  "engagement": {},
+  "tags": [
+   "stage:planning",
+   "cpv:48170000",
+   "cpv:48190000",
+   "cpv:48311100",
+   "cpv:48450000",
+   "cpv:72261000"
+  ],
+  "painScore": 40,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-07809e",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "[early engagement] UNIVERSITY OF LANCASTER: Accommodation and Conferencing Software",
+  "body": "Lancaster University is looking to procure software that provides a solution to the University’s student accommodation, conference, hospitality, and residential management requirements. We are therefore undertaking preliminary market engagement to better understand the range of solutions available to us.\nAn outline of our requirements is available upon request (see \"Engagement Process Description\").\nPlease note that the estimated value is based on provision of a multi-functional system for 3 years.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/093748-2026",
+  "author": "374855b7514e",
+  "createdAt": "2026-10-05T12:04:36+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 660000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:planning",
+   "cpv:48000000"
+  ],
+  "painScore": 63,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-078060",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "[early engagement] Cabinet Office: National School of Government and Public Services",
+  "body": "Cabinet Office intends to procure a robust, industry-standard Software as a Service (SaaS) Learning Management System (LMS) through the Government Commercial Agency's (GCA) RM6219 Learning and Training Dynamic Purchasing System (DPS), to support the new National School of Government and Public Services Learning & Development (L&D) offering.\nThe LMS will provide a scalable platform to support a user base of over 558,000 users and must meet mandatory security and information assurance requirements, including UK hosting of data and adherence to Secure by Design principles.\nMandatory Requirements\nSecurity and information assurance requirements, specifically mandatory UK hosting of data and adherence to 'Secure by Design' requirements\nScalable and accessible to support over 558,000 users\nPlease note - The mandatory requirement must be met by all potential bidders\nEssential requirements\nCore LMS capability (i.e. learning catalogue, content tagging) \nBooking and administration functionality\nAdmin controls for end-to-end of central delivery offer and repository\nMigration support (for catalogue of learning)\nQuality data, including feedback, reporting and evaluation \nThe requirement is for the provision of the LMS platform and associated implementation/support services. L&D content supplied by the LMS provider is out of scope; the platform will be used to host internally developed learning content.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/093641-2026",
+  "author": "db26760f9edc",
+  "createdAt": "2026-10-05T09:54:42+01:00",
+  "engagement": {},
+  "tags": [
+   "stage:planning",
+   "cpv:72222300",
+   "cpv:48000000",
+   "cpv:72212000",
+   "cpv:72230000",
+   "cpv:72510000"
+  ],
+  "painScore": 40,
+  "matchedPhrases": []
+ }
+]
