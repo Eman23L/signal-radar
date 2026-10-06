@@ -1,0 +1,979 @@
+[
+ {
+  "id": "hackernews:49977334",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Show HN: Photoc – Command-line tools for photographers",
+  "body": "Yes, personalised software is a very useful field. Years ago, it was: is there an app for that? Now that's no longer the bottleneck, and you can make an app as individual as you like. That also means that selling apps gets more and more difficult, because everyone can build her or his own. \nOr will the AI agent make apps generally redundant? There will probably still be a stable core for databases, payments, and authentication – services with an API plus data. The winners will be those who own something an agent needs to call.",
+  "url": "https://news.ycombinator.com/item?id=49977334",
+  "author": "c8c9c9f79981",
+  "createdAt": "2026-10-06T12:17:45.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "is there an app"
+  ]
+ },
+ {
+  "id": "hackernews:49969260",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Questions for believers in AI consciousness",
+  "body": "Very wishy washy and confused. Does this person know anything of thermodynamics, turing computability, information theory and probability? If she doesn't, she should be dismissed.\nRegarding \"is it a group\", I should ask her is she a single thing or a group of neurons and organs?\n>Start with some simple questions! Things like: does this mean that any tool that can be used to do the things that a human can do counts as conscious? Are ploughs conscious? What about calculators? Or: do you think that if a parrot can utter the phrase “I’m really awesome”, then you should assume that the parrot is conscious, for that reason alone? Basically, just focus on how much emphasis Adam is placing on outputs: it’s all of his emphasis, remember!\nGood question, let us take it even further. Does Rebecca Lowe count as conscious? She seems to behave a lot like me, but I am not sure if she is a human. She could just be an object and tool.",
+  "url": "https://news.ycombinator.com/item?id=49969260",
+  "author": "006af8d53e39",
+  "createdAt": "2026-10-05T19:22:55.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "any tool that"
+  ]
+ },
+ {
+  "id": "hackernews:49977602",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Show HN: Lask – A task runner with a type system and pinned Docker environments",
+  "body": "I implemented a task runner called Lask. Let me introduce it to you.\nLask is a lightweight task runner with a statically typed DSL. It runs by calling Docker from Lask on the host.\nMakefiles or shell scripts I wrote often failed to run on my colleagues' machines, and I lost count of how many times I had to debug them.\nYAML-based CI/CD pipelines often fail after waiting for a lot of minutes, which make me angry.\nWhen I was looking for a tool to solve this problem, I found Dagger. Dagger seemed to good for me.\nDagger runs pipelines on Docker, so it is highly portable and can use the type system of general-purpose languages.\nHowever, Dagger was too much for me. Dagger does not run on its own, and requires to set up a general-purpose language ecosystem.\nI feel like I was using heavy machinery to move a potted plant. I want to call a tool with only a single binary and one file.\nSo I decided to create Lask. I want to call simple function with simple command. I want to fix the type and environment of the function.\ncommand { \"node\", \"npm\", \"npx\" } on #node:20.20.2-alpine3.23\ntest() = $ npm test\n$ lask run test\nI made a tool that can extract errors immediately by type, run the same way on local and CI, and call simply.\nYou can use Lask with a single binary of the lask command and Docker installed.\nLask has LSP, so you can use completion and syntax highlighting. You can complete not only the lask command, but also the functions that lask calls.\nI considered practical use, so it can be called declared commands, such as `lask cmd psql ...` to check data manually, or `lask cmd kubectl get pods`.\nHowever, Lask does not have as many as Dagger's features, cannot use the advanced ecosystem of general-purpose languages.\nAlso, Lask is not a build system, so it does not optimize builds by detecting differences. Lask is just a tool to call builder tools.\nLask is licensed under MIT, currently at version 0.7.0 before official release. The implementation is in Haskell. It distributes bina…",
+  "url": "https://news.ycombinator.com/item?id=49977602",
+  "author": "3ad59c66e482",
+  "createdAt": "2026-10-06T12:46:52.000Z",
+  "engagement": {
+   "score": 1,
+   "comments": 0
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 28,
+  "matchedPhrases": [
+   "looking for a tool"
+  ]
+ },
+ {
+  "id": "hackernews:49966033",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Ask HN: Who is hiring? (October 2026)",
+  "body": "Better Stack | https://betterstack.com/ | /^Full-?stack Engineer$/i | Remote (North America & Europe)\nWe are software builders at :heart: CEO is a software engineer, COO is a software engineer, and you guessed it, CTO is an engineer, too. We are engineers, making the tools we always wanted. If you love building amazing software, you're at the right address.\nWe are looking for software engineers who, given enough time, could build Better Stack on their own = looking for full-stack product engineer generalists to help us create high-quality software with exceptional UX, end-to-end.\nApply at https://betterstack.com/careers/fullstack-engineer\nHow we operate: https://betterstack.com/careers – https://betterstack.com/careers/engineering – https://juraj.blog/",
+  "url": "https://news.ycombinator.com/item?id=49966033",
+  "author": "0f78b7b45a2c",
+  "createdAt": "2026-10-05T15:21:49.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "looking for software"
+  ]
+ },
+ {
+  "id": "hackernews:49968150",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Show HN: Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
+  "body": "Ah, but then whose time would that be? How do you keep track of what solar time was parallel to 'your' time?\nTime is such a fickle thing. Every atom in the universe knows what time it is, but between the effects of gravity, the speed of light and some quantum stuff it is amazing that we can agree on this at any level at all. I spent a lot of time earlier this year getting some ultra stable clocks to run without shelling out 5 digits and it was a very interesting little detour. Eventually I settled on an old atomic clock module from a decommissioned cell tower, not quite 'miniature' but small enough (I've seen some of the newer ones and they are incredible). The thing is precise enough to show the day/night deviation in phase from DCF77 to my home a few hundred km away.",
+  "url": "https://news.ycombinator.com/item?id=49968150",
+  "author": "c47b3ac5482d",
+  "createdAt": "2026-10-05T17:56:32.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "how do you keep track"
+  ]
+ },
+ {
+  "id": "hackernews:49977865",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
+  "body": "> Renewables (solar, wind) alone are not alternative to nuclear, without energy storage.\nSo... ok? Why exactly would this be an issue? Is there some reason to consider just renewables without storage? That would be like trying to argue nuclear is useless because it also needs transmission.",
+  "url": "https://news.ycombinator.com/item?id=49977865",
+  "author": "741193579f97",
+  "createdAt": "2026-10-06T13:07:51.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49976514",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days",
+  "body": "Discussion about this I heard 50 years ago is the alternative to trucks tends to be rail. The real unfairness is railroads have to pay to maintain their infrastructure while trucks do not pay anything close to the costs for theirs.\nIf you forced trucks to pay for the damage they do to roads rail freight would be far more competitive.",
+  "url": "https://news.ycombinator.com/item?id=49976514",
+  "author": "0c9dec708204",
+  "createdAt": "2026-10-06T10:23:16.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49975735",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: We are going to kill \"unalive\"",
+  "body": "Remember the online commentary during covid... So many terms you couldn't use. And then commentators coming up with some alternative to anyway bypass the filtering. In the end whole thing is pointless. If someone wants to say something they will figure out way to bypass filters.\nWell, maybe with AI the net can get wide enough to catch everything. Might be lot of bycatch but I think platforms are willing to accept that.",
+  "url": "https://news.ycombinator.com/item?id=49975735",
+  "author": "85621a66014a",
+  "createdAt": "2026-10-06T08:26:43.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49974319",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Open Source as We Know It Is Dead",
+  "body": "Fluxer.gg is really good and in my opinion, tries to be the most similar alternative to discord in terms of UI/UX so it should \"just work\"\nI highly highly recommend you checking it out, I must say that the first time I used it, I was mind blown that this open source discord alternative actually feels so usable in day-to-day lives.\nThere are many alternatives to be honest, stoat, matrix,fluxer but fluxer is the alternative I would recommend for public spaces.\nThe issue now is I think mostly just moving the userbase over to there.\n[I have talked to the dev and tried to share it a few times on hackernews as a submission to help get more userbase as I think that HN would definitely love fluxer if it came to know more about it]\n(Very slight advertisement but I have tried to build something in this space at https://mirror.forum which can allow a community to have discord,fluxer,matrix,stoat links in the same place for the purposes of discovery of servers in other places than discord and also for the migration of the userbase itself as i think that the problem of an open source solution is mostly solved and this was my attempt at trying to partially help in fixing the moving the userbase issue and making people more familiar with alternatives, though the website mostly has no activity nowadays and I would love activity to happen but I am unsure how to realistically approach so... that's why I am advertising perhaps, I would love to get feedback as well :-D)",
+  "url": "https://news.ycombinator.com/item?id=49974319",
+  "author": "becce00a08cd",
+  "createdAt": "2026-10-06T04:48:41.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49974047",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Dust: Pretraining Transformers Without Backpropagation",
+  "body": "Hmm I was more interested in this alternative to backprop:\nhttps://news.ycombinator.com/item?id=49701182",
+  "url": "https://news.ycombinator.com/item?id=49974047",
+  "author": "f7e0944ad0c4",
+  "createdAt": "2026-10-06T04:07:50.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49972496",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+  "body": "I sometimes think the average layperson (in the US at least) would assume that the main alternative to a magnet was called a woknet.",
+  "url": "https://news.ycombinator.com/item?id=49972496",
+  "author": "1ce2fa7fd7b7",
+  "createdAt": "2026-10-06T00:10:28.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49972379",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Plain text is still one of the best technologies we have",
+  "body": "Alternative to archive.ph\nNo Javascript, no CAPTCHA, no geo-blocking\nhttps://web.archive.org/web/20141014043202if_/http://graydon...\nNo Javascript Algolia search\nText-only (JSON)\nhttps://hn.algolia.com/api/v1/search?query=always+bet+on+tex...",
+  "url": "https://news.ycombinator.com/item?id=49972379",
+  "author": "c2b0af4ec516",
+  "createdAt": "2026-10-05T23:55:56.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49969950",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
+  "body": "Keepass is also a good alternative to Authy, caveat being you need some way to sync the db file between devices.\nI personally use Keepass for 2FA, Bitwarden for passwords. It's worked great for me so far, and I expect to stay with this setup for the foreseeable future.",
+  "url": "https://news.ycombinator.com/item?id=49969950",
+  "author": "a36d4723c63d",
+  "createdAt": "2026-10-05T20:08:32.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49973450",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+  "body": "gruez frequently has the worst posts. oh how i wish there were a block button...",
+  "url": "https://news.ycombinator.com/item?id=49973450",
+  "author": "3f4e436a2f3d",
+  "createdAt": "2026-10-06T02:27:38.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "wish there were"
+  ]
+ },
+ {
+  "id": "hackernews:49976181",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Why Common Lisp is now the best programming language",
+  "body": "> Fight me.\nNo. I’m sick of flame wars, and I already was before LLMs turned everyone even more insufferable. You can fight yourself in your own corner, if you like. Never thought I’d miss emacs VS vim.\nUse whatever language you want, I couldn’t give less of a shit. I have no desire to waste time on a dick-measuring competition, and that’s doubly true because people in these fights are measuring other people’s dicks.\n> As a classical software engineer, (…) The subjective stuff about how the language feels is all out the window now.\nSubjective stuff never mattered to people who take no pride in doing proper work. That hasn’t changed because of LLMs, it only shone a brighter light on those people.",
+  "url": "https://news.ycombinator.com/item?id=49976181",
+  "author": "5833f840469f",
+  "createdAt": "2026-10-06T09:32:09.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49975773",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Friendship ended with Deno, now Node is my best friend",
+  "body": "I reluctantly do anything with JS/TS but if I have to, I'll pick Deno because I'm sick of needing to install a dozen dependencies which then require their own thousands of dependencies.\nEven if I pick modern tooling, say Biome for linting and formatting, Vite for bundling and handling the build, Vitest for unit testing, and finally TypeScript.\nOnce that's done, it's then remembering the right values needed in package.json and tsconfig.json to do the right thing and Just Work TM. It's 2026 and all this slop still assumes I don't want ES modules.\nI could spend a whole morning on this bullshit. With Deno, I don't have to.\nI always contrast that with my preferred languages, like C#/.NET. Project setup takes literally a few minutes. Deno and .NET have that in common, there is a single CLI for it.\nThe Deno JSR/STD thing also has a whole collection of libraries and data structures I'd otherwise need to get from NPM.",
+  "url": "https://news.ycombinator.com/item?id=49975773",
+  "author": "55de5fbaab2b",
+  "createdAt": "2026-10-06T08:30:16.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49975423",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Nuxt 4.6",
+  "body": "I love Vue. Got sick of Nuxt and the Nuxt Team's chaos years ago. Went pure vite. Never missed it once.",
+  "url": "https://news.ycombinator.com/item?id=49975423",
+  "author": "c238026eaac8",
+  "createdAt": "2026-10-06T07:41:18.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49973976",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Web Search API",
+  "body": "i have been going thru this for years now and because this attaches to contacts i have literally destroyed my family life. I am a nervous wreck because i dont know what they could do. I am finding myself distrusting everyone and its a terrable way to live. Apple seems to be involved and i constantly get baited into something because i listen to them. I admit i am a novice and i have blamed everyone for this. i do know that they want JaveScrpt very badly and when i do not enable this, they restrict my internet use. I am constantly being told about a 15 minute rotating device and when i went to the local libary i right clicked the mouse and printed the code and thier failed attempts. I hope this never happens to anyone because its been a horrible and akward position to be in. my car had its airbag wire severed and was totaled and they told me a rodent had done this. My new car has someone in it already so i dont even play the radio i feel like a guinnea pig in a lab, i've been threatened and called the police. they tell me they are using my stock accounts every Tuesday $200.00 they do something with. I feel like they follow me everywhere and I just want to get rid of them. I have had to drive with my windows open due to feeling sick of a certain oder. I do not think i am paroniod, i have documented everything from the onset. This has all taken time I 70 years old and they use a smilely face emojoi and i hate that smiley face. I just want to be rid of them. ps i am a child also in a group.",
+  "url": "https://news.ycombinator.com/item?id=49973976",
+  "author": "f50f9fd9442b",
+  "createdAt": "2026-10-06T03:57:24.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49972226",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: The mental health of young men is declining. Experts warn it could get worse",
+  "body": "You need to ask yourself if they would ever run such an ad starring a black man instead, and what the public reaction would be like then.\nPerhaps young White men are right to be sick of being everyone's punching bag.",
+  "url": "https://news.ycombinator.com/item?id=49972226",
+  "author": "afe8c3d2d7b2",
+  "createdAt": "2026-10-05T23:37:11.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49978155",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Show HN: Azurade, image and video generation with MCP, credits never expire",
+  "body": "Hi HN,\nI was frustrated with expiring credits, subscriptions and generally BS approach in image&video generation space (which is now universally useful and basically a commodity) so I've built Azurade, a hosted service where you have 35+ models (Veo3.1, Seedance 2.5, Wan 3.0, Nano Banana, GPT Image2.5 etc.) behind one non-expiring, fully agent native balance.\nI care about billing, that's why credits are prepaid and never expire, a failed generation is refunded automatically, and you can buy a pack without a subscription. I got tired of monthly credits (or usage) that vanish at the end of the month\nThis post is mainly about it's remote MCP server, because that's how I and my friends mostly use it now (via Claude or Codex)\nYou can add https://azurade.com/mcp in Claude or Codex (or claude code), sign in once through OAuth and the LLM will be able to generate / get all info about models and account / upload files and all that.\nI've ran it through oblivious evaluator agent for 8 times to reach good agent ergonomics. After all, if I want to build an agent-native service the users (agent) should evaluate and correct it.\nPlease feel free to point your agents at it and send me the nitpicks and gotchas they encounter. Humans are also welcome :)\nDemo video (1m40s, cute dog included): https://youtu.be/tX29WLffXCk\nP.S. the stack is Go and Pocketbase, official GO MCP SDK, and the frontend is statically rendered NextJS. The access token is an API key named after the client, so revoking an agent means deleting that key on your profile page. It also works like REST API with an OpenAPI spec.",
+  "url": "https://news.ycombinator.com/item?id=49978155",
+  "author": "0f196ad0c07b",
+  "createdAt": "2026-10-06T13:29:38.000Z",
+  "engagement": {
+   "score": 1,
+   "comments": 0
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 38,
+  "matchedPhrases": [
+   "frustrated with"
+  ]
+ },
+ {
+  "id": "hackernews:49976507",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: I built a GUI for managing systemd-nspawn containers",
+  "body": "As a person who tends to run Linux binaries I can not fully trust the source of I was frustrated with the time consuming effort of setting up and managing containers or sandbox environments for those said untrusted binaries.\nHence I decided to publish a project I developed to automatize this procedure. It is GPL licensed with around 6000 lines of Rust code. And yes I did use a good amount of AI to develop this.\nIt is a relatively simple program with a practical UI, I am still finetuning it and it DOES have bugs, but for my personal use it has been helpful for me and I hope that someone else may find it useful aswell.\nIt uses systemd-nspawn to run containers, which creates a VM-like environment without the resource intensiveness or restrictions an actual VM proposes.",
+  "url": "https://news.ycombinator.com/item?id=49976507",
+  "author": "b971a93266a8",
+  "createdAt": "2026-10-06T10:22:26.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "frustrated with"
+  ]
+ },
+ {
+  "id": "hackernews:49967128",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: ArtCraft Apps – open-source Adobe compatible suite written in Rust",
+  "body": "Not with the kind of vibe coded automatic testing they are talking about, though.\nYou really need to sit down with a Photoshop user to see how they feel about it and how they approach alternatives; it took me no time to adapt from Photoshop + Wacom tablet to Affinity Photo + Wacom tablet, but I know photographers who won't because it's \"not right\".\nSerif had more luck converting Illustrator users to Affinity Designer, and made the right decision to release Designer first, because Illustrator users were much more frustrated with Adobe, and because giving those users what they wanted helped get past the way the app does not \"feel\" exactly the same.\nThere is no way that a \"pixel-accurate compliance\" test suite can capture what it is that makes these applications the way they are.",
+  "url": "https://news.ycombinator.com/item?id=49967128",
+  "author": "8fd28c61dfe8",
+  "createdAt": "2026-10-05T16:37:27.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "frustrated with"
+  ]
+ },
+ {
+  "id": "hackernews:49972786",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Dust: Pretraining Transformers Without Backpropagation",
+  "body": "Even today's LLMs suddenly get power-competitive when you compare by \"power per task\". Sure, a GPU can draw 1000W under load. But it also works very fast, and doesn't have to spend any time on things like \"sleep\".\nThe trick about comparing the two is that different things are expensive to different substrates.\nCoordination is cheap for GPGPU and expensive for brain. When you have a fixed number of reusable general purpose computational units, coordinating execution is more natural than not coordinating execution, and the power cost is nil. When your computational units are independent, purpose specific, and fully embedded into the data path, coordinating them can get less natural and, frankly, optional. When wiring is expensive, coordination can become expensive in turn.\nAnother thing in the same \"cheap for GPGPU but expensive for brain\" regime is bandwidth. Look no further than optic nerve to see just how hard it is for nerves to push any appreciable amount of data. Another thing is connectivity. For GPGPU, global connectivity is natural - but the brain has to pay in physical wires for all the connectivity it has, and, see \"bandwidth\": it doesn't have any good wires. Yet another thing is weight reuse: a big part of why humans get \"handedness\" is that the brain can't just reuse the motion control circuitry for one hand for another nearly identical hand.\nAnd the final thing I can name off the top of my head is memory - but specifically, memory capable of fast R/W. The capacity of human \"working memory\" is a disgrace, and not because there was no use for more. Humans rapidly lose visual fidelity of representations for objects they aren't directly looking at, and not at all because \"being able to check how things looked 2 seconds ago\" is useless. Those capabilities were just too expensive for the substrate to afford them easily.\nIt's why brains, broadly, favor dataflow-like and SSM-like dynamics, with largely fixed asynchronous dataflows and recurrence over updated lo…",
+  "url": "https://news.ycombinator.com/item?id=49972786",
+  "author": "aaf7e2f1a640",
+  "createdAt": "2026-10-06T00:49:31.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49971981",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+  "body": "Regeneration happens directly on the crankshaft via the mgu-k, not the wheels. The mgu is essentially a governor, so you can set it to add or sink (absorb) torque however you like. If you're adding torque, you're draining the battery, and if you're sinking torque, you're charging the battery. Because everything is mechanically connected, sinking torque also wants to brake the car (i.e. regenerative braking).\nIn terms of power balance, on average, the draw needs to match generation for the system to work. Since this a race, the battery should be flat when you cross the finish line, because you don't want to leave power on the table. When cars are clipping out on the straights, they're trying to claw back some power for the battery so they can deploy it at a more impactful moment in the race. Maybe it's frustrating for viewers, but part of that is that the vehicle has a maximum sustained power, and a maximum total power, and those aren't the same thing.\nThe mgu-h was cool, but I believe the teams when they say that it was too difficult and too expensive to get right.",
+  "url": "https://news.ycombinator.com/item?id=49971981",
+  "author": "7f2cea5f7d16",
+  "createdAt": "2026-10-05T23:02:59.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49966219",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+  "body": "A company I know well complained people weren't using enough and now that they mad everyone use it, it complains it is too expensive.",
+  "url": "https://news.ycombinator.com/item?id=49966219",
+  "author": "b9937fcb120d",
+  "createdAt": "2026-10-05T15:33:53.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49966134",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Musk explains why Tesla Robotaxi is not running at night, & Lidar is the answer",
+  "body": "Most people specially women take taxis when it goes dark around here anyways for safety reasons. The way musk plays it, he throws the stuff in the wild and looks to see what can go wrong so it is about him testing it on public. It is not hard to be autonomous but hard to make it completely safe .. The insiders know if they are drone like controlled by staff or not but unlikely because that would be too expensive. Insiders would know and they will leak it.",
+  "url": "https://news.ycombinator.com/item?id=49966134",
+  "author": "a89370ecca2d",
+  "createdAt": "2026-10-05T15:28:17.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49967332",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: The future of independence is interdependence",
+  "body": "It's the same k-shaped tug of war and general grift as ever.\nA good design is an accessible design, but those with the means to pay for good design are increasingly being funneled into buying more bespoke products that prioritize materials and aesthetics over functionality. When the damn thing doesn't really work as expected, it's a waste. You don't even need to cram it full of quickly obsoleted gadgetry to pull this off. It doesn't really matter if it's durable and looks amazing when it's useless. Whatever gets you to buy another one anyway.\nThe only people happy with this situation are those who sell us overpriced junk. They're laughing all the way to the bank.\nIf we want more accessibility, we need to be making better designed products with mass appeal. We're well into a postmodern world where cost can be adjusted for any price point without sacrificing the design. Their trick is to introduce deliberate subtle flaws into products to keep you buying. It needs to stop. We need standards.",
+  "url": "https://news.ycombinator.com/item?id=49967332",
+  "author": "eda6056d4a83",
+  "createdAt": "2026-10-05T16:52:51.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:49975833",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+  "body": "> subscription gross margins are way lower than API and meaningfully reduce revenue per MW for both OpenAI and Anthropic\nI don't know about everyone else, but there is no way in hell I would pay even $200 for API-priced tokens for personal use. So at least for my sample size of one, Anthropic's revenue would not be higher if they dropped their subscription plan (they would get $0 from me instead of $200 per month).",
+  "url": "https://news.ycombinator.com/item?id=49975833",
+  "author": "6b1ac6406900",
+  "createdAt": "2026-10-06T08:37:10.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 20,
+  "matchedPhrases": [
+   "i would pay"
+  ]
+ },
+ {
+  "id": "hackernews:49970150",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: AI Companies Are Parasites",
+  "body": "Among your friends and family, who use AI for fun, do they pay for it? Would they?\nMy non-tech friends use AI to make funny meme images that they send around on group chats, but would they pay for those? I doubt it.\nI can't think of anything in my personal life that I would pay for an AI to do. Businesses, sure... as long as they are getting real value.",
+  "url": "https://news.ycombinator.com/item?id=49970150",
+  "author": "0beaa4b20487",
+  "createdAt": "2026-10-05T20:22:57.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 20,
+  "matchedPhrases": [
+   "i would pay"
+  ]
+ },
+ {
+  "id": "hackernews:49976874",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Pi 1.0",
+  "body": "\"One of the dumbest sayings ever.\"\nI agree, as my time is much more valuable than money.\n\"You could say that you prefer to do something else during that time and would happily pay to free it up.\"\nCorrect, it is applicable to just about everything you pay money for.",
+  "url": "https://news.ycombinator.com/item?id=49976874",
+  "author": "1d14fd13f99f",
+  "createdAt": "2026-10-06T11:20:03.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 20,
+  "matchedPhrases": [
+   "would happily pay"
+  ]
+ },
+ {
+  "id": "hackernews:49976540",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Show HN: Steve Jobs died 15 years ago today. I built an interactive tribute",
+  "body": "It’s been so long. He demonstrated how a good product person should do. It’s not just about maximise the profits/shareholders wealth but also what feature/characteristics makes people willing to pay for",
+  "url": "https://news.ycombinator.com/item?id=49976540",
+  "author": "3a62074731f1",
+  "createdAt": "2026-10-06T10:26:53.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 10,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49976496",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+  "body": "> I want a predictable LLM inference subscription, not a gacha game.\nThe only way we get to predictability is by paying what subscriptions are actually worth, and this entire game hinges on the fast that AI companies are not convinced that most people are willing to pay the 3-5x (or however much it is) multiple on what these accounts actually cost to run.",
+  "url": "https://news.ycombinator.com/item?id=49976496",
+  "author": "fd0f1a48bb58",
+  "createdAt": "2026-10-06T10:20:59.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 20,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49974933",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Web Search API",
+  "body": "If you’re willing to pay and don’t mind something gray market, I’m a happy customer of SerpAPI",
+  "url": "https://news.ycombinator.com/item?id=49974933",
+  "author": "ff73009d1e1a",
+  "createdAt": "2026-10-06T06:24:40.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 10,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49969989",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Germany’s RobCo hits $1B valuation",
+  "body": "To be clear, that's in the US where we have private health care thus it generally isn't rationed provided you're willing to pay. However what we have is a guild system that in effect tightly constrains the total supply. Depending on the state one of the ways that urgent care commonly gets around this is with ever controversial nurse practitioners. Which is to say that quite a few state legislatures appear to be pushing back against the guild.",
+  "url": "https://news.ycombinator.com/item?id=49969989",
+  "author": "8300b5309e56",
+  "createdAt": "2026-10-05T20:11:15.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 10,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49969737",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Anthropic reported diary entry to police, woman faces felony charge",
+  "body": "Right now, I would be willing to pay ~$20 extra per month for strong privacy, assuming the same capabilities as Opus 5.5. I don't see local models making sense economically any time soon unless you value privacy at $1000's per month or are fine with much lower performance on hard tasks.",
+  "url": "https://news.ycombinator.com/item?id=49969737",
+  "author": "240e8abab8dc",
+  "createdAt": "2026-10-05T19:51:47.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 20,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49977385",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: MailAccess – the true Email OSINT framework",
+  "body": "Im a security engineer and i built mailaccess. When i started learning pentesting, i came across multiple lectures and notes of people listing out tools and websites, which gives the emails for a particular domain, and almost all of them mentioned that the tool might not stick, so its better to learn the methodology, rather than learning a tool- that stuck with me. \nAs i was beginning to really get into pentesting i noticed a clear lack of email osint methodology through the tool itself - so i thought of building one myself. I researched email osint methodoliges and identity chaining in depth to really get this tool the exact brain that a human would use, the reasoning of each action and the scoring behind each of it. Then after learning i just put it all together, and people really liked ita nd supported it, because it gave the truth rather than just filling it with names, it doesnt give a list, it gives sections, where it came from and how. Thats exactly what i wouldve wanted when i was first learning, a tool that familiarizes with what each source gave, and what was found.\nDo check it out, i have made a hosted version so that people can route everything through that, and that also has been going very well, all thanks to the community and the solid supporters throughout.\ngithub.com/KatrielMoses/MailAccess",
+  "url": "https://news.ycombinator.com/item?id=49977385",
+  "author": "b4dc66db93cc",
+  "createdAt": "2026-10-06T12:24:18.000Z",
+  "engagement": {
+   "score": 34,
+   "comments": 0
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 46,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1403847264",
+  "source": "github",
+  "kind": "tool",
+  "title": "shinshin86/mesh-avatar-studio — 331★",
+  "body": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
+  "url": "https://github.com/shinshin86/mesh-avatar-studio",
+  "author": "31371e14d652",
+  "createdAt": "2026-10-04T03:33:57Z",
+  "engagement": {
+   "stars": 331
+  },
+  "tags": [
+   "claude-code",
+   "TypeScript"
+  ],
+  "painScore": 62,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1389023874",
+  "source": "github",
+  "kind": "tool",
+  "title": "fumingyang2004/Tulpa — 167★",
+  "body": "基于Windows本地QQ+微信的Harness/MCP：用Agent进行实时检索、跟进、管理、记忆与工作区。同时开放MCP版本，可供DSH，Codex，Claude Code，Antigravity，WorkBuddy等agent使用",
+  "url": "https://github.com/fumingyang2004/Tulpa",
+  "author": "fe9aa79b3b78",
+  "createdAt": "2026-09-26T10:23:53Z",
+  "engagement": {
+   "stars": 167
+  },
+  "tags": [
+   "mcp",
+   "Python"
+  ],
+  "painScore": 57,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1399413068",
+  "source": "github",
+  "kind": "tool",
+  "title": "VoltAgent/official-mcp-servers — 156★",
+  "body": "A curated directory of 280+ official MCP servers from the companies behind the products. No unofficial forks, no abandoned projects.",
+  "url": "https://github.com/VoltAgent/official-mcp-servers",
+  "author": "c4eb0d30602f",
+  "createdAt": "2026-10-01T07:30:34Z",
+  "engagement": {
+   "stars": 156
+  },
+  "tags": [
+   "mcp"
+  ],
+  "painScore": 56,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1406249610",
+  "source": "github",
+  "kind": "launch",
+  "title": "BoatswainValve94/1min-ai-download — 35★",
+  "body": "1min.AI — Business SaaS listing. Visit link via SOFTGIT. Third-party; rights belong to original authors.",
+  "url": "https://github.com/BoatswainValve94/1min-ai-download",
+  "author": "56f6a1eee050",
+  "createdAt": "2026-10-05T18:53:04Z",
+  "engagement": {
+   "stars": 35
+  },
+  "tags": [
+   "saas",
+   "Python"
+  ],
+  "painScore": 46,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1398418891",
+  "source": "github",
+  "kind": "launch",
+  "title": "Chengjun023/agent-smith — 252★",
+  "body": "Token 超支？快给史密斯打电话！ Better Call Smith. Adaptive model routing, a glassy Codex usage monitor, and reproducible benchmarks with receipts.",
+  "url": "https://github.com/Chengjun023/agent-smith",
+  "author": "0991740c599e",
+  "createdAt": "2026-09-30T15:58:32Z",
+  "engagement": {
+   "stars": 252
+  },
+  "tags": [
+   "ai-agents",
+   "Python"
+  ],
+  "painScore": 60,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1390878120",
+  "source": "github",
+  "kind": "launch",
+  "title": "scarletkc/seiso — 183★",
+  "body": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
+  "url": "https://github.com/scarletkc/seiso",
+  "author": "9ea4867b7ccd",
+  "createdAt": "2026-09-27T13:27:28Z",
+  "engagement": {
+   "stars": 183
+  },
+  "tags": [
+   "ai-agents",
+   "Rust"
+  ],
+  "painScore": 58,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:issue:5716569667",
+  "source": "github",
+  "kind": "demand",
+  "title": "[actions/runner-images] Xcode 27.1 RC",
+  "body": "### Tool name\n\nXcode\n\n### Tool license\n\nApple\n\n### Add or update?\n\n- [x] Add\n- [ ] Update\n\n### Desired version\n\nXcode 27.1 RC\n\n### Approximate size\n\n_No response_\n\n### Brief description of tool\n\nXcode 27.1 RC is released \n\n### URL for tool's homepage\n\n_No response_\n\n### Provide a basic test case to validate the tool's functionality.\n\n```bash\n\n```\n\n### Platforms where you need the tool\n\n- [ ] Azure DevOps\n- [x] GitHub Actions\n\n### Runner images where you need the tool\n\n- [ ] Ubuntu 22.04\n- [ ] Ubuntu 22.04 Arm64\n- [ ] Ubuntu 24.04\n- [ ] Ubuntu 24.04 Arm64\n- [ ] Ubuntu 26.04\n- [ ] Ubuntu 26.04 Arm64\n- [ ] Ubuntu Slim\n- [ ] macOS 14\n- [ ] macOS 14 Arm64\n- [ ] macOS 15\n- [ ] macOS 15 Arm64\n- [ ] macOS 26\n- [ ] macOS 26 Arm64\n- [x] Xcode 27\n- [ ] Windows Server 2022\n- [ ] Windows Server 2025\n- [ ] Windows Server 2025 with Visual Studio 2026\n- [ ] Windows Desktop 11\n- [ ] Windows Desktop 11 with Visual Studio 2026\n\n### Can this tool be installed during the build?\n\n```bash\n\n```\n\n### Tool installation time in runtime\n\n_No response_\n\n### Are you willing to submit a PR?\n\n_No response_",
+  "url": "https://github.com/actions/runner-images/issues/14850",
+  "author": "4bd7c238f582",
+  "createdAt": "2026-10-05T17:47:13Z",
+  "engagement": {
+   "score": 10,
+   "comments": 2
+  },
+  "tags": [
+   "Area: Xcode",
+   "OS: macOS",
+   "feature request"
+  ],
+  "painScore": 17,
+  "matchedPhrases": []
+ },
+ {
+  "id": "stackexchange:softwarerecs:95656",
+  "source": "stackexchange",
+  "kind": "demand",
+  "title": "Tool or service that tracks deprecations and breaking changes per library version, with an API or feed",
+  "body": "I need a tool or service that tells me, for a given library and version, whether it has been\ndeprecated or whether newer releases contain breaking changes, before I upgrade.\n\nRequirements:\n\nEcosystems: npm and Maven/Gradle (Android) at least; CocoaPods and Swift Package Manager would be a big plus\nReports deprecations (with dates when available) and breaking changes, not only new versions\nMachine-readable access: REST API, RSS/Atom feed or downloadable data\nFree or open source preferred; a self-hostable tool is fine\nWorks from a list of dependencies (e.g. an SBOM or package.json), without uploading source code\n\nWhat I already tried:\n\nDependabot / Renovate: they open update PRs, but don't say what breaks before upgrading\nOSV and deps.dev: great for vulnerabilities and the npm \"deprecated\" flag, but no breaking changes\nGitHub releases.atom: works, but it's free text per repository, not structured\nChangeRadar: covers developer platforms and AI tools, not libraries\n\nIs there anything that covers this, even partially?",
+  "url": "https://softwarerecs.stackexchange.com/questions/95656/tool-or-service-that-tracks-deprecations-and-breaking-changes-per-library-versio",
+  "author": "c2b2e2778410",
+  "createdAt": "2026-10-06T09:00:44.000Z",
+  "engagement": {
+   "score": 0,
+   "comments": 0,
+   "views": 6
+  },
+  "tags": [
+   "softwarerecs",
+   "android",
+   "ios",
+   "api",
+   "web-services",
+   "package-manager"
+  ],
+  "painScore": 30,
+  "matchedPhrases": []
+ },
+ {
+  "id": "stackexchange:softwarerecs:95655",
+  "source": "stackexchange",
+  "kind": "demand",
+  "title": "Tool recommendation to sync/backup local File Server to SharePoint Online",
+  "body": "I'm looking for a reliable tool to back up and migrate files from our local Windows File Server to SharePoint Online.\n\nWe need something that preserves folder structure, timestamps, and handles long file paths well without crashing. Incremental sync support is essential for us.",
+  "url": "https://softwarerecs.stackexchange.com/questions/95655/tool-recommendation-to-sync-backup-local-file-server-to-sharepoint-online",
+  "author": "73da8230828d",
+  "createdAt": "2026-10-05T16:17:33.000Z",
+  "engagement": {
+   "score": 0,
+   "comments": 0,
+   "views": 18
+  },
+  "tags": [
+   "softwarerecs",
+   "windows",
+   "backup",
+   "file-synchronization",
+   "windows-server",
+   "sharepoint"
+  ],
+  "painScore": 30,
+  "matchedPhrases": []
+ },
+ {
+  "id": "appstore:14623772189",
+  "source": "appstore",
+  "kind": "demand",
+  "title": "★☆☆☆☆ Fresha for Business: Worse",
+  "body": "This app gets worse with every update. It used to be simple and convenient—you could look up a client using just the last few digits of their phone number. Now you have to enter the entire phone number just to find someone. Why make something that was easy so unnecessarily difficult?And the new AI features don’t make the app better. They just add more steps and make simple tasks more complicated. Not every problem needs an AI solution.\nThe old version was much simpler, faster, and easier to use. Honestly, the more you improve this app, the less usable it becomes.",
+  "url": "https://apps.apple.com/us/app/id1455346253?see-all=reviews",
+  "author": "7983fd8ab9b7",
+  "createdAt": "2026-10-03T18:13:50.000Z",
+  "engagement": {},
+  "tags": [
+   "Fresha for Business",
+   "us",
+   "rating:1"
+  ],
+  "painScore": 35,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-0781c3",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "[early engagement] Central London Community Healthcare NHS Trust: BACS Bureau Support for NWL Trusts",
+  "body": "North West London Procurement Services (NWLPS) is undertaking a major transformation programme that will see multiple NHS organisations transition to a common Oracle Fusion Cloud Enterprise Resource Planning (ERP) platform and shared services operating model over a two-year implementation period. As part of this programme, NWLPS aims to standardise supplier and payroll payment processing across participating organisations.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/094302-2026",
+  "author": "67ec890ce530",
+  "createdAt": "2026-10-06T14:14:39+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 500000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:planning",
+   "cpv:48000000",
+   "cpv:72222300"
+  ],
+  "painScore": 63,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-0781b1",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "[early engagement] OAK NATIONAL ACADEMY LIMITED: 2026 ATS & HRIS",
+  "body": "Oak National Academy is exploring the replacement of BeApplied, its current Applicant Tracking System (ATS), which is expected to become unavailable at the end of March 2027. Oak is also considering whether to procure a linked HR information system (HRIS) at the same time, procure the systems as separate lots, or address its HRIS needs through a later procurement.\nThe immediate priority is an ATS that can be implemented in time to maintain recruitment services. Oak is undertaking this engagement to understand the market, test its developing requirements, assess realistic implementation times and decide how best to package the ATS and HRIS requirements. No decision has yet been made to include an HRIS in the resulting tender.\nOak invites input from suppliers of ATS products, HRIS products, integrated ATS and HRIS platforms, and suppliers able to deliver either system with a reliable integration to the other. Suppliers do not need to offer both systems to participate.\nOak’s current ATS needs are described in the accompanying working requirements guide. They include structured and blind sifting, independent reviewer scoring, separation of diversity monitoring data from hiring decisions, accessible candidate and staff journeys, recruitment administration, reporting and export of records. Oak also wishes to explore HRIS needs and the transfer of new-starter information between systems. These are working needs, not final tender requirements or evaluation criteria. Oak welcomes dif…",
+  "url": "https://www.find-tender.service.gov.uk/Notice/094277-2026",
+  "author": "1bf3648e0c68",
+  "createdAt": "2026-10-06T13:48:31+01:00",
+  "engagement": {},
+  "tags": [
+   "stage:planning",
+   "cpv:72212450",
+   "cpv:79600000"
+  ],
+  "painScore": 40,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-078169",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "[early engagement] Newham Council: UK2 Preliminary Market Engagement Notice: London Borough of Newham Planning Service Digital Transformation",
+  "body": "Context and purpose\nAs part of the London Borough of Newham’s Placemaking and Whole Council Digital Transformation strategies, the Council has commenced work on a programme of digital transformation within its statutory planning (Development Management) service.\nThe programme aims to modernise and digitise planning processes, improve customer and officer experience, increase operational efficiency, strengthen data quality, improve reporting and support future service demand.\nNewham is seeking to engage with the market to better understand available solutions, proven technologies, opportunities for innovation and potential delivery models that can support the digital transformation journey across the end-to-end statutory planning process.\nPotential areas of interest include:\n•\nStatutory planning application end-to-end case management systems\n•\nDigital document management and workflows\n•\nCustomer self-service portals (pre-application, application, post application)\n•\nPlanning application validation tools\n•\nPlanning consultation and notification tools\n•\nSolutions supporting case officer assessment\n•\nAssessment and decision reports creation and solutions\n•\nGIS and spatial planning integration\n•\nProven artificial intelligence and automation capabilities\n•\nMobile solutions for planning officers\n•\nOther solutions delivering benefits across the end-to-end statutory planning process not listed above\nThis engagement will inform Newham’s procurement strategy and business case developme…",
+  "url": "https://www.find-tender.service.gov.uk/Notice/094132-2026",
+  "author": "e9038572b4c1",
+  "createdAt": "2026-10-06T10:38:15+01:00",
+  "engagement": {},
+  "tags": [
+   "stage:planning",
+   "cpv:48000000"
+  ],
+  "painScore": 40,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-078159",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "Natural England: Develop and Supply an Interactive online Nature Finance Project Development game",
+  "body": "A self-contained nature finance game that allows players to virtually develop nature recovery projects funded using private and blended finance. Using the GFI Investment Readiness Toolkit as a framework the game will start by presenting players with options such as whether they want to play a seller or buyer, followed by various seller or buyer scenarios. \nOnce a player has picked a role they will be taken through the process of developing a nature recovery project using private and blended finance from the start through to signing legal documents and the work starting on the ground. They will do this by working through a series of scenarios. They will have to complete every scenario satisfactorily to be able to move onto the next scenario. Reasons for not completing a scenario properly will be given, as will explanations of why they have completed a scenario correctly. Where possible there will be more than one correct way to complete a scenario.\nThe game will be for Natural England so will focus on the roles that NE staff are likely to play at each stage of a projects development but will also be able to be used by Environment Agency and Forestry Commission staff carrying out nature finance related roles.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/094110-2026",
+  "author": "471959a2da82",
+  "createdAt": "2026-10-06T10:16:31+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 16000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:tender",
+   "cpv:48911000"
+  ],
+  "painScore": 57,
+  "matchedPhrases": []
+ },
+ {
+  "id": "discourse:community.n8n.io:318955",
+  "source": "discourse",
+  "kind": "demand",
+  "title": "How Can I Automate Student Notifications in an E-Learning App With n8n?",
+  "body": "I’m planning an e-learning app and want to automate some repetitive tasks using n8n. For example, I’d like to send notifications when a student enrolls in a course, completes a lesson, finishes a quiz, or has not logged in for a certain period. What would be the best way to connect an e-learning app with n8n? Would webhooks and APIs be enough for handling these types of student-related workflows?",
+  "url": "https://community.n8n.io/t/how-can-i-automate-student-notifications-in-an-e-learning-app-with-n8n/318955",
+  "author": "57feb81188b3",
+  "createdAt": "2026-10-05T12:42:40.231Z",
+  "engagement": {
+   "comments": 2,
+   "score": 1,
+   "views": 37
+  },
+  "tags": [
+   "n8n",
+   "prequalified"
+  ],
+  "painScore": 38,
+  "matchedPhrases": []
+ },
+ {
+  "id": "discourse:community.make.com:116765",
+  "source": "discourse",
+  "kind": "demand",
+  "title": "Repeat last module if a condition is met",
+  "body": "### 🎯 What is your goal? I want my automation to search for Gmail emails meeting specific criteria, but if it doesn’t find any, it repeats the search a set amount of time with a set delay between each search, until it finds an email or returns an error. ### 🤔 What is the problem? I haven't found any way to produce that behavior explained above. ### 🧪 What have you tried so far? I tried using the \"Retry\" error handler but it doesn't work, since the email search returning 0 bundles doesn't count as an error (if I understood correctly). I could use a If-else module that adds a timer + another Gmail search if the total amount of bundles is 0 but I would like to avoid that if possible? ### 📸 Screenshots: scenario setup, module configuration, errors ![Capture d'écran 2026-10-05 171353.png|593x462](upload://pEPQuMTndT1FkRUuatRNRa3ypVK.png)",
+  "url": "https://community.make.com/t/repeat-last-module-if-a-condition-is-met/116765",
+  "author": "1756db9de13a",
+  "createdAt": "2026-10-05T15:14:45.822Z",
+  "engagement": {
+   "comments": 4,
+   "score": 0,
+   "views": 12
+  },
+  "tags": [
+   "Make",
+   "prequalified"
+  ],
+  "painScore": 40,
+  "matchedPhrases": []
+ }
+]
