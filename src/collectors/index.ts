@@ -2,6 +2,8 @@ import type { RadarConfig } from '../config.ts';
 import type { Collector } from '../types.ts';
 import { appStore } from './appstore.ts';
 import { bluesky } from './bluesky.ts';
+import { contractsFinder } from './contractsfinder.ts';
+import { discourse } from './discourse.ts';
 import { findATender } from './findatender.ts';
 import { github } from './github.ts';
 import { hackerNews } from './hackernews.ts';
@@ -18,6 +20,8 @@ export function enabledCollectors(config: RadarConfig): Collector[] {
     [s.bluesky.enabled, bluesky(config)],
     [s.appstore.enabled, appStore(config)],
     [s.findatender.enabled, findATender(config)],
+    [s.contractsfinder.enabled, contractsFinder(config)],
+    [s.discourse.enabled, discourse(config)],
     [s.reddit.enabled, reddit(config)],
   ];
   return all.filter(([on]) => on).map(([, c]) => c);

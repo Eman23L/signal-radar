@@ -28,6 +28,8 @@ const SOURCE_LABEL: Record<string, string> = {
   bluesky: 'Bluesky',
   appstore: 'App Store',
   findatender: 'Find a Tender',
+  contractsfinder: 'Contracts Finder',
+  discourse: 'Forums',
   reddit: 'Reddit',
 };
 

@@ -1,0 +1,119 @@
+{
+ "_note": "SAMPLE DATA for offline demo/tests — shaped like the real API response (checked live Oct 2026), not real notices or posts.",
+ "uri": "https://www.contractsfinder.service.gov.uk/Published/Notices/OCDS/Search",
+ "version": "1.1",
+ "releases": [
+  {
+   "ocid": "ocds-b5fd17-sample-1",
+   "id": "00000001-aaaa-bbbb-cccc-sample000001-916571",
+   "language": "en",
+   "date": "2026-09-27T17:45:13+01:00",
+   "tag": [
+    "tender"
+   ],
+   "initiationType": "tender",
+   "tender": {
+    "id": "SAMPLE-CF-1",
+    "title": "Finance and HR systems discovery",
+    "description": "Sample description for Finance and HR systems discovery.",
+    "datePublished": "2026-09-27T17:45:13+01:00",
+    "status": "active",
+    "classification": {
+     "scheme": "CPV",
+     "id": "72000000"
+    },
+    "mainProcurementCategory": "services",
+    "value": {
+     "amount": 50000,
+     "currency": "GBP"
+    }
+   },
+   "buyer": {
+    "name": "Sample Borough Council"
+   }
+  },
+  {
+   "ocid": "ocds-b5fd17-sample-2",
+   "id": "00000002-aaaa-bbbb-cccc-sample000002-916572",
+   "language": "en",
+   "date": "2026-09-27T17:45:13+01:00",
+   "tag": [
+    "tender"
+   ],
+   "initiationType": "tender",
+   "tender": {
+    "id": "SAMPLE-CF-2",
+    "title": "Tourism campaign research",
+    "description": "Sample description for Tourism campaign research.",
+    "datePublished": "2026-09-27T17:45:13+01:00",
+    "status": "active",
+    "classification": {
+     "scheme": "CPV",
+     "id": "79342100"
+    },
+    "mainProcurementCategory": "services",
+    "value": {
+     "amount": 20000,
+     "currency": "GBP"
+    }
+   },
+   "buyer": {
+    "name": "Sample National Park"
+   }
+  },
+  {
+   "ocid": "ocds-b5fd17-sample-3",
+   "id": "00000003-aaaa-bbbb-cccc-sample000003-916573",
+   "language": "en",
+   "date": "2026-09-27T17:45:13+01:00",
+   "tag": [
+    "tenderAmendment"
+   ],
+   "initiationType": "tender",
+   "tender": {
+    "id": "SAMPLE-CF-3",
+    "title": "Finance and HR systems discovery",
+    "description": "Sample description for Finance and HR systems discovery.",
+    "datePublished": "2026-09-27T17:45:13+01:00",
+    "status": "active",
+    "classification": {
+     "scheme": "CPV",
+     "id": "72000000"
+    },
+    "mainProcurementCategory": "services",
+    "value": {
+     "amount": 50000,
+     "currency": "GBP"
+    }
+   },
+   "buyer": {
+    "name": "Sample Borough Council"
+   }
+  },
+  {
+   "ocid": "ocds-b5fd17-sample-4",
+   "id": "00000004-aaaa-bbbb-cccc-sample000004-916574",
+   "language": "en",
+   "date": "2026-09-27T17:45:13+01:00",
+   "tag": [
+    "planning"
+   ],
+   "initiationType": "tender",
+   "tender": {
+    "id": "SAMPLE-CF-4",
+    "title": "Social care case management system",
+    "description": "Sample description for Social care case management system.",
+    "datePublished": "2026-09-27T17:45:13+01:00",
+    "status": "active",
+    "classification": {
+     "scheme": "CPV",
+     "id": "48000000"
+    },
+    "mainProcurementCategory": "services"
+   },
+   "buyer": {
+    "name": "Sample City Council"
+   }
+  }
+ ]
+}

@@ -66,6 +66,23 @@ export interface RadarConfig {
       /** Optional: only keep tenders whose title/description mention one of these. Empty = every matching CPV. */
       keywords: string[];
     };
+    /** UK Contracts Finder: lower-value public contracts (OCDS API, Open Government Licence). */
+    contractsfinder: {
+      enabled: boolean;
+      /** CPV code prefixes, e.g. 48 = software packages, 72 = IT services. */
+      cpvPrefixes: string[];
+      /** Optional: only keep notices whose title/description mention one of these. */
+      keywords: string[];
+    };
+    /** Public Discourse community forums of SaaS / no-code tools. */
+    discourse: {
+      enabled: boolean;
+      forums: { host: string; name: string }[];
+      /** Forum-style asks on top of painPhrases ("is there a way", "feature request"). */
+      extraPhrases: string[];
+      /** Pause between requests to the same forum. */
+      delayMs: number;
+    };
     /** Personal use only — public RSS, not an approved API. Off by default. See docs/SOURCES.md. */
     reddit: { enabled: boolean; subreddits: string[]; delaySeconds: number };
   };
