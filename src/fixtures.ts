@@ -31,12 +31,18 @@ export const fixtureFetcher: Fetcher = async (url, init) => {
     case 'www.find-tender.service.gov.uk':
       // Page 1 links to page 2 via links.next; page 2 is the (empty) last page.
       return u.searchParams.has('cursor') ? { releases: [] } : json('findatender.json');
+    case 'www.contractsfinder.service.gov.uk':
+      return json('contractsfinder.json');
     default:
+      // Discourse: one sample forum carries the sample topics; the others are quiet.
+      if (u.pathname === '/latest.json') return ['community.n8n.io', 'forum.sample.test'].includes(u.hostname) ? json('discourse-latest.json') : { topic_list: { topics: [] } };
       throw new Error(`no fixture for ${url} (${init?.method ?? 'GET'})`);
   }
 };
 
 export const fixtureTextFetcher: TextFetcher = async (url) => {
   if (new URL(url).hostname === 'www.reddit.com') return load('reddit.xml');
+  const raw = new URL(url).pathname.match(/^\/raw\/(\d+)\/1$/); // Discourse opening post
+  if (raw) return json('discourse-raw.json')[raw[1]] ?? '';
   throw new Error(`no text fixture for ${url}`);
 };

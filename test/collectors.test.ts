@@ -2,6 +2,8 @@ import assert from 'node:assert/strict';
 import { test } from 'node:test';
 import { appStore } from '../src/collectors/appstore.ts';
 import { bluesky } from '../src/collectors/bluesky.ts';
+import { contractsFinder } from '../src/collectors/contractsfinder.ts';
+import { discourse } from '../src/collectors/discourse.ts';
 import { findATender } from '../src/collectors/findatender.ts';
 import { github } from '../src/collectors/github.ts';
 import { hackerNews } from '../src/collectors/hackernews.ts';
@@ -81,6 +83,27 @@ test('findatender keeps new tenders and planning notices with an IT main CPV, an
   const planning = out.find((s) => s.id.endsWith('sample3'))!;
   assert.match(planning.title, /^\[early engagement\]/);
   assert.deepEqual(planning.money, { amount: 600000, currency: 'GBP' }, 'falls back to amountGross');
+});
+
+test('contractsfinder keeps IT tenders and planning notices, skips amendments and other CPVs', async () => {
+  const out = await contractsFinder(config).collect(ctx());
+  assert.deepEqual(out.map((s) => s.id).sort(), ['contractsfinder:ocds-b5fd17-sample-1', 'contractsfinder:ocds-b5fd17-sample-4']);
+  const t = out.find((s) => s.id.endsWith('sample-1'))!;
+  assert.equal(t.url, 'https://www.contractsfinder.service.gov.uk/notice/00000001-aaaa-bbbb-cccc-sample000001');
+  assert.deepEqual(t.money, { amount: 50000, currency: 'GBP' });
+  assert.match(out.find((s) => s.id.endsWith('sample-4'))!.title, /^\[early engagement\]/);
+});
+
+test('discourse keeps new, unpinned topics that ask for something, with author and engagement', async () => {
+  const cfg = { ...config, sources: { ...config.sources, discourse: { ...config.sources.discourse, forums: [{ host: 'forum.sample.test', name: 'Sample' }] } } };
+  const out = await discourse(cfg).collect(ctx());
+  assert.equal(out.length, 1, 'challenge post has no ask; pinned and old topics skipped');
+  const s = out[0];
+  assert.equal(s.url, 'https://forum.sample.test/t/invoice-reminders/900001');
+  assert.equal(s.author, 'sample_user_31');
+  assert.deepEqual(s.engagement, { comments: 3, score: 3, views: 80 });
+  assert.match(s.body, /chasing unpaid invoices/);
+  assert.ok(s.tags.includes('prequalified'));
 });
 
 test('reddit RSS keeps only pain-phrase posts', async () => {

@@ -13,6 +13,12 @@ _Written 28 Sept 2026 at the end of the first build session (in the Claude app),
 - App Store now watches 10 paid business apps across accounting, trades, construction, care, rotas and salons. Apps can list their own `countries`.
 - **Not live-tested:** the Claude review itself, because there is no `ANTHROPIC_API_KEY` yet. Unit tests cover parsing and the prompt.
 
+**Also done (later in session 4): data sources before AI.** The owner wants the sources built out before adding the API key.
+- New `contractsfinder` collector (UK lower-value contracts, 48/72 CPV, tender + planning). Live: 2 IT tenders in 7 days.
+- New `discourse` collector: public forums of n8n, Make, Bubble, Retool and Glide. Keeps new topics matching pain phrases plus forum asks ("is there a way", "feature request"…), tagged `prequalified` (scored with the softwarerecs floor). Live: 2 items in 26 h.
+- Stack Exchange now also reads freelancing, money, pm, sharepoint and salesforce (phrase-filtered).
+- Checked: Bluesky public search needs a login; Reddit blocks public RSS (both 403).
+
 **Decisions made with the owner**
 - No Facebook (requires a personal login, against their terms). Reddit only via an approved official API application.
 - No Telegram login is needed: digests are in `data/digests/`.
@@ -20,7 +26,7 @@ _Written 28 Sept 2026 at the end of the first build session (in the Claude app),
 **Next steps for session 5**
 1. Owner adds `ANTHROPIC_API_KEY`. Then check one real run's digest for the quality of ideas and draft replies, and tune the prompt.
 2. 👍/👎 buttons on Telegram items. The daily run can read button presses with `getUpdates`, with no server needed. Store them in `data/feedback.json` and use them to tune scoring.
-3. More legit sources: Bluesky (owner needs an app password), Product Hunt, YouTube comments (free API key), more Stack Exchange sites, UK Contracts Finder.
+3. More legit sources: Bluesky (owner needs an app password), Product Hunt (free developer token), YouTube comments (free Google API key), more Discourse forums. (Contracts Finder and more Stack Exchange sites: done.)
 4. Help the owner apply for Reddit API access.
 5. Later: a web dashboard with sign-up and Stripe (the SaaS).
 

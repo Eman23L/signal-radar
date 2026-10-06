@@ -89,6 +89,11 @@ export default defineConfig({
         { site: 'softwarerecs', everyQuestion: true },
         { site: 'webapps', everyQuestion: false },
         { site: 'superuser', everyQuestion: false },
+        { site: 'freelancing', everyQuestion: false },
+        { site: 'money', everyQuestion: false },
+        { site: 'pm', everyQuestion: false },
+        { site: 'sharepoint', everyQuestion: false },
+        { site: 'salesforce', everyQuestion: false },
       ],
       lookbackHours: 168, // slow sites: look back a week; seen.json stops repeats
     },
@@ -123,6 +128,24 @@ export default defineConfig({
       enabled: true,
       cpvPrefixes: ['48', '72'],
       keywords: [],
+    },
+    contractsfinder: {
+      enabled: true,
+      cpvPrefixes: ['48', '72'],
+      keywords: [],
+    },
+    discourse: {
+      enabled: true,
+      // Community forums of automation / no-code tools: people asking how to do things the tools don't do yet.
+      forums: [
+        { host: 'community.n8n.io', name: 'n8n' },
+        { host: 'community.make.com', name: 'Make' },
+        { host: 'forum.bubble.io', name: 'Bubble' },
+        { host: 'community.retool.com', name: 'Retool' },
+        { host: 'community.glideapps.com', name: 'Glide' },
+      ],
+      extraPhrases: ['is there a way', 'how can i automate', 'how do i automate', 'feature request', 'workaround', 'any way to', 'would love to be able'],
+      delayMs: 700,
     },
     reddit: {
       // Reddit closed self-service API access (Nov 2025) and .json endpoints (May 2026).

@@ -36,7 +36,7 @@ export function scoreSignal(s: Signal, config: RadarConfig): Signal {
   switch (s.kind) {
     case 'demand': {
       // Sources where every item is demand by nature get a floor.
-      const inherentlyDemand = s.tags.includes('softwarerecs') || s.source === 'appstore';
+      const inherentlyDemand = s.tags.includes('softwarerecs') || s.tags.includes('prequalified') || s.source === 'appstore';
       // "I would pay for that" on its own is usually chat ("I'd pay for a Star Trek computer"),
       // so willingness to pay only counts in full next to a real problem or tool request,
       // and it's counted once (not again as a pain phrase and a money word).
