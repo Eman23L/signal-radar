@@ -42,6 +42,14 @@ export interface AiAssessment {
    * names an incumbent they're unhappy with (0–10).
    */
   intentScore: number;
+  /** 0..10: could a solo founder with AI help ship an MVP in ~4 weeks and reach these buyers? */
+  buildFit?: number;
+  /** 2–3 short product ideas that would solve it. */
+  ideas?: string[];
+  /** Products the model believes already address this (from its own knowledge: unverified). */
+  competitors?: string[];
+  /** A short, honest reply the founder could post to the author. Never sent automatically. */
+  outreach?: string;
 }
 
 export interface Signal {

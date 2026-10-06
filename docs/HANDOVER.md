@@ -1,8 +1,30 @@
 # Handover: where this project came from and what's next
 
-_Written 28 Sept 2026 at the end of the first build session (in the Claude app), so a new Claude Code session can pick up without the original chat. Updated the same day after sessions 2 and 3: see **Latest status** just below._
+_Written 28 Sept 2026 at the end of the first build session (in the Claude app), so a new Claude Code session can pick up without the original chat. Updated after sessions 2, 3 and 4: see **Latest status** just below._
 
-## Latest status (session 3, 28 Sept 2026): read this first
+## Latest status (session 4, 6 Oct 2026): read this first
+
+**Owner's direction (new):** turn this into a better, multi-source version of findmeidea.com (Reddit-only, $14.99/mo, Claude scores intensity/frequency/WTP, idea blueprints, competitor check). First for the owner's own use, then monetise. Owner confirmed the Telegram digest arrives daily. The session 3 fixes are merged and live (first run: 13 tenders, 2 App Store reviews).
+
+**Done this session**
+- `founder` profile in `config/radar.config.ts`, pre-filled from the owner's portfolio. The owner asked that it **not** restrict ideas to their current skills: Claude judges *build fit* (solo + AI help, ~4-week MVP, reachable buyers, monthly revenue). Background is a bonus, not a filter.
+- Claude review upgraded: same 0–90 intent rubric, plus `buildFit` 0–10, 2–3 `ideas`, up to 3 `competitors` (model knowledge, marked unverified), and an `outreach` draft reply (Mom Test style, under 60 words). `finalScore` = 55% intent + 20% fit + 25% heuristic. All of this is shown in the markdown digest.
+- **Outreach is drafts only.** Nothing is ever sent automatically (UK GDPR/PECR, and platform rules). The owner posts replies themselves.
+- App Store now watches 10 paid business apps across accounting, trades, construction, care, rotas and salons. Apps can list their own `countries`.
+- **Not live-tested:** the Claude review itself, because there is no `ANTHROPIC_API_KEY` yet. Unit tests cover parsing and the prompt.
+
+**Decisions made with the owner**
+- No Facebook (requires a personal login, against their terms). Reddit only via an approved official API application.
+- No Telegram login is needed: digests are in `data/digests/`.
+
+**Next steps for session 5**
+1. Owner adds `ANTHROPIC_API_KEY`. Then check one real run's digest for the quality of ideas and draft replies, and tune the prompt.
+2. 👍/👎 buttons on Telegram items. The daily run can read button presses with `getUpdates`, with no server needed. Store them in `data/feedback.json` and use them to tune scoring.
+3. More legit sources: Bluesky (owner needs an app password), Product Hunt, YouTube comments (free API key), more Stack Exchange sites, UK Contracts Finder.
+4. Help the owner apply for Reddit API access.
+5. Later: a web dashboard with sign-up and Stripe (the SaaS).
+
+## Session 3 status (28 Sept 2026)
 
 The network allowlist works: Find a Tender, the App Store feed, Stack Exchange and HN Algolia all answer from Claude Code. (`api.github.com` still returns 403 from the sandbox, but GitHub works fine in Actions.) Node's `fetch` needs `NODE_USE_ENV_PROXY=1` here.
 

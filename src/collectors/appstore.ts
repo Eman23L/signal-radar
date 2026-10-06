@@ -41,7 +41,7 @@ export function appStore(config: RadarConfig): Collector {
     async collect(ctx) {
       const out: Signal[] = [];
       for (const app of opts.apps) {
-        for (const cc of opts.countries) {
+        for (const cc of app.countries ?? opts.countries) {
           const url = `https://itunes.apple.com/${cc}/rss/customerreviews/page=1/id=${app.id}/sortby=mostrecent/json`;
           let entries = await fetchEntries(ctx.fetch, url);
           if (entries.length === 0) {
