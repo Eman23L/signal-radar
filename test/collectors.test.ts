@@ -58,6 +58,14 @@ test('appstore keeps low-star reviews and skips the metadata entry', async () =>
   assert.ok(out[0].tags.includes('rating:2'));
 });
 
+test('appstore reads only the storefronts an app lists', async () => {
+  const urls: string[] = [];
+  const c = ctx();
+  const cfg = { ...config, sources: { ...config.sources, appstore: { ...config.sources.appstore, apps: [{ id: '441880705', name: 'Xero', countries: ['gb'] }] } } };
+  await appStore(cfg).collect({ ...c, fetch: (url, init) => (urls.push(url), c.fetch(url, init)) });
+  assert.ok(urls.length > 0 && urls.every((u) => u.includes('/gb/')));
+});
+
 test('findatender keeps new tenders and planning notices with an IT main CPV, and follows links.next', async () => {
   const urls: string[] = [];
   const c = ctx();

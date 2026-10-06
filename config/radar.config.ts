@@ -103,6 +103,20 @@ export default defineConfig({
       apps: [
         { id: '441880705', name: 'Xero Accounting' },
         { id: '1014146758', name: 'Jobber Field Service' },
+        // UK accounting
+        { id: '975591071', name: 'FreeAgent', countries: ['gb'] },
+        // trades & field service
+        { id: '984378901', name: 'Tradify' },
+        { id: '378062736', name: 'ServiceM8' },
+        // construction (close to your engineering background)
+        { id: '374930542', name: 'Procore' },
+        { id: '780165517', name: 'Fieldwire' },
+        // care sector admin
+        { id: '1254394392', name: 'Birdie Care', countries: ['gb'] },
+        // staff rotas / shift work
+        { id: '477070330', name: 'Deputy' },
+        // salons & bookings
+        { id: '1455346253', name: 'Fresha for Business' },
       ],
     },
     findatender: {
@@ -120,6 +134,29 @@ export default defineConfig({
   },
 
   scoring: { minScore: 30 },
+
+  // Who the ideas are for. Used by Claude to rank fit, not to filter by current skills.
+  founder: {
+    about:
+      'Solo UK software engineer (React/Next.js, TypeScript, Python, SQL, dashboards, automation) working ' +
+      'in civil engineering. Builds with AI help, so new stacks are fine. Wants a SaaS with monthly revenue.',
+    advantages: [
+      'UK-based: understands UK rules, public sector and councils',
+      'engineering, construction and infrastructure workflows',
+      'data pipelines, reporting dashboards and workflow automation',
+      'has shipped live platforms (payments, admin dashboards, PWAs with push notifications)',
+    ],
+    constraints: [
+      'part-time and solo: a first version must be buildable in about 4 weeks',
+      'small starting budget: no hardware, no large upfront spend',
+      'must be sellable online without a sales team',
+    ],
+    avoid: [
+      'regulated advice products (medical, legal, financial advice)',
+      'two-sided marketplaces that need both sides at launch',
+      'consumer apps that need millions of users to make money',
+    ],
+  },
 
   ai: { enabled: true, model: 'claude-haiku-4-5', maxSignals: 40 },
 

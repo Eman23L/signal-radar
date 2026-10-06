@@ -39,8 +39,12 @@ function demandLine(s: Signal): string {
   const lines = [`- **[${truncate(s.title, 110)}](${s.url})** — ${label(s.source)} · score ${finalScore(s)}${money(s)}`];
   if (s.ai) {
     const wtp = s.ai.willingnessToPay === 'explicit' ? ' 💷 says they’d pay' : s.ai.willingnessToPay === 'implied' ? ' 💷 implied budget' : '';
-    lines.push(`  - _${s.ai.problem}_ (${s.ai.who})${wtp}`);
-    if (s.ai.productIdea) lines.push(`  - 💡 ${s.ai.productIdea}`);
+    const fit = s.ai.buildFit === undefined ? '' : ` · fit ${s.ai.buildFit}/10`;
+    lines.push(`  - _${s.ai.problem}_ (${s.ai.who})${wtp}${fit}`);
+    const ideas = s.ai.ideas?.length ? s.ai.ideas : s.ai.productIdea ? [s.ai.productIdea] : [];
+    if (ideas.length) lines.push(`  - 💡 ${ideas.join(' · ')}`);
+    if (s.ai.competitors?.length) lines.push(`  - 🏷️ Existing: ${s.ai.competitors.join(', ')} (unverified)`);
+    if (s.ai.outreach) lines.push(`  - ✉️ Draft reply: “${s.ai.outreach}”`);
   } else if (s.body) {
     lines.push(`  - ${truncate(s.body.replace(/\s+/g, ' '), 220)}`);
   }

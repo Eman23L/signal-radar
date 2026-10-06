@@ -1,7 +1,8 @@
 import assert from 'node:assert/strict';
 import { test } from 'node:test';
-import { classifySignals, parseJsonArray } from '../src/pipeline/classify.ts';
+import { classifySignals, parseJsonArray, systemPrompt } from '../src/pipeline/classify.ts';
 import { clusterSignals } from '../src/pipeline/cluster.ts';
+import { renderMarkdown } from '../src/digest/render.ts';
 import { finalScore, scoreSignal } from '../src/pipeline/score.ts';
 import { config, signal } from './helpers.ts';
 
@@ -93,4 +94,34 @@ test('classifySignals maps answers back to posts and survives API errors', async
   const none = await classifySignals(signals, { apiKey: 'k', model: 'm', fetchImpl: fail, log: (m) => logs.push(m) });
   assert.equal(none.size, 0);
   assert.match(logs[0], /529/);
+});
+
+test('classify reads ideas, competitors, build fit and a draft reply, and sends the founder profile', async () => {
+  let sentSystem = '';
+  const answer = [{ i: 0, isRealPain: true, problem: 'P', who: 'W', willingnessToPay: 'implied', niche: 'trades', productIdea: 'I',
+    intentScore: 60, buildFit: 14, ideas: ['a', '', 'b', 'c', 'd'], competitors: ['Jobber', 42], outreach: 'How do you handle it today?' }];
+  const ok = (async (_url: string, init?: RequestInit) => {
+    sentSystem = JSON.parse(String(init?.body)).system;
+    return new Response(JSON.stringify({ content: [{ type: 'text', text: JSON.stringify(answer) }] }));
+  }) as unknown as typeof fetch;
+  const res = await classifySignals([signal({ id: 'x', title: 'is there a tool' })], { apiKey: 'k', model: 'm', founder: config.founder, fetchImpl: ok });
+  const a = res.get('x')!;
+  assert.equal(a.buildFit, 10, 'clamped to 0-10');
+  assert.deepEqual(a.ideas, ['a', 'b', 'c'], 'blanks dropped, max 3');
+  assert.deepEqual(a.competitors, ['Jobber'], 'non-strings dropped');
+  assert.equal(a.outreach, 'How do you handle it today?');
+  assert.ok(sentSystem.includes(config.founder.about), 'profile is in the prompt');
+  assert.match(systemPrompt(), /solo software founder/);
+});
+
+test('build fit moves the final score; the digest shows ideas, competitors and the draft reply', () => {
+  const base = { problem: 'Chasing late invoices', who: 'plumbers', willingnessToPay: 'explicit' as const, niche: 'trades',
+    productIdea: '', intentScore: 70, isRealPain: true, ideas: ['Auto reminders'], competitors: ['Xero'], outreach: 'What do you use now?' };
+  const s = signal({ id: 'a', title: 'invoices', painScore: 40 });
+  assert.ok(finalScore({ ...s, ai: { ...base, buildFit: 9 } }) > finalScore({ ...s, ai: { ...base, buildFit: 2 } }));
+  const md = renderMarkdown({ day: '2026-10-06', demand: [{ ...s, ai: { ...base, buildFit: 8 } }], patterns: [], bounties: [], tenders: [], launches: [], report: [], aiUsed: true });
+  assert.match(md, /fit 8\/10/);
+  assert.match(md, /Auto reminders/);
+  assert.match(md, /Existing: Xero \(unverified\)/);
+  assert.match(md, /Draft reply: “What do you use now\?”/);
 });

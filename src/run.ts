@@ -88,7 +88,7 @@ export async function runRadar(o: RunOptions): Promise<RunResult> {
       .sort((a, b) => (b.painScore ?? 0) - (a.painScore ?? 0))
       .slice(0, config.ai.maxSignals);
     if (candidates.length) {
-      const verdicts = await classifySignals(candidates, { ...o.ai, log });
+      const verdicts = await classifySignals(candidates, { ...o.ai, founder: config.founder, log });
       aiUsed = verdicts.size > 0;
       newSignals = newSignals.map((s) => (verdicts.has(s.id) ? { ...s, ai: verdicts.get(s.id) } : s));
       log(`claude: reviewed ${verdicts.size}/${candidates.length}`);

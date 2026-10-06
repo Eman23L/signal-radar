@@ -77,13 +77,15 @@ export function scoreSignal(s: Signal, config: RadarConfig): Signal {
 }
 
 /**
- * Blend in Claude's rubric score when present. The rubric (0–90) is the better judge
- * of intent, the heuristic still carries engagement/recency.
+ * Blend in Claude's judgement when present. The rubric (0–90) is the better judge of
+ * intent; build fit (0–10) says whether it suits this founder; the heuristic still
+ * carries engagement/recency.
  */
 export function finalScore(s: Signal): number {
   const h = s.painScore ?? 0;
   if (!s.ai) return h;
   if (!s.ai.isRealPain) return Math.round(h * 0.3);
   const ai = (s.ai.intentScore / 90) * 100;
-  return Math.round(clamp(ai * 0.7 + h * 0.3));
+  const fit = ((s.ai.buildFit ?? 5) / 10) * 100;
+  return Math.round(clamp(ai * 0.55 + fit * 0.2 + h * 0.25));
 }

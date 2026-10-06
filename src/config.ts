@@ -54,7 +54,7 @@ export interface RadarConfig {
       countries: string[];
       maxRating: number;
       /** Numeric App Store IDs (the digits in apps.apple.com/.../id123456789). */
-      apps: { id: string; name: string }[];
+      apps: { id: string; name: string; /** Overrides `countries` for apps sold in fewer stores. */ countries?: string[] }[];
       /** Overrides the global lookbackHours: a single app gets a bad review every few days, not every day. */
       lookbackHours?: number;
     };
@@ -73,6 +73,21 @@ export interface RadarConfig {
   scoring: {
     /** Signals below this never reach the digest. */
     minScore: number;
+  };
+
+  /**
+   * Who the radar is looking for ideas for. Claude uses it to judge fit. It is NOT a
+   * filter on current skills: anything a solo founder can build with AI help is in scope;
+   * the background is an extra advantage, not a limit.
+   */
+  founder: {
+    about: string;
+    /** Things that make some problems easier for this founder to win (domain knowledge, access). */
+    advantages: string[];
+    /** Hard limits on what is realistic. */
+    constraints: string[];
+    /** Kinds of business to rank down. */
+    avoid: string[];
   };
 
   ai: {
