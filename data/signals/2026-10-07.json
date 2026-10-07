@@ -1,0 +1,1409 @@
+[
+ {
+  "id": "hackernews:49992425",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Reasons to Dislike AI Coding",
+  "body": "I was curious about codeberg.org as an alternative to Github for opensource work. They had voted on an LLM policy and decided against vibe-coded repos while allowing some AI use. This got me thinking how I want to use AI and if it fit with their policy.\nThe best I could figure is that I like to start with requirements, use AI to discuss and settle on its high level design and specific aspects of its implementation. I may or may not read all the code, but the key thing is even if I didn't read the code in advance, doing so would not be a surprise and I'd know what it was doing and how it was doing it because those were things I decided during the up-front conversations and not left as an open exercise for the AI. And coming back to the codeberg.org vote I can guess that it was elements like these that they wanted to guard. They don't want repos whose owners don't know what the code does in a technical sense or how it's constructed etc. There's likely other things too like seeing text that doesn't read like people wrote it and I find that tiring to read (in a literal way, I get drained from reading too much of it) and endorse minimizing that.\nAnother thought was that my ever long search for better and better programming languages was that if I have a clear vision of what I want the language should have the least friction to write it down. Some languages that feel closer than others were Elm, Elixir, F#/OCaml, Pony, Rust, Kotlin, Go. Only a couple of these are my languages I'd regularly used but would prefer to have my AIs write in them. For web I'd probably also accept Vue, Svelte, or (simple) React. In particular using Go for mini back-ends is particularly effective as the coding style tends to be regular and boring which minimizes differences between human and machine written styles. So in a sense giving specs at multiple levels of abstraction and detail is the perfect high level language I'd been wanting.",
+  "url": "https://news.ycombinator.com/item?id=49992425",
+  "author": "eba3a682838c",
+  "createdAt": "2026-10-07T13:19:53.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49992155",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Shipping JPEG XL in Chrome",
+  "body": ">JPEG-XL is not particularly patent-laden and its license is correct for the use-case.\nThe same could be said for .webm, but Apple refused to support it because they wanted to patent-laden alternative to thrive.",
+  "url": "https://news.ycombinator.com/item?id=49992155",
+  "author": "df492c7231b6",
+  "createdAt": "2026-10-07T13:00:00.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49991732",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Show HN: AstroHelm – Use your phone camera to aim a telescope or telephoto lens",
+  "body": "This looks like a nice alternative to PiFinder. No extra hardware required. https://www.pifinder.io/",
+  "url": "https://news.ycombinator.com/item?id=49991732",
+  "author": "13c5dc9570cc",
+  "createdAt": "2026-10-07T12:19:09.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49991347",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Permanent Daylight Saving Time Could Harm Sleep and Mental Health, Analysis Says",
+  "body": "The _other_ option is to shift, perhaps in two x half-hour stages over a month or longer, but around the equinoxes - the 'standard operating hours' for services and businesses.\nThis is often overlooked as an alternative to shifting everyone's timepiece at the same instant -- I've never understood why there's so much much emotion and/or inertia around clock changes.",
+  "url": "https://news.ycombinator.com/item?id=49991347",
+  "author": "25d774e9fdf4",
+  "createdAt": "2026-10-07T11:40:09.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49989600",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Ask HN: My Apple ID is locked for a week, Apple is a single point of failure",
+  "body": "Interesting read, your experience gave me some ideas to reduce dependency on Apple ecosystem. A few questions:\n1. \"Don't use safari\" Why?\n2. Is there an alternative to \"Find My\" that I can use with AirTag?\nSome of the things, I have done since this experience:\n- Exported all my passwords from Apple Password Manager to BitWarden. Also, now I better understand why my wife was keeping her passwords in a notebook (no service can be trusted).\n- Looking at ways to export Contacts and Notes and sync.\n- Keeping Dropbox storage subscription instead of considering migration to iCloud storage.\n- Dropped the idea of upgrading my iPhone13 and wife's MacBook (light user) to Apple devices.",
+  "url": "https://news.ycombinator.com/item?id=49989600",
+  "author": "fcaa1cf9b450",
+  "createdAt": "2026-10-07T07:47:57.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49989097",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Calling It Quits on ServerFault",
+  "body": "People do still talk about programming online, just not on Stackoverflow.\nI think since AI finally provided a non-adversarial alternative to Stackoverflow it lost the critical mass to be a one stop shop for all tools/languages/projects. So people just reverted to communication forums specific to those tools/languages/projects.\nThere are plenty of project mailing lists, GitHub issues, language forums, blog posts etc. that are still active. E.g. just the Rust users forum gets more than 2-3 posts per day.",
+  "url": "https://news.ycombinator.com/item?id=49989097",
+  "author": "e6f86a7b1073",
+  "createdAt": "2026-10-07T06:32:03.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49988574",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Show HN: Parseable, an open observability datalake, handles 100M time-series/min",
+  "body": "Iceberg is a table format. It adds snapshots and a catalog layer on top of Parquet files. Parseable is a full-stack observability tool. Its storage layer could theoretically use Iceberg as the table format on top of Parquet file format. Iceberg is not a direct alternative to Parseable.",
+  "url": "https://news.ycombinator.com/item?id=49988574",
+  "author": "f6a910f5163d",
+  "createdAt": "2026-10-07T05:23:10.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49987577",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: The era of software quality, or the era of ostriches?",
+  "body": "> any use of Cargo to download dependencies dramatically increases supply chain security risk. \n> Currently the best solution is to not use programming language package managers, but GNOME’s Rust code depends heavily on Cargo.\nThat's what an ostrich would say. How is your manual alternative to manage supply chain any better than this explicit one where transparency is standardised?\n> I don’t want to downplay the severity of security issues either.\nThat's exactly what you're doing\n> Security vulnerabilities are not even the biggest digital security threats ... a distant third place\nDownplaying the 3rd biggest issue\n> Security bugs are just bugs, and they’re not necessarily more important than other bugs.\nDownplaying the danger.",
+  "url": "https://news.ycombinator.com/item?id=49987577",
+  "author": "a8e5d8020e1e",
+  "createdAt": "2026-10-07T03:05:53.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49987149",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Training Text-to-Image Models Without a VAE",
+  "body": "That sounds like an interesting idea!\nCan you confirm I'm understanding correctly?\n1) Linear unpatchify as usual to go from hidden states to pixel space\n2) Attention within a local window (e.g. 3x3, 5x5) to \"blend\" pixel space data and come up with a better image (as an alternative to MLP or Convolution)\nAnd follow up questions:\n1) How do you handle boundaries between your \"attention windows\"? Do you move the window just like a convolution does or are the \"attention windows\" all mutually exclusive from one another?\n2) How much faster/slower is this operation vs. a linear layer + MLP?",
+  "url": "https://news.ycombinator.com/item?id=49987149",
+  "author": "d3305139a2b0",
+  "createdAt": "2026-10-07T02:10:16.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49986749",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
+  "body": "> 1) Agree to production quota of 30 movies per year,\nWhy? Does the population need movies? Who does this even benefit?\n> (2) Domestic spending commitments, and\nNever heard of Hollywood accounting? They have mastery of exploiting loopholes.\n> (3) Separate cable package negotiations.\nWhat's \"cable\"? Is that the 1900's alternative to putting up a TV antenna?",
+  "url": "https://news.ycombinator.com/item?id=49986749",
+  "author": "3ca73797921f",
+  "createdAt": "2026-10-07T01:25:21.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49986233",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Account bans on Reddit",
+  "body": "Try here: https://goatmatrix.net/ It is an alternative to Reddit.",
+  "url": "https://news.ycombinator.com/item?id=49986233",
+  "author": "4bc56797060a",
+  "createdAt": "2026-10-07T00:30:27.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49986141",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: OpenTPU – An open-source AI accelerator, developed by AI",
+  "body": "That goes in circles though.\nIgnore the fact that we are human and thing our ingenuity is unique. Is definitionally linking human ingenuity and creativity useful when trying to compare to others?\nI could say earth is habitable so any other planet must prove it is similar to earth to be habitable. That simply doesn't matter, though, if different environments could lead to similarly complex living systems regardless of atmospheric makeup, precense of liquid water, etc.\nI'd argue the burden is on you to prove that the definition you propose is meaningful beyond our own hubris, rather than expecting an alternative to now have to prove that the hubris was unjustified.",
+  "url": "https://news.ycombinator.com/item?id=49986141",
+  "author": "6631950a46a6",
+  "createdAt": "2026-10-07T00:18:53.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49986109",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
+  "body": "I watch Youtube on a Chromecast using the SmartTube app, which is a 3rd party front-end (side-loaded APK) for Youtube that eliminates all the ads, and lets you configure practically everything. Don't like \"shorts\", just disable them and they are gone. That's the main reason I sought out an alternative to the Youtube app, I hated the shorts and there was no way to get rid of them in the Youtube app.\nI used to pay for a Youtube subscription to get rid of the ads, but that doesn't include the in-video ads that content creators put in there - but SmartTube has that covered too, in most videos I watch the in-video ads are skipped too. I have 5 chromecasts on the 5 TVs around my house, and every one of them has SmartTube installed. I wouldn't want to watch Youtube without it.\nhttps://github.com/yuliskov/SmartTube/releases",
+  "url": "https://news.ycombinator.com/item?id=49986109",
+  "author": "d5d86f9d57e3",
+  "createdAt": "2026-10-07T00:15:52.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49985948",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Gleam doesn't compile to Erlang source anymore",
+  "body": "> you can use map and the foldl/foldr reducers\nYa, I was saying as an alternative to a more dynamic-looking loop. And I should note that `for` is confusing in Elixir because it is not a for loop, it's a list comprehension. Also, `<-` is actually a match operator and can cause confusion if you think of it as a for loop. I'm actually not sure why they went with `for`. At one point it was `lc`. I do think `for` is better than `lc`, heh.\nBut yes, I don't hate reduce, but I do try and avoid it in favour of a higher level version if its available. My only real problem with reduce is that I sometimes forget the parameter order, which is why I like using list comprehensions since the accumulator gets labelled.",
+  "url": "https://news.ycombinator.com/item?id=49985948",
+  "author": "5365c174b433",
+  "createdAt": "2026-10-06T23:58:00.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49985318",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Adobe Creative Suite Cleanroom Port to Rust",
+  "body": "I think this would be the defacto open source alternative to Adobe for the following reasons:\n1. it's a rust based desktop app and not based on electron.\n2. it's cross platform - available on win, mac, linux and wasm.\n3. it's a suite of apps and not just a photoshop clone.\n4. it's free and open source.\n5. it looks good.\n6. it's amassing a community of contributors.\nThere are other photoshop clones around but none with the ambition and scale of this project.",
+  "url": "https://news.ycombinator.com/item?id=49985318",
+  "author": "49da845f38e8",
+  "createdAt": "2026-10-06T22:54:28.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49985216",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Ask HN: How would you feel if we nationalized Google?",
+  "body": "I'd be opposed to nationalizing Google. There are way too many downsides.\nI think, if we're going to be heavy-hitting about this, the more proper thing to do is to force Google to split their search off as a separate, independent company that has additional business requirements imposed on it to rectify the issues.\nBut I really think that, if search is the worry, the market will eventually achieve its own kind of balance and you'll find an acceptable alternative to Google's that restores much of what has been lost. For me, that's already the case.",
+  "url": "https://news.ycombinator.com/item?id=49985216",
+  "author": "dc3723d4452c",
+  "createdAt": "2026-10-06T22:44:56.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49985194",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days",
+  "body": "Some farm subsidies are necessary to stabalize food production against yeild variability. It is the only alternative to a mass granery system which has historically failed many cities and nations. Yearly yields can be 30% off your prediction due to normal weather patterns and only even out over decades.\nAll that said, many crop subsidies are horribly mismanaged and selectively targeted for political reasons.",
+  "url": "https://news.ycombinator.com/item?id=49985194",
+  "author": "53e8d0092422",
+  "createdAt": "2026-10-06T22:42:27.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49984717",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Penguin Mail – open-source Rust email client for Linux with AI",
+  "body": "Penguin Mail is a mail and calendar app for Linux, written in Rust with GTK 4 and libadwaita. It's designed to be a lightweight, privacy-first alternative to Thunderbird or GNOME's built-in email.\nWhat it does:\n• Aggregates Gmail, Microsoft (Outlook/Hotmail/Microsoft 365), Fastmail, iCloud, Yahoo, and any IMAP/POP3 account into one inbox\n• Calendar support for every account (Google Calendar, CalDAV)\n• Contacts with CardDAV integration\n• OpenPGP and S/MIME signing/encryption — keys never leave your machine\n• Gmail-style categories bar (Primary, Updates, Promotions, Social)\n• Send Later, Undo Send, templates, Markdown compose\n• A built-in AI assistant that can summarize threads, draft replies, manage rules, and search calendars. It runs on a local model (Ollama/LM Studio), an Anthropic API key, or Claude Code — you pick per job\n• Remote content blocked twice (WebKit filter + CSP), JS off by default\n• Runs in the tray at ~55 MB\nIt's GPL-3.0 and available as .deb, .rpm, Arch package, snap, tarball, and Flatpak. Not on Flathub yet — that's next.\nWe built it because existing Linux email clients felt bloated or didn't respect privacy. The AI assistant is a nice-to-have but not required — the app works great without it.\nFeedback welcome: install experience, missing features, anything confusing. Happy to answer questions about the Rust/GTK4 architecture too.",
+  "url": "https://news.ycombinator.com/item?id=49984717",
+  "author": "72e582f9a907",
+  "createdAt": "2026-10-06T21:59:43.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49983323",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Show HN: OpenChart – OSS TradingView alternative with your own AI agent",
+  "body": "I really need an open-source alternative to TradingView, ideally something that can run locally. Now got it, thanks :)",
+  "url": "https://news.ycombinator.com/item?id=49983323",
+  "author": "1269e6b7450c",
+  "createdAt": "2026-10-06T20:05:16.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49982997",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Show HN: 0Sql – Semantic Layer as a Service",
+  "body": "We pulled out the semantic layer from our other app (Strata.do) and made it a standalone service. Now anyone can build data apps with an integrated deterministic, secure, and fast query layer.\nHow it works:\n1. Use the zsql cli to build your model locally\n2. zsql deploy (self hosted versions soon)\n3. Post a query spec to your projects end point\n4. Get back SQL\nWe never connect to your data warehouse or see any actual data. We only see your model and generate valid sql's.\nThis is an alternative to using Cube, MetricFlow, Semantic Views, and various other solutions. See our comparison table for the key differences: https://www.0sql.io/#compare\nThanks for checking it out! What do you think??",
+  "url": "https://news.ycombinator.com/item?id=49982997",
+  "author": "1e080631dac7",
+  "createdAt": "2026-10-06T19:36:55.000Z",
+  "engagement": {
+   "score": 6,
+   "comments": 1
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 35,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49982700",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Adobe Creative Suite Cleanroom Port to Rust",
+  "body": "Wow! This actually gives a pretty promising alternative to GIMP on Linux. I was resigned in my fate to just deal with the awkwardness of GIMP and Inkscape after years of the creative cloud suite. It is clearly missing much at the moment, but if they can keep going this would be amazing. All packaged as AppImages so no need for the persistent junk running on the system.",
+  "url": "https://news.ycombinator.com/item?id=49982700",
+  "author": "8570ac8381d8",
+  "createdAt": "2026-10-06T19:11:34.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49982315",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: The complement of true is true, except when it's false",
+  "body": "Null and zero are synonymous, but null is preferable when used as an adjective and zero is preferable when used as a noun.\nThere are 2 words for the same concept because \"null\" comes from Latin, while \"zero\" comes from Sanskrit through Arabic.\nEtymologically, \"null\" means \"not even one\" (by being a diminutive form of \"not one\").\nThe use of \"null\" in some programming languages to mean things like \"undefined\", \"not applicable\" or \"nothing\" is incorrect. For those the right choice is NIL, as in LISP (NIL means nothing).\nWhile LISP had made the right choice by using NIL, it made later the mistake of calling NULL the predicate that tests if something is NIL. That predicate should have been called something like \"is_nil\".\nWhen C.A.R. Hoare had introduced the word \"null\", he applied \"null\" to references, i.e. to pointers, not to the things pointed by those pointers. So a \"null\" pointer, whose value is zero, points to NIL, i.e. to nothing, and this is an alternative to devising an encoding for the things that are pointed to, where a special value is reserved to encode NIL (like the Not-a-Number values of floating-point numbers).",
+  "url": "https://news.ycombinator.com/item?id=49982315",
+  "author": "e0a8f6eb7616",
+  "createdAt": "2026-10-06T18:37:02.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49981088",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+  "body": "I'm curious...isn't the name `ghost` an infringement between ghost, the app / CMS alternative to WordPress and this project?\nhttps://ghost.org/",
+  "url": "https://news.ycombinator.com/item?id=49981088",
+  "author": "6d132db990d8",
+  "createdAt": "2026-10-06T16:53:48.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49980399",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Show HN: Durable Actors – OSS Durable Objects with configurable compute",
+  "body": "We've built Durable Actors, an open-source alternative to Cloudflare's Durable Objects.\nA Durable Object/Actor is a tiny server that handles one request at a time and has its own SQLite database. There's exactly one of each in the world and it is addressed by name.\nThis is the perfect primitive for deploying multiplayer agents. Each agent can have its own Durable Actor, and each user can connect to that Actor via websocket. This is fully horizontally scalable. Your users can deploy and share agents at will without putting pressure on a central DB or websocket server.\nDurable Actors are also great for coordinating agents within a system. Since only one request is handled at a time, you can protect critical data such as a CRM and allow multiple agents to run concurrently without worrying about data races.\nThe only alternative to this is Cloudflare's Durable Objects. However, there is extreme lock in (they pull you into D1, R2 + workers as well) and it wasn't originally built for agentic workfloads when it was released 5 years ago.\nSome notable projects built on Durable Objects include RampInspect, OpenInspect as well as the multiplayer frameworks Liveblocks and PartyKit. You can now build these kinds of projects on Durable Actors.\nDurable Actors is a version of DO that is built for concurrent agentic workloads. It is fully open source (MIT License) and includes a helm chart for you to easily self-host.\nSome key features:\n- Configurable compute: Specify CPU, RAM, data residency, idle-timeouts all in a decorator\n- No outer worker: We generate a type-safe client that you can just plug into your existing tech stack.\n- (coming soon, like today) Export SQLite table via CLI + MCP for exposing OLTP logs to your agent to help you debug.\nAnd our Performance Numbers (all p95):\n- Durable write: 85.6ms\n- Stateful Read (data in sqlite): 2.14ms\n- Actor Warm up: 334ms\nHere is a little counter demo so you can see the latency yourself: https://demo.useterse.ai/\nWould love your feedbac…",
+  "url": "https://news.ycombinator.com/item?id=49980399",
+  "author": "331e2c0cbb22",
+  "createdAt": "2026-10-06T15:58:19.000Z",
+  "engagement": {
+   "score": 1,
+   "comments": 0
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 28,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49978258",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Mistral Large 4",
+  "body": "A strong competitor in cybersecurity as an alternative to GLM-5.3 (Mistral reports 82% on CyberGym-E2E). Visual grounding is also impressive (42% on Dense 200 vs. 41% for GPT-6 Astra).\nOtherwise, behind on the broader Pareto frontier, but not by much (Vals Index: 48.05% vs. GLM-5.3’s 53.51%; $13.78 vs. $7.25 per test). Many companies will prefer it over Chinease models.",
+  "url": "https://news.ycombinator.com/item?id=49978258",
+  "author": "8daef28f8513",
+  "createdAt": "2026-10-06T13:36:02.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49981364",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Accountability mechanisms can be joyful (2024)",
+  "body": "Citation not required; the premise is not required to be true because the conclusion is independently verifiable (albeit overstated): \"we’ve built an ecosystem for ourselves that is predatory to every single one of our desires and weaknesses\"\nBut I'm not sure the attention economy is different in this respect from civilization's traditional franchises: the hope and protection rackets run by religion, governments, militaries, businesses, etc. We've been trading beer for labor in the oldest recorded history and probably before. But how would understanding that help?\nSo: not \"citation needed\", but back to TFA: can {proposal-x} help liberate people from predation (and self-destruction)? It's fruitless to wish there were no predatory human systems or realize everyone's out to get you; the question is how to cope.\nThe commenter is suggesting that counter-programming might not be the answer to programming. I would go on to suggest deprogramming, reducing the reactivity of any reward system, and then targeting the deepest values. Traditionally this is occasioned by failure (as a lesson) or getting old (heeding the older wise elders), or breaking the ego (in recovery, severe trauma (war, moral injury), etc.) so it's mostly a no-go zone, but in rare cases of excellent therapy or practice or great relationships one can make progress.\nTracking systems (joyful or otherwise) I think help not in the day-to-day reward hacking (any drug results in resistance) but to give a concrete picture of the value of time and habit: when I well and truly realize how little I do actually contributes to my/y/our future, I am motivated to really look backwards from the future.",
+  "url": "https://news.ycombinator.com/item?id=49981364",
+  "author": "52152248485f",
+  "createdAt": "2026-10-06T17:14:01.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "wish there were"
+  ]
+ },
+ {
+  "id": "hackernews:49988050",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Meta’s Muse is an adorable privacy and security dumpster fire",
+  "body": "I agree with this, but I’m wondering where these self managed platforms are for the average person who doesn’t want to spend hours fixing OpenClaw upgrades. Surely there has to be an easy to use Muse/Dots/GrokBot self hosted solution for the privacy conscious?",
+  "url": "https://news.ycombinator.com/item?id=49988050",
+  "author": "55986e2bc411",
+  "createdAt": "2026-10-07T04:08:53.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "spend hours"
+  ]
+ },
+ {
+  "id": "hackernews:49989757",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days",
+  "body": "This idea gets brought up every time someone suggests adding regulations to prevent some harm large companies are doing—no matter how common-sense, no matter how great the harm, if you're adding regulations, that must hurt the little guy more; that must increase monopolization.\nSo I gotta ask:\nWhat solution would you actually propose?\nDo you genuinely think that the system as it exists today is the best it could ever possibly be?\nDo you think we should be removing regulations? Sure, that would mean that big companies have even more freedom to ruin our roads and wreck our health, but hey, maybe an extra 3% of small businesses might be able to become profitable!\nBecause I'm pretty sick of people pushing the idea that any change we make to improve things is necessarily going to backfire and we're just too stupid and naïve to see it.",
+  "url": "https://news.ycombinator.com/item?id=49989757",
+  "author": "eb3807a5e0ee",
+  "createdAt": "2026-10-07T08:10:29.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49988055",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Former German spy chief arrested for attempted treason",
+  "body": "I’m describing what I’m observing on the ground in Europe: a growing segment are sick of the endless slaughter by Western entities and indeed by their own nations involvement in atrocious wars, resulting in an inundation of refugees. It’s not just Ukraine - its all war.\nIt is Western wars producing the conditions for 35 million war refugees to flood the worlds borders.\nDo you think all Germans are ignorant of what the warmongers in their state have contributed to the situation in Gaza? And that they are being nevertheless led by those same warmongers into yet more catastrophe?\nA rising segment of the German population are sick of frothy-mouthed warmongers having the podium and recognize that if they don’t change the leadership who brought only war and calamity to the world, it will end in disaster.\nYes, Russia needs better rulers, and yes Russia should face justice for its wars - they won’t get this at the end of a European spear, however. The only people who can do anything effective about Russia, are Russians: Germans understand this very, very well. And they are turning to apply the very same rule to their own state.\nBecause Russia has a long way to go to come even close to the atrocities of Western allies. The USA and its allies are a far, far worse danger to the world, by orders of magnitude. Russia is following the Western lead on war atrocities, and we have, by far, the worst stats of them all.\nWhen we prosecute our own war criminals, only then will we have the moral altitude to jump on Russias case - but not before that happens. The populations of Poland, the Baltics, and Finland may not understand their own states’ culpability for contributing to atrocity - but Germans sure do. (Note: see also, France.)\nIntelligent, informed Europeans know that the only path to peace involves personal responsibility for the war crimes of their own states.\nSo they let their democracies function. Those politicians who promise to rein in the warmongers - whatever else their p…",
+  "url": "https://news.ycombinator.com/item?id=49988055",
+  "author": "053c01fc4455",
+  "createdAt": "2026-10-07T04:09:29.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49983817",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: A sustainable web career, for when all this blows over",
+  "body": "The point isn't that React is dead tech. React is practically every AIs front-end library of choice. I think the idea is AI is too good at it and you won't get a good ROI learning it. Learn fundamentals instead and when folks get sick of React because AI loves it, you'll be ready.",
+  "url": "https://news.ycombinator.com/item?id=49983817",
+  "author": "c9c539e81f8a",
+  "createdAt": "2026-10-06T20:43:52.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49981595",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Meta’s Muse is an adorable privacy and security dumpster fire",
+  "body": "> I’m pretty frustrated with Muse and the last thing I want to be doing with my free time is defending Meta\nThen don't.",
+  "url": "https://news.ycombinator.com/item?id=49981595",
+  "author": "5cb885878ee9",
+  "createdAt": "2026-10-06T17:31:42.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "frustrated with"
+  ]
+ },
+ {
+  "id": "hackernews:49979930",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Meta’s Muse is an adorable privacy and security dumpster fire",
+  "body": "I’m pretty frustrated with Muse and the last thing I want to be doing with my free time is defending Meta, but this is such clickbait.\nPoint by point:\n> “OMG you can jailbreak it and get it to spill its VM”\nThis is the whole point; any content on the VM is yours. It runs in an isolated sandboxed VM separate from stored credentials etc; this is effectively your own computer. You don’t have to trick it.\n> It collects dossiers on your contacts\nThese are more text files that live on your private VM, alongside memory.md, etc. Do you want your secretary to forget every person you contact every day?\n> It accessed Messages without full disk access\nThis whole story never made sense or was substantiated. Full disk access is an OS level security boundary; the user had to switch this on.\n> It sold some guys stuff for too cheap and gave out his address\nOK this one I basically believe, haha. Because this is the problem with Muse: the LLM is just too dumb to perform complex tasks effectively in many cases.",
+  "url": "https://news.ycombinator.com/item?id=49979930",
+  "author": "05e41ddd30d9",
+  "createdAt": "2026-10-06T15:25:14.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "frustrated with"
+  ]
+ },
+ {
+  "id": "hackernews:49979057",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Show HN: RigMark benchmarks local AI the way coding agents use it",
+  "body": "Having been frustrated with benchmaxxing figures shared on X (as described here: https://blog.alexellis.io/how-and-why-we-bought-4-dgx-sparks...), I developed an independent benchmark to get stable and comparable numbers for Prose, Code and Structured output, plus Prefill.\nI didn't expect it - but the majority of folks building recipes for DGX Sparks on X/Twitter are now adding/using RigMark as one of their primary benchmarks when sharing figures.\nWe've gone from a random claim of \"I get 65-80 tok/s with this model\" to actual receipts that can be traced back to a particular SHA/version of RigMark.\nWe're on the third version now, and PRs / feedback is welcome.\nWhere I think we could all use some help going forward is on quality - running local AI sometimes means using compression of weights, which is lossy.",
+  "url": "https://news.ycombinator.com/item?id=49979057",
+  "author": "f77e40fc9e39",
+  "createdAt": "2026-10-06T14:27:54.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "frustrated with"
+  ]
+ },
+ {
+  "id": "hackernews:49978384",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Ask HN: What models and harnesses are you using that are not Claude or Codex?",
+  "body": "Obligatory - everyone should try Pi. I've been using it since I came across it via the excellent https://stencil.so/blog/the-harness-problem blog in December.\nAfter being a Claude-hater for the last few months, frustrated with weird verbosity and slow churning response, not to mention dealing with a full-organisations worth of shared skills and giant CLAUDE.md docs slowing everything down - super-light Pi is a delight.\nEven still, I normally delete every package, skill and agent.md and start configuring again when a new class of model (Astra/Fable/5.5) comes out - I get amazing results with Kimi K3 in Pi. I really really love pi lol.\nOther than quite liking Codex desktop now... I also recommend everyone tries building a harness of some sort. Vercel Eve is really fun to play with if you have a Vercel account and consider that a type of harness, or at the very least build a control-plane/UI for a harness on top of the Pi RPC SDK which is incredible.\nI personally have a custom web ui powered by diffs.com and drag and drop \"pipelines\", where I can orchestrate steps instead of skills (although they're basically skills) + custom compaction and summary relay between the steps with a small fast model.\nI also have iOS/Android apps that look like Trello boards, which communicate over Cloudflared/Tailscale to a thin Pi server that provides github integration and some custom tooling to render \"ask user\" prompts and co-ordinates worktrees and PR creation.\nhttps://fx.sh is also cool.\nAll in all - use your spare tokens to build and try harnesses, build alternate harness UIs, and build alternate workflow co-ordinators away from just \"/invoke-skill\" or a TUI-based chat.",
+  "url": "https://news.ycombinator.com/item?id=49978384",
+  "author": "e5293758882a",
+  "createdAt": "2026-10-06T13:44:02.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "frustrated with"
+  ]
+ },
+ {
+  "id": "hackernews:49989283",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: State of Devs 2026",
+  "body": "What does that even mean? People are deciding to have kids because they believe it's too expensive, full stop. What's your counterclaim - they're bad at math and could afford it but think they can't? That if you forced a child on them they could actually suffer through it?",
+  "url": "https://news.ycombinator.com/item?id=49989283",
+  "author": "01be67ed6d17",
+  "createdAt": "2026-10-07T06:56:58.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49987922",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: State of Devs 2026",
+  "body": "Share your data and what's \"worse\". Again, we've polled people and they're literally telling us it's too expensive.\nThe cost of raising a child is enormous. It's dramatically higher than it was 30 years ago, and astronomically more than a century ago. I've known multiple households with dual 6 figure incomes where one quit their job to be a stay at home parent because the cost of childcare was comparable to the reduction in income.\nThe cost in time is just as bad - no more \"go outside and don't come back until dinner\", now if you let your kids walk down the street to school/the park your neighbors will call CPS on you, so you have to pay attention all the time.\nRent/mortgages are way up. The cost of food is way up. The cost of education is way up.",
+  "url": "https://news.ycombinator.com/item?id=49987922",
+  "author": "01be67ed6d17",
+  "createdAt": "2026-10-07T03:51:30.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49987211",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: State of Devs 2026",
+  "body": "> Nah, I don't buy for a second the reason is economic.\nMass Mutual, 2024: Of those surveyed who plan to remain child free, 43% cited “inability to afford children”[0].\nPew, 2024: Of those who feel it is unlikely that they will have children, 41% of people under 40 cited “can’t afford it” as a reason they are not having children, versus only 22% for those 40+[1].\nMorning Consult, 2020: 41% of adults without children cite “it’s too expensive to raise children” as a reason; 24% say it is a “major reason”.[2]\nBadCredit.org, 2024: 86% of adults who have delayed having children did so for financial reasons[3].\nThe Morning Consult survey may be particularly useful if you want to look at just one, because it has more granular age cohort breakdowns which show a clear trend for younger people not having children for financial reasons.\n[0] https://www.massmutual.com/global/media/shared/doc/q3_2024_m...\n[1] https://www.pewresearch.org/social-trends/2024/07/25/reasons...\n[2] https://assets.morningconsult.com/wp-uploads/2020/09/2806512...\n[3] https://www.badcredit.org/studies/plans-to-have-children-in-...",
+  "url": "https://news.ycombinator.com/item?id=49987211",
+  "author": "0fa3e37a6cce",
+  "createdAt": "2026-10-07T02:17:53.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49987066",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: State of Devs 2026",
+  "body": "You can deny it all you want, or you can ask people why they're not having kids.\nhttps://www.pewresearch.org/social-trends/2024/07/25/reasons...\n33% say \"not finding the right partner\". Everything being too expensive such that we're working all the time and don't have any down time is a huge part of that. Economics play into leisure time, stress, and things that kill relationships and the desire to have sex/kids.",
+  "url": "https://news.ycombinator.com/item?id=49987066",
+  "author": "01be67ed6d17",
+  "createdAt": "2026-10-07T02:01:13.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49985750",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Sharing AI progress in mathematics",
+  "body": "Which mathematicians though? Only fields medalists? Grad students? Any hobbyist wanting access?\nThese models are too expensive for broad access unfortunately.",
+  "url": "https://news.ycombinator.com/item?id=49985750",
+  "author": "69afe676879b",
+  "createdAt": "2026-10-06T23:38:02.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49983203",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: First enhanced geothermal power plant completed in just 23 months",
+  "body": "Only in some regions that’s enough. A lot of regions have winters where solar output is greatly diminished and wind can stop for days. Batteries are too expensive to store electricity for days to weeks. On top of that you have higher demand if you have electrified space heating.",
+  "url": "https://news.ycombinator.com/item?id=49983203",
+  "author": "e61a5565f0c7",
+  "createdAt": "2026-10-06T19:53:03.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49988662",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Decisions API is in public beta",
+  "body": "Overpriced crap, local models are better than this, it's also dumber than Luna for some reason, and Jev is definitely ~2-3x cheaper than this.\nI am sure people will be able to use it, but if LLM progress is anything like before we will have Jev 2 in about a month.\nTraining a local model like Jev with some learnings that can be extremely cheap to host shouldn't take that long either.\nSo I honestly don't see the point of this, other than to put something out.\nAlthough that does seem like OpenAI's strength turn around slop products and iteratively improve and try to out compete others in everything.\nOnly 2 things they have clearly given up on are Video models(no moat, copyright nightmare) and Music.\nAnd it makes sense why. I feel like they will compete with even the no-name Dog, if the Dog launched a successful marketing video of an AI product.\nI have seen this often in SF startups, heck I work for them, but man this is extreme.\nBut honestly all I see are long term price wars, I don't understand how this is a sustainable business strategy.\nOr maybe that's the point... Who knows.",
+  "url": "https://news.ycombinator.com/item?id=49988662",
+  "author": "981b56669ce2",
+  "createdAt": "2026-10-07T05:32:37.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:49980764",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Mistral Large 4",
+  "body": "Without exaggeration, given a choice between models, I would pay for Mistral's model over Anthropic's based on the name alone, completely ignoring features or other technical considerations. The name is playful and is such a refreshing contrast to Anthropic's (and OpenAI's) doomsaying, scaremongering, and god-posturing.",
+  "url": "https://news.ycombinator.com/item?id=49980764",
+  "author": "ca32718dea8c",
+  "createdAt": "2026-10-06T16:28:14.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 10,
+  "matchedPhrases": [
+   "i would pay"
+  ]
+ },
+ {
+  "id": "hackernews:49987340",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Vibecoding Photoshop: Time and pressure",
+  "body": "+1 from another Photopea user here.\nAnd at 8 Euro a month I can't quite justify the Photopea premium plan.\nI use it enough I would happily pay say $50 for a self-hosted single user license that will not get updates. But not 8 euro a month forever.\nI am finally forcing myself to un-learn the decades of Adobe muscle memory and replace it with gimp/krita. Or maybe I'll vibe up something that does exactly what want and nothing more; bespoke one-off tooling is just so easy to do now.",
+  "url": "https://news.ycombinator.com/item?id=49987340",
+  "author": "3c467244d2ea",
+  "createdAt": "2026-10-07T02:32:57.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 10,
+  "matchedPhrases": [
+   "would happily pay"
+  ]
+ },
+ {
+  "id": "hackernews:49989386",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+  "body": "Headspace without being tracked and having data brokers cross reference \"anonymized\" (sic! word wasn't in keyb. dict) info on when I meditate, using which program etc.?\nHeadspace updated it's privacy policy info recently, which got me to have it checked with an LLM. And it turns out that what you're doing on $100 per year meditation app is still being sold to anyone willing to pay. Using headspace lost it's charm. I wonder if Andy ever agreed to this.",
+  "url": "https://news.ycombinator.com/item?id=49989386",
+  "author": "2a916db12f39",
+  "createdAt": "2026-10-07T07:13:41.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 10,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49987632",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: OpenTPU – An open-source AI accelerator, developed by AI",
+  "body": "DRAM seems to sit in the economic sweet spot of density and bandwidth. I'm not sure if any other storage technology can provide non-volatile or one time programable storage with either the same density and bandwidth. Although I must say, it seems insanely wasteful to use RAM to store model weights, there must a better solution.\nThe closest anyone has gotten is Cerebras with their Wafer Scale Engine. It uses SRAM embedded with the compute. A single chip is an entire wafer, but the headline spec, how much ram, only 44GB, which is tiny for the silicon area used.\nI understand traditional IC production workflows are ludicrously expensive, and glacially slow, but surely at some point the economics are going to tip in favour of mask rom.\nSay you setup your foundry/packaging/ai chip facility. You come up with a new set of model weights. Run your CI/CD pipeline to produce a new mask output. The only thing you've changed are the assignments of the bits, this is extremely low risk change. The new masks should be completely interchangeable with the current process.\nYou produce the new masks, swap them into your foundry process, and all of a sudden your new chips have the latest version of the model. This would probably manifest itself in the form of inference providers having yearly / bi-yearly \"updates\" to their models as new hardware is brought online.\nTiered subscription levels would gate keep access to the latest and greatest model, cheaper subscriptions will be limited to older versions of the model, and so on, until running the hardware is no longer economically viable (no demand/running costs exceeding what the market is willing to pay).",
+  "url": "https://news.ycombinator.com/item?id=49987632",
+  "author": "baa5183b28cc",
+  "createdAt": "2026-10-07T03:12:12.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 20,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49987241",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Spending on AI is becoming almost impossible for businesses to budget",
+  "body": "Are any forward thinking companies allowing employees to use their own money for tokens? e.g. there is a budget of $500 per month but the employee can choose to pay another $1000 for that month from their own funds. In many industries where there is high bonus incentive, at least some employees will choose to do that so they can get more bonus based on additional work/results they can get.\nI would do it myself if given a chance. I would spend a sizable chunk, say up to $2000 per month if this is allowed. I do value my time way more than that and if I can save time using AI that the company is not willing to pay for, I will gladly do that.",
+  "url": "https://news.ycombinator.com/item?id=49987241",
+  "author": "ec2ae711be71",
+  "createdAt": "2026-10-07T02:22:16.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 20,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49983197",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Mistral Large 4",
+  "body": "In practice it _might_ still save you, if the country is willing to pay annual fines to the EU for not implementing some law or policy. But communication tools are always at least a 2 way thing, where you communicate with someone else. If that someone else has their chats leaked due to living in another EU country, where chat control is implemented, then even your constitution will not protect you.\nScenarios like these make me consider, whether one day I need to vote for my country to also leave the EU, as it might become a surveillance nightmare. The moment chat control impacts me and my chats on my devices, I think I will have had enough of this. But the economic consequences are scary of course. So damned if you leave and damned if you don't. Sucks.",
+  "url": "https://news.ycombinator.com/item?id=49983197",
+  "author": "9eb312ba325d",
+  "createdAt": "2026-10-06T19:52:37.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 10,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49980969",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+  "body": "What margin does a business “deserve”? If people are willing to pay it, what do you expect to happen?",
+  "url": "https://news.ycombinator.com/item?id=49980969",
+  "author": "a22fc44fa11e",
+  "createdAt": "2026-10-06T16:43:36.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 10,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49979941",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Vibecoding isn't as fun as writing code by hand",
+  "body": ">Nobody.\nDidn't you just accuse someone above of not enjoying coding as if that's somehow a must?\n>But everyone is saying that I must stop coding by hand or get left behind.\nNobody here is saying that. People are saying whether you enjoy coding or not, doesn't matter for the end product if it does the job just as well. When people buy an iPhone, a pair of Nikes, or some other China made nicknack off Amazon, they don't care if the factory workers who assembled it enjoyed their time on the assembly line making stuff for you, or if they're sweatshop workers assembling your stuff in absolute pain and misery, they care if the end product in their hand satisfies them.\n>I really like understanding what I'm building and creating works of art in code.\nIs passionate code something customers are willing to pay a premium for versus the AI written one, or do customers only care about the end product and nobody gives a shit if it was vibecoded or whether you poured your soul in the code?",
+  "url": "https://news.ycombinator.com/item?id=49979941",
+  "author": "788254a28d0a",
+  "createdAt": "2026-10-06T15:26:01.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 10,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49987765",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=49987765",
+  "author": "56c2c2eed115",
+  "createdAt": "2026-10-07T03:30:44.000Z",
+  "engagement": {
+   "score": 37,
+   "comments": 10
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 46,
+  "matchedPhrases": []
+ },
+ {
+  "id": "hackernews:49979793",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: OpenChart – OSS TradingView alternative with your own AI agent",
+  "body": "Hi HN, I'm Weilun, cofounder of OpenChart.\nWe built OpenChart because we wanted Claude and Codex to interface with the markets, like most of humans do, through charts rather than through CLIs.\nWith your existing AI plans, your agent can work directly with your charts: annotate a setup, write an indicator, investigate a market move, or create an alert. The chart, conversation, and research live in the same workspace.\nOpenChart alerts on any market move: draw any shape on a chart and attach an alert. When price crosses it, the alert triggers your agent to investigate the move and save the research in your workspace. The agents can work with charts, indicators, and alerts. Custom indicators and alert conditions are written in [Tea](https://github.com/longsurf-ai/tea), a programming language we built for the markets.\nWe believe software shouldn’t impose artificial friction on your workflow. OpenChart is built on that belief with no software cap. The source code is publicly available, and you can use free market data from day one. We also offer optional paid cloud market data for lower latency.\nEverything is private. Your charts, research, and indicator code are stored on your own computer, with the app's backend running locally too.\nWe currently support only macOS on Apple Silicon, but we're expanding to more platforms.\nWebsite: https://openchart.co/\nDownload:\nhttps://downloads.longsurf.ai/openchart/darwin/arm64/OpenCha...\nWe built OpenChart because we want to explore how assets can be co-manages by agents and humans. I'd especially like to hear how you are using agents to help with your investment journey.\nIf you like what we're building, a star on GitHub would mean a lot to us: https://github.com/longsurf-ai/openchart",
+  "url": "https://news.ycombinator.com/item?id=49979793",
+  "author": "61305042f5dc",
+  "createdAt": "2026-10-06T15:16:45.000Z",
+  "engagement": {
+   "score": 43,
+   "comments": 19
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 47,
+  "matchedPhrases": []
+ },
+ {
+  "id": "hackernews:49978595",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+  "body": "I am a film photographer and do some darkroom printing and always wanted one of the proper, advanced f-stop timers, but never really wanted to spend a couple hundred dollars on one. Eventually I figured my phone was already perfectly capable of doing the timing, it just needed a way to switch the enlarger.\nSo I built Darkplug around a cheap smart plug. The app controls the enlarger over the local network and does regular timing, f-stop timing, test strips, has an intuitive dodge/burn workflow, split grade (2 timing channels) and paper development timing.\nI’ve been using it for a few months in my improvised bathroom darkroom.\nFair warning: the app was blindly vibe coded using Codex and Xcode.",
+  "url": "https://news.ycombinator.com/item?id=49978595",
+  "author": "662d5894b074",
+  "createdAt": "2026-10-06T13:58:07.000Z",
+  "engagement": {
+   "score": 83,
+   "comments": 35
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 52,
+  "matchedPhrases": []
+ },
+ {
+  "id": "hackernews:49978171",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=49978171",
+  "author": "7324fc3931fd",
+  "createdAt": "2026-10-06T13:30:50.000Z",
+  "engagement": {
+   "score": 84,
+   "comments": 23
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 52,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1396939768",
+  "source": "github",
+  "kind": "tool",
+  "title": "oil-oil/oil-ui — 986★",
+  "body": "Push AI UI design to its limits: explore distinct directions, compare them side by side, and refine against real screenshots. 把 AI 的 UI 设计能力推到极限。",
+  "url": "https://github.com/oil-oil/oil-ui",
+  "author": "31900ff65f10",
+  "createdAt": "2026-09-30T03:55:35Z",
+  "engagement": {
+   "stars": 986
+  },
+  "tags": [
+   "claude-code",
+   "Python"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1390867091",
+  "source": "github",
+  "kind": "tool",
+  "title": "Jakeschincariol/arena-skill — 326★",
+  "body": "When Claude keeps giving you bad answers, make 100 versions of it fight to the death. Same task, 100 different strategies, a bracket, one answer left. Free Claude Code skill.",
+  "url": "https://github.com/Jakeschincariol/arena-skill",
+  "author": "bcf2343521e4",
+  "createdAt": "2026-09-27T13:20:04Z",
+  "engagement": {
+   "stars": 326
+  },
+  "tags": [
+   "claude-code",
+   "Python"
+  ],
+  "painScore": 62,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1395994653",
+  "source": "github",
+  "kind": "tool",
+  "title": "shader-effects-inc/shaders — 2153★",
+  "body": "WebGPU components for React, Vue, Svelte, Solid, JS & Framer",
+  "url": "https://github.com/shader-effects-inc/shaders",
+  "author": "66e45356a9c2",
+  "createdAt": "2026-09-29T16:36:26Z",
+  "engagement": {
+   "stars": 2153
+  },
+  "tags": [
+   "mcp",
+   "TypeScript"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1386191888",
+  "source": "github",
+  "kind": "tool",
+  "title": "scaleapi/agentenv-framework — 151★",
+  "body": "Creating realistic RL environments requires collaboration between researchers, engineers, and domain experts across many dimensions: artifacts, environments tools, dynamism of the environment, reproducibility, and more. There is no open source framework for building these environments effectively. Until now.",
+  "url": "https://github.com/scaleapi/agentenv-framework",
+  "author": "56e214f1aa08",
+  "createdAt": "2026-09-24T18:52:20Z",
+  "engagement": {
+   "stars": 151
+  },
+  "tags": [
+   "mcp",
+   "Python"
+  ],
+  "painScore": 56,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1390344577",
+  "source": "github",
+  "kind": "tool",
+  "title": "jeonjw85/kenfold — 64★",
+  "body": "Self-hosted memory server for AI agents. Share context across Claude Code, Codex, OpenCode, and ChatGPT over MCP.",
+  "url": "https://github.com/jeonjw85/kenfold",
+  "author": "db6cc5608660",
+  "createdAt": "2026-09-27T07:05:58Z",
+  "engagement": {
+   "stars": 64
+  },
+  "tags": [
+   "mcp",
+   "Go"
+  ],
+  "painScore": 50,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1404192386",
+  "source": "github",
+  "kind": "tool",
+  "title": "rakesh0x/OpenCardboard — 57★",
+  "body": "OpenCardboard — local-first chat-to-edit AI video editor. Your footage never leaves your machine.",
+  "url": "https://github.com/rakesh0x/OpenCardboard",
+  "author": "0b922a7e46a6",
+  "createdAt": "2026-10-04T09:23:43Z",
+  "engagement": {
+   "stars": 57
+  },
+  "tags": [
+   "mcp",
+   "TypeScript"
+  ],
+  "painScore": 49,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1406186206",
+  "source": "github",
+  "kind": "launch",
+  "title": "Convergeflucool/hubspot-crm-download — 50★",
+  "body": "HubSpot CRM — Business SaaS listing. Visit link via SOFTGIT. Third-party; rights belong to original authors.",
+  "url": "https://github.com/Convergeflucool/hubspot-crm-download",
+  "author": "0804fc086816",
+  "createdAt": "2026-10-05T17:58:10Z",
+  "engagement": {
+   "stars": 50
+  },
+  "tags": [
+   "saas",
+   "Python"
+  ],
+  "painScore": 48,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1405965779",
+  "source": "github",
+  "kind": "launch",
+  "title": "GTKottman/mortiflix-oss — 282★",
+  "body": "A motion design studio on your own machine: Claude makes the video step by step, you approve every stage. Bring your own Claude Code or API key.",
+  "url": "https://github.com/GTKottman/mortiflix-oss",
+  "author": "ef9add3e9696",
+  "createdAt": "2026-10-05T15:15:13Z",
+  "engagement": {
+   "stars": 282
+  },
+  "tags": [
+   "ai-agents",
+   "JavaScript"
+  ],
+  "painScore": 61,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1403597414",
+  "source": "github",
+  "kind": "launch",
+  "title": "mariagorskikh/open-instinct — 230★",
+  "body": "Open Instinct: an open-source Instinct. A personal agent you text on iMessage, with its own computer and a trusted network of other agents. Built on Pi, Inkbox, Maritime and Composio.",
+  "url": "https://github.com/mariagorskikh/open-instinct",
+  "author": "db641814f422",
+  "createdAt": "2026-10-03T20:07:59Z",
+  "engagement": {
+   "stars": 230
+  },
+  "tags": [
+   "ai-agents",
+   "TypeScript"
+  ],
+  "painScore": 59,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1385750356",
+  "source": "github",
+  "kind": "launch",
+  "title": "theNetworkChuck/paperclip-guide — 170★",
+  "body": "Companion guide for the NetworkChuck Paperclip video: install Paperclip and build an AI IT department. Every step tested on Paperclip 2026.916.1.",
+  "url": "https://github.com/theNetworkChuck/paperclip-guide",
+  "author": "749e69c1fcc5",
+  "createdAt": "2026-09-24T15:00:59Z",
+  "engagement": {
+   "stars": 170
+  },
+  "tags": [
+   "ai-agents",
+   "TypeScript"
+  ],
+  "painScore": 57,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1391049410",
+  "source": "github",
+  "kind": "launch",
+  "title": "luobosibing2/dsh-jev-plugin — 168★",
+  "body": "Native DeepSeek Harness (DSH) plugin integrating TypeSafe Jev as a System One decision layer for agent selection, supervision, corrections, and approvals.",
+  "url": "https://github.com/luobosibing2/dsh-jev-plugin",
+  "author": "fda99b194a00",
+  "createdAt": "2026-09-27T15:36:12Z",
+  "engagement": {
+   "stars": 168
+  },
+  "tags": [
+   "ai-agents",
+   "JavaScript"
+  ],
+  "painScore": 57,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-066260",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "Somerset Council: Case Management System - Drug and Alcohol Service",
+  "body": "Somerset Council is looking to procure a secure, hosted, fully supported, multi-agency, web-based Information/Case Management System for use by professionals involved in clients’ support for substance misuse.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/094813-2026",
+  "author": "4bf1c84a4bfe",
+  "createdAt": "2026-10-07T14:36:39+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 400000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:tender",
+   "cpv:48000000"
+  ],
+  "painScore": 62,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-078297",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "THAMES WATER UTILITIES LIMITED: Continuous Testing (PTaaS) Service Agreement",
+  "body": "IMPORTANT: Please read this section before deciding whether you wish to register for this event. This section provides you with information regarding the scope of this procurement and details some of the key requirements that a successful applicant MUST be able to deliver.\nThis tender is for a new direct contract for a Continuous Testing supplier to implement and provide a fully governed continuous testing framework for IT covering penetration testing, red/purple team exercises, cyber stress testing, vulnerability discovery and remediation re-testing. The preferred supplier must support red and purple team testing that will include a multi phase continuous testing model (e.g. tag and release), where red team activity transitions into purple teaming upon detection, and findings are shared in cycle while testing continues across subsequent phases. \nThe service must include active collaboration with Thames Water teams during purple team activities, including validation of controls, detection capability, and response processes. \nThe solution must demonstrate clear human oversight across testing, validation, and remediation activities, with automation used to support workflows (e.g. tracking, reporting, prioritisation) but not to replace core testing, validation, or assurance activities.\nThe supplier must support collaborative remediation and retesting, ensuring findings are handed over, validated, and retested with Thames Water teams, with end to end traceability through to clos…",
+  "url": "https://www.find-tender.service.gov.uk/Notice/094688-2026",
+  "author": "ac9403e00034",
+  "createdAt": "2026-10-07T12:22:06+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 2000000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:tender",
+   "cpv:72000000"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-06d6d1",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "Senedd Cymru / Welsh Parliament: Senedd Business Management System",
+  "body": "The Commission is seeking to procure a fully bilingual (Welsh and English) Senedd business management system. The required solution will support functions including, but not limited to, Meeting Management, Senedd Member Management, Issue Management and the Management of Cross-Party Groups. The contract will include the supply, implementation and ongoing support of the solution. \nThe Commission seeks a sustainable, adaptable and supportable solution that can meet its current and future business requirements while providing long-term value, service continuity and the benefits of ongoing product investment.\nSuppliers must demonstrate:\n• successful delivery and operation of solutions with relevant or comparable capabilities; \n• experience supporting parliamentary, legislative, democratic services, governance or similarly complex and regulated environments; \n• an established, supportable and adaptable solution with demonstrable capability relevant to the Commission's requirements; \n• a credible implementation and migration approach; and \n• a clear, realistic and supportable route to meeting the Commission's functional and non-functional requirements\nSuppliers must clearly distinguish between capabilities that are available within the proposed solution, those that will be delivered through configuration, and those that will require product development, customisation or other enhancement. Any such activity must form part of a credible, deliverable and supportable approach to meetin…",
+  "url": "https://www.find-tender.service.gov.uk/Notice/094638-2026",
+  "author": "591e561081ab",
+  "createdAt": "2026-10-07T11:34:15+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 1000000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:tender",
+   "cpv:72000000"
+  ],
+  "painScore": 64,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-07825f",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "[early engagement] Imperial War Museum: IWM Immersive Experience",
+  "body": "At our IWM Lambeth site we are looking at developing and hosting an artistic commission using immersive VR headset technology.\nEstimated value of £1M.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/094610-2026",
+  "author": "16e7ed16e505",
+  "createdAt": "2026-10-07T11:12:42+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 1000000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:planning",
+   "cpv:72212932"
+  ],
+  "painScore": 64,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-07822d",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "Cyngor Sir Ddinbych / Denbighshire County Council: Bwrdd Partneriaeth Rhanbarthol Plant Gogledd Cymru: Adolygiad Gwasanaethau Plant./ North Wales Children's Regional Partnership Board: Childrens Service Review.",
+  "body": "Ar gyfer unigolyn, neu unigolion, neu sefydliad â phrofiad addas a staff sydd â chymhwyster / cymwysterau proffesiynol perthnasol (“yr Ymgynghorydd” / “yr Ymgynghorwyr” / “yr Ymgynghoriaeth”) i ymgymryd ag adolygiad o Wasanaethau Plant yng Ngogledd Cymru.\nYng Nghymru, nodwyd effaith pandemig COVID-19 ar iechyd meddwl plant a phobl ifanc fel blaenoriaeth gan y Comisiynydd Plant yn ei adroddiad ‘Coronafeirws a Fi’ ac fel rhan o Gynlluniau Ail-greu ar ôl COVID-19 gan Lywodraeth Cymru. Mae iechyd meddwl yn faes eang, ond mae pwysigrwydd cefnogaeth effeithiol ar gyfer argyfwng iechyd meddwl i blant a phobl ifanc wedi cael ei amlinellu yn ‘Strategaeth Iechyd Meddwl a Lles 2025 i 2035’, ac ‘Atal hunanladdiad a hunan-niweidio: strategaeth a chynllun cyflawni’ i Gymru.\nYn y 6 Awdurdod Lleol a’r Bwrdd Iechyd (Bwrdd Iechyd Prifysgol Betsi Cadwaladr) yng Ngogledd Cymru, gwelwyd cynnydd yn nifer yr atgyfeiriadau, ond hefyd yn eu cymhlethdod oherwydd y trawma mae plant a phobl ifanc wedi’i gael.\nYn 2024, amlygodd adroddiad ar y cyd gan y cyrff Arolygu Iechyd, Gofal ac Addysg bod angen gwelliannau mewn cefnogaeth iechyd meddwl i blant a phobl ifanc.\nFor an individual, or individuals, or organisation with suitable experience and staff, holding relevant professional qualification(s) to undertake a review of Childrens Services in North Wales.\nIn Wales, the impact of the COVID-19 pandemic on children and young people’s mental health has been identified as a priority by the Children’s Commissio…",
+  "url": "https://www.find-tender.service.gov.uk/Notice/094515-2026",
+  "author": "26c10a83d333",
+  "createdAt": "2026-10-07T09:28:01+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 120000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:tender",
+   "cpv:72221000",
+   "cpv:72224000",
+   "cpv:73200000",
+   "cpv:85300000",
+   "cpv:79400000"
+  ],
+  "painScore": 60,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-078206",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "[early engagement] British Broadcasting Corporation (BBC): Participatory Content Capabilities",
+  "body": "The BBC is undertaking a Request for Information (RFI) market engagement exercise to enhance its understanding of the market for participatory content capabilities, including voting, polling and quizzing solutions. Interested suppliers are invited to submit a written response via SAP Ariba by the stated deadline. The information gathered will be used to inform the BBC's requirements, procurement strategy and any future procurement activity. Participation in this engagement is voluntary and will not form part of any evaluation process or confer any advantage in any subsequent",
+  "url": "https://www.find-tender.service.gov.uk/Notice/094433-2026",
+  "author": "9806ec096477",
+  "createdAt": "2026-10-06T16:37:05+01:00",
+  "engagement": {},
+  "tags": [
+   "stage:planning",
+   "cpv:48000000"
+  ],
+  "painScore": 40,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-050c1e",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "[early engagement] NHS England: Digital Primary Care Open Framework",
+  "body": "PLEASE NOTE - This is not a 'call to action' notice and requires no response to the Authority.\nThis notice is published in accordance with the Procurement Act 2023 as a Planned Procurement Notice (UK3). It provides advance notice that NHS England intends to establish an open framework using the competitive flexible procedure for the future procurement of Digital Primary Care General Practice Information Technology (GPIT) solutions, ahead of the publication of a tender notice.\nDigital systems are fundamental to the delivery of modern general practice services. NHS England's Digital Services for Integrated Care (DSIC) programme is improving digital products across care settings to support and enable an integrated care system, working with technology suppliers to deliver a choice of commonly assured, intuitive and innovative products and services. This framework will be key to this, as well as supporting commitments in the NHS 10 Year Health Plan (10YHP), national digital strategy, and the GP Contract’s digital requirements.\nFor the purposes of this procurement, GPIT encompasses the digital solutions (products and services) that support the commissioning, delivery, administration and continuous improvement of general practice. This includes technologies used by clinicians, administrative staff, patients and commissioners to facilitate access to care, care delivery, clinical decision-making, service integration, population health management and operational efficiency.\nThe techno…",
+  "url": "https://www.find-tender.service.gov.uk/Notice/094419-2026",
+  "author": "f4bcd50afa47",
+  "createdAt": "2026-10-06T16:17:27+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 838749369,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:planning",
+   "cpv:48180000",
+   "cpv:48311000",
+   "cpv:72300000",
+   "cpv:72263000",
+   "cpv:73100000"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-0781f6",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "[early engagement] Belfast City Council: Belfast Stories – Story Engine",
+  "body": "Belfast Stories is seeking to procure an experienced supplier to design, build and support a digital platform known as the ‘Stories Engine’ that supports:\n• Story collection and preservation\n• Community participation\n• Archive integration\n• Search and discovery\n• Information management including consent and participation considerations\n• Governance on data management\n• Public access points and satellite opportunities",
+  "url": "https://www.find-tender.service.gov.uk/Notice/094404-2026",
+  "author": "fb2bb4ee36c9",
+  "createdAt": "2026-10-06T16:00:08+01:00",
+  "engagement": {},
+  "tags": [
+   "stage:planning",
+   "cpv:72000000",
+   "cpv:72262000",
+   "cpv:72210000",
+   "cpv:72212222"
+  ],
+  "painScore": 40,
+  "matchedPhrases": []
+ },
+ {
+  "id": "contractsfinder:ocds-b5fd17-6c51d426-d3da-430e-a3ae-04cc6f4bef70",
+  "source": "contractsfinder",
+  "kind": "tender",
+  "title": "London Borough of Brent: Adobe Licenses for the London Borough of Lewisham",
+  "body": "Shared Technology Services are seeking quotes on behalf of the London Borough of Lewisham for the below Adobe Licenses which are due for renewal 25th December 2026. \r\nAdobe Pro \r\nAdobe Standard \r\nCreative Cloud \r\nIllustrator \r\nInDesign \r\nPhotoshop \r\nPremiere Pro - Pro edition\r\n\r\nThe opportunity can be found using the below link:\r\nhttps://procontract.due-north.com/RFx/RFxSummary?rfxId=b1e6e078-39c2-f111-813c-005056b64545&projectId=135d3140-39c2-f111-813c-005056b64545",
+  "url": "https://www.contractsfinder.service.gov.uk/notice/49e986f0-e867-4d68-8b8c-d9120e633d16",
+  "author": "fddb18e6da05",
+  "createdAt": "2026-10-07T11:46:46+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 55000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:tender",
+   "cpv:72000000"
+  ],
+  "painScore": 59,
+  "matchedPhrases": []
+ },
+ {
+  "id": "discourse:community.n8n.io:319519",
+  "source": "discourse",
+  "kind": "demand",
+  "title": "Hashicorp Vault LDAP Authentication",
+  "body": "<!-- Thank you for opening a feature request. If this is for a node, please add the node subcategory. Otherwise, follow the below template. --> ## The idea is: It would be nice to extend the current built-in HashiCorp Vault authentication methods to include LDAP. ## My use case: It would be nice to extend the current built-in HashiCorp Vault authentication methods to include LDAP. ## I think it would be beneficial to add this because: It would allow us to use ldap instead of creating an approle or local user in vault. ## Any resources to support this? <!-- Link to external documentation, etc. --> ## Are you willing to work on this? <!-- Don't forget to upvote this request. The more votes this Feature Request gets, the higher the priority. -->",
+  "url": "https://community.n8n.io/t/hashicorp-vault-ldap-authentication/319519",
+  "author": "138a4fe687be",
+  "createdAt": "2026-10-07T11:50:34.634Z",
+  "engagement": {
+   "comments": 0,
+   "score": 0,
+   "views": 10
+  },
+  "tags": [
+   "n8n",
+   "prequalified"
+  ],
+  "painScore": 30,
+  "matchedPhrases": []
+ },
+ {
+  "id": "discourse:community.retool.com:67574",
+  "source": "discourse",
+  "kind": "demand",
+  "title": "Pendo can't initialize in an embedded new-builder app on a custom domain (no storage in the sandbox)",
+  "body": "**My goal:** Run Pendo inside a new app builder (React) app that we embed in our product, so we get session replay and in-app guides for our external users. We embed the app with the pre-authenticated embed URL (`POST /api/embed-url/external-user`) under a custom domain. **Issue:** The Pendo agent loads, but `pendo.initialize()` throws `\"An exception occurred during pendo.initialize\"`, and `pendo.isReady()` stays `false`. As far as we can tell, the app runs in a sandboxed iframe without allow-same-origin, so localStorage, sessionStorage and document.cookie all throw a SecurityError. That matches the custom-domain limits in the \"Publish an app\" docs. Pendo needs storage to start. **Steps I've taken to troubleshoot:** * Opened the same app top-level instead of embedded. Same failure. * Tried Pendo's `disablePersistence` and `disableCookies` options. Same failure, because they don't cover sessionStorage. * Added Pendo's script and data domains to the app's CSP (Settings → App security). The script loads, but initialize still fails without storage. * When the same app was served from the `*.retool.app` origin, storage worked and Pendo started fine. * As a workaround, the app sends events to our host page with `window.top.postMessage`, and the host page tracks them. That covers usage analytics, but not replay or guides inside the app. **My questions:** 1. Is there a way to give an embedded new-builder app on a custom domain access to browser storage? 2. If not, is storage access…",
+  "url": "https://community.retool.com/t/pendo-cant-initialize-in-an-embedded-new-builder-app-on-a-custom-domain-no-storage-in-the-sandbox/67574",
+  "author": "010499632e58",
+  "createdAt": "2026-10-07T03:46:01.704Z",
+  "engagement": {
+   "comments": 1,
+   "score": 0,
+   "views": 16
+  },
+  "tags": [
+   "Retool",
+   "prequalified"
+  ],
+  "painScore": 35,
+  "matchedPhrases": []
+ }
+]
