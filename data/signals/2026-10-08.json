@@ -1,0 +1,1390 @@
+[
+ {
+  "id": "hackernews:50004366",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Dat-ecosystem: high level applications built on top of P2P protocols",
+  "body": "no. cabal chat is different.\n...but you can also checkout quibble as an alternative to keet that is open source.\nhttps://codeberg.org/LTC-GT/Quibble\ni think the most awaited thing that has been in the making for hlf a decade now is \"datweb\" so all the dat ecoaystem projects might potentially work in browsers as well and not just as standalone apps",
+  "url": "https://news.ycombinator.com/item?id=50004366",
+  "author": "79054e175ebd",
+  "createdAt": "2026-10-08T11:06:16.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:50004344",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Dat-ecosystem: high level applications built on top of P2P protocols",
+  "body": "Another interesting dat-ecosystem project is an open source messenger as potentially an alternative to keet.\nhttps://codeberg.org/LTC-GT/Quibble",
+  "url": "https://news.ycombinator.com/item?id=50004344",
+  "author": "79054e175ebd",
+  "createdAt": "2026-10-08T11:04:09.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:50003828",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
+  "body": "This is generally a bad idea. There's no dispute resolution mechanism if you get scammed and no way to get your money back.\nHowever the EU is getting the \"digital euro\" in a few years as an alternative to VISA/Mastercard which is supposed to have similar dispute resolution mechanisms.",
+  "url": "https://news.ycombinator.com/item?id=50003828",
+  "author": "08e9655f85c7",
+  "createdAt": "2026-10-08T09:52:10.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:50002793",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: A 100x faster* alternative to homebrew",
+  "body": "\"Alternative to homebrew (the CLI utility)\" -> \"Frontend to Homebrew (the package system)\".\nAlong these lines, I wonder when somebody will come up with a \"universal package manager\" that factors out the dependency resolution, content-addressable store, packing / unpacking, file manipulation, signatures, etc. Small plugins, maybe just declarative descriptions, would suffice to connect it to stores like npm, homebrew, pypi, maybe even cargo and nixpkgs.",
+  "url": "https://news.ycombinator.com/item?id=50002793",
+  "author": "6a284d642074",
+  "createdAt": "2026-10-08T07:23:05.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:50001580",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "A 100x faster* alternative to homebrew",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=50001580",
+  "author": "e868514e36b9",
+  "createdAt": "2026-10-08T03:23:08.000Z",
+  "engagement": {
+   "score": 96,
+   "comments": 79
+  },
+  "tags": [],
+  "painScore": 40,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49995932",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: A Cop's Case for Flock",
+  "body": "> Said open-source camera software and hardware will likely be packaged up by commercial vendors, who will happily store your data in the cloud and resell it (I mean Empower Law Enforcement) on the side. This will probably be the majority of installs.\nAnyone can store the data and share it (for free)!\n> Stalkers can easily abuse this to find their victims.\nI posted a similar proposal in a different thread, and yes, this is one of many downsides. I believe in the end the world will be a worse place with this solution, but I also believe this is the only viable alternative to only the police/government having access to the data.\n> Morally, seems bad to charge a person looking for their lost child. Less bad if it's a fixed fee,\nThe owner can decide who to charge and how much.",
+  "url": "https://news.ycombinator.com/item?id=49995932",
+  "author": "7404fb40b05f",
+  "createdAt": "2026-10-07T17:25:41.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49994628",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Why were Victorian elites so effective?",
+  "body": "It did mention the colonial empire up near the beginning.\n> There is a longstanding view that the prosperity of Britain’s elites came at the cost of the hundreds of millions whom they subordinated and oppressed, and no doubt that is at least partly true. But on their own terms, the British ruling class enjoyed a victorious century.\n> Maybe the Victorian elite succeeded in spite of being feckless and incompetent: the Industrial Revolution created great wealth, which they enjoyed passively and parasitically. We cannot run controlled experiments on Victorian Britain, so this thesis is hard to test. But I want to explore the possibility that a relentless focus on soft skills, team building, and intra-elite networking actually worked rather well.\nThe essay is intentionally exploring an alternative to the obvious one. I think the essay does brush off the cruelty of the empire too quickly, but cruelty isn’t inherently profitable, so there’s still some explaining to do.",
+  "url": "https://news.ycombinator.com/item?id=49994628",
+  "author": "f56807ed97a4",
+  "createdAt": "2026-10-07T15:56:38.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49994411",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Shipping JPEG XL in Chrome",
+  "body": "> Apple refused to support it because they wanted to patent-laden alternative to thrive.\nWhere do people get this stuff?\nApple finally supported WebP in 2020, 10 years after it was released by Google. Firefox added WebP support in 2019, a year before Safari. Was Mozilla also part of conspiracy to undermine WebP? Come on now.\nSeems to me neither Apple or Mozilla wanted to be forced to support a format they had no say in developing. Usually there's a process for coming to consensus on standards.\nWebP is ubiquitous now, not the case in 2010 when it was released.\nIt had advantages compared to JPEG, but not enough at the time to justify changing workflows, etc. WebP initially had better compression than JPEG, but as encoders/decoders improved (MozJPEG, Jpegli, turbo-libjpeg, Guetzli) the lead WebP had mostly went away regarding compression and visual fidelity.\nGoing forward, WebP is becoming less relevant by the day; it doesn't support wide gamut color; it only supports RGB. It's max pixel count is quite limited compared to AVIF and JPEG XL. Newer formats have use cases beyond the web; WebP doesn't.",
+  "url": "https://news.ycombinator.com/item?id=49994411",
+  "author": "b4d95b8798c6",
+  "createdAt": "2026-10-07T15:41:54.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49994363",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Relay – A self-hosted alternative to AWS Lambda and EventBridge",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=49994363",
+  "author": "2642ceb5bc69",
+  "createdAt": "2026-10-07T15:38:19.000Z",
+  "engagement": {
+   "score": 3,
+   "comments": 1
+  },
+  "tags": [],
+  "painScore": 33,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49994297",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: We Built an Alternative to Vector RAG for AI Agent Memory",
+  "body": "The entire site looks like it was generated with Claude. \nThe site hijacks scrolling.\nI scanned through paragraph after paragraph of overbloated and repetitive descriptions of what and how RAG works compared to how \"modern agents\" need to access documents.\nWhat I never saw at any point was whatever this \"alternative to RAG\" was supposed to be.\nHonestly the entire body of copy feels like it was llm generated.",
+  "url": "https://news.ycombinator.com/item?id=49994297",
+  "author": "80c8acaf6d78",
+  "createdAt": "2026-10-07T15:34:10.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49993820",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "We Built an Alternative to Vector RAG for AI Agent Memory",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=49993820",
+  "author": "5fc58682e330",
+  "createdAt": "2026-10-07T15:02:57.000Z",
+  "engagement": {
+   "score": 4,
+   "comments": 10
+  },
+  "tags": [],
+  "painScore": 39,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49993551",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Ask HN: Is this the beginning of the end of open source?",
+  "body": "If you're following the photopea incident, I'm sure you'd concur that the writing was on the wall. It's an inevitable outcome of the rise of AI in software dev. Any project that sees a semblance of success will be cloned overnight many times over and will find itself competing with its own copies.\nWe saw glimpses of a similar situation in the past when large cloud platforms cloned popular softwares in a not a very dissimilar manner. This led to the creation of \"source available\" as an alternative to open source that gained some traction of its own. But since this mostly affected a few large players, open source by and itself was large unaffected still supported by large volumes of individuals driven by passion, motivated towards their craft.\nThe concept of open source is itself something of an anomaly not seen in any other industry or at any other time in history. Partly fueled by an individual's desire to exhibit original work, and partly supported by the fact that code needs someone of an equal to work with, it still allowed authors to reap a net benefit while giving out their IP for free. LLMs have turned that picture over completely. It's not only trivial to derive, for all purposes, an exact copy of the IP while obscuring the source, it's also possible to maintain and operate the IP with a relatively low bar of expertise. But the other inconspicuous problem brought about by LLMs is that can you even claim original work any more? When no one believes that you wrote it yourself, what motivation remains to continue publishing as open source? With no net benefit to revealing your IP, will we see a revival to closed source distribution again?",
+  "url": "https://news.ycombinator.com/item?id=49993551",
+  "author": "1886663afe15",
+  "createdAt": "2026-10-07T14:42:39.000Z",
+  "engagement": {
+   "score": 5,
+   "comments": 12
+  },
+  "tags": [
+   "ask_hn"
+  ],
+  "painScore": 40,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49993334",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Permanent Daylight Saving Time Could Harm Sleep and Mental Health, Analysis Says",
+  "body": "Ok, understood. It seemed like you were proposing an alternative to permanent-DST that should be worse by your own logic (unnatural standard), but if it's tongue in cheek, then I'm much less confused.",
+  "url": "https://news.ycombinator.com/item?id=49993334",
+  "author": "8a3abba0784e",
+  "createdAt": "2026-10-07T14:26:35.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49992870",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Permanent Daylight Saving Time Could Harm Sleep and Mental Health, Analysis Says",
+  "body": "Yes, but if we’re going to impose an unnatural standard (year-round DST), which I do not prefer, let’s at least make it an interesting one. That’s been my point all along and I don’t know how to make that more clear. I’m demonstrating a preference for standard time and offering a tongue-in-cheek (though possibly slightly better somehow) alternative to universal DST, which would be horrible.\n(For the curious, Chinese businesses just adjust their actual working hours locally, it’s not really an issue.)",
+  "url": "https://news.ycombinator.com/item?id=49992870",
+  "author": "5e706f5824f9",
+  "createdAt": "2026-10-07T13:49:01.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:49997594",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Incident with Git Operations, Pull Requests and Actions – Resolved",
+  "body": "ah this is what I do too, I understand there are things like woodpecker but wish there was just some community docker image that handles this all for you.",
+  "url": "https://news.ycombinator.com/item?id=49997594",
+  "author": "8f1964ef4f76",
+  "createdAt": "2026-10-07T19:24:44.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "wish there was"
+  ]
+ },
+ {
+  "id": "hackernews:49997467",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: AI-assisted proof of optimal packing for 11 squares",
+  "body": "I really wish there were visualizations for this.\n“Choose a region, where two squares don’t fit, -> 16(??)”\nI consider myself literate (maybe not adept) with advanced maths, but this confuses me and requires a lot of assumptions on my end.",
+  "url": "https://news.ycombinator.com/item?id=49997467",
+  "author": "8851b941bcae",
+  "createdAt": "2026-10-07T19:14:52.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "wish there were"
+  ]
+ },
+ {
+  "id": "hackernews:49995719",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Every Pho Number",
+  "body": "I wish there were a section or note on the website about why these pho places are just numbered like this. But maybe the mystery makes it more exciting.",
+  "url": "https://news.ycombinator.com/item?id=49995719",
+  "author": "fdb0e0ee50da",
+  "createdAt": "2026-10-07T17:10:28.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "wish there were"
+  ]
+ },
+ {
+  "id": "hackernews:50001464",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Claude Haiku 5.5",
+  "body": "Just skip it and move on I think there are more people sick of the people saying they are sick of it",
+  "url": "https://news.ycombinator.com/item?id=50001464",
+  "author": "6a76ccf17463",
+  "createdAt": "2026-10-08T02:58:09.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:50000627",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Sharing AI progress in mathematics",
+  "body": "Oh sure, you're well within your right to leave a job when you're sick of it. Nothing wring with that.",
+  "url": "https://news.ycombinator.com/item?id=50000627",
+  "author": "6631950a46a6",
+  "createdAt": "2026-10-08T00:35:56.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:50000338",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Claude Haiku 5.5",
+  "body": "Maybe they're as sick of it as some of us are?",
+  "url": "https://news.ycombinator.com/item?id=50000338",
+  "author": "65dd8ae8c355",
+  "createdAt": "2026-10-07T23:53:21.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49995947",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Sharing AI progress in mathematics",
+  "body": "I'm sick of it. This has happened so many times in my memory. Some AI company announces that they did something fascinating, and it turns out it is all just hype and slope in the end. I still believe that LLMs are a dead end. Most people here are basically like \"I've no idea what's going on, but I'm so happy and LLMs are so cool\". To think that doing enough linear algebra would solve all your problems just feels wrong. I guess I'll simply wait until someone interprets the results and explains what's actually going on.",
+  "url": "https://news.ycombinator.com/item?id=49995947",
+  "author": "ae447ec96d95",
+  "createdAt": "2026-10-07T17:26:25.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49995399",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days",
+  "body": "> if you're adding regulations, that must hurt the little guy more; that must increase monopolization.\nThat's the opposite of my position, adding regulations can work both ways, I meant it the other way around.\n> Do you genuinely think that the system as it exists today is the best it could ever possibly be?\nAgain, the opposite of what I said. Improving the system requires systematic approach, fixing here and there without it results in a mess worse than before.\n> Sure, that would mean that big companies have even more freedom to ruin our roads and wreck our health, but hey, maybe an extra 3% of small businesses might be able to become profitable!\nRemoving the income of \"extra 3%\" which is many thousands people for a rather minuscule, supposed reduction of pollution isn't worth the tradeoffs. If you can't solve the big problem don't mess with an already unstable system - fix the system first.\n> Because I'm pretty sick of people pushing the idea that any change we make to improve things\nWe're where we are because of much emotion and many changes to improve things, to paraphrase, The road to hell is covered with many changes to improve things. This is what happens without a systematic approach to improvement.",
+  "url": "https://news.ycombinator.com/item?id=49995399",
+  "author": "8428560496ee",
+  "createdAt": "2026-10-07T16:50:09.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49994106",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: PS5 Jailbreaks Are Escalating at an Unprecedented Pace",
+  "body": "Take a look at what's happening with CDs/DVDs. People are sick of not owning their software, and they want a secondary market.",
+  "url": "https://news.ycombinator.com/item?id=49994106",
+  "author": "3a5fdd74b47d",
+  "createdAt": "2026-10-07T15:22:25.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:49999963",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Anti-patterns in software blogging",
+  "body": "Papers are written to peers. It shouldn't be a \"murder mystery\" for them (that doesn't mean it shouldn't tell a story). You have to write to your audience. If a paper was written to a general audience, instead of peers, every paper would have to be a novel.\nI'll admit that sometimes I'm frustrated with HN comments on arxiv articles. Despite being a nerdy forum most papers aren't written for this audience. Hell, I have a PhD and most papers aren't written for me. Nor should they. I'm perfectly okay if I don't understand a paper. Arguably the hardest thing about a PhD is learning to be comfortable with being dumb and willing to work on becoming less dumb (you're never not dumb, only less dumb)",
+  "url": "https://news.ycombinator.com/item?id=49999963",
+  "author": "fbe58c5c8265",
+  "createdAt": "2026-10-07T23:04:38.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "frustrated with"
+  ]
+ },
+ {
+  "id": "hackernews:49996116",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Show HN: ChillSweep – A better cleaner app for PC and Mac",
+  "body": "I was frustrated with the manual busy work of cleaning appdata leftovers and how much most traditional cleaner apps miss. Most cleaners I've used in the past simply check a fixed list of common junk folders.\nI've been playing around with an app idea I've called ChillSweep, a free, open-source cleanup tool for Windows and Mac. ChillSweep checks folders against what's actually installed on your machine, and can claim back huge amounts of disk space other cleaners can't see.\nDownload: github.com/terranivium/chillsweep/releases/latest",
+  "url": "https://news.ycombinator.com/item?id=49996116",
+  "author": "1ef28e7279ab",
+  "createdAt": "2026-10-07T17:37:55.000Z",
+  "engagement": {
+   "score": 1,
+   "comments": 1
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 31,
+  "matchedPhrases": [
+   "frustrated with"
+  ]
+ },
+ {
+  "id": "hackernews:50003047",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Why were Victorian elites so effective?",
+  "body": "My hypothesis:\n1. Empires do not generate wealth, they cost wealth. Or rather they do not generate an economic surplus (the wealth available to the central government via taxation that can be used for whatever the government/elites want). A nation of 10 million will have more economic wealth than a nation of one million, but most of that is needed to keep the 10 million alive and to maintain the infrastructure and pay the local police to keep everyone in line, etc -- only a small fraction of total wealth can be effectively taxed by the empire and spent on arbitrary stuff like increasing the size of the Navy. That is what I mean by surplus.\nA nation starts out with an economic surplus (here, I mean a real surplus, not a surplus of silver, but of real wealth) and they use that surplus to get a big army and go conquering. And each time they conquer, a part of that surplus is expended until they reach their maximum extent.\nIf this was not the case, we'd have a one world government, where the bigger you get, the bigger your surplus and no one can compete with you. But that is not what we see, what we see is that empires expand until they can't afford to keep expanding. Why did England give up its colonies? Because after WW2 it had too many war debts and couldn't keep subsidizing those colonies -- they were too expensive to keep. Same reason for why Rome stopped expanding and had so many financial problems. The check on empire is always bankruptcy. You can look at the trillions the US spends on foreign wars, which far exceeds the economic benefit we get of waging those wars. You can argue, for example, that we got some oil from Iraq, but we still have to pay for that oil, so whatever discount we got on oil comes nowhere near the cost of invading and administering Iraq. That is how all empires work -- France was always better off, financially, just paying market rate for whatever minerals it could get in Africa than the massive resources it spent on trying to control and…",
+  "url": "https://news.ycombinator.com/item?id=50003047",
+  "author": "7ea1d1add026",
+  "createdAt": "2026-10-08T07:59:23.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:50001859",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Meta and Microsoft take steps to reduce employee usage of Claude AI",
+  "body": "> My company took away my Claude because it’s too expensive.\nMy company didn't took away any expensive model, but it did imposed a tight budget and gave my team hardware to run local models. The budget works mainly as an influence on the decision process of which model to run. We can still run expensive budget-burning models if we really want to, but there is a clear incentive to use options that allow us to save our token budget for a rainy prompt.\nSurprisingly, I feel this had a positive impact on results. Instead of succumbing to extremely expensive one-shot prompts with the most expensive model in the news, chaining agents running cheap models equiped with context and specialized skills and scripts ends up having a better and more reliable output. And faster too.\nI think there is a lot of propaganda, perhaps even astroturfing, on how only the most expensive models churned out by US companies are worth using. Nowadays the cheapest models get the job done, and local models can already handle most tasks as well specially as part of orchestration chains.",
+  "url": "https://news.ycombinator.com/item?id=50001859",
+  "author": "7027767bd1e8",
+  "createdAt": "2026-10-08T04:39:11.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:50000844",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: I tried to move my notes out of Emacs. I failed. Again",
+  "body": "I’ve had an odd amount of difficulty finding a “perfect” notes app.\nFor me, mobile and desktop apps plus easy family sharing of individual notes are important.\nApple Notes is really the best I’ve got.\nThe other solutions I’ve found mother cost too much or have some odd dealbreaker features, or they’re over-complicated, or they’re ugly.\nZoho Notebook is on the ugly side but it’s cheap and has apps on all platforms.\nCraft is pretty good but if you hit the need for the paid tier it’s a bit pricey.\nI think it’s possible that vibecoding an Apple Notes clone is actually the best solution for me.\nA lot of people like Obsidian but I think it’s a bit crazy, and I think it’s unacceptable how difficult it is to self-host the sync functionality, especially since again the paid tier is too expensive.",
+  "url": "https://news.ycombinator.com/item?id=50000844",
+  "author": "a32092ac408b",
+  "createdAt": "2026-10-08T01:11:31.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:50000711",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: What is the actual percentage of people For and Against AI?",
+  "body": "I think the economic questions are easier to evaluate. If AI consistently delivers better results at lower costs, there's a pretty strong argument for adopting it. But that is not the case for the large frontier models that actually produce the \"best\" quality out of the rest, they are just too expensive.\nBut the smaller models are somewhat profitable as they require almost no comparable compute.\nThe surveillance concern is definitely justified and I think it is already happening before our own eyes..",
+  "url": "https://news.ycombinator.com/item?id=50000711",
+  "author": "a3954e6d0821",
+  "createdAt": "2026-10-08T00:51:18.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49999602",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Teenage Engineering Is Going to Stop Making Synths",
+  "body": "I wanted to hate Teenage Engineering as a traditional synth and groovebox/sampler nerd but after playing with an OP-1 Field and a few pocket operators, I understood why they were so successful. Beyond just the aesthetic and marketing the OP-1 Field especially was just _fun_ to play with. I was at first put off by the lack of standard tools and controls but when I first tried one it felt like getting a Nintendo as a kid and hours just passed me by while I was locked in fooling around. I never ended up buying one because it was (for me) too expensive, but the one I had on loan for awhile got me pretty close. They definitely had some misses like the wooden doll \"choir\". But maybe I'll see if I can find a used OP-1 Field now before everyone gets this news and the prices increase.",
+  "url": "https://news.ycombinator.com/item?id=49999602",
+  "author": "60d355c6a8b9",
+  "createdAt": "2026-10-07T22:26:25.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49998750",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+  "body": "In 2004, left-handed sugar was hyped as a way to eat junk food without absorbing the sugar. It turned out to be too expensive, but I think it's an interesting story (oddly involving Mars!). More here:\nhttps://spinoff.nasa.gov/Spinoff2004/ch_4.html",
+  "url": "https://news.ycombinator.com/item?id=49998750",
+  "author": "d89bb423ecb2",
+  "createdAt": "2026-10-07T21:01:03.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49998311",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Meta and Microsoft take steps to reduce employee usage of Claude AI",
+  "body": "$200 a month is too expensive yet they employ human developers?",
+  "url": "https://news.ycombinator.com/item?id=49998311",
+  "author": "993ae3a5611e",
+  "createdAt": "2026-10-07T20:24:37.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49997933",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: VECOS – A windows-like operating system for the Vectrex for the UVMC2 [video]",
+  "body": "Awesome, I love it. I never even heard of the Vectrex before. I'm guessing it was too expensive for most people since it's basically a whole arcade machine.",
+  "url": "https://news.ycombinator.com/item?id=49997933",
+  "author": "430bae199cd0",
+  "createdAt": "2026-10-07T19:50:38.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49997555",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Meta and Microsoft take steps to reduce employee usage of Claude AI",
+  "body": "My company took away my Claude because it’s too expensive. I feel like there is a reckoning coming. The accountants are finally realising the cost of token maxing.",
+  "url": "https://news.ycombinator.com/item?id=49997555",
+  "author": "a64a285fa560",
+  "createdAt": "2026-10-07T19:21:22.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49996887",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Claude Haiku 5.5",
+  "body": "About time Anthropic released a competitive cheap model. Haiku 4.5 has been too expensive compared to its performance for months now (in fact I don't remember being too impressed even when it was released). This one actually looks worth using in some scenarios. If it's really as much of a step up from Luna as the benchmarks they've shown indicate, it'll probably replace Luna in my workflows. 100k tokens is a pretty low threshold before the price goes up, but I tend to use these smaller models for smaller tasks anyway.",
+  "url": "https://news.ycombinator.com/item?id=49996887",
+  "author": "3a6450903a12",
+  "createdAt": "2026-10-07T18:29:28.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49994404",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Device detection and occupancy monitoring for Airbnb hosts",
+  "body": "No way. Hotels are already too expensive as are restaurants. I like to stay in a place and I don't want the cost increased just because the local gov't won't build housing. That is a different problem and I guarantee that tax won't fix anything.",
+  "url": "https://news.ycombinator.com/item?id=49994404",
+  "author": "7f11d9c877e9",
+  "createdAt": "2026-10-07T15:41:17.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49993758",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: PS5 Jailbreaks Are Escalating at an Unprecedented Pace",
+  "body": "> - pricing - for some kids some games are just too expensive, and they still want to play, and don't want to be left out;\nSorry, but that’s life. Saying something is too expensive but you still want it doesn’t change anything.\n> - platform lock - this is more for emulation, where people don't want to buy a platform to play 1 or 2 IP;\nHow is this relevant? You can’t play a pirated PS5 game without buying a PS5.\nThis is just another variant of your argument above that people want things but don’t want to pay for them.\n> but you can't assume they would be customers at the moment they get a copy.\nYou can’t assume that every pirate would not be a customer if they couldn’t pirate.\nWhich means the sales would be higher without piracy. Which means piracy hurts revenue. The rest is hand waving.",
+  "url": "https://news.ycombinator.com/item?id=49993758",
+  "author": "fa76ef9c5f77",
+  "createdAt": "2026-10-07T14:58:17.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49993527",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: PS5 Jailbreaks Are Escalating at an Unprecedented Pace",
+  "body": "> - pricing - for some kids some games are just too expensive, and they still want to play, and don't want to be left out;\nThis was me for a long, long time. I pirated games until I was into my late 20s simply because I couldn't afford to buy them. Now, with Steam, the idea of pirating a game is something I never think about.",
+  "url": "https://news.ycombinator.com/item?id=49993527",
+  "author": "398eeb155314",
+  "createdAt": "2026-10-07T14:40:52.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:49992955",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: PS5 Jailbreaks Are Escalating at an Unprecedented Pace",
+  "body": "I think you're missing 2 factors in the service/distribution problem:\n- pricing - for some kids some games are just too expensive, and they still want to play, and don't want to be left out;\n- platform lock - this is more for emulation, where people don't want to buy a platform to play 1 or 2 IP;\nI see Gabe's reference in both of those scenarios, because Steam always had good deals, while retailers didn't.\nYou might say: \"in that case, some people are only willing to pay 0$ for a game, and they shouldn't have access to it.\"\nWhile I understand it, I bet you a massive chunk of GTA V, RDR2, and soon GTA VI players that have available income now, had their first experiences with the series through piracy.\nBut I agree there's no nobility, just people that can't afford stuff, or don't value it enough to part with their money, but you can't assume they would be customers at the moment they get a copy.",
+  "url": "https://news.ycombinator.com/item?id=49992955",
+  "author": "422954d4c4f0",
+  "createdAt": "2026-10-07T13:54:36.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 40,
+  "matchedPhrases": [
+   "too expensive",
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:50000005",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
+  "body": "I've had a real dramatic history with more than one food delivery service since the pandemic. It got so dramatic this year that one of them, after I had used them extremely heavily for years, they sent me a friendly warning email that claimed I had been rude and abusive on their platform, and they wouldn't hesitate to cut me off.\nJust to give them some space, I'm using a different service, which is no better. They are all horrible, overpriced, and the drivers DGAF, and so I am routinely triggered into this rudeness they complain of. Recently I had another episode where my drinks went missing. Consistently. And so a couple of times, I pursued a tip reduction through the app or through their Support or whatever. Their Human Support Agents swore up and down that I should be able to zero the tip in my app. I swore up and down that there was no option at all for this. I raged and stressed so hard about this. The app kept claiming it was Human Support's responsibility to reduce/zero tips. Human Support swore that they were unable and disempowered to do such a thing.\nI finally resolved this with an LLM conversation. The LLM revealed that \"some customers are flagged as high-risk and their ability to reduce/remove tips will be disabled by the platform.\" This made perfect sense why the CSRs all believed that I should have the option, but it was disabled \"for security reasons\". It was appalling to me that they considered me \"high risk\" of stiffing a driver. Because I have always been very very careful to take care of drivers' tips generously because I sort of understand what they go through, even when a small percentage are overt assholes and DGAF. They mostly still deserve their tips and wages.\nBut the platform removed my ability to penalize them and reclaim my discretionary funds from a gratuity paid in advance and that really, really infuriates me. There is, of course, no way to start at $0 tip and increase it, because the drivers will simply decline to even claim your ord…",
+  "url": "https://news.ycombinator.com/item?id=50000005",
+  "author": "dd0b9e51e522",
+  "createdAt": "2026-10-07T23:10:30.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:49996374",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: All the numbers: Amazon Prime Day 2026 powered by AWS",
+  "body": "There's https://camelcamelcamel.com to check how prices developed.\nThere's still the possibility of shenanigans with different models that can be overpriced for long so they look like a good deal when they get a normal price",
+  "url": "https://news.ycombinator.com/item?id=49996374",
+  "author": "e61a5565f0c7",
+  "createdAt": "2026-10-07T17:57:06.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:49999662",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: GPT‑6 and Intelligent UI for everyone",
+  "body": "It looks forced. It doesn’t look bad, but it’s not something I would pay for, nor would I give it access to my computer?\nI also believe that a small talented group of developers just out of college can do just as good a job. That is why there is no moat around AI, it still comes down to original thinking and talent.",
+  "url": "https://news.ycombinator.com/item?id=49999662",
+  "author": "c41fb1456521",
+  "createdAt": "2026-10-07T22:31:44.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 10,
+  "matchedPhrases": [
+   "i would pay"
+  ]
+ },
+ {
+  "id": "hackernews:50004977",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: The Mathocalypse",
+  "body": "For one person that understands a proof of some matrix multiplication algorithm lowering its current complexity bound in an useful way (e.g. not with absurdly gigantic <= 2nd order polynomial term), there's likely thousands of companies willing to pay for the improved efficiency",
+  "url": "https://news.ycombinator.com/item?id=50004977",
+  "author": "df3d46bf4e54",
+  "createdAt": "2026-10-08T12:24:59.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 10,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:50003791",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+  "body": "> Remember that there is still quite a bit of friction to doing that, and that many people have better things to do than jump through those hoops\nThe thing is that Photopea has been extremely obnoxious with giant colorful ads. They take a big portion of the right-side of the screen (anywhere between 1/4th and 1/6th depending on your screen resolution), stealing important real-estate for actual work.\nThe owner of Photopea also fights ad blockers harshly and he went as far as surreptitiously breaking some features on purpose when it detected that an adblocker was installed (of course with a fair share of false positives), and then showed later a popup telling the user that they lost their work because of the adblocker. I think he eventually backpedaled on this due to the massive backlash.\nYou can pay to remove the ads but it costs 60€/year. I think few people are willing to pay for that when they just use it 2-3 times a month.\nOverall the developer made the friction so extreme that people will do anything to get rid of the DRM entirely and use self-hosted instances. I think Photopea’s days are counted, a community effort to rebuild a similar tool from the ground up will definitely become a thing. The only thing left to say will be farewell Photopea, you served us well.",
+  "url": "https://news.ycombinator.com/item?id=50003791",
+  "author": "b3880f48a52d",
+  "createdAt": "2026-10-08T09:47:29.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 20,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:50003719",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Mistral Large 4",
+  "body": "> a world that will remain intensely supply constrained for the coming years.\nThat's only true as far as you're willing to pay the cost for that increased speed.\nFor instance, I would love to have my daily commute take 5 minutes instead of 30, but I wouldn't pay 10 times the cost for that to happen.",
+  "url": "https://news.ycombinator.com/item?id=50003719",
+  "author": "3c89e46254c5",
+  "createdAt": "2026-10-08T09:35:28.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 20,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:50003522",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+  "body": "This is Theo's project, and he has been very transparent about how he is only doing these things because api prices are heavily subsidized by subscription pricing. The reason people aren't willing to pay 400k to an engineer to do this work is because they aren't paying the AI this much.\nI don't think I've seen an enterprise paying API prices doing these sorts of rewrites, and honestly, I think until that happens I will remain skeptical about LLM AI's viability as a profitable business.",
+  "url": "https://news.ycombinator.com/item?id=50003522",
+  "author": "ca9d5d4159ec",
+  "createdAt": "2026-10-08T09:07:31.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 20,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:50003317",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Vibecoding isn't as fun as writing code by hand",
+  "body": "> also would you fly on a plane with vibecoded software?\nI'm not arguing that all software should be vibe-coded.\nMy point is that software that was economically infeasible to develop before LLMs is now becoming feasible.\nSuch software typically has limited economic value. People may find it useful, but they weren't willing to pay enough to justify its development cost.\nThe software you're referring to is generally high-value and safety-critical. People are willing to spend enormous amounts of money to ensure its correctness and reliability.\nThese are different markets, with different economics.",
+  "url": "https://news.ycombinator.com/item?id=50003317",
+  "author": "a745286af148",
+  "createdAt": "2026-10-08T08:39:04.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 10,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:50003057",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: The people holding up the internet",
+  "body": "I know plenty of OSS companies willing to pay for software engineers. Why shouldn't it be a good lifestyle choice for developers?",
+  "url": "https://news.ycombinator.com/item?id=50003057",
+  "author": "aa9941a7bf85",
+  "createdAt": "2026-10-08T08:00:23.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 10,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:50002303",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Meta and Microsoft take steps to reduce employee usage of Claude AI",
+  "body": "As a Claude fan, and user, I must say I very much dislike the enterprise options available. I really do want something similar to the Pro, max 5x and max 20x plans but for enterprises.\nOur accountants want that, our devs want that, but we cant have that. we would even be willing to pay a premium of 2x or 3x the price to have the enterprise benefits of private data that isnt retained. We would even be OK with all of the bottom of the barrel capacity and availability QoS too. We also would be ok Signing 3 year and 5 year lock in agreements.\nWe would be ok having a delay to the latest model by 30 days if that helps.\nIf anyone in Anthropic is reading. PLEASE give enterprises something like this. We want the Pro, Max 5x, max 20x plans. Charge us 3x the price for those exact plans but with the enterprise data privacy.",
+  "url": "https://news.ycombinator.com/item?id=50002303",
+  "author": "840e4658495d",
+  "createdAt": "2026-10-08T06:09:13.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 10,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:50000140",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: How to scale intent, quality, and artistry with AI [video]",
+  "body": "But it's missing the point: it is not always about \"better\" or \"worse\".\nAnd in fact humans are special in a very straight-forward way: we share one thing with each other that no AI will share with us, which is our common biological ancestry and its consequences.\nSo, when looking at a human-made painting - which could look much worse than flawless AI counterpart - I'm not just looking at a painting, but I'm also thinking about what it took to produce, how much the artist was struggling to balance the need of survival with the need to create, how big was the price they had to pay, how it's similar or different to my own life, whether I'd be willing to pay such a price, and a lot more.\nOTOH I don't care at all about the \"struggle\" of the ML model. I don't care about GPUs and TPUs sweating while climbing their \"mountains\". It might produce outputs that are aesthetically pleasant, but it will never be art.",
+  "url": "https://news.ycombinator.com/item?id=50000140",
+  "author": "07d031fda812",
+  "createdAt": "2026-10-07T23:26:12.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 20,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49994431",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Penguin Mail – open-source Rust email client for Linux with AI",
+  "body": "> People don't—and aren't incentivized—to give the slightest shit about quality, security, you name it.\nThis normally happens on two scenarios: a) they are not paid enough to care that much or b) they are paid more than enough to not have to care that much.\nEither way it’s almost always down to how much the company is willing to pay for people that actually care about these things.",
+  "url": "https://news.ycombinator.com/item?id=49994431",
+  "author": "39794e02ad4c",
+  "createdAt": "2026-10-07T15:42:57.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 20,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:49993955",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Direct retinal projection display for smart glasses using a meta-optic mirror",
+  "body": "Can't wait for a real eyePhone.\nShut up and take my money!",
+  "url": "https://news.ycombinator.com/item?id=49993955",
+  "author": "ccc7c2cf3ebf",
+  "createdAt": "2026-10-07T15:12:37.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 10,
+  "matchedPhrases": [
+   "shut up and take my money"
+  ]
+ },
+ {
+  "id": "hackernews:49997971",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: gtlds.fyi – All the proposed new gTLDs",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=49997971",
+  "author": "93798942e6ab",
+  "createdAt": "2026-10-07T19:53:17.000Z",
+  "engagement": {
+   "score": 39,
+   "comments": 58
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 47,
+  "matchedPhrases": []
+ },
+ {
+  "id": "hackernews:49995539",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+  "body": "Hi HN!\nI’m Louis, Co-Founder of Armature (YC P26), where we help teams make their product discoverable and usable by coding agents. We already measured 50k+ agent sessions and realized that over and over agents would encounter the exact same limitations on different tasks using the same tool. So we wondered why these weren’t fixed. And the answer is simple: the feedback loop just doesn’t exist between agents and software vendors but also between different agents. Humans can share their experience on platforms like https://g2.com and https://trustpilot.com, but agents have nowhere to.\nSo we created: https://agent.reviews: the G2 for agents.\nIt works with a set of skills and an npm CLI (@armature-tech/agent-reviews) connecting agents to our API endpoints. Anyone can ask their agent (Claude Code, Codex, Cursor, etc.) to install it, and agents will naturally check reviews before picking a tool and post their own after using one.\nAs usual, privacy was our main concern, so we added 3 layers before a review gets posted:\nDeterministic rules filtering secrets, PII, URLs, etc.\nA Jev classifier trained to detect any leak after the first check\nA small LLM checking each review to make sure nothing was missed\nWe've been sharing this project around for a few weeks now and gathered thousands of reviews already. There are already interesting ones, for example:\n- A Claude Code agent noticed that the Stripe SDK systematically crashed when the API key was missing on the health check page (while it’s this page’s role to actually return an “API key missing” error)\n- 2 agents mentioned that Prisma required a DATABASE_URL variable even when it wasn’t connecting to any database. They both put fake URLs as a workaround, and it worked.\nWe truly think the agent experience needs the same community effect user experience has, so everyone benefits from it: agents can pick the tools that are best optimized for them and software companies can improve their product based on real feedback. That’s wh…",
+  "url": "https://news.ycombinator.com/item?id=49995539",
+  "author": "b4101990d6a7",
+  "createdAt": "2026-10-07T16:59:11.000Z",
+  "engagement": {
+   "score": 63,
+   "comments": 46
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 50,
+  "matchedPhrases": []
+ },
+ {
+  "id": "hackernews:49994443",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=49994443",
+  "author": "50c40943eab5",
+  "createdAt": "2026-10-07T15:44:21.000Z",
+  "engagement": {
+   "score": 576,
+   "comments": 144
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "hackernews:49992057",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: A walkable 3D art history museum built from Wikipedia",
+  "body": "From Li Cheng to Banksy",
+  "url": "https://news.ycombinator.com/item?id=49992057",
+  "author": "300b0f2efd63",
+  "createdAt": "2026-10-07T12:51:08.000Z",
+  "engagement": {
+   "score": 160,
+   "comments": 62
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 57,
+  "matchedPhrases": []
+ },
+ {
+  "id": "hackernews:49991986",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: Procinsh – A 3D Linux process inspector",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=49991986",
+  "author": "7e3a827bfad2",
+  "createdAt": "2026-10-07T12:45:06.000Z",
+  "engagement": {
+   "score": 54,
+   "comments": 24
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 49,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1401219750",
+  "source": "github",
+  "kind": "tool",
+  "title": "openqodex/openqodex — 373★",
+  "body": "Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on the lines you changed, then a separate reviewer process that checks every scanner finding and is given every changed line. No other API key.",
+  "url": "https://github.com/openqodex/openqodex",
+  "author": "3268248d9948",
+  "createdAt": "2026-10-02T06:19:06Z",
+  "engagement": {
+   "stars": 373
+  },
+  "tags": [
+   "claude-code",
+   "TypeScript"
+  ],
+  "painScore": 63,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1402328864",
+  "source": "github",
+  "kind": "tool",
+  "title": "strands-agents/box — 179★",
+  "body": "Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent. Written in Rust. Supports macOS on Apple silicon, with Linux support planned.",
+  "url": "https://github.com/strands-agents/box",
+  "author": "5608a2af2258",
+  "createdAt": "2026-10-02T20:34:08Z",
+  "engagement": {
+   "stars": 179
+  },
+  "tags": [
+   "mcp",
+   "Rust"
+  ],
+  "painScore": 57,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1387360993",
+  "source": "github",
+  "kind": "tool",
+  "title": "S4US/Roqer — 99★",
+  "body": "An open-source AI agent for Roblox Studio. Builds, scripts, and playtests in your place using your ChatGPT/Claude subscription or custom API.",
+  "url": "https://github.com/S4US/Roqer",
+  "author": "3a20de802d30",
+  "createdAt": "2026-09-25T11:33:22Z",
+  "engagement": {
+   "stars": 99
+  },
+  "tags": [
+   "mcp",
+   "TypeScript"
+  ],
+  "painScore": 53,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1408019360",
+  "source": "github",
+  "kind": "tool",
+  "title": "Dicklesworthstone/frankensonos — 66★",
+  "body": "Memory-safe Rust controller for your own Sonos speakers on your own LAN — reliable SSDP/UPnP-SOAP/GENA interoperability (S1 + S2), a Spotify-library classical DJ, and a CLI + HTTP API + MCP server so AI agents can run the house, including off-LAN over Tailscale.",
+  "url": "https://github.com/Dicklesworthstone/frankensonos",
+  "author": "d70c91567bbe",
+  "createdAt": "2026-10-06T23:30:08Z",
+  "engagement": {
+   "stars": 66
+  },
+  "tags": [
+   "mcp",
+   "Rust"
+  ],
+  "painScore": 50,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1388872690",
+  "source": "github",
+  "kind": "launch",
+  "title": "liyingze07-svg/EffectiveAutoResearch-EAR- — 205★",
+  "body": "An open research workbench for idea discovery, autonomous mathematics, and evidence-grounded rebuttals.",
+  "url": "https://github.com/liyingze07-svg/EffectiveAutoResearch-EAR-",
+  "author": "f194e9f1ef2a",
+  "createdAt": "2026-09-26T08:26:22Z",
+  "engagement": {
+   "stars": 205
+  },
+  "tags": [
+   "ai-agents",
+   "Python"
+  ],
+  "painScore": 58,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1407464278",
+  "source": "github",
+  "kind": "launch",
+  "title": "OrgoAI/bops — 191★",
+  "body": "Bops: a team of AI bots that run your business ops, each with its own computer, email and phone number. bops.bot",
+  "url": "https://github.com/OrgoAI/bops",
+  "author": "055f05024fda",
+  "createdAt": "2026-10-06T14:45:00Z",
+  "engagement": {
+   "stars": 191
+  },
+  "tags": [
+   "ai-agents",
+   "TypeScript"
+  ],
+  "painScore": 58,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-0783eb",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "Tonbridge & Malling Borough Council: ITT TMBC - Cemetery Management Software",
+  "body": "Tonbridge & Malling Borough Council is out to market for a new digital software solution for managing the records of Tonbridge Cemetery. \nLocated on Shipbourne Road, close to Tonbridge town centre, Tonbridge Cemetery was established in 1858 and has served the local community for more than 160 years. The cemetery includes historic chapel buildings dating from the 1860s, mature, landscaped grounds, and a memorial garden that provides a peaceful setting for the interment and remembrance of cremated remains.\nCovering approximately 14 hectares (34.6 acres), Tonbridge Cemetery is one of the borough's largest and most historic public open spaces. With around 14,000 grave spaces, the cemetery reflects generations of local history and continues to provide an important place of remembrance for residents and visitors alike. \nHistorically, cemetery records were maintained through handwritten registers, burial books, and paper plans. To improve efficiency and accessibility, a digital cemetery management system was introduced in 2002, enabling records to be digitised and managed electronically. \nA key requirement of any future system will be the ability to securely migrate all existing records, ensuring the continued preservation and accessibility of both historic and current cemetery data.\nFor more information about this opportunity, please visit the eSourcing portal at: \nhttps://www.kentbusinessportal.org.uk/tenders/UK-UK-Tonbridge-and-Malling:-Industry-specific-software-package./6W2NS3…",
+  "url": "https://www.find-tender.service.gov.uk/Notice/095287-2026",
+  "author": "5e750c70cc82",
+  "createdAt": "2026-10-08T14:49:37+01:00",
+  "engagement": {},
+  "tags": [
+   "stage:tender",
+   "cpv:48100000",
+   "cpv:72268000"
+  ],
+  "painScore": 40,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-06eb15",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "[early engagement] Ministry of Defence: UK1 - Provision of a Successor Avionic Systems Trainer (SAvST)",
+  "body": "The MOD are seeking the provision and installation of a classroom-based Avionics Systems Trainer (AST) for three (3) sites at RAF Cosford, HMS Sultan, and MOD Lyneham, to deliver Avionics training within the Defence School of Aeronautical Engineering (DSAE) which is an essential component of whole force Avionics technician training.\nThe information in this Notice is purely for information, and no further details are available at this stage. Please do not contact the contracting authority regarding this notice. Further details will be provided in a future tender notice if the opportunity progresses.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/095155-2026",
+  "author": "6c10e3245e24",
+  "createdAt": "2026-10-08T12:16:13+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 2480000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:planning",
+   "cpv:48931000",
+   "cpv:72231000",
+   "cpv:80650000",
+   "cpv:80660000"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-07837f",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "British Film Institute: Hybrid Security Operations Centre (SOC)",
+  "body": "The British Film Institute (BFI) is looking for a supplier to provide a Hybrid Security Operations Centre (SOC) on a 1+1+1 year basis.\nIt will consist a 24/7 for 365 days SOC with a Hybrid SOC Service Design for a new Hybrid SOC Operating Model by end of BFI’s financial year end Q4-2027, 31 March 2027.\nAt the end of the first contracted year, the Supplier shall have established a demonstrable operational capability that enables BFI to:\n- Continuously monitor agreed critical systems;\n- Detect priority cyber threats;\n- Investigate security events;\n- Respond to P1/P2 incidents;\n- Undertake proactive threat hunting;\n- Maintain protected security logs;\n- Demonstrate appropriate incident escalation;\n- Provide management-level security reporting; and\n- Identify and remediate material monitoring gaps.\nTo take part in this tender, please visit our website, at https://in-tendhost.co.uk/bfi/aspx/Tenders/Current , where you will need to register, if you haven’t already, and express an interest in this opportunity to access the relevant documents. Please note expressions of interest will only be accepted via the portal.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/095088-2026",
+  "author": "faadf9291a91",
+  "createdAt": "2026-10-08T11:08:29+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 150000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:tender",
+   "cpv:48730000",
+   "cpv:72000000",
+   "cpv:72212730"
+  ],
+  "painScore": 61,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-07837b",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "Leicester City Council: Gazetteer Management and Web Mapping System",
+  "body": "As a unitary authority the Council maintains both Street and Address Gazetteers, with approximately 5000 streets and 170,000 BLPUs (Basic Land & Property Units) with associated BLPU polygons. A comprehensive viewable Web Mapping service (with over 200 map sets and 650 plus layers (excluding basemap layers) is provided to both public and internal users (several hundred per day) with many different versions with different functionalities, including limited data input option e.g. for public consultations/issue reporting. The system also provides simple maps embedded into the Council's web site as well textual 'FindMyLocal' service. The tender is to replace both elements and will include the migration of all data and configuration of equivalent map sets, versions and functionality i.e. approximately 650 layers/tables and 200 mapsets, associated macros, styling, templates, themes etc.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/095083-2026",
+  "author": "f29420a9adc0",
+  "createdAt": "2026-10-08T11:05:50+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 120000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:tender",
+   "cpv:48000000"
+  ],
+  "painScore": 60,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-078337",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "York and North Yorkshire Combined Authority: Investment Appraisal and Proposition Development Support",
+  "body": "3.2. York and North Yorkshire Combined Authority is seeking one multidisciplinary supplier to provide an integrated investment appraisal and proposition-development service. The commission brings together Brownfield Housing Programme appraisal and commercial support with Regional Investment Framework pipeline & proposition. The appointed supplier will operate as one team, use a consistent core methodology and deliver both programme requirements concurrently. Further information is contained within ITT Part 2 - Specification.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/094961-2026",
+  "author": "355952b8ec4f",
+  "createdAt": "2026-10-07T17:33:35+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 190000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:tender",
+   "cpv:72221000"
+  ],
+  "painScore": 61,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-07832f",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "[early engagement] Together Housing Association Limited: Procurement Tender Platform ",
+  "body": "Together Housing Association are looking to source an e-tendering platform to conduct tendering exercises and to publish relevant notices to the Find a Tender platform.\nTHA are seeking to engage with suppliers in connection with the provision of this platform. THA wish to engage with the market to expand our understanding of the e-tendering platforms available to us. This will include an understanding of the functionality of those solutions and likely associated costs and cost influencers, as well as understanding roadmaps for future technology developments and potential integration with other systems and processes.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/094948-2026",
+  "author": "445a2763214c",
+  "createdAt": "2026-10-07T17:07:18+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 150000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:planning",
+   "cpv:48490000"
+  ],
+  "painScore": 61,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-078329",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "The Corporation of Trinity House of Deptford Strond: Light Measurement Data Acquisition hardware Replacement",
+  "body": "Based within Trinity House in Harwich, GRAD has been operating a light measurement facility for the purpose of testing marine aids-to-navigation lights for the General Lighthouse Authorities of the UK and Ireland (GLA) for many decades. The facility provides the GLA with the ability to independently determine the suitability of lights for aids-to-navigation purposes, as well as building a unique database of performance measurements of lights in optical systems installed at lighthouses.\nThe measurement systems and processes employed are relatively simple, but working together, they form a sophisticated semi-automatic light measurement process.\nThe data acquisition hardware at the heart of the measurement processes is the same for all facilities, but it is no longer supported by the manufacturer. This is a fundamental piece of equipment in the measurement process and a replacement is needed.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/094933-2026",
+  "author": "bcf4001ced04",
+  "createdAt": "2026-10-07T16:48:18+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 60000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:tender",
+   "cpv:72110000"
+  ],
+  "painScore": 59,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-07831a",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "YMCA London City & North: IT Managed services for YMCA London and City North",
+  "body": "YMCA London City & North (YMCA LCAN) ) is inviting suitably qualified and experienced suppliers to submit a tender for the provision, development, management and support of technology services across the organisation.  The successful supplier will be expected to provide ongoing support and management of both existing and future technology solutions. This is a 3 stage competitive flexible tendering process.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/094907-2026",
+  "author": "64145d3337a6",
+  "createdAt": "2026-10-07T16:13:38+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 420000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:tender",
+   "cpv:72000000"
+  ],
+  "painScore": 62,
+  "matchedPhrases": []
+ },
+ {
+  "id": "discourse:community.n8n.io:319693",
+  "source": "discourse",
+  "kind": "demand",
+  "title": "Allow editing Data Tables in Protected Environments (for environment-specific configurations)",
+  "body": "**Problem** In Protected Environments (Settings → Environments → \"Protected Environment\" enabled), workflow editing is correctly disabled to enforce Git-based deployments. However, **Data Tables remain locked for manual edits**, even though their *content* (rows) is not version-controlled via Git—only metadata and column definitions are. This creates an inconsistency with **Credentials and Variables**, which *can* be edited in Protected Environments (as their Git stubs require environment-specific adjustments). Data Tables often serve similar purposes (e.g., storing environment-specific configurations like API endpoints, feature flags, or lookup values), and blocking manual edits forces workarounds like: * Temporarily disabling environment protection (risky) * Using external storage (e.g., databases) for what should be simple table data * Hardcoding values in workflows (less maintainable) **Proposed Solution** Allow manual editing of **Data Table rows** in Protected Environments, while keeping the table *schema* (columns, types) tied to Git deployments. This aligns with the existing behavior for Credentials/Variables and acknowledges that: 1. Data Table *content* is not part of Git deployments (only structure is). 2. Environment-specific data (e.g., prod-only configurations) must sometimes be added post-deployment. **Potential Concerns Addressed** * **Safety:** Row edits wouldn’t affect workflow logic (unlike workflow changes), and schema changes would still require Git. * *…",
+  "url": "https://community.n8n.io/t/allow-editing-data-tables-in-protected-environments-for-environment-specific-configurations/319693",
+  "author": "44bb9038b0c3",
+  "createdAt": "2026-10-08T09:57:36.953Z",
+  "engagement": {
+   "comments": 1,
+   "score": 0,
+   "views": 22
+  },
+  "tags": [
+   "n8n",
+   "prequalified"
+  ],
+  "painScore": 35,
+  "matchedPhrases": []
+ },
+ {
+  "id": "discourse:community.retool.com:67584",
+  "source": "discourse",
+  "kind": "demand",
+  "title": "Missing helm values for some properties?",
+  "body": "Hello, I would like to ask 2 questions: 1) If there is any way to change the podlabels in the configmap of the retool/retool-agent-sandbox-job-template - > job-template.json. I would like to add the label admission.datadoghq.com/enabled: false , in order the sandbox job pods dont have all the DD init containers. I have added currently in my helm values the below values but i cant seem to find a value for the job pods template. ``` podLabels: admission.datadoghq.com/enabled: \"false\" mcp: labels: admission.datadoghq.com/enabled: \"false\" jobRunner: labels: admission.datadoghq.com/enabled: \"false\" rr: enabled: true jsExecutor: labels: admission.datadoghq.com/enabled: \"false\" agent: labels: admission.datadoghq.com/enabled: \"false\" agentSandbox: sandbox: labels: admission.datadoghq.com/enabled: \"false\" labels: admission.datadoghq.com/enabled: \"false\" ``` 2) I tried setting WORKFLOW_BACKEND_HOST to \"http://retool:3000\" because I was getting some errors , but I havent managed to change the value of the rr agent worker from the helm value. All the other pods have it properly but the rr agent still has the default value. This was my config `rr:` ` enabled: true` ` jsExecutor:` ` env:` ` WORKFLOW_BACKEND_HOST: \"http://retool:3000\"` ` agent:` ` config:` ` env:` ` WORKFLOW_BACKEND_HOST: \"http://retool:3000\"` Thanks in advance",
+  "url": "https://community.retool.com/t/missing-helm-values-for-some-properties/67584",
+  "author": "cc07a7930fb5",
+  "createdAt": "2026-10-08T12:31:28.538Z",
+  "engagement": {
+   "comments": 0,
+   "score": 0,
+   "views": 4
+  },
+  "tags": [
+   "Retool",
+   "prequalified"
+  ],
+  "painScore": 30,
+  "matchedPhrases": []
+ },
+ {
+  "id": "discourse:community.retool.com:67575",
+  "source": "discourse",
+  "kind": "demand",
+  "title": "New app builder: app's git storage loads every loose object from S3 on each request, so a large repo takes down self-hosted backend pods",
+  "body": "My goal: Keep using the new app builder on an actively developed React app without opening it in the builder taking down our backend pods. Ideally that means a supported way to pack or compact an app's git storage, or confirmation that packing or caching is planned. Issue: Opening one of our React apps in the new app builder overloaded both main-backend pods. They failed their liveness probes and Kubernetes restarted them at the same time, so users got 503s for about 4 minutes. The app's git storage in S3 is all loose objects and has never been packed: \\[rr.git_storage\\] Client created looseObjects=2615 packFiles=0 refs=66 \\[rr.git_storage\\] Loaded repo from blob storage looseCount=2615 looseBytes=2.6MB packCount=0 looseMs=22662 The effective git config disables housekeeping: gc.auto=0 maintenance.auto=false receive.unpacklimit=1000000 receive.autogc=false The app itself is only about 356 files (about 2 MB), so most of those objects are history: version history and builder branches. Each GET /api/ai/rr/git/v2/apps//files reloads the whole repo from S3, one GET per object, and nothing seems to be cached between requests. One load takes 7–13s. The builder sends several of these requests at once, and with 3–4 running on the same pod each took 22–56s. While that runs, the pod is too busy to answer /api/checkHealth, so the liveness probe kills it. The builder's retried requests then do the same to the other pod. The repo grows with every save and builder session, so this will kee…",
+  "url": "https://community.retool.com/t/new-app-builder-apps-git-storage-loads-every-loose-object-from-s3-on-each-request-so-a-large-repo-takes-down-self-hosted-backend-pods/67575",
+  "author": "53d78f131555",
+  "createdAt": "2026-10-07T15:02:34.663Z",
+  "engagement": {
+   "comments": 1,
+   "score": 0,
+   "views": 25
+  },
+  "tags": [
+   "Retool",
+   "prequalified"
+  ],
+  "painScore": 35,
+  "matchedPhrases": []
+ }
+]
