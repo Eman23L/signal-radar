@@ -1,0 +1,1671 @@
+[
+ {
+  "id": "hackernews:50013209",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Picard 3.0",
+  "body": "It's not an \"auto-tagger\" (and I wouldn't trust any app that claims to be one) - make sure to check your results and match them to the right release! And use cluster + lookup first, scan is a last resort.",
+  "url": "https://news.ycombinator.com/item?id=50013209",
+  "author": "7d0f21cafaf3",
+  "createdAt": "2026-10-08T22:20:21.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "any app that"
+  ]
+ },
+ {
+  "id": "hackernews:50009408",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: The Slow Formation of Durable Software",
+  "body": "I was looking for software that would let me bookmark recipes (from web pages) and let me scrawl my notes on them. \"Needs more of this or that ingredient\" \"Use less salt\". This might be it.\nIt's baffling actually that Firefox doesn't let you annotate bookmarks, it seems such an obvious feature.",
+  "url": "https://news.ycombinator.com/item?id=50009408",
+  "author": "e2cb5013c01d",
+  "createdAt": "2026-10-08T17:58:07.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "looking for software"
+  ]
+ },
+ {
+  "id": "hackernews:50018914",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
+  "body": "What do you use for you self-hosted calendar and contracts? I'm mostly de-googled but contacts especially have been problematic.\nAlso, what inference hardware are you using that's so efficient you can do it solar powered?",
+  "url": "https://news.ycombinator.com/item?id=50018914",
+  "author": "cc7bd5ff9baf",
+  "createdAt": "2026-10-09T11:18:59.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "what do you use for"
+  ]
+ },
+ {
+  "id": "hackernews:50015649",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
+  "body": "This is very cool! What do you use for payment processing? Also what’s the site it love to check it out. Not really into mushrooms but I love a good hand made ecommerce site!",
+  "url": "https://news.ycombinator.com/item?id=50015649",
+  "author": "901bd4414f73",
+  "createdAt": "2026-10-09T03:29:10.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "what do you use for"
+  ]
+ },
+ {
+  "id": "hackernews:50020356",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: US proposes $100k charge for international students to do post-graduate work",
+  "body": "Most Europeans hate american gov and companies so much. They just need a good alternative to jump the ship.",
+  "url": "https://news.ycombinator.com/item?id=50020356",
+  "author": "fd1533f69040",
+  "createdAt": "2026-10-09T13:36:04.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:50019721",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+  "body": "I think the audience for home automation is U-shaped. There are folks who are neck deep in it and care deeply, and others who couldn't care less, but not many in the middle. The middle 90% is decently served by Apple, Google and Amazon, too, so there's no need for any real passion or exploration by most anyway.\nWe're building a custom home and it's only been through this process that I've taken an interest in smart home / home automation. Why? Mostly because\n1) building speakers into your walls & ceilings means you need to control their input somehow, and your gear is going to be in a wiring closet\n2) if you don't want Alexas or Nest devices sitting around on horizontal surfaces, your voice control options are limited\n3) you don't want your security camera footage stored in the cloud\n4) you do want a single pane of glass for visibility into things like your HVAC, your irrigation system, your security system, your garage door status, and your AV gear.\nHome Assistant is tremendously helpful as a FOSS alternative to Control4, Crestron, Savant, Lutron, and Josh.ai, but you can't entirely escape the \"big tech\" part of the ecosystem because each of the primary systems (say, your AV streaming or your power shades) will still require use of the OEM's product. Many of which have integrations with or APIs exposed to Home Assistant, but not all.\nThere are some quality of life improvements available through automation, but most of it is incremental and only enthusiasts would really care.",
+  "url": "https://news.ycombinator.com/item?id=50019721",
+  "author": "fd70bbea0dc6",
+  "createdAt": "2026-10-09T12:47:09.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:50018627",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Show HN: Open-source alternative to AWS BlazingText, in PyTorch",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=50018627",
+  "author": "0dd21c0d3938",
+  "createdAt": "2026-10-09T10:40:32.000Z",
+  "engagement": {
+   "score": 1,
+   "comments": 0
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 28,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:50017808",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Ask HN: Are you a subscribed LLM or a locally deployed open-source model?",
+  "body": "Subscribed for work, but using it mostly for one-shot utilities and fixes, very infrequently.\nI'm also running local models on my gaming laptop, but just out of curiosity, for testing how far local models are coming along. Despite my negative experiences (below) I still think the technology is cool, and it's even cooler I can run it on my not very cutting edge laptop. I give local models a set of tasks and see how far along each new one comes.\nRant:\nFor work, I've mostly given up on using LLMs for large features, in all cases I've tried in the last 2 years, the time it takes to clean up their output is about the same I would have spent writing and debugging the feature myself. There's only a single major feature I've shipped that was mostly written by an LLM, and that was back in May. All other major tasks I've tried, even somewhat trivial ones, led to unusable code, filled with comment slop and workarounds, and hidden bugs.\nThis is probably due to the sheer amount of legacy code our app has, but even trying to develop more or less self-contained components was very difficult.\nI do use LLMs daily, but mostly through a chat interface, as a somewhat faster alternative to web search and as an alternative to copying and pasting from StackOverflow for minor problems.\nMost of my current job is now going over PRs submitted by my team members, that are mostly all AI-generated, and cleaning them up. The amount of junk inserted into the code by current SOTA models is astonishing, especially during rounds of bug fixes, probably due to context rot. \nHundreds of useless variables and small wrapper functions on top of wrapper functions. Hundreds of comments that are essentially word salad, or worse, the LLM talking to the user through the comment instead of through the chat, essentially saying in a comment \"I was a good subservient model, and did what you wanted! This function now returns an error, see?\". Repeated hundreds of times. Not to mention actual bugs that the inane and…",
+  "url": "https://news.ycombinator.com/item?id=50017808",
+  "author": "5175ef4308aa",
+  "createdAt": "2026-10-09T08:47:45.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:50017690",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Man discovers his parents' coffee machine used 1TB of data in 10 days",
+  "body": "That is empirically false as evidenced by the voluntary download rate of Facebook's permission updates on the App and Play Stores.\nIf people didn't care then why do so many companies have to coerce/deceive users into using their product?\nConvenience my ass - the alternative to \"convenience\" is not participating in modern society, which isn't a decision at all.",
+  "url": "https://news.ycombinator.com/item?id=50017690",
+  "author": "77f334813217",
+  "createdAt": "2026-10-09T08:33:58.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:50014005",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+  "body": "I personally like the name even if it's a little trendy. I'm glad there's an open source alternative to Muse that's hopefully just as convenient!",
+  "url": "https://news.ycombinator.com/item?id=50014005",
+  "author": "4745c400f88b",
+  "createdAt": "2026-10-08T23:43:25.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:50013859",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
+  "body": "That's the one I was referring to as you asked about an alternative to AdobeAE.\nI only came across it recently as it's trending. I had no idea they had already started developing adobe apps clones for so many years",
+  "url": "https://news.ycombinator.com/item?id=50013859",
+  "author": "adef12d1ecf3",
+  "createdAt": "2026-10-08T23:25:19.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:50013187",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: A Terminal Protocol for Program Status (OSC 7501)",
+  "body": "I just found out about this an hour ago while browsing the Pi docs. I'm really excited to use this as an alternative to the herdr pi extension as I prefer minimizing the number of extensions I have. Also, this could be great to use with a CI tracker (though I'd need one that works with Forgejo).\nhttps://pi.dev/docs/latest/terminal-setup#program-status",
+  "url": "https://news.ycombinator.com/item?id=50013187",
+  "author": "17f47318e5cc",
+  "createdAt": "2026-10-08T22:18:31.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:50013184",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Why the AI future will be awesome",
+  "body": "If an AI has figured out how to turn all of the internal mass of a AAA battery into electrical energy, it's not too much of a stretch to think it's could have also found a room temperature super conducting alternative to copper.",
+  "url": "https://news.ycombinator.com/item?id=50013184",
+  "author": "eca50ddae340",
+  "createdAt": "2026-10-08T22:18:04.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:50009928",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Show HN: MarbleMD – Free collaborative alternative to Typora",
+  "body": "Over the past year, I found myself increasingly writing technical docs in Markdown. Unfortunately, there isn't an easy way to share and collaborate on these docs in real time.\nI built Marble.md to solve this problem. Combining a minimalist Typora-like Markdown editor with real time collaboration. You can even connect your AI agents to do live edits. It support tables, code, LaTeX math, Mermaid diagrams, HTML, and so much more.\nSince it launched a month ago, it has been used by more than 1300 people already.\nGive it a try and let me know what to improve :)",
+  "url": "https://news.ycombinator.com/item?id=50009928",
+  "author": "0017d3bd2655",
+  "createdAt": "2026-10-08T18:30:21.000Z",
+  "engagement": {
+   "score": 3,
+   "comments": 0
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 31,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:50008892",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Orkut.com",
+  "body": "I _really_ liked the \"hangout\" idea of Google+. Where you could just start a video call and whoever among your friends wanted to join, could, without having to accept or reject an actual invitation to them specifically. I could work on a project out in the garage and people could hop in and make small talk while I was doing stuff. It was great.\nIt doesn't feel like there is a great modern alternative to this.",
+  "url": "https://news.ycombinator.com/item?id=50008892",
+  "author": "27cf7ea372e1",
+  "createdAt": "2026-10-08T17:28:59.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:50008334",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=50008334",
+  "author": "da395b0b74ac",
+  "createdAt": "2026-10-08T16:54:05.000Z",
+  "engagement": {
+   "score": 2,
+   "comments": 1
+  },
+  "tags": [],
+  "painScore": 32,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:50017998",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: MXC - a sandboxed code execution system",
+  "body": "That’s exactly it.\nThere should be some permission logic for delegating.\nBut as always, there are rivals trying to set their tone on what’s the standard. We all wish there was one unified agreed concept that will work but I guess the most common one will eventually survive.\nJust as Microsoft in a sense embraces Linux with WSL and also Apple has their virtualization framework.\nI hope we’ll eventually get unified model management system to include also permissions designed properly",
+  "url": "https://news.ycombinator.com/item?id=50017998",
+  "author": "ae0ad81dd6ec",
+  "createdAt": "2026-10-09T09:10:25.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "wish there was"
+  ]
+ },
+ {
+  "id": "hackernews:50017797",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Keyboard differences between Windows and Macs",
+  "body": "I have been using Mac since 2018 daily on my day job and I still get confused by the symbols. I wish there was some system option to always display them as words or abbreviations (CMD etc) instead.\nBut I did get used to the navigation and basic shortcuts after a while. Using the terminal/keyboard/IDE shortcuts (which I can set up myself) for most of the work helps a lot.\nFinder is still terrible though.",
+  "url": "https://news.ycombinator.com/item?id=50017797",
+  "author": "8b7ccc20fc53",
+  "createdAt": "2026-10-09T08:45:37.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "wish there was"
+  ]
+ },
+ {
+  "id": "hackernews:50016735",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Reducing undefined behavior in the C language",
+  "body": "I frankly find the situation around UB puzzling. AFAICT the idea was born in the times of very anemic compilers which would translate things that don't make definite sense, or work unpredictably on certain architectures. But why is it still a thing now, 50 years later?\nIf a compiler can detect UB, I think the only reasonable way for it is to have the program terminate immediately, not release \"nasal demons\". (And, of course, many bugs get smashed against the -Wall which should be the default.)\nOf course, not all UB can be detected at compile time, like reading the padding bytes in a struct mentioned in the article. I wish there was a way to opt out of all UB, in an arbitrary but predictable way (an immediate crash would be fine), something like -fsanitize but for any UB at all that might happen at runtime. In quite some important code, I'd agree to tolerate the performance hit, it may be cheaper than dealing with the aftermath or an RCE exploited. I see that it's not entirely realistic though.",
+  "url": "https://news.ycombinator.com/item?id=50016735",
+  "author": "6a284d642074",
+  "createdAt": "2026-10-09T06:26:54.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "wish there was"
+  ]
+ },
+ {
+  "id": "hackernews:50008086",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Show HN: I used Claude Code to address the HN comments on my 2019 game",
+  "body": "In 2019 I posted Aim and Shoot here, a browser shooter where every enemy is a neural network evolved by a genetic algorithm between rounds: https://news.ycombinator.com/item?id=21353123\nThe thread had a lot of good feedback that I never got around to. This year I gave Claude Code the thread and the repo and worked through it:\n- \"Give the player full health every round\" (four of you asked): done.\n- \"I wish there was a scoreboard, I wanted a screenshot of how far I got\": the game-over screen now shows the round you reached and your best.\n- \"The gun sound is jarring\": quieter, and M mutes it.\n- \"Enemies spawn on top of you and drag you around\": bots now spawn at a safe distance, collisions are fixed, and there's a short grace period at the start of each round.\n- \"The bots all aim at the top-left corner, so camp bottom-right\": this was a bug. Each bot only saw part of the game state. They now see every player, and aim, mutation and elitism are fixed too.\n- \"Kill the shooters first and the GA breeds pacifists\" (by generation 8 they were running into walls): the fitness rewarded bots for living long, so your kill order picked who reproduced. It now rewards hitting you.\nThe biggest change came from a problem nobody quite named: evolution reset every time you died, so the bots never got far. Now there's one shared population on the server, and every round anyone plays moves it forward. Your browser only reports raw stats per bot; the server checks them, scores and breeds. It's PHP + SQLite on a small VPS, with a local fallback if the server is down.\nIt's at generation 1 right now. Whatever the bots are by tonight, you bred them.\nCode: https://github.com/victorqribeiro/aimAndShoot",
+  "url": "https://news.ycombinator.com/item?id=50008086",
+  "author": "fb8066fc7593",
+  "createdAt": "2026-10-08T16:40:14.000Z",
+  "engagement": {
+   "score": 1,
+   "comments": 0
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 28,
+  "matchedPhrases": [
+   "wish there was"
+  ]
+ },
+ {
+  "id": "hackernews:50013092",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: OpenAI annualised revenues $20B less than previously signalled",
+  "body": "\"Right but why would VCs want this? Wouldn't VCs value the liquidity of being able to flexibly enter and exit positions? I really wish there were a simple explanation of why companies don't want to IPO as early as they used to but there isn't.\"\nTo me it's pretty clear. The earlier investors take out all the possible upside and then dump it on the retail market. The retail investor will be less and less able to buy stock that will grow 10x and more. It's hard to imagine SpaceX, OpenAI or Anthropic will multiply in value after the IPO. They are priced in a way that they have to execute perfectly for a long time to justify even their current price.\nJust another step for the super wealthy to keep profits for themselves instead of letting the broader population to benefit.",
+  "url": "https://news.ycombinator.com/item?id=50013092",
+  "author": "deef47d59fe0",
+  "createdAt": "2026-10-08T22:08:41.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "wish there were"
+  ]
+ },
+ {
+  "id": "hackernews:50011557",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: OpenAI annualised revenues $20B less than previously signalled",
+  "body": "Right but why would VCs want this? Wouldn't VCs value the liquidity of being able to flexibly enter and exit positions? I really wish there were a simple explanation of why companies don't want to IPO as early as they used to but there isn't. The closest I've found when talking to CEOs has been they don't want shareholders putting pressure on them for quarterly results and diluting the company's focus, especially when it's still growing and doesn't have a mature business.",
+  "url": "https://news.ycombinator.com/item?id=50011557",
+  "author": "5245f88c00d8",
+  "createdAt": "2026-10-08T20:18:49.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "wish there were"
+  ]
+ },
+ {
+  "id": "hackernews:50012353",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: OLED burn-in test: 30-month update",
+  "body": "I have never had a great experience with OLED on larger screens, whether monitors or laptops. In smartphones, OLED burn-in is much less of a practical concern because of pixel-shifting and other mitigation done by the OS. The use of phone is mostly switching between apps, watching videos, texting, and making calls, rather than displaying the same text for hours so that makes sense. I still prefer IPS LCD for monitors and laptops because text looks crisper, which matters if you spend hours reading or working. OLED makes more sense to me for watching movies and other video content. In my opinion, Apple did it correctly, MacBook uses a Mini-LED backlit LCD, so you get a quality display with HDR while also having sharp text, and you don't have to worry about burn-in issues. There is MicroLED[1], which promises to combine OLED-like blacks and response with better longevity by avoiding screen burn-in issues. At the moment, it seems no major manufacturers are providing it because of cost and other factors.\n[1]: https://en.wikipedia.org/wiki/MicroLED",
+  "url": "https://news.ycombinator.com/item?id=50012353",
+  "author": "8206c778f000",
+  "createdAt": "2026-10-08T21:10:54.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "spend hours"
+  ]
+ },
+ {
+  "id": "hackernews:50007953",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Orkut.com",
+  "body": "In India, Orkut was a massive success back in the day. We've had testimonials, and we used to spend a lot of time writing them. We used to spend hours hacking the corporate firewall to access Orkut during office hours!",
+  "url": "https://news.ycombinator.com/item?id=50007953",
+  "author": "e59592bbc2b4",
+  "createdAt": "2026-10-08T16:32:07.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "spend hours"
+  ]
+ },
+ {
+  "id": "hackernews:50005922",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Man discovers his parents' coffee machine used 1TB of data in 10 days",
+  "body": "How does this analogy go when people buy a house kitten and it turns out they have been sold a lion cub? Most people simply do not have the tech literacy to understand that what they a are buying is actually a lion, they thought they were buying a coffeemaker with some cool features. It's difficult to blame the victim when they would need to spend hours trying to understand why the thing mapping out their local network is something that they should even care about",
+  "url": "https://news.ycombinator.com/item?id=50005922",
+  "author": "2eda57e26363",
+  "createdAt": "2026-10-08T14:02:27.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "spend hours"
+  ]
+ },
+ {
+  "id": "hackernews:50018339",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Keyboard differences between Windows and Macs",
+  "body": "French AZERTY on Windows and on Mac have quite some differences in symbol locations, also drives me crazy when switching to my mechanical keyboard.\nIn AZERTY, the number row works differently. Unshifted gives symbols and commonly-used accented letters like \"é\" and \"à\", hold Shift to get a number.\nIn Windows keyboard, the unshifted \"number 8\" key corresponds to a \"_\" while it's a \"!\" in Mac. The key below Esc on Windows is literally just the superscript 2 for some reason, on Mac it's \"@\" unshifted, \"#\" shifted. We also have a key for \"μ\" and for \"§\" in Windows.",
+  "url": "https://news.ycombinator.com/item?id=50018339",
+  "author": "0d196e92bde5",
+  "createdAt": "2026-10-09T09:58:48.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "drives me crazy"
+  ]
+ },
+ {
+  "id": "hackernews:50015832",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Keyboard differences between Windows and Macs",
+  "body": "Yeah this drives me crazy too.\nAs a sibling comment notes, Caps Lock as Control helps a lot but it's still not as nice as Command-based shortcuts, both in hand positioning and in terms of shortcut overlap.",
+  "url": "https://news.ycombinator.com/item?id=50015832",
+  "author": "beac853a144a",
+  "createdAt": "2026-10-09T03:58:06.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "drives me crazy"
+  ]
+ },
+ {
+  "id": "hackernews:50010841",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: 4-hour battery storage is cheaper to install than gas turbines all across globe",
+  "body": "That's a big part of what drives me crazy about the papers I've seen on this work. People like to quote some levelized price of energy and say \"this costs less than an AP1000\" and you never see modeling of \"here's the price in California, here's the price in New York\"",
+  "url": "https://news.ycombinator.com/item?id=50010841",
+  "author": "3854602ba541",
+  "createdAt": "2026-10-08T19:31:14.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "drives me crazy"
+  ]
+ },
+ {
+  "id": "hackernews:50015244",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: I think I found a planet nobody knew existed. I used Claude Code to find it",
+  "body": "Just reading that makes me angry. I’m so sick of reading shit like that.",
+  "url": "https://news.ycombinator.com/item?id=50015244",
+  "author": "9ea09d26e332",
+  "createdAt": "2026-10-09T02:28:57.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:50012860",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+  "body": "> “The URL is the app” makes literally no sense without additional context?\nYes exactly - it's one of those sentences that only makes sense to people who already know what it was intended to mean, because they know how it's intended to be parsed without having to puzzle over it. For the rest of us, it's pretty meaningless.\nRegarding the LLMism, I didn't click on this submission when I saw it on HN last night, because I'm sick of seeing \"The X is the Y\", and an LLMish title tends to imply yet another piece of vibecoded slop.",
+  "url": "https://news.ycombinator.com/item?id=50012860",
+  "author": "41d6bf132907",
+  "createdAt": "2026-10-08T21:49:25.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:50012514",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Sharing AI progress in mathematics",
+  "body": "It's more like running a daycare. The stream of children never ends and they never grow up. If you get really sick of it though you can always kick out the kids (responsibly) and leave.",
+  "url": "https://news.ycombinator.com/item?id=50012514",
+  "author": "3d8a429f0048",
+  "createdAt": "2026-10-08T21:23:44.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:50011147",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Sharded, encrypted storage between friends over Yggdrasil",
+  "body": "> more aligned to the internet in the early days when there was more trust.\nplease for the love of alan turing understand that trust happens iff there are reasonably-enforceable boundaries, and \"oh we're friends, let's opt out of reasonable information-theoretic security primitives\" is not a healthy or friendly behavioral pattern.\n/ if your PKI is so obnoxiously difficult to set up correctly that people are inclined to skip the crypto altogether, please get help.\nsorry for the grouchy tone, I'm just sick of hearing software engineers pretend that shoddy quality control issues and products riddled with security holes is somehow positive.",
+  "url": "https://news.ycombinator.com/item?id=50011147",
+  "author": "e9eba3858867",
+  "createdAt": "2026-10-08T19:52:53.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:50009442",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: OpenAI withdraws three mathematical results",
+  "body": "This ship kinda sailed when OpenAI came out of the barn by claiming it could replace people. The narrative of the AI bubble has always been this cynical management driven replace your human capital/labor with stupid bots.\nTrying to actually get the framing to be more reasonable is just hard because so many people have oversold it and large swaths of the public are sick of hearing about it.",
+  "url": "https://news.ycombinator.com/item?id=50009442",
+  "author": "392cac91fa4f",
+  "createdAt": "2026-10-08T17:59:39.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "sick of"
+  ]
+ },
+ {
+  "id": "hackernews:50019909",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Show HN: Pivot – fast analytics on Iceberg, 2x+ faster than ClickHouse / DuckDB",
+  "body": "Hi!\nWill definitely add those to the docs and landing page — really appreciate the feedback! :)\nWe originally built Pivot for our internal observability pipeline, where we streamed the same data into both ClickHouse (with 1 month TTL - for fast dashboards and customer-facing analytics on recent data) and Iceberg (for longer data archiving and ETL jobs). We were frustrated with this duplication (and with ClickHouse OSS being disk-based rather than S3-based!), and got curious about how fast an Iceberg-native real-time analytics database could be!\nRe DuckDB — it's definitely an amazing piece of technology, but it didn't provide the full \"database\" experience we needed: ingestion, efficient compaction, high concurrency, cluster deployment option, and a single endpoint for our backends and dashboards to query.\nUltimately, we managed to cut the cost of our customer-facing analytics and observability pipeline by around 75%, so we figured it might be useful to others as well! :)\nRe hardware variation, we definitely optimized for cloud native deployments.\nWhile we do have some optimizations and kernels for specific instruction sets on both x86 and ARM (for example AVX-512 on x86, and with Armv8.2-A as the minimum for ARM), most of our optimizations focus on taking advantage of the memory and network bandwidth of modern hardware, both of which have increased significantly in recent years (https://pivotlake.io/docs/database/why-pivot-is-fast/#utiliz...).",
+  "url": "https://news.ycombinator.com/item?id=50019909",
+  "author": "f8b7ed594223",
+  "createdAt": "2026-10-09T13:03:42.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "frustrated with"
+  ]
+ },
+ {
+  "id": "hackernews:50017751",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Show HN: SpectroMood, speech emotion detection with a decision model",
+  "body": "Voice AI industry still uses transcripts to determine the emotions of the user.\nSo when me and my friend were discussing about this we got the known limitations of transcriptions is that it doesn't capture the user's emotion from audio. Like, \"I'm frustrated with your service\" reads the same whether calm or angry.\nThen I thought, why can't the decision model be tested for this to get quicker decisions on the go, knowing the limitation that it can't accept the audio file directly? So I thought of converting it to a pictorial representation and then submitting it to the clef-flash [a cheaper option]. Although the results are not too exciting, I would say it is just starting, and we can fine-tune the decision model for the same use case, and it can help a lot in several scenarios.\nWorth giving it a try and checkout on your own voice.",
+  "url": "https://news.ycombinator.com/item?id=50017751",
+  "author": "bf19a8340764",
+  "createdAt": "2026-10-09T08:40:22.000Z",
+  "engagement": {
+   "score": 1,
+   "comments": 0
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 28,
+  "matchedPhrases": [
+   "frustrated with"
+  ]
+ },
+ {
+  "id": "hackernews:50010223",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: 15-year search for a band that charted once and vanished",
+  "body": "I'm so frustrated with Spotify that I began vibing up my own alternative recommender - I'll check back in with Pandora, I used to love that service. I just presumed it went the way of grooveshark.",
+  "url": "https://news.ycombinator.com/item?id=50010223",
+  "author": "aa6c4972bdf9",
+  "createdAt": "2026-10-08T18:48:26.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "frustrated with"
+  ]
+ },
+ {
+  "id": "hackernews:50016447",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Reducing undefined behavior in the C language",
+  "body": "Operating systems code can definitely afford runtime checking if it's not too expensive in terms of performance. The Linux kernel has a WARN_ON macro that does exactly this. The tradeoff is worth it in a lot of cases if you're exchanging a small amount of performance for greater debug-ability or security.",
+  "url": "https://news.ycombinator.com/item?id=50016447",
+  "author": "7d17c3b5a218",
+  "createdAt": "2026-10-09T05:44:07.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:50015718",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: What should we tell our students?",
+  "body": "I read The Mountain in the Sea by Ray Nayler a couple years back. In it AIs were running ocean fishing fleets. They figured out that robots were too expensive and prone to malfunction at sea, so they would have the robots kidnap people on shore, drug them and then have them wake up on the ships too far out in the ocean to be able to escape and thenm tell them they could get back home if they work.",
+  "url": "https://news.ycombinator.com/item?id=50015718",
+  "author": "1def80823087",
+  "createdAt": "2026-10-09T03:40:05.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:50013325",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Ask HN: Is the Steam Machine worth $1049?",
+  "body": "The size footprint is literally the only important thing about this device (as you can install Bazzite wherever). It is overpriced. The form factor is appealing in the shiny rock sense and you will get a dopamine hit from buying one, but it will wear off.",
+  "url": "https://news.ycombinator.com/item?id=50013325",
+  "author": "25ae1dd5e5e5",
+  "createdAt": "2026-10-08T22:29:28.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:50012563",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+  "body": "\"1070s or 1070 TIs because GPUs have been severely overpriced for too long\" ... .\"\n1070ti launch MSRP was $450 ish.\n5070 could be had in the last year for 5xx-6xx range easily.\nAll things considered - (inflation being about 30%~ (guess)) between these two timelines. You are looking at 300% performance difference at a cost dollar for dollar that is cheaper then when they purchased their cards.\nMight be a bit of a stretch blaming it on \"severely overpriced for too long...\"",
+  "url": "https://news.ycombinator.com/item?id=50012563",
+  "author": "dcd33c9c3aed",
+  "createdAt": "2026-10-08T21:28:01.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:50011804",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Ask HN: Is the Steam Machine worth $1049?",
+  "body": "For the hardware you get, it's overpriced. Go look at a prebuilt on Costco.com, for example. I see this on there right now at $1100:\nIntel Core Ultra 5 225F - GeForce RTX 5060 - 32GB RAM - 1TB SSD\n> Con: Since it's Linux-based I think online games with anti-cheat won't work, which seems like a significant downside in terms of utility.\nEAC does work on Linux, but the dev has to set a feature flag per-game. Check the specific games you want to play.",
+  "url": "https://news.ycombinator.com/item?id=50011804",
+  "author": "328eb89f39bd",
+  "createdAt": "2026-10-08T20:33:28.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:50011021",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+  "body": "Call me crazy but:\nVRAM & Memory Requirements by Precision\n• FP16 (Full Precision): Requires ~1,664 GB of VRAM (e.g., an 8x B300 288GB cluster).\n• INT8 Quantization: Requires ~832 GB of VRAM (e.g., 8x H200 141GB).\n• INT4 Quantization: Requires ~416 GB of VRAM (e.g., 8x A100 80GB)\nVRAM aint cheap, Sam Altman ruined the cost of memory, Nvidia doesnt make enough consumer GPUs letting the market go insane over them, I still have friends on 1070s or 1070 TIs because GPUs have been severely overpriced for too long. I remember when a gaming PC was only $1000.\nEven so why would anyone not sleep on a model they cannot run?",
+  "url": "https://news.ycombinator.com/item?id=50011021",
+  "author": "4a9bb6293740",
+  "createdAt": "2026-10-08T19:43:34.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:50010677",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: OpenAI annualised revenues $20B less than previously signalled",
+  "body": "I understand it as IPO is the ultimate victory for investors. They finally get their reward, sell in the overpriced moment and can go their merry way.",
+  "url": "https://news.ycombinator.com/item?id=50010677",
+  "author": "cc7181c3749f",
+  "createdAt": "2026-10-08T19:19:01.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:50010088",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: OpenAI annualised revenues $20B less than previously signalled",
+  "body": "IPO = It's Probably Overpriced.\nThe reason is that companies can choose the best timing to go public - when their financial look the best - and they do.\nAnthropic trying to go public very soon is a good tell their financial look pretty decent. OpenAI postponing the IPO is a very good tell theirs look bad.",
+  "url": "https://news.ycombinator.com/item?id=50010088",
+  "author": "978091bbcaf5",
+  "createdAt": "2026-10-08T18:39:55.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:50007897",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Trump administration is suspending Microsoft from a green card program",
+  "body": "European auto sector didn't loose because they didn't flood the country with enough low wage workers (which they did anyway since 2015) to compete with China on labor costs. They lost precisely because they gave up investing in local labor that made all the pricy high-end innovations like electronic brakes, self-driving and EV-tech, and entered in the race to the bottom to boost shareholder value while cutting the expensive innovation R&D. This strategy did wonders for EU auto shareholders for about ~10 years while the badge prestige carried a lot of inertia, especially in markets like Russia, US and China, but it lost most momentum in the last couple of years, as EU cars are now seen as dated, overpriced, cheaply made, expensive to fix and underwhelming compared to the new players from US and China. Nothing to do with lack of cheap immigrant labor.\nUS was investing in AI powered self-driving tech, China was investing in new EV motor and battery tech with advanced manufacturing automation to cut costs, EU makers were just reselling diesel engines with fancy badges hoping the EV and self-driving fad will pass. EU car industry went from decades of being the global trend setter in terms of designs and technology, to being the follower, at least in technology.\nAlso, a lot of the manufacturing costs in EU not just for the auto sector, is now majority made of taxes, compliance, bureaucracy and labor's cost of housing. If you import workers they'll be under the same high compliance rules, and same expensive housing pressures, unless you bet they'll accept to live in slum-like conditions in order to undercut the locals, in which case you might as well cut the facade and just advocate for return to slavery.",
+  "url": "https://news.ycombinator.com/item?id=50007897",
+  "author": "788254a28d0a",
+  "createdAt": "2026-10-08T16:28:16.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:50019407",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Let your AI agents paint big arrows, boxes and text on your screen",
+  "body": "I would pay good money for something like this on iPad. It wouldn't even need to be agent-driven, just a big \"I want to make a bank transfer\" button, that would launch the correct app and guide through the interface.\nThat would be a godsent for those of us with aging parents.",
+  "url": "https://news.ycombinator.com/item?id=50019407",
+  "author": "1827d073a048",
+  "createdAt": "2026-10-09T12:15:16.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 10,
+  "matchedPhrases": [
+   "i would pay"
+  ]
+ },
+ {
+  "id": "hackernews:50010149",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: The Slow Formation of Durable Software",
+  "body": "It’s a non-profit and the prices are very reasonable. I would pay them instead.",
+  "url": "https://news.ycombinator.com/item?id=50010149",
+  "author": "9bb1887da013",
+  "createdAt": "2026-10-08T18:42:43.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 10,
+  "matchedPhrases": [
+   "i would pay"
+  ]
+ },
+ {
+  "id": "hackernews:50019303",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: AI-ready biological data: $1.8B global commitment",
+  "body": "Yea I was thinking about this too. Then I thought about how this will be used elsewhere. Predictive models for mental health conditions, addictions, diseases, etc. strong data to try to exploit for marketing. Then eventually health and life insurance companies will be deregulated enough or be willing to pay the fines to squeeze some more capital that way. And of course one day if we are lucky enough eugenics efforts and specifically targeted bioweapons. Yay",
+  "url": "https://news.ycombinator.com/item?id=50019303",
+  "author": "7ebfa295e56d",
+  "createdAt": "2026-10-09T12:03:24.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 10,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:50016939",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+  "body": "> For my company, I'd honestly pay $4-8k/month for Claude if I had to (it would be painful, and I'd try to get cheaper options to work first). I know some enterprise Claude users are paying that much now since they have to pay for API tokens. I am certain it's at least a 2X productivity booster for our work. Compared to the cost of hiring another developer, it's well worth it.\nThat enterprise cost you're willing to pay is correlated to how much developers will work for. When driving an agent, almost anyone can do it (almost no skills required).\nIf devs cost $1k/m, enterprises are not going to be willing to pay $4k/m for Claude.\nWhat I am saying is, there's an equilibrium that will be reached; the price of the human driver and the AI worker will approach each other.\nWhere they stabilise, I still don't know, but I'd be very surprised if, in any field (not just dev), the human gets paid multiples more than the agent they are driving, as the agents get more capable.",
+  "url": "https://news.ycombinator.com/item?id=50016939",
+  "author": "a6e98596c87f",
+  "createdAt": "2026-10-09T06:50:33.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 20,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:50015949",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Stop complaining about enshittification. Use the alternatives",
+  "body": "I agree that scale is one of the factors involved, and businesses tend to go down the Reddit way. That said I don't think it can be generalized to all the businesses out there, and a few of the examples I do, first of all Proton, seems to show to me that a differen kind of successful (albeit not über greedy and trillions-making) business model is possible.\nIt's probably more relevant for content, e.g. the massive amount of (good) content present in YouTube (and YT music) is the reason I'm willing to pay the premium price even if I have close to zero sympathy for Alphabet as a company. But for services like email, or products like a browser, I really don't care about scale at all, I just want it to work well and possibly don't spy on me to sell my data.",
+  "url": "https://news.ycombinator.com/item?id=50015949",
+  "author": "92bfc9342f2c",
+  "createdAt": "2026-10-09T04:18:07.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 10,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:50015596",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+  "body": "Its simple. My company is very willing and able to pay ~$200/engineer/month for the best version of these tools. My company is even willing and able to pay as much as $500/engineer/month, but does not need to at this moment.\nMy company is not willing to pay $50/engineer/month for a cheaper version that is nearly as good. My company is also not willing to pay any amount for a product produced by China, even if it is hosted in the United States.",
+  "url": "https://news.ycombinator.com/item?id=50015596",
+  "author": "374db434b7c8",
+  "createdAt": "2026-10-09T03:20:39.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 20,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:50014661",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: OpenAI, the Partition Principle, and Mathematics",
+  "body": "OpenAI in fact didn't know what to do with results and didn't want to flood the world, so they asked mathematicians. Mathematicians recommended OpenAI to release them. My guess is it would have been better for OpenAI if they didn't release them. OpenAI is basically doing this as a goodwill.\n(See https://agmai.org/general-sep29/ for the recommendation in question.)\nPeople seem to have very misguided ideas about why OpenAI is doing this at all. It is not to brag or to torture mathematicians. It is an eval. OpenAI is known to be willing to pay large amount of money to get a good eval, think FrontierMath. FrontierMath is now saturated, so they need a replacement eval for math. Open math problems are actually a fairly good eval, although a proper eval is better (eg FrontierMath has known difficulty and have tiers from 1 to 4).\nMathematicians would prefer if OpenAI didn't use open math problems as an eval, but OpenAI is not obliged. I actually think OpenAI wouldn't point AI to open math problems if unsaturated FrontierMath Super Duper is available, as it just angers mathematicians, but such eval is not in fact available. Given OpenAI used open math problems as an eval, they could just throw out the result (this is in fact better as an eval since it will keep problems useful longer), but mathematicians preferred to see the result. So OpenAI released them.",
+  "url": "https://news.ycombinator.com/item?id=50014661",
+  "author": "7d54ed77c129",
+  "createdAt": "2026-10-09T00:58:37.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 10,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:50013685",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+  "body": "Compared to what a lot of companies spend on software for chip and electronics design (we're talking about $10k-200k/seat per year), AI coding assistants have a long way to go in cost before companies won't be willing to pay for them. Companies pay a fortune for software when it enables their engineers to be productive.\nFor my company, I'd honestly pay $4-8k/month for Claude if I had to (it would be painful, and I'd try to get cheaper options to work first). I know some enterprise Claude users are paying that much now since they have to pay for API tokens. I am certain it's at least a 2X productivity booster for our work. Compared to the cost of hiring another developer, it's well worth it.\nIf they stop subsidising Claude Code for the pro/max users, there will be a lot of people priced out of it, especially the casual developer. But I don't see it going away for commercial use, even with a large price increase.",
+  "url": "https://news.ycombinator.com/item?id=50013685",
+  "author": "4f56ac0a31d5",
+  "createdAt": "2026-10-08T23:06:16.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 20,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:50013537",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: This San Francisco Restaurant Tried Pay-What-You-Can Dining and It's Going Great",
+  "body": "Ya, but the the main reason is because many of the patrons are willing to overpay(donate) to help a restaurant they have loved for years help stay in business. This is the exception not the rule. A favorite restaurant of mine closed recently. I would have probably done the same for a while but I don't think I would do it forever. I think this will be the case with this restaurant. Living off people's kindness does not work as a business model.\n8 years is a long time so there's another reason why this restaurant stays in business. At first sight it seems like it's the affluent patrons they attract. It might be something like tipping, people are willing to pay a lot if they feel well treated and important.",
+  "url": "https://news.ycombinator.com/item?id=50013537",
+  "author": "3cb82bef4351",
+  "createdAt": "2026-10-08T22:49:20.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 20,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:50013116",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+  "body": ">Your customers are paying maybe $10,000 a month and serving their customers. Now they can drop that to $1,250.\nOr they could stay at $10,000 per month since they are willing to pay that much already.m, so they just use AI more and in more places.",
+  "url": "https://news.ycombinator.com/item?id=50013116",
+  "author": "7276cd8702bd",
+  "createdAt": "2026-10-08T22:10:56.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 20,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:50009549",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Trump administration is suspending Microsoft from a green card program",
+  "body": "This model assumes that the number of positions is fixed at any given time, but that is not true. Instead, it will fluctuate based on what must be paid. So, to extend your example, without H1B or a similiar program or de-facto state that does the same thing, then we'd get roughly the 900 jobs that are willing to pay the most to be filled, while the rest are not worth the cost of employing someone in this hypothetical market. The result, then, is a higher wage for those 900 citizens.\nThis is not to say that such programs are bad. To consider that, we must ask questions like:\n- Is citizens being able to make much more than non-citizens a desirable outcome? (it's electorally incentivized, since citizens can vote in the relevant elections but non-citizens can not but that is not the same as being desirable in a more broad sense)\n - How big is this effect?\n - How badly do we (meaning society at large) want these final 100 jobs done?\n - How will this affect competition with other countries?\n - What about outsourcing?",
+  "url": "https://news.ycombinator.com/item?id=50009549",
+  "author": "289969215e7d",
+  "createdAt": "2026-10-08T18:06:37.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 20,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:50008092",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Sharing AI progress in mathematics",
+  "body": "You can't compare that to a model that cost tens of millions to train, millions more to run, and if you don't work at OpenAI you can't get it at all no matter how much you're willing to pay.\nEverything about it is secret. There is no API access or official model card that could tell you how it works. You don't know how it came up with the results, how much time it had to spend, if it's a pure LLM or a neuro symbolic AI or a human in the loop system that still needs hundreds of trained mathematicians. Math always cared about transparency (maybe except Stephen Wolfram) and this is the complete opposite.\nAnd because they don't share reasoning traces or anything at all other than finished results, no one knows how much credit really belongs to them. It's perfectly possible that their system is searching the internet for promising leads, connecting them all together to build a coherent proof and then completely throwing away the sources.\nI don't think it works like that but no one can know for sure because they never show us what it's really doing.",
+  "url": "https://news.ycombinator.com/item?id=50008092",
+  "author": "90e79141ca23",
+  "createdAt": "2026-10-08T16:40:52.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 10,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:50016312",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: Quake ported to safe Rust, playable in browser",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=50016312",
+  "author": "56c2c2eed115",
+  "createdAt": "2026-10-09T05:22:58.000Z",
+  "engagement": {
+   "score": 196,
+   "comments": 160
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 58,
+  "matchedPhrases": []
+ },
+ {
+  "id": "hackernews:50014150",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=50014150",
+  "author": "4395e76adec6",
+  "createdAt": "2026-10-09T00:02:19.000Z",
+  "engagement": {
+   "score": 39,
+   "comments": 15
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 47,
+  "matchedPhrases": []
+ },
+ {
+  "id": "hackernews:50013931",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=50013931",
+  "author": "e62af8251e9b",
+  "createdAt": "2026-10-08T23:32:49.000Z",
+  "engagement": {
+   "score": 41,
+   "comments": 7
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 47,
+  "matchedPhrases": []
+ },
+ {
+  "id": "hackernews:50012199",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=50012199",
+  "author": "c14d3f331a21",
+  "createdAt": "2026-10-08T21:00:55.000Z",
+  "engagement": {
+   "score": 47,
+   "comments": 54
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 48,
+  "matchedPhrases": []
+ },
+ {
+  "id": "hackernews:50009904",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=50009904",
+  "author": "56cf7dc39fac",
+  "createdAt": "2026-10-08T18:29:06.000Z",
+  "engagement": {
+   "score": 65,
+   "comments": 52
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 50,
+  "matchedPhrases": []
+ },
+ {
+  "id": "hackernews:50008047",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=50008047",
+  "author": "fcb4ed27d91f",
+  "createdAt": "2026-10-08T16:37:24.000Z",
+  "engagement": {
+   "score": 189,
+   "comments": 33
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 58,
+  "matchedPhrases": []
+ },
+ {
+  "id": "hackernews:50007993",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: Jevman – AI decision models play Pac-Man",
+  "body": "Openai just launched their decisions endpoint, cloudflare launched clef the other week, and many more jev alternatives are out there.\nWe wanted to put the popular ones to the test and thought Pac-Man is a good benchmark for simple and fast decision making.\nSo we let jev 1.13, kev, clef, clef flash, GPT-6 Luna and Laya play Pac-Man against bot ghosts.\nThe low latency of these models allows for real time play. We had each model play 100 games, published a leader board and open-sourced the repo so anyone can run their own model and join the ranking. Link to repo:\nhttps://github.com/opper-ai/jevman-benchmark/blob/main/CONTR...\nYou can also join the game and play as Pac-Man yourself, and the ghosts are the models, either a mix of models or all jev, kev, clef etc. A game costs about 2 cent, all models are running via my startup opper, and we added free credits for everyone to try.\nIt's pretty fun to play and surprisingly difficult to beat jev's highscore. Any feedback is more than welcome!",
+  "url": "https://news.ycombinator.com/item?id=50007993",
+  "author": "42bc6c2ad969",
+  "createdAt": "2026-10-08T16:34:13.000Z",
+  "engagement": {
+   "score": 65,
+   "comments": 17
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 50,
+  "matchedPhrases": []
+ },
+ {
+  "id": "hackernews:50006114",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: I Put an AI Agent on a Nokia 110",
+  "body": "I was using this mobile to reduce my screentime. Recently got the idea to put ai agent in it. Started with installing android, but failed as it has only 48MB RAM. Then reverse-engineered for few days and finally able use AI Agent in this and automated few actions.\nThanks",
+  "url": "https://news.ycombinator.com/item?id=50006114",
+  "author": "3265dcdbe3ec",
+  "createdAt": "2026-10-08T14:18:51.000Z",
+  "engagement": {
+   "score": 30,
+   "comments": 14
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 45,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1409175398",
+  "source": "github",
+  "kind": "tool",
+  "title": "mcpdelta/mcpdelta — 80★",
+  "body": "Delta MCP is a free app that sits between your AI apps and their MCP servers: one program per task instead of one tool call per step, up to 24.1× fewer tokens in our benchmarks. Every change is recorded and undoable. Coming soon for macOS, Windows and Linux. Shortcuts can run by themselves, on a schedule.",
+  "url": "https://github.com/mcpdelta/mcpdelta",
+  "author": "139c59aae9f8",
+  "createdAt": "2026-10-07T17:53:23Z",
+  "engagement": {
+   "stars": 80
+  },
+  "tags": [
+   "mcp"
+  ],
+  "painScore": 52,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1402224782",
+  "source": "github",
+  "kind": "tool",
+  "title": "dongnguyenvie/BashCut — 60★",
+  "body": "Native macOS video editor that coding agents can drive: everything the UI does, Claude Code and Codex can do through the bashcut CLI or MCP server. Layered timeline, captions, voiceover, plugins.",
+  "url": "https://github.com/dongnguyenvie/BashCut",
+  "author": "e3f53a6ddc99",
+  "createdAt": "2026-10-02T18:46:34Z",
+  "engagement": {
+   "stars": 60
+  },
+  "tags": [
+   "mcp",
+   "Swift"
+  ],
+  "painScore": 50,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1409514910",
+  "source": "github",
+  "kind": "launch",
+  "title": "cporter202/viralwave-studio-guide — 40★",
+  "body": "The complete guide to ViralWave Studio: put your social media content on autopilot. Setup walkthrough, features, brand voice, review workflow, AI agent integrations, plans, and FAQ.",
+  "url": "https://github.com/cporter202/viralwave-studio-guide",
+  "author": "9c56408673f6",
+  "createdAt": "2026-10-08T00:17:49Z",
+  "engagement": {
+   "stars": 40
+  },
+  "tags": [
+   "saas"
+  ],
+  "painScore": 47,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1394675848",
+  "source": "github",
+  "kind": "launch",
+  "title": "Akun-python/autumn-recruitment — 220★",
+  "body": "Autumn-Recruit Algo Notes(秋招算法学习仓库)，面向大模型时代的算法、工程与AI学习共建仓库。从数学基础、数据结构，到机器学习、深度学习、LLM、Agent、AI-Infra、语音与数据科学，通过「理解→推导→手写 → 运行 → 验证 → 复盘构建可持续迭代的知识体系。",
+  "url": "https://github.com/Akun-python/autumn-recruitment",
+  "author": "2a37492a7cdc",
+  "createdAt": "2026-09-29T08:00:33Z",
+  "engagement": {
+   "stars": 220
+  },
+  "tags": [
+   "ai-agents",
+   "Jupyter Notebook"
+  ],
+  "painScore": 59,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1393055422",
+  "source": "github",
+  "kind": "launch",
+  "title": "FavioVazquez/showtime — 210★",
+  "body": "A local video studio for your coding agent. Describe a video in one sentence: your agent directs, your machine renders. Claude Code, Codex, Cursor, Devin and more. No API keys, no uploads.",
+  "url": "https://github.com/FavioVazquez/showtime",
+  "author": "25bc5c7ba85b",
+  "createdAt": "2026-09-28T15:16:41Z",
+  "engagement": {
+   "stars": 210
+  },
+  "tags": [
+   "ai-agents",
+   "Python"
+  ],
+  "painScore": 59,
+  "matchedPhrases": []
+ },
+ {
+  "id": "stackexchange:softwarerecs:95671",
+  "source": "stackexchange",
+  "kind": "demand",
+  "title": "Software that converts pen hovering mode to pen contact/down down mode",
+  "body": "I am looking for a Windows utility or tool capable of remapping or converting stylus hover (proximity) events into an active contact/press event system-wide.\n\nRequirement\n\nOn a Windows 10 touchscreen laptop (Lenovo Yoga with active stylus), I want the system to treat the pen's hover state (when the nib is close to the screen without touching) as if it were a physical pen press or click.\n\nKey Criteria\n\nPlatform: Windows 10 64-bit.\nCore Feature: Automatically trigger a pen down / touch event as soon as the stylus enters hover range, or allow toggling this behavior.\nType of Software: Background utility, input remapper, custom driver filter, or tablet configuration tool.\n\nI tried to code it with autohotkey v2 but it can't suppress the native pen and stylus inputs hover mode. So, the stylus pen switched between hover mode and contact mode and it caused instabilities.\n\nIs there any other existing software or input remapper or a better code autohotkey v2 that can perform this hover-to-touch transformation for active styluses ?",
+  "url": "https://softwarerecs.stackexchange.com/questions/95671/software-that-converts-pen-hovering-mode-to-pen-contact-down-down-mode",
+  "author": "b0d922093dcd",
+  "createdAt": "2026-10-09T00:49:00.000Z",
+  "engagement": {
+   "score": 0,
+   "comments": 0,
+   "views": 5
+  },
+  "tags": [
+   "softwarerecs",
+   "automation",
+   "windows-10",
+   "touchscreen"
+  ],
+  "painScore": 30,
+  "matchedPhrases": []
+ },
+ {
+  "id": "stackexchange:softwarerecs:95670",
+  "source": "stackexchange",
+  "kind": "demand",
+  "title": "Is there an Android shell program to switch to any open application according to some criteria?",
+  "body": "I'd like to get recommended an Android program to switch to any open\napplication window according to a set of criteria.\n\nFor example I'd like to be able to type\n\nwindow-select \\\n \"throw google out of the window\"\n\nor more like\n\nwm \\\n focus \\\n \"throw google out of the window\"\n\nto bring to focus the last focused browser window opened\non any webpage whose browser window title contains the text\nthrow google out of the window.\n\nI am aware Google puts its wm window manager command,\nwhich of course has no focus sub-command,\nin /system/bin/wm, so I suppose a proper wm\nprogram to be placed in\n/data/data/why-on-hell/bin/wm or GASP in\n/usr/bin/wm could very\nmuch be appropriate as an answer to this question.",
+  "url": "https://softwarerecs.stackexchange.com/questions/95670/is-there-an-android-shell-program-to-switch-to-any-open-application-according-to",
+  "author": "38c8c5146dec",
+  "createdAt": "2026-10-08T20:09:19.000Z",
+  "engagement": {
+   "score": -2,
+   "comments": 0,
+   "views": 8
+  },
+  "tags": [
+   "softwarerecs",
+   "android",
+   "window-manager"
+  ],
+  "painScore": 30,
+  "matchedPhrases": []
+ },
+ {
+  "id": "stackexchange:softwarerecs:95668",
+  "source": "stackexchange",
+  "kind": "demand",
+  "title": "Is there an Android shell program which returns open windows titles in last focus sorting?",
+  "body": "On all popular operating systems are available system programs\nwhich return open windows titles sorted by some criteria.\n\nIn the last 20 years or so though I've never seen or heard\nabout one for Android, so I was wondering if it existed at all.",
+  "url": "https://softwarerecs.stackexchange.com/questions/95668/is-there-an-android-shell-program-which-returns-open-windows-titles-in-last-focu",
+  "author": "38c8c5146dec",
+  "createdAt": "2026-10-08T16:38:02.000Z",
+  "engagement": {
+   "score": 0,
+   "comments": 1,
+   "views": 18
+  },
+  "tags": [
+   "softwarerecs",
+   "android",
+   "android-app",
+   "window-manager"
+  ],
+  "painScore": 35,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-0784cc",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "[early engagement] Derbyshire County Council: Preliminary Market Engagement for the Supply of a Cloud Hosted Occupational Health Administration Solution and Associated Services.",
+  "body": "CST331 Preliminary Market Engagement for the Supply of a Cloud Hosted Occupational Health Administration Solution and Associated Services.\nProcontracts advert - https://procontract.due-north.com/Advert?advertId=f96afbe8-dec3-f111-813c-005056b64545&fromProjectDashboard=True",
+  "url": "https://www.find-tender.service.gov.uk/Notice/095687-2026",
+  "author": "d2efde534dba",
+  "createdAt": "2026-10-09T13:56:22+01:00",
+  "engagement": {},
+  "tags": [
+   "stage:planning",
+   "cpv:48000000",
+   "cpv:72000000"
+  ],
+  "painScore": 40,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-077751",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "Chelmsford College: Chelmsford College Website tender",
+  "body": "The College is looking for a company to build a new website in ASP.net to replace our current website. It should appeal to all of our user groups: students, parents, local businesses, etc. We are looking for a mobile first design that will capture the interest of prospective students. \nWe would also ask that all designs are able to meet the accessibility standards set out by the WCAG",
+  "url": "https://www.find-tender.service.gov.uk/Notice/095671-2026",
+  "author": "aa63aa649938",
+  "createdAt": "2026-10-09T13:16:49+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 50000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:tender",
+   "cpv:72413000"
+  ],
+  "painScore": 59,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-0784ba",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "Transport for Greater Manchester: TfGM Single View of the Network",
+  "body": "Transport for Greater Manchester (TfGM) is seeking a cloud-hosted, AI-assisted Intelligent Transport Systems decision-support platform. The platform is intended to bring together and analyse real-time multimodal transport data, provide a unified operational view and support the development of a Single View of the Network. It will support 24/7 operational use by TfGM's Operational Control Centre and use by its Highways ITS and Urban Traffic Control teams.\n• Improve incident detection, verification and prioritisation.\n• Reduce manual data correlation and data hunting.\n• Support coordinated operational responses and organisational learning.\n• Provide a mature, configurable platform capable of integrating multiple operational data feeds and systems.\nThis will be a 3+1+1 term mid tier contract.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/095644-2026",
+  "author": "362dccb4c7c9",
+  "createdAt": "2026-10-09T12:39:47+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 1000000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:tender",
+   "cpv:72000000"
+  ],
+  "painScore": 64,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-06d47e",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "Historic England: ITT (CF) - Digital Preservation System - UID 226M",
+  "body": "Historic England wishes to procure a full SaaS digital preservation system to enable the care of Historic England’s existing digital archive content, and to facilitate long-term care of data sets which are being created by Historic England teams, and which do not currently form part of the Digital Archive. The requirement is for a system which provides full digital preservation capabilities in line with the OAIS reference model, ISO14721. The solution must include data hosting of the content stored in the Digital Archive in a cyber-secure environment as set out in the technical specification which forms part of this procurement pack.\nFull details of this project can be found in the ITT.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/095640-2026",
+  "author": "f21cca749b55",
+  "createdAt": "2026-10-09T12:36:40+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 1160000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:tender",
+   "cpv:48329000",
+   "cpv:48613000",
+   "cpv:48810000",
+   "cpv:72222300"
+  ],
+  "painScore": 64,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-0784a9",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "Rutland County Council: Rutland County Museum Brand Identity and Website",
+  "body": "Rutland County Council wishes to appoint a suitably qualified supplier to develop a distinctive and sustainable brand identity for Rutland County Museum, and a modern, accessible website informed by and reflecting that identity.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/095616-2026",
+  "author": "b780d7dbb0a0",
+  "createdAt": "2026-10-09T12:08:19+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 30000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:tender",
+   "cpv:72413000"
+  ],
+  "painScore": 58,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-078481",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "LOOK AHEAD CARE AND SUPPORT LIMITED: Procurement of an HR and Payroll System",
+  "body": "The scope of the tender is to identify a suitable supplier for the implementation and ongoing support of a replacement HR system and managed UK payroll service for Look Ahead Care, Support & Housing. The required solution must support the full employee lifecycle, workforce administration, managed payroll and pensions administration, recruitment, onboarding, compliance, employee relations, reporting, integrations, data migration, implementation and transition to business as usual. Unless expressly identified as a separately priced option or Phase 2 requirement, Tenderers should assume that all items listed in this section form part of the core day-one scope and must be included within the tendered solution and commercial response.\n• Core HR and workforce administration: employee records, organisational structure, position and employee references, contracts and terms, multiple concurrent engagements per individual, establishment management and post control, including budgeted posts, position management, organisational hierarchy, approval workflows and reporting-line management.\n• Payroll and pensions: fully managed UK payroll service, including statutory filing, year-end activity, managed pensions administration, auto-enrolment, opt-outs, contribution submissions, provider returns, pension query support, statutory payments, salary sacrifice, attachment of earnings, off-cycle or emergency payments, payroll queries, Average Holiday Pay and NMW/NLW compliance calculations.\n• Abse…",
+  "url": "https://www.find-tender.service.gov.uk/Notice/095559-2026",
+  "author": "c98ecbc1cc5d",
+  "createdAt": "2026-10-09T11:20:06+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 1500000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:tender",
+   "cpv:48000000",
+   "cpv:72222300"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-078467",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "[early engagement] University of York: University of York - IAM - Technical Implementation Partner Services",
+  "body": "The University of York is issuing this planned procurement notice so we can advise of our intent to issue a Pre-Market Engagement (PME) and subsequently a Invitation to Tender (ITT); however that ITT will be limited to a specified and limited cluster of parties as defined in the attachment to this notice. All subsequent notices will limit the participants to a competitive process, but not one that is open to the entire market.\nIf you consider yourself to be a \"Certified Okta partner with at least \"consultant level certification\" or higher you are applicable for this PME and ITT. You should contact the University at the prescribed email address or contact Okta as their verification will be required.\nThe University will therefore conduct a closed PME, in advance of tendering for a Technical Implementation Partner (TIP) to implement its new Identity and Access Management (IAM) platform, Okta.\nOkta has already been determined through a separate procurement exercise. The proposed PME is therefore focused on the implementation of the platform, including the scope of implementation services including configuration and integration, delivery approach, resourcing, timescales and commercial model. The University is seeking to engage with organisations with the prescribed OKTA experience shown in the attachment and accreditation for delivering enterprise IAM implementations, particularly within complex higher education or similar environments. You will be required to evidence this exper…",
+  "url": "https://www.find-tender.service.gov.uk/Notice/095516-2026",
+  "author": "e239204f789d",
+  "createdAt": "2026-10-09T10:26:26+01:00",
+  "engagement": {},
+  "tags": [
+   "stage:planning",
+   "cpv:72212730",
+   "cpv:72227000",
+   "cpv:72261000",
+   "cpv:72263000"
+  ],
+  "painScore": 40,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-078449",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "ForHousing Ltd: FHT028 Integrated Housing Management System",
+  "body": "ForHousing requires an Integrated Housing Management System including::\n•Tenancy and Housing Management: Applications,\n•Repairs and Maintenance\n•Compliance and Safety.\n•Rents and Financials\n•Customer Portal and CRM\nFor more information about this opportunity, please visit the eSourcing portal at: \nhttps://www.delta-esourcing.com/tenders/UK-UK-Manchester:-Industry-specific-software-package./8R4G9TYR4E\nTo respond to this opportunity, please click here: \nhttps://www.delta-esourcing.com/respond/8R4G9TYR4E",
+  "url": "https://www.find-tender.service.gov.uk/Notice/095459-2026",
+  "author": "405c49464abb",
+  "createdAt": "2026-10-09T08:53:09+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 1200000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:tender",
+   "cpv:48100000",
+   "cpv:72000000"
+  ],
+  "painScore": 64,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-078433",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "Competition and Markets Authority: Company Information Database Subscription",
+  "body": "The Competition and Markets Authority requires a web-based subscription providing information on UK, Irish and global companies, including filed company data, financials, ownership structures, risk insights, debt and equity structures, directors, shareholders and relevant news. Further details are set out in the Statement of Requirements.\nFor more information about this opportunity, please visit the eSourcing portal at: \nhttps://www.delta-esourcing.com/tenders/UK-UK-London:-Data-services./56S6C32XTU\nTo respond to this opportunity, please click here: \nhttps://www.delta-esourcing.com/respond/56S6C32XTU",
+  "url": "https://www.find-tender.service.gov.uk/Notice/095411-2026",
+  "author": "c6da1c558236",
+  "createdAt": "2026-10-08T16:55:29+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 575000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:tender",
+   "cpv:72300000"
+  ],
+  "painScore": 63,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-078425",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "[early engagement] Wrexham County Borough Council: Learning Management System ",
+  "body": "BACKGROUND \nWrexham County Borough Council (WCBC) are looking to engage the market with the potential of procuring a Learning Management System (LMS) to support e-learning training modules, webinars, manager reporting, and course booking requirements for both council employees and external organisations requiring our training services. \nSCOPE \nThe expectation for any potential supplier would be to provide: \n• A cloud-based Learning Management System \n• System implementation and configuration \n• Integration with our HR system Zellis \n• User training \n• Ongoing support and maintenance \nREQUIREMENTS \nThe following list is not exhaustive and should be used as a guide to the technical requirements WCBC would be looking for in a successful Learning Management System solution: \n• Dashboard Management - Ability to create, edit, assign to audiences and utilise multiple dashboards for end users. \n• My Team - Manager - Allow managers to view information relating to team members assigned to their structure. \n• Graphical Reports - Produce visual reports and graphs for dashboards and management information. \n• KPI Dashlets - Create KPI-based dashboard widgets from predefined metrics. [CR1.1][EA1.2]\n• Programme Progress Block - Customisable graphical display of learner programme progress. [CR2.1][EA2.2]\n• Zellis Integration - Compatibility with the Council's Zellis HR system to maintain accurate employee information. \n• Position Hierarchies - Support one or multiple organisational and posi…",
+  "url": "https://www.find-tender.service.gov.uk/Notice/095384-2026",
+  "author": "923ca127e163",
+  "createdAt": "2026-10-08T16:22:00+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 70000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:planning",
+   "cpv:48000000"
+  ],
+  "painScore": 59,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-078405",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "[early engagement] North East Combined Authority: Community Impact Fund – Grant Administration",
+  "body": "The North East Mayoral Strategic Authority is seeking to appoint a Grant Administration Partner to support delivery of the grant funding component of the £12 million North East Community Impact Fund (CIF). CIF aims to improve outcomes for children and families experiencing poverty by strengthening the capacity, capability and sustainability of the VCSE sector and enabling more preventative and outcomes-based approaches to service delivery.\nThe Grant Administration Partner will manage the administration of £3.2 million of funding through approximately 160 grants to VCSE organisations across the North East. This will include managing grant application and assessment processes, undertaking due diligence and contracting, processing payments, monitoring delivery and maintaining programme management information. The partner will work closely with North East MSA, the CIF Programme Management Office and other delivery partners to support effective referral, reporting, governance and funding decision-making arrangements.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/095331-2026",
+  "author": "10aae0885fca",
+  "createdAt": "2026-10-08T15:31:39+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 308000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:planning",
+   "cpv:72316000",
+   "cpv:79411000",
+   "cpv:79420000"
+  ],
+  "painScore": 62,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-0783ff",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "[early engagement] North East Combined Authority: Community Impact Fund – Programme Management Office",
+  "body": "The North East Mayoral Strategic Authority is seeking to appoint a Programme Management Office (PMO) Partner to support the management and coordination of the £12 million North East Community Impact Fund (CIF), which links to anticipated future investment through the Government’s Better Futures Fund. CIF aims to improve outcomes for children and families experiencing poverty by strengthening the capacity, capability and sustainability of the VCSE sector and enabling more preventative and outcomes-based approaches to service delivery.\nThe PMO Partner will provide the central programme management and coordination function for CIF, supporting effective delivery across the programme. This will include supporting programme governance and reporting, financial and contract management, performance management of commissioned delivery partners against agreed outcomes and milestones, and management of programme-level risks and dependencies.\nThe PMO Partner will also support the development and management of Social Outcomes Partnerships, coordinating relationships between delivery partners, investors, commissioners and outcomes payers. This will include ensuring the Better Futures Fund element is leveraged effectively as part of the CIF programme.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/095321-2026",
+  "author": "10aae0885fca",
+  "createdAt": "2026-10-08T15:23:39+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 680000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:planning",
+   "cpv:72224000",
+   "cpv:79411000",
+   "cpv:79412000",
+   "cpv:79421000"
+  ],
+  "painScore": 63,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-0783f6",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "[early engagement] Ministry of Defence: UK1 - Pipeline Notice",
+  "body": "Defence-wide, global, hardware and software maintenance, repair and support services of ICT equipment. The Supplier shall provide an integrated, secure and responsive support service for the systems and services. The service shall combine remote and on-site support, preventive maintenance, administration, break-fix, documentation, asset management, security support and service management.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/095305-2026",
+  "author": "6c10e3245e24",
+  "createdAt": "2026-10-08T15:04:58+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 3000000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:planning",
+   "cpv:72610000"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "contractsfinder:ocds-b5fd17-c4da7d4e-9b80-4024-a556-7954dfead045",
+  "source": "contractsfinder",
+  "kind": "tender",
+  "title": "UK Atomic Energy Authority: Non-Planar Surface Characterisation and Swabbing Using the Spot Robot",
+  "body": "The Contractor's scope shall include the design, development, functional demonstration, and delivery (including all required testing, verification, and documentation) of the Spot software suite for surface characterisation and swabbing.",
+  "url": "https://www.contractsfinder.service.gov.uk/notice/c56a2304-3495-4771-80c4-f6596cbabd45",
+  "author": "61eede064b02",
+  "createdAt": "2026-10-08T16:33:22+01:00",
+  "engagement": {},
+  "tags": [
+   "stage:tender",
+   "cpv:72262000"
+  ],
+  "painScore": 40,
+  "matchedPhrases": []
+ },
+ {
+  "id": "discourse:community.n8n.io:319912",
+  "source": "discourse",
+  "kind": "demand",
+  "title": "[New Community Node] GenMagic: images, video, speech, music and text from 450+ models with one API key",
+  "body": "Hi everyone! I'm on the team behind GenMagic, and our community node **n8n-nodes-genmagic** was just approved by n8n as a verified node. It will appear in the nodes panel, n8n Cloud included, with n8n's next release. On self-hosted n8n you can install it today from **Settings > Community Nodes** with the package name `n8n-nodes-genmagic`. ### What it does GenMagic gives you one API key and one pay-as-you-go balance for 450+ AI models: images (GPT Image, FLUX, Seedream, Nano Banana, Recraft and more), video (Veo, Kling, Seedance, Hailuo and more), speech, music and text. The node covers all of them: | Resource | Operation | What it does | |----|----|----| | Image | Generate | Text to image, or edit a reference image from a binary field or URL. Up to 4 images per run. | | Video | Generate | Text to video with any text-to-video model. Set aspect ratio, length, resolution and sound. Waits for the render, or returns a job ID. | | Video | Get | Fetch a video job later, for example after a Wait node. | | Audio | Generate Speech | Text to speech, with a choice of voice on models that offer several. | | Audio | Generate Music | An original track from a description of genre, mood, instruments and tempo. | | Text | Generate | Text, code, an SVG or a complete web page with any text model. | | Model | Get / Get Many | The live model catalog with capabilities and prices. | | Account | Get Balance | Your balance and total spend. | ### Details that matter in a workflow * Each generating ope…",
+  "url": "https://community.n8n.io/t/new-community-node-genmagic-images-video-speech-music-and-text-from-450-models-with-one-api-key/319912",
+  "author": "bf1534a28e86",
+  "createdAt": "2026-10-08T15:22:30.469Z",
+  "engagement": {
+   "comments": 1,
+   "score": 0,
+   "views": 23
+  },
+  "tags": [
+   "n8n",
+   "prequalified"
+  ],
+  "painScore": 45,
+  "matchedPhrases": []
+ }
+]
