@@ -1,0 +1,918 @@
+[
+ {
+  "id": "hackernews:50031183",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Telegram Desktop vulnerability allowed any user's file to be stolen",
+  "body": "You would still get a notification inside Telegram that someone else logged in (plus it sends the login code to your session first before you can fallback to SMS) and you can log them out. The \"attacker\" can't delete your account or log out your sessions because he can't use certain features on a fresh login, there is a downtime. But yeah, he can read all your chats. Same should be true for any app that uses phone number login. That's why there is a password feature.",
+  "url": "https://news.ycombinator.com/item?id=50031183",
+  "author": "004b2c46d1be",
+  "createdAt": "2026-10-10T09:34:59.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "any app that"
+  ]
+ },
+ {
+  "id": "hackernews:50032138",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Apple/macOS silently removed from official Unix registry",
+  "body": "Indeed.\nI just wonder if macOS will stop being UNIX like.\nThat is, whilst it still has home brew and a BSD core it’s great. If that goes away it’s no longer a viable alternative to Linux.",
+  "url": "https://news.ycombinator.com/item?id=50032138",
+  "author": "94dc4d46514f",
+  "createdAt": "2026-10-10T12:12:10.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:50030988",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Show HN: Save photo, video, and audio from websites in one step",
+  "body": "Hi! I made this cobalt alternative to download content from websites. We have some advantages like youtube download support and also convert and compress files tools.\nIt's free with no ads and private.",
+  "url": "https://news.ycombinator.com/item?id=50030988",
+  "author": "00452b669644",
+  "createdAt": "2026-10-10T08:54:01.000Z",
+  "engagement": {
+   "score": 7,
+   "comments": 0
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 34,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:50030459",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Bevy 0.20",
+  "body": "Bevy is 0.x, this breaking change can happen. But for that to be possible, there should be a credible alternative to the current BSN syntax",
+  "url": "https://news.ycombinator.com/item?id=50030459",
+  "author": "a05bcbe18ab4",
+  "createdAt": "2026-10-10T07:07:29.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:50029661",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Ask HN: My Apple ID is locked for a week, Apple is a single point of failure",
+  "body": "> 1. \"Don't use safari\" Why?\nLike everything else, it's tied to your Apple account. You risk losing your browser history etc. You _can_ export it if it happens, but it's easier to not have the issue in the first place.\n> 2. Is there an alternative to \"Find My\" that I can use with AirTag?\nhttps://github.com/seemoo-lab/openhaystack maybe? I haven't tried it.",
+  "url": "https://news.ycombinator.com/item?id=50029661",
+  "author": "1abfaf0d96bd",
+  "createdAt": "2026-10-10T04:46:28.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:50026503",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Our $445M Series D",
+  "body": "Joel Spolsky said it 20+ years ago: The primary goal of the hiring process is to avoid bad hires, even if you need to turn away potentially excellent hires. If you want to hire insanely good people, there is no alternative to a very onerous process.",
+  "url": "https://news.ycombinator.com/item?id=50026503",
+  "author": "1b6e3b09b343",
+  "createdAt": "2026-10-09T21:02:06.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:50026369",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: open-slopware – Alternatives to FOSS projects choosing to use LLMs/AI",
+  "body": "it recommends SiriDB as an alternative to PostgreSQL :)",
+  "url": "https://news.ycombinator.com/item?id=50026369",
+  "author": "66cc9a49b3b3",
+  "createdAt": "2026-10-09T20:45:48.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:50026301",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
+  "body": "Maybe, just like Adobe products recently, someone should vibe code an alternative to that blu-ray ripper...maybe even you.",
+  "url": "https://news.ycombinator.com/item?id=50026301",
+  "author": "77eb3d5510c4",
+  "createdAt": "2026-10-09T20:39:10.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:50025586",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: SpaceXAI joins Omarchy as corporate sponsor with $1.5M in Grok tokens",
+  "body": "I guess they think it might a nice alternative to Apple/Google ecosystem in the future? If/when \"agentic computer\" becomes a thing it would be nice if it doesn't come with 30% rake on every transaction.",
+  "url": "https://news.ycombinator.com/item?id=50025586",
+  "author": "978091bbcaf5",
+  "createdAt": "2026-10-09T19:33:42.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:50025278",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Cloudflare acquires Deno",
+  "body": "I'm happy that the Deno team found a suitable home. Cloudflare is likely the best place for them to land.\nI believe they will do great things together. However, I'm a bit concerned that there are very few independent Node.js runtimes: Anthropic acquired Bun, and now Deno will not be developed further.\nSomehow I don't believe that Cloudflare doubling down on their own runtime -workerd, which will be likely migrated to Rust soon [1]- is the right choice (since it push on semantics that can only be run on Cloudflare infrastructure). I strongly believe Node.js semantics are likely the right ones for agents.\nIf anyone is looking for a full-open source alternative to Node.js that can run everywhere (browsers, phones or servers), please be aware that you can rely and use Edge.js [2] (disclaimer: Edge.js is part of the company that I founded: Wasmer)\n[1] https://x.com/KentonVarda/status/2108559594691690663\n[2] https://edgejs.org/",
+  "url": "https://news.ycombinator.com/item?id=50025278",
+  "author": "a28c0b4ac118",
+  "createdAt": "2026-10-09T19:08:40.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:50022296",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "wolfSSL is developing wolfTrust an open source alternative to Trusted Firmware-M",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=50022296",
+  "author": "186a4d79f974",
+  "createdAt": "2026-10-09T15:51:17.000Z",
+  "engagement": {
+   "score": 2,
+   "comments": 1
+  },
+  "tags": [],
+  "painScore": 32,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:50022067",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Our $445M Series D",
+  "body": "B2B/Enterprise datacenter software. Alternative to VMware and the likes. None of their core products are open to the average Joe afaik. There was a post about that sometime back on here.",
+  "url": "https://news.ycombinator.com/item?id=50022067",
+  "author": "291385b5333a",
+  "createdAt": "2026-10-09T15:36:40.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "alternative to"
+  ]
+ },
+ {
+  "id": "hackernews:50029300",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Sorry, I'm in a meeting",
+  "body": "Well, not that plausible lol. I've never heard a more AI voice in my life, and I spend hours on TikTok daily..",
+  "url": "https://news.ycombinator.com/item?id=50029300",
+  "author": "b1a1d52aebbd",
+  "createdAt": "2026-10-10T03:35:08.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "spend hours"
+  ]
+ },
+ {
+  "id": "hackernews:50031265",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Programming Isn't Special",
+  "body": "I have been programming for 16 years now. I am glad AI arrived because I was getting sick of it anyway. You can’t call Art a form of plumbing different blocks together with business glue logic. It just highlights that we were plumbing all those frameworks and tools together in order to produce piece of code that businesses or individuals are willing to pay for.\nWhen I was a junior developer I did see programming as an art but I really don’t see it anymore. What is important is the output. And does the output is in accordance to its design and functions as intended.\nYou can produce great software with any code or programming languages that you can think of. Some tools and practices produce them faster and/or with higher quality and correctness.\nYou can replicate the same product with almost any programming language now and good software practices now. AI makes the writing process a breeze but doesn’t solve what is art: the design and the vision (why and what). Therefore I think you can’t call the process of production an art. It’s really not that special.",
+  "url": "https://news.ycombinator.com/item?id=50031265",
+  "author": "311cb582a432",
+  "createdAt": "2026-10-10T09:50:57.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 30,
+  "matchedPhrases": [
+   "sick of",
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:50021046",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Study: Exercise increases cancer survival rates",
+  "body": "In my opinion, anything that lowers blood glucose is going to help cancer survival rates[1].\nMy father died of pancreatic cancer and both me and my sister-in-law who was a oncology nurse were frustrated with them, wanting to keep him eating those gross protein shakes that were filled with sugar.\n[1] https://link.springer.com/article/10.1186/s12889-024-19545-z",
+  "url": "https://news.ycombinator.com/item?id=50021046",
+  "author": "d7a3314ffdf9",
+  "createdAt": "2026-10-09T14:29:51.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "frustrated with"
+  ]
+ },
+ {
+  "id": "hackernews:50032098",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: OpenAI, the Partition Principle, and Mathematics",
+  "body": "It doesn't make sense to expect such a positive reaction from the community when OpenAI publishes these papers without proper citations, scoop mathematicians, and copy-paste publicly available preprints. These are points I raised above and you didn't address. It is obvious that the reaction is distrust: OpenAI spends millions in prompting and subsequent self-publicity, but proper citation is too expensive?\n> FWIW, in many online platforms, many actual mathematicians who referee papers, have said the quality of the papers are not outstanding, but they are still better than average.\nI don't know what \"online mathematicians\" you're talking about, but I'm a professional one, do reviews and discuss regularly with other mathematicians (some of them of high profile); no one thinks that these AI papers are above average in terms of writing. This is what even in the most well-known online platforms has been repeated over and over. It seems like you're biased on this one.",
+  "url": "https://news.ycombinator.com/item?id=50032098",
+  "author": "30bd8316807f",
+  "createdAt": "2026-10-10T12:08:29.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:50030640",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Scam American companies are using to manipulate ingredient lists",
+  "body": "It's all processing. \nWool is a free by-product, sheep have to be sheared. \nMore than 20 years ago, it was a pretty lump sum for someone who would shear 10K sheep a year. Still not much compared to the shearing price, but that helps sheep get more meat, reduce disease problems, and also reduce their size to the feeding stations. So a win for everybody.\nThen, everything closed and the only thing left was to send it to China. Priced dropped entirely, to the point where it would mostly be considered a net negative. You have to store it before you can send a batch, and that takes a lot space. Not only that, but it has to stay dry. Then, consider you want to have a basic sort already done, because you don't want the whole batch to be paid little because it would be considered the lowest grade. So Bags should be consistent; they also have to be dense enough to avoid taking too much space (typical bags are around 1 cubic meter / 100kg). Most of these operation require quite a lot of very tiring human labor, which also require some skills, a problem pervasive with the sheep industry.\nSo yes, in the end it's too cheap to produce but too expensive to buy.",
+  "url": "https://news.ycombinator.com/item?id=50030640",
+  "author": "712ea1c6d701",
+  "createdAt": "2026-10-10T07:42:22.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 25,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:50030143",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Atari Falcon",
+  "body": "Oh, wow, the Falcon was so cool when it came out, especially the 56k DSP. Back then computer magazines were quite technical, and there were articles about the 56k and how to program it. I remember seeing the Falcon at some local Atari trade fair and desperately wanted to have it. Unfortunately it was way way too expensive for me as a teenager. And even then, Atari fans dreamed that the Falcon would take off, and the announced MultiTOS would bring people back. But deep down everybody knew that it didn’t have a chance against PCs.",
+  "url": "https://news.ycombinator.com/item?id=50030143",
+  "author": "0fe44d725e95",
+  "createdAt": "2026-10-10T06:14:09.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:50029720",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Has the Autonomous Trucking Revolution Arrived?",
+  "body": "It's going to be funny when there are more fatalities on the roads where people are trying to avoid the robot trucks...\nHumans are such terrible drivers. Most of them don't want to drive. They want to get a private chamber to wheel them around while they look at their phones.\nI'm continually shocked that people criticize autonomous vehicles along these lines... like where do you live in the US that gives you such a high opinion of human drivers? Daily dipshit human driving behaviors and a frequent cadence of bad accidents or fatalities seems the norm across major metro areas.\nIf more robots can drive we can actually have a hard test to pass for driving. Right now basically anyone can drive because it is too expensive to tolerate it being any different given the extent with which transportation and the economy in America is built around cars. The only people who will manually drive are people that really want to. Which is how it should be. You shouldn't be operating a vehicle if all you really want is just to appear x miles away while being able to dick around on your phone or fall asleep or whatever is causing all the lazy driving behaviors we all see around us everyday.\nWhy over-index on a handful of autonomous driving related fatalities? How many humans kill other humans in cars? Do we ban all cars? Why do you think robot cars will necessarily always be worse drivers than human ones?",
+  "url": "https://news.ycombinator.com/item?id=50029720",
+  "author": "e209815ad849",
+  "createdAt": "2026-10-10T04:59:37.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:50028185",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Tesla Rebrands Full Self-Driving as Tesla Assisted Driving in Europe",
+  "body": "Tesla fans think Teslas are the best cars in the world, and they can't conceive you not buying a Tesla for reasons that are not political.\nIt's idiotic, but it is consistent.\nPersonal reasons I won't get a Tesla is just that they are too expensive. Tesla fans will tell me I am wrong of course. They will tell me that you can't get anything better at this price, which may be true if your needs matches what Tesla offers. But I don't want \"at this price\", and my needs are of a much cheaper car.",
+  "url": "https://news.ycombinator.com/item?id=50028185",
+  "author": "6c31f7c6ff45",
+  "createdAt": "2026-10-10T00:16:11.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:50026248",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: You might want to try being less creative",
+  "body": "The most creative things I've done have come from stealing ideas. My longest running project has been sewing. I was tired of buying shirts and them not fitting, so I went out on a journey to reproduce a shirt I owned that fit perfectly. I designed the pattern, made the software to design the pattern, learned how to sew, and a year later I have a perfectly fitting T shirt (with my own adjustments to the original inspiration).\nI made a replica of a watch that was too expensive. I made a pair of shoes because the real version was too expensive. I made illustrations based off other art.\nI'm an engineer who likes art, not an artist who likes engineering. Stealing ideas, making your process efficient, and creating a great product are all what's important to me... not something like capturing my raw and original emotions in the work.",
+  "url": "https://news.ycombinator.com/item?id=50026248",
+  "author": "ea0e4a79a3d8",
+  "createdAt": "2026-10-09T20:34:57.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:50023726",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Republican data center support collapses locally when sites are in GOP counties",
+  "body": "If space doesn't work or is deemed too expensive put them right next to the house where the CEO of the company and his family live. Same with nuclear plants, rocket launch sites and chemical plants.",
+  "url": "https://news.ycombinator.com/item?id=50023726",
+  "author": "deef47d59fe0",
+  "createdAt": "2026-10-09T17:20:09.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "too expensive"
+  ]
+ },
+ {
+  "id": "hackernews:50027312",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Ideas aren't getting harder to find (2022)",
+  "body": "What would be nice too is if it lowers the bar for entry, then people closer to the real problem can work on it. There are a lot of mediocre or overpriced products due to the fact a team of software engineers don't understand the problem well",
+  "url": "https://news.ycombinator.com/item?id=50027312",
+  "author": "6bed2e8421c6",
+  "createdAt": "2026-10-09T22:21:11.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "overpriced"
+  ]
+ },
+ {
+  "id": "hackernews:50022866",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+  "body": "Very VERY USABLE FOR old PEOPLE. I would pay good money for something like this on iPad!",
+  "url": "https://news.ycombinator.com/item?id=50022866",
+  "author": "f573be199449",
+  "createdAt": "2026-10-09T16:26:04.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 10,
+  "matchedPhrases": [
+   "i would pay"
+  ]
+ },
+ {
+  "id": "hackernews:50022196",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: The Deeply Impersonal Personalized Recruiter Mail",
+  "body": "it was nice while it lasted. I guess my next step is a jev+cron to sort good from bad. Browser automation here we come. Someone want to write a Firefox extension that runs in your open browser tab? I would pay for this.",
+  "url": "https://news.ycombinator.com/item?id=50022196",
+  "author": "d61fa0b5ec41",
+  "createdAt": "2026-10-09T15:44:37.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 10,
+  "matchedPhrases": [
+   "i would pay"
+  ]
+ },
+ {
+  "id": "hackernews:50027214",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+  "body": "> I could imagine something _like_ that happen, but it would be a different kind of spectacle, where it is ensured that it projects ideas that _stabilize_ the current structure.\nPerhaps the government could hold a lottery for a spot on the firing squad. I’m sure there are plenty of loyal patriots that would be willing to pay* the $500 entry fee. The patriotic non-fake news media could do a human* interest story on the lucky winner, with before and after interviews and maybe a photo-op with SecWar.\n* payments to be made in Trump coin.\n* for some definition of “human”\n/s",
+  "url": "https://news.ycombinator.com/item?id=50027214",
+  "author": "1e15de1c83c2",
+  "createdAt": "2026-10-09T22:11:31.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 10,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:50025820",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Ideas aren't getting harder to find (2022)",
+  "body": "There's more than one guy selling hot dogs on the beach. Not joking. This is the most important realization I ever had.\nAnyway, on AI, lots of people just don't want to do all the QA and interaction to build the software. And those people are willing to pay to not have to.\nDesign custom hot dogs (software). That's my advice. It's working very well for me. People hire me for my in depth experience in certain fields (logistics, manufacturing, database stuff generally, chemistry). That they can spend time to learn and discuss it with an LLM doesn't change that one bit. I'm earning more than ever.\nPeople use my software because it's a little cheaper or a little better than some other similar software.\nThere's room for everyone. You don't need to be the only one in your industry.\nExpand the breadth of expertise you can offer. Just as has always been the case, people will rather pay you for it than learn it themselves.",
+  "url": "https://news.ycombinator.com/item?id=50025820",
+  "author": "275e463bb4f5",
+  "createdAt": "2026-10-09T19:54:39.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 20,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:50024559",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Yes, and",
+  "body": "They very well might when it's outside the core remit of the company. Companies do this all the time - outsource/subcontract work so they can focus on what they're good at.\nYes, they might be able to build software that works for (relatively) close to free now. But that still has marginal cost in terms of extra resource to build it. Then it needs to be maintained, upgraded to meet changing internal requirements, it needs to be secure, they need to be able to trust it does what it's supposed to.\nSure, the cost of all of that has come down, but it's still a lot of work when they could just entrust another company to do that for a cost they're willing to pay. And companies are often happy to pay a lot in B2B contracts.\nJust to reinforce this: look at the cost savings from cloud-exits - yet companies still readily build out in the cloud. FOSS has existed for decades, yet companies still pay for proprietary alternatives. Build vs buy exists on more dimensions than just cost alone.",
+  "url": "https://news.ycombinator.com/item?id=50024559",
+  "author": "1d10574b48b9",
+  "createdAt": "2026-10-09T18:15:05.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 20,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:50024439",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: Walmart exec speaks out on dynamic pricing again after watchdog calls out patent",
+  "body": "The seller will know who is willing to pay more I suppose and surcharge them. I wonder who their victims will be, people who have no clue?",
+  "url": "https://news.ycombinator.com/item?id=50024439",
+  "author": "a89370ecca2d",
+  "createdAt": "2026-10-09T18:06:11.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 20,
+  "matchedPhrases": [
+   "willing to pay"
+  ]
+ },
+ {
+  "id": "hackernews:50027388",
+  "source": "hackernews",
+  "kind": "demand",
+  "title": "Comment on: YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+  "body": "Someone should build OpenFlock which only tracks and makes public movement of city council members who voted for Flock cameras in their city. For empathy.",
+  "url": "https://news.ycombinator.com/item?id=50027388",
+  "author": "a4efc27bb1ee",
+  "createdAt": "2026-10-09T22:30:53.000Z",
+  "engagement": {},
+  "tags": [
+   "comment"
+  ],
+  "painScore": 15,
+  "matchedPhrases": [
+   "someone should build"
+  ]
+ },
+ {
+  "id": "hackernews:50024499",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+  "body": "Showing off carrier-explode, one of my side projects that continuously archives carrier settings for all major phone brands.\ncarrier-explode also contains decoders and explanations for all the common baseband configurations, etc.\nThere’s still quite a bit of work to be done in checking my assumptions, but the tool has already been proven useful for a few enthusiast groups.",
+  "url": "https://news.ycombinator.com/item?id=50024499",
+  "author": "0e4460178988",
+  "createdAt": "2026-10-09T18:10:55.000Z",
+  "engagement": {
+   "score": 346,
+   "comments": 42
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 62,
+  "matchedPhrases": []
+ },
+ {
+  "id": "hackernews:50024055",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: The rarest tech books and docs you've probably never read",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=50024055",
+  "author": "c20a5bf6ef89",
+  "createdAt": "2026-10-09T17:39:44.000Z",
+  "engagement": {
+   "score": 144,
+   "comments": 54
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 56,
+  "matchedPhrases": []
+ },
+ {
+  "id": "hackernews:50018817",
+  "source": "hackernews",
+  "kind": "launch",
+  "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+  "body": "",
+  "url": "https://news.ycombinator.com/item?id=50018817",
+  "author": "2e002ca9afcb",
+  "createdAt": "2026-10-09T11:03:48.000Z",
+  "engagement": {
+   "score": 400,
+   "comments": 180
+  },
+  "tags": [
+   "show_hn"
+  ],
+  "painScore": 63,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1410002762",
+  "source": "github",
+  "kind": "tool",
+  "title": "franzenzenhofer/big-arrow-on-the-screen — 542★",
+  "body": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
+  "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+  "author": "519321929773",
+  "createdAt": "2026-10-08T08:39:15Z",
+  "engagement": {
+   "stars": 542
+  },
+  "tags": [
+   "claude-code",
+   "Swift"
+  ],
+  "painScore": 65,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1391356062",
+  "source": "github",
+  "kind": "tool",
+  "title": "howseen-ai/claude-motion-design — 396★",
+  "body": "A Claude Code skill to make motion design videos in pure code: HTML + Playwright + ffmpeg. No After Effects, no Remotion license.",
+  "url": "https://github.com/howseen-ai/claude-motion-design",
+  "author": "ddb9f8ad6cfc",
+  "createdAt": "2026-09-27T19:59:11Z",
+  "engagement": {
+   "stars": 396
+  },
+  "tags": [
+   "claude-code",
+   "Python"
+  ],
+  "painScore": 63,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1401123204",
+  "source": "github",
+  "kind": "tool",
+  "title": "Harvil1/codeAgent — 219★",
+  "body": "CodeAgent is an open-source coding agent that lives in your terminal. It understands your repository, plans multi-step changes, writes and edits files, runs commands and tests, and iterates until the task is done — all with a transparent, extensible tool loop.",
+  "url": "https://github.com/Harvil1/codeAgent",
+  "author": "a6f47862c89f",
+  "createdAt": "2026-10-02T05:15:41Z",
+  "engagement": {
+   "stars": 219
+  },
+  "tags": [
+   "mcp",
+   "Python"
+  ],
+  "painScore": 59,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1402718011",
+  "source": "github",
+  "kind": "tool",
+  "title": "weike-zhang/architecture-canvas — 147★",
+  "body": "Chat with your documents to create and refine editable architecture diagrams. Local workspace, Excalidraw canvas, optional Tavily search.",
+  "url": "https://github.com/weike-zhang/architecture-canvas",
+  "author": "cf4dfda3306d",
+  "createdAt": "2026-10-03T05:40:51Z",
+  "engagement": {
+   "stars": 147
+  },
+  "tags": [
+   "mcp",
+   "Python"
+  ],
+  "painScore": 56,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1396682160",
+  "source": "github",
+  "kind": "tool",
+  "title": "MathiasDrizzy/lazymark — 74★",
+  "body": "Lazy markdown notes, tasks and a Kanban board in your terminal. With a sleepy sloth.",
+  "url": "https://github.com/MathiasDrizzy/lazymark",
+  "author": "e15cc07a51b2",
+  "createdAt": "2026-09-29T22:57:04Z",
+  "engagement": {
+   "stars": 74
+  },
+  "tags": [
+   "mcp",
+   "Go"
+  ],
+  "painScore": 51,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1409246014",
+  "source": "github",
+  "kind": "tool",
+  "title": "bherbruck/solvecraft — 70★",
+  "body": "An open-source, clean-room reimplementation of Autodesk Fusion 360 in pure Rust. Parametric 3D CAD for desktop, browser, and AI agents via MCP.",
+  "url": "https://github.com/bherbruck/solvecraft",
+  "author": "c15ccb073590",
+  "createdAt": "2026-10-07T18:57:48Z",
+  "engagement": {
+   "stars": 70
+  },
+  "tags": [
+   "mcp",
+   "Rust"
+  ],
+  "painScore": 51,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1411735173",
+  "source": "github",
+  "kind": "tool",
+  "title": "Zafer-Liu/mcd-event-radar — 68★",
+  "body": "麦当劳 MCP Agent Skill：查「附近有什么麦麦活动」，生成卡通活动地图——门店位置取自官方经纬度，只展示已核实可预约场次 🍟",
+  "url": "https://github.com/Zafer-Liu/mcd-event-radar",
+  "author": "0a65e8a4aa5d",
+  "createdAt": "2026-10-09T11:28:06Z",
+  "engagement": {
+   "stars": 68
+  },
+  "tags": [
+   "mcp",
+   "JavaScript"
+  ],
+  "painScore": 51,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:repo:1401538687",
+  "source": "github",
+  "kind": "launch",
+  "title": "xop01/ai_goodpractice — 182★",
+  "body": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
+  "url": "https://github.com/xop01/ai_goodpractice",
+  "author": "f2be7f81314a",
+  "createdAt": "2026-10-02T11:01:25Z",
+  "engagement": {
+   "stars": 182
+  },
+  "tags": [
+   "ai-agents"
+  ],
+  "painScore": 58,
+  "matchedPhrases": []
+ },
+ {
+  "id": "github:issue:5780932954",
+  "source": "github",
+  "kind": "demand",
+  "title": "[yt-dlp/yt-dlp] Deno runtime is being killed off, deprioritise Deno in `--js-runtimes` when support ends",
+  "body": "### Checklist\n\n- [x] I've read the [**NO AI / NO LLM POLICY**](https://github.com/yt-dlp/yt-dlp/blob/master/CONTRIBUTING.md#no-ai--no-llm-policy) and understand I may be blocked from the repository if it is violated\n- [x] I'm requesting a feature unrelated to a specific site\n- [x] I've looked through the [README](https://github.com/yt-dlp/yt-dlp#readme)\n- [x] I've verified that I have **updated yt-dlp to nightly or master** ([update instructions](https://github.com/yt-dlp/yt-dlp#update-channels))\n- [x] I've searched the [bugtracker](https://github.com/yt-dlp/yt-dlp/issues?q=is%3Aissue%20-label%3Aspam%20%20) for similar requests **including closed ones**. DO NOT post duplicates\n\n### Provide a description that is worded well enough to be understood\n\nHidden behind a post saying that they're joining Cloudflare, they announced that they're killing off the Deno runtime. Quote https://deno.com/blog/cloudflare:\n\n> We will support the [Deno runtime](https://github.com/denoland/deno) for another year with monthly releases containing bug fixes and security updates. After that year we will end our development of the Deno runtime. Deno will remain open source, and we welcome others who want to continue its development.\n\nIf their plan doesn't change and in a years time the support ends, the default option for `--js-runtimes` should be replaced with a different runtime; node, quickjs, or a new runtime (there might be one that gets forked out of Deno, but it could most likely become another…",
+  "url": "https://github.com/yt-dlp/yt-dlp/issues/17799",
+  "author": "615dcff8a7fc",
+  "createdAt": "2026-10-09T15:54:52Z",
+  "engagement": {
+   "score": 40,
+   "comments": 3
+  },
+  "tags": [
+   "enhancement",
+   "triage",
+   "ejs/jsc"
+  ],
+  "painScore": 20,
+  "matchedPhrases": []
+ },
+ {
+  "id": "stackexchange:softwarerecs:95677",
+  "source": "stackexchange",
+  "kind": "demand",
+  "title": "Web push notifications server",
+  "body": "Most modern browsers support web push notifications as well as the two big mobile OSes. I've a few services that currently use a chat service and a cli client to generically send notifications from various apps. I'd like something similar without being tied to a chat client.\n\nSo here's what I need\n\nSomething self hosted\nI need to be able to run this behind ngnix as a proxy ideally\nlanguage isn't important but I need instructions to run it. I can do docker if need be, but ideally something I can set up myself on whatever linux distribution I choose (I'll likely run this in a incus container with ubuntu)\nI need to be able to create accounts for one or more user\nI need to be able to create notifications that I can opt in per machine/notifications, and trigger them individually. A webUI to manage, and subscribe would be ideal\nI'd want to be able to trigger those notifications from another machine, with some kind of authentication, either via something like curl or a CLI I can run on the triggering machine\nI don't have the skills to write it myself, so something pre-existing and maintained ideally",
+  "url": "https://softwarerecs.stackexchange.com/questions/95677/web-push-notifications-server",
+  "author": "cc110e68f1b7",
+  "createdAt": "2026-10-10T07:42:03.000Z",
+  "engagement": {
+   "score": 0,
+   "comments": 0,
+   "views": 6
+  },
+  "tags": [
+   "softwarerecs",
+   "push-notifications"
+  ],
+  "painScore": 30,
+  "matchedPhrases": []
+ },
+ {
+  "id": "appstore:14639286123",
+  "source": "appstore",
+  "kind": "demand",
+  "title": "★☆☆☆☆ Jobber Field Service: Watch your time",
+  "body": "Jobber has a habit of messing up/losing time or clocking you out all together. It’s not constant, but it will lose you money if you don’t catch it and amend. Also they update it and tweak it far too much. Stop messing with and changing needless stuff. It has gotten easier to upload pictures. But do not mess with my money, yo. Also the jobber support blames you when it messes up, so then you have to explain to your employer and prove you’re up to date, fun stuff!",
+  "url": "https://apps.apple.com/us/app/id1014146758?see-all=reviews",
+  "author": "fcb83841cf2f",
+  "createdAt": "2026-10-07T19:08:14.000Z",
+  "engagement": {},
+  "tags": [
+   "Jobber Field Service",
+   "us",
+   "rating:1"
+  ],
+  "painScore": 35,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-078533",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "Borough of Telford & Wrekin: Cultural Host request",
+  "body": "Telford and Wrekin Council would like to establish a contract to provide and support the maintenance of a secure partner portal that allows organisations to upload and update information about their venues and upcoming events. This portal must be easily embedded on our SimpleView website - eliminating the need both for organisations to manage their information across multiple channels and for local destinations to maintain separate listings platforms.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/095862-2026",
+  "author": "c0ca687115ae",
+  "createdAt": "2026-10-09T18:02:53+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 20000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:tender",
+   "cpv:72212222"
+  ],
+  "painScore": 57,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-078519",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "Cotswold District Council: CotswoldsPlus Local Visitor Economy Data Platform to Include Support and Maintenance",
+  "body": "CotswoldsPlus Local Visitor Economy Partnership (LVEP) seeks a suitably qualified provider to deliver a data platform that provides an excellent overview of the performance of the regional visitor economy, that helps to establish regional measurement standards for visitor economy performance, and provides deep insights into visitor demographics, attitudes and behaviour, as well as economic trends within the visitor economy.\nThe platform will be designed to deliver on the following:\n1. Switching emphasis from driving visitor numbers to driving higher quality of engagement and volume of spend.\n2. Dispersal of visitors to reduce over-tourism in some LVEP destinations and growing visits in others.\nThe requirement is for the creation of a data platform that can:\n• Link to and ingest data from varied sources\n• Display live and ingested data in user-friendly ways\n• Allow for custom reporting\n• Produce useful insights from all data\n• Provide an access permission structure that facilitates easy administration across multiple partners and user groups\n• Be commercialised (e.g. paywalls to specific insights, or paid platform access), allowing the platform to continue beyond the scope of this three-year project.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/095815-2026",
+  "author": "0f259e900c67",
+  "createdAt": "2026-10-09T16:28:57+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 280000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:tender",
+   "cpv:72212600",
+   "cpv:72212610"
+  ],
+  "painScore": 62,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-078502",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "[early engagement] NETWORK RAIL INFRASTRUCTURE LIMITED: Employee Relations Case Management System",
+  "body": "Employee Relations Case Management System \nHigh Level Requirements: \n1. Knowledge Portal – containing all HR Policies where employees can obtain guidance and sign posting. \n2. Case Management System – A system to manage cases relating to ER topics that can be accessed via different means (PC, mobile etc) which securely stores all relevant case documentation, interview notes, and relating documentation required and follows the pre-determined case management process as detailed by Network Rail.",
+  "url": "https://www.find-tender.service.gov.uk/Notice/095779-2026",
+  "author": "b1824545fc09",
+  "createdAt": "2026-10-09T15:41:30+01:00",
+  "engagement": {},
+  "tags": [
+   "stage:planning",
+   "cpv:72268000",
+   "cpv:48000000"
+  ],
+  "painScore": 40,
+  "matchedPhrases": []
+ },
+ {
+  "id": "findatender:ocds-h6vhtk-0784ee",
+  "source": "findatender",
+  "kind": "tender",
+  "title": "[early engagement] West Yorkshire Fire and Rescue Authority: Online Assessment Tool",
+  "body": "West Yorkshire Fire and Rescue Service (WYFRS) is seeking information to understand the available solutions that support candidate assessment and selection as part of a wider recruitment and talent acquisition process. This may include but not limited to, online psychometric, behavioural and aptitude assessment tools that enable employers to evaluate candidates' potential, workplace behaviours, learning agility and suitability for specific roles.\nSuppliers who can provide the above are invited to email their expression of interest to tenders@westyorksfire.gov.uk by Monday 26th October, and if possible, provide the following information:\n• Main contact name, email, and phone number for follow-up communication.\n• Any frameworks you are currently associated with.\n• Link to your website including a link to any available demonstration\n• Any additional comments or feedback based on the information provided.\nPlease note that this request for information (RFI) is not a call for competition. At this time a procurement exercise has yet to be determined. Further confirmation will follow regarding the intention of WYFRS regarding this solution.\nWYFRS reserve the right to discuss requirements with any supplier beyond this initial notice before any competitive tender process is undertaken.\nWe also recommend that you register with the West Yorkshire Fire and Rescue Service's E-Procurement system, 'In-tend,' at the following link https://sell2.in-tend.co.uk/blpd/register . This will ensure…",
+  "url": "https://www.find-tender.service.gov.uk/Notice/095747-2026",
+  "author": "97541c2d1b06",
+  "createdAt": "2026-10-09T14:56:15+01:00",
+  "engagement": {},
+  "money": {
+   "amount": 60000,
+   "currency": "GBP"
+  },
+  "tags": [
+   "stage:planning",
+   "cpv:72000000"
+  ],
+  "painScore": 59,
+  "matchedPhrases": []
+ },
+ {
+  "id": "discourse:community.glideapps.com:87736",
+  "source": "discourse",
+  "kind": "demand",
+  "title": "\"App\" Visibility options",
+  "body": "**Hi everyone! I have a question about the App Visibility conditions in Glide, specifically the options for Title, Description, URL, and Icon.** I'm trying to solve a small issue in my Pokémon TCG store app and was wondering if these conditions could help me avoid duplicating screens. **Here's my setup:** I have a screen displaying all the cards I currently have for sale. When a user selects a card, it opens a detail screen showing all the information about that card. At the bottom of the detail screen, I have a Profile component displaying the artist's information, along with an action that opens a new screen showing the artist's profile and all the cards I have illustrated by them. **Here's where the problem starts:** When a user selects a card from that artist's collection, it opens the same detail screen used by my inventory. The artist's profile and the action to open their collection are still there, so the user can navigate back to the same artist's collection and repeat the process indefinitely. I could create a separate detail screen and duplicate the components from my inventory screen, but I'd prefer to avoid maintaining two versions of the same screen if possible. **Is there a way to use App Visibility conditions (Title, Description, URL, or Icon) to hide that action when a card is opened from an artist's collection? Or is there another way to prevent this navigation loop without duplicating the detail screen?** Sorry for my English, and thanks in advance for you…",
+  "url": "https://community.glideapps.com/t/app-visibility-options/87736",
+  "author": "ae5f2a2fca65",
+  "createdAt": "2026-10-10T10:07:25.357Z",
+  "engagement": {
+   "comments": 0,
+   "score": 0,
+   "views": 5
+  },
+  "tags": [
+   "Glide",
+   "prequalified"
+  ],
+  "painScore": 30,
+  "matchedPhrases": []
+ }
+]
